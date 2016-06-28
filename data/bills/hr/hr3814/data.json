@@ -1,0 +1,102 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-10-22", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-11-23", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Immigration and Border Security.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3814-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Immigration and Border Security", 
+      "subcommittee_id": "01"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-10-22", 
+  "number": "3814", 
+  "official_title": "To permit aliens seeking asylum to be eligible for employment in the United States and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1899-114", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Asylum Seeker Work Authorization Act of 2015", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Pingree, Chellie", 
+    "state": "ME", 
+    "thomas_id": "01927", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-10-22", 
+  "subjects": [
+    "Foreign labor", 
+    "Immigration", 
+    "Immigration status and procedures", 
+    "Refugees, asylum, displaced persons"
+  ], 
+  "subjects_top_term": "Immigration", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-10-22", 
+    "text": "Asylum Seeker Work Authorization Act of 2015\n\nThis bill amends the Immigration and Nationality Act to direct the Department of Homeland Security to authorize employment for an asylum applicant who is not in detention and whose asylum application has not been determined to be frivolous.\n\nEmployment authorization shall be: (1) for a period of one year, and (2) renewable for additional one-year periods for the entire period necessary to adjudicate the applicant's asylum claim."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Asylum Seeker Work Authorization Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To permit aliens seeking asylum to be eligible for employment in the United States and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:55:33-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3814:@@@L&summ2=m&"
+}

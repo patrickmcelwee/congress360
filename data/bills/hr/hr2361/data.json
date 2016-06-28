@@ -1,0 +1,154 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-05-15", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-06-01", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Economic Opportunity.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-06-02", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-06-25", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-06-25", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee by Voice Vote .", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2361-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR", 
+      "subcommittee": "Subcommittee on Economic Opportunity", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "3", 
+      "name": "Garamendi, John", 
+      "sponsored_at": "2015-05-26", 
+      "state": "CA", 
+      "thomas_id": "01973", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "52", 
+      "name": "Peters, Scott H.", 
+      "sponsored_at": "2015-07-08", 
+      "state": "CA", 
+      "thomas_id": "02113", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Wenstrup, Brad R.", 
+      "sponsored_at": "2015-05-15", 
+      "state": "OH", 
+      "thomas_id": "02152", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-06-02", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-05-15", 
+  "number": "2361", 
+  "official_title": "To amend title 38, United States Code, to extend the authority to provide work-study allowance for certain activities by individuals receiving educational assistance by the Secretary of Veterans Affairs.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Work-Study for Student Veterans Act", 
+  "sponsor": {
+    "district": "41", 
+    "name": "Takano, Mark", 
+    "state": "CA", 
+    "thomas_id": "02110", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-05-15", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Cemeteries and funerals", 
+    "Hospital care", 
+    "Long-term, rehabilitative, and terminal care", 
+    "Veterans' education, employment, rehabilitation", 
+    "Veterans' medical care"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-05-15", 
+    "text": "Work-Study for Student Veterans Act\n\nReauthorizes through June 30, 2020 (under current law, the authorization expires as of June 30, 2013) certain qualifying work-study activities for individuals receiving educational assistance through the Department of Veterans Affairs."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Work-Study for Student Veterans Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 38, United States Code, to extend the authority to provide work-study allowance for certain activities by individuals receiving educational assistance by the Secretary of Veterans Affairs.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:43:17-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2361:@@@L&summ2=m&"
+}

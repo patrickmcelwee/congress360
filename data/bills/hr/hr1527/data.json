@@ -1,0 +1,284 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-03-23", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-03-25T18:59:00-04:00", 
+      "references": [], 
+      "text": "Mr. Ryan (WI) moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-03-25T18:59:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2021-2023", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-03-25T18:59:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1527.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-03-25T19:08:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H2021-2022", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2015-03-25T19:08:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-03-26", 
+      "references": [], 
+      "text": "Received in the Senate, read twice.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-03-27", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR 3/26/2015 S2088", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2015-03-27", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-04-01", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2015-04-01", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2015-04-01", 
+      "congress": "114", 
+      "law": "public", 
+      "number": "7", 
+      "references": [], 
+      "text": "Became Public Law No: 114-7.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1527-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "14", 
+      "name": "Crowley, Joseph", 
+      "sponsored_at": "2015-03-25", 
+      "state": "NY", 
+      "thomas_id": "01604", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "King, Peter T.", 
+      "sponsored_at": "2015-03-23", 
+      "state": "NY", 
+      "thomas_id": "00635", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Meeks, Gregory W.", 
+      "sponsored_at": "2015-03-24", 
+      "state": "NY", 
+      "thomas_id": "01506", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Meng, Grace", 
+      "sponsored_at": "2015-03-24", 
+      "state": "NY", 
+      "thomas_id": "02148", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Pascrell, Bill, Jr.", 
+      "sponsored_at": "2015-03-25", 
+      "state": "NJ", 
+      "thomas_id": "01510", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Rangel, Charles B.", 
+      "sponsored_at": "2015-03-24", 
+      "state": "NY", 
+      "thomas_id": "00944", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Swalwell, Eric", 
+      "sponsored_at": "2015-03-24", 
+      "state": "CA", 
+      "thomas_id": "02104", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "114", 
+    "law_type": "public", 
+    "number": "7"
+  }, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-03-25T18:59:00-04:00", 
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2015-04-01", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2015-03-25T19:08:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2015-03-27", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-03-23", 
+  "number": "1527", 
+  "official_title": "To accelerate the income tax benefits for charitable cash contributions for the relief of the families of New York Police Department Detectives Wenjian Liu and Rafael Ramos, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr544-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s866-114", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Slain Officer Family Support Act of 2015", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Jeffries, Hakeem S.", 
+    "state": "NY", 
+    "thomas_id": "02149", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2015-04-01", 
+  "subjects": [
+    "Charitable contributions", 
+    "Crime victims", 
+    "Income tax deductions", 
+    "Income tax exclusion", 
+    "Law enforcement officers", 
+    "New York City", 
+    "Tax administration and collection, taxpayers", 
+    "Taxation", 
+    "Violent crime"
+  ], 
+  "subjects_top_term": "Taxation", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2015-04-01", 
+    "text": "(This measure has not been amended since it was introduced. The expanded summary of the House passed version is repeated here.)\n\nSlain Officer Family Support Act of 2015 \n\n(Sec. 2) This bill authorizes a charitable tax deduction for cash contributions made for the relief of the families of slain New York Police Department Detectives Wenjian Liu and Rafael Ramos even if such contributions are made for the exclusive benefit of such families. A taxpayer who makes such a contribution may claim a deduction in 2014 for contributions made between January 1, 2015, and April 15, 2015. The bill also provides that the recordkeeping requirements for the charitable tax deduction will be satisfied if the taxpayer produces a telephone bill showing the name of the organization to which a contribution was made with the date and amount of such contribution.\n\nThe bill also confirms that payments made on or after December 20, 2014, and on or before October 15, 2015, to the spouse or any dependents of\u00a0Detectives Wenjian Liu or Rafael Ramos by a tax-exempt organization shall\u00a0be treated as related to the purpose or function constituting the basis for such organization's\u00a0tax exemption, and\u00a0shall not be treated as inuring to the benefit of any private individual, if such payments are made in good faith using a reasonable and objective formula which is consistently applied."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Slain Officer Family Support Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Slain Officer Family Support Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "is_for_portion": false, 
+      "title": "Slain Officer Family Support Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": false, 
+      "title": "Slain Officer Family Support Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To accelerate the income tax benefits for charitable cash contributions for the relief of the families of New York Police Department Detectives Wenjian Liu and Rafael Ramos, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:36:12-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR1527:@@@L&summ2=m&"
+}

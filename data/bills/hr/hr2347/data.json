@@ -1,0 +1,258 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-05-15", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-05-15", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "text": "Referred to House Oversight and Government Reform", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-05-15", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "text": "Referred to House Ways and Means", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-10-09", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-10-09", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Unanimous Consent.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2016-01-05T20:36:00-05:00", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on Oversight and Government Reform. H. Rept. 114-386, Part I.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-01-05T20:37:00-05:00", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "text": "Committee on Ways and Means discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-01-05T20:37:00-05:00", 
+      "calendar": "Union", 
+      "number": "292", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 292.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2016-03-01T12:56:00-05:00", 
+      "references": [], 
+      "text": "Mr. Russell moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-03-01T12:56:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1057-1060", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-03-01T12:56:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 2347.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-03-01T13:03:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H1057-1059", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2016-03-01T13:03:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-03-02", 
+      "committees": [
+        "SSGA"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2347-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Oversight and Government Reform", 
+      "committee_id": "HSGO"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Homeland Security and Governmental Affairs", 
+      "committee_id": "SSGA"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "11", 
+      "name": "Connolly, Gerald E.", 
+      "sponsored_at": "2015-05-15", 
+      "state": "VA", 
+      "thomas_id": "01959", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Cooper, Jim", 
+      "sponsored_at": "2015-05-15", 
+      "state": "TN", 
+      "thomas_id": "00231", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Cummings, Elijah E.", 
+      "sponsored_at": "2015-05-15", 
+      "state": "MD", 
+      "thomas_id": "00256", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-10-09", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2016-03-01T13:03:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-05-15", 
+  "number": "2347", 
+  "official_title": "To amend the Federal Advisory Committee Act to increase the transparency of Federal advisory committees, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Federal Advisory Committee Act Amendments of 2016", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Clay, Wm. Lacy", 
+    "state": "MO", 
+    "thomas_id": "01654", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2016-03-01T13:03:00-05:00", 
+  "subjects": [
+    "Advisory bodies", 
+    "Congressional oversight", 
+    "Government ethics and transparency, public corruption", 
+    "Government information and archives", 
+    "Government operations and politics", 
+    "Government studies and investigations", 
+    "Political parties and affiliation"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2016-03-01", 
+    "text": "Federal Advisory Committee Act Amendments of 201 \n 6\n\nThis bill amends the Federal Advisory Committee Act (FACA) to modify and expand requirements for federal advisory committees. . A federal advisory committee is any term-limited committee, board, commission, council, conference, panel, task force, or similar group that dispenses objective advice and recommendations to officers and agencies of the executive branch.\n\n(Sec. 2) The bill requires that appointments to federal advisory committees be made without regard to political affiliation or political activity, unless required by federal statute. The head of a federal agency making an appointment to an advisory committee must give interested persons an opportunity to suggest potential committee members by including a request for comments in the Federal Register and providing a mechanism for interested persons to comment through the agency's official website. The agency must consider any comments submitted in making selections of advisory committee members.\n\nAny individual appointed to an advisory committee who is not a full-time or permanent part-time officer or employee of the federal government shall be designated as: (1) a special government employee if the individual is providing advice based on the individual's expertise or experience, or (2) a representative if representing the views of an entity outside of the federal government. An agency may not designate committee members as representatives to avoid making them subject to federal ethics rules and requirements.\n\nA designated ethics official of each agency shall review the designation of each member of an advisory committee to determine whether such member's designation is appropriate and may redesignate members if appropriate.\n\nAgency heads must ensure that the agency does not interfere with the free and independent participation, expression of views, and deliberation by advisory committee members.\n\n(Sec. 3) The bill deems an individual who is not a full-time or permanent part-time officer or employee of the federal government as a member of an advisory committee if such individual regularly attends and participates in committee meetings, even if such individual does not have the right to vote or veto the advice or recommendations of the committee. Subcommittees of advisory committees, advisory committees established under contract or other transactional authority, and committees that include members appointed as special government employees are deemed subject to FACA requirements.\n\n(Sec. 4) Agencies must make publicly available for each advisory committee: (1) the charter of the advisory committee; (2) the member appointment process; (3) a list of all current members, including designations as representatives or special government employees; (4) any recusal agreement made by a committee member to avoid a conflict of interest; (5) committee processes for making decisions; (6) detailed meeting minutes; and (7) notices of future committee meetings. This information must be placed on the agency's website and the website of the General Services Administration (GSA).\n\nAdvisory committees may not meet or take any action until an advisory committee charter has been filed with the GSA, the agency to which the committee reports, and specified congressional committees.\n\n(Sec. 5) The head of each federal agency that has an advisory committee must designate a senior agency official as the agency's Advisory Committee Management Officer. Such official shall be an expert in implementing the requirements of FACA and shall be the primary point of contact for the GSA.\n\n(Sec. 6) The Government Accountability Office shall review, and report on, compliance by agencies with FACA, as amended by this Act, including whether agencies are appropriately appointing advisory committee members as either special government employees or representatives.\n\n(Sec. 7) The bill amends the Trade Act of 1974 to expand exemptions from FACA requirements for trade advisory committees under such Act.\n\n(Sec. 8) The bill adopts, for purposes of FACA , the definition of \"special Government employee\" in the federal criminal code.\n\n(Sec. 10) The effective date of this bill is 30 days after its enactment.\n\n(Sec. 11) No additional funds shall be authorized to carry out the requirements in this bill."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Federal Advisory Committee Act Amendments of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Federal Advisory Committee Act Amendments of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Federal Advisory Committee Act Amendments of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Federal Advisory Committee Act to increase the transparency of Federal advisory committees, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:43:10-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2347:@@@L&summ2=m&"
+}

@@ -1,0 +1,756 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-07-28", 
+      "references": [
+        {
+          "reference": "CR H5531", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-28", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-07-31", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3235-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "2", 
+      "name": "Amodei, Mark E.", 
+      "sponsored_at": "2015-12-02", 
+      "state": "NV", 
+      "thomas_id": "02090", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Ashford, Brad", 
+      "sponsored_at": "2016-03-14", 
+      "state": "NE", 
+      "thomas_id": "02257", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "37", 
+      "name": "Bass, Karen", 
+      "sponsored_at": "2016-02-29", 
+      "state": "CA", 
+      "thomas_id": "01996", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Beyer, Donald S., Jr.", 
+      "sponsored_at": "2016-05-24", 
+      "state": "VA", 
+      "thomas_id": "02272", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Blumenauer, Earl", 
+      "sponsored_at": "2016-05-10", 
+      "state": "OR", 
+      "thomas_id": "00099", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Bonamici, Suzanne", 
+      "sponsored_at": "2016-04-12", 
+      "state": "OR", 
+      "thomas_id": "02092", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Brady, Robert A.", 
+      "sponsored_at": "2016-05-10", 
+      "state": "PA", 
+      "thomas_id": "01469", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Brown, Corrine", 
+      "sponsored_at": "2016-04-26", 
+      "state": "FL", 
+      "thomas_id": "00132", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "26", 
+      "name": "Brownley, Julia", 
+      "sponsored_at": "2016-05-25", 
+      "state": "CA", 
+      "thomas_id": "02106", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Bustos, Cheri", 
+      "sponsored_at": "2016-04-15", 
+      "state": "IL", 
+      "thomas_id": "02127", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Carson, Andre", 
+      "sponsored_at": "2016-04-13", 
+      "state": "IN", 
+      "thomas_id": "01889", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Cartwright, Matt", 
+      "sponsored_at": "2016-03-23", 
+      "state": "PA", 
+      "thomas_id": "02159", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Cohen, Steve", 
+      "sponsored_at": "2016-04-18", 
+      "state": "TN", 
+      "thomas_id": "01878", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Comstock, Barbara", 
+      "sponsored_at": "2016-05-17", 
+      "state": "VA", 
+      "thomas_id": "02273", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Connolly, Gerald E.", 
+      "sponsored_at": "2016-05-18", 
+      "state": "VA", 
+      "thomas_id": "01959", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Costello, Ryan A.", 
+      "sponsored_at": "2015-07-28", 
+      "state": "PA", 
+      "thomas_id": "02266", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Davis, Rodney", 
+      "sponsored_at": "2015-12-16", 
+      "state": "IL", 
+      "thomas_id": "02126", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "53", 
+      "name": "Davis, Susan A.", 
+      "sponsored_at": "2016-03-14", 
+      "state": "CA", 
+      "thomas_id": "01641", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "DeGette, Diana", 
+      "sponsored_at": "2016-06-13", 
+      "state": "CO", 
+      "thomas_id": "01479", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "DelBene, Suzan K.", 
+      "sponsored_at": "2016-04-12", 
+      "state": "WA", 
+      "thomas_id": "02096", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Dent, Charles W.", 
+      "sponsored_at": "2016-04-18", 
+      "state": "PA", 
+      "thomas_id": "01799", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Dold, Robert J.", 
+      "sponsored_at": "2016-02-12", 
+      "state": "IL", 
+      "thomas_id": "02013", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Ellison, Keith", 
+      "sponsored_at": "2016-06-16", 
+      "state": "MN", 
+      "thomas_id": "01857", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Ellmers, Renee L.", 
+      "sponsored_at": "2016-05-24", 
+      "state": "NC", 
+      "thomas_id": "02036", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Farr, Sam", 
+      "sponsored_at": "2016-03-03", 
+      "state": "CA", 
+      "thomas_id": "00368", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Fattah, Chaka", 
+      "sponsored_at": "2016-04-12", 
+      "state": "PA", 
+      "thomas_id": "00371", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Foster, Bill", 
+      "sponsored_at": "2016-05-10", 
+      "state": "IL", 
+      "thomas_id": "01888", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Graham, Gwen", 
+      "sponsored_at": "2016-06-13", 
+      "state": "FL", 
+      "thomas_id": "02234", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Grayson, Alan", 
+      "sponsored_at": "2016-02-25", 
+      "state": "FL", 
+      "thomas_id": "01914", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Grijalva, Raul M.", 
+      "sponsored_at": "2016-02-25", 
+      "state": "AZ", 
+      "thomas_id": "01708", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Guinta, Frank C.", 
+      "sponsored_at": "2015-12-18", 
+      "state": "NH", 
+      "thomas_id": "02038", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Hastings, Alcee L.", 
+      "sponsored_at": "2016-02-25", 
+      "state": "FL", 
+      "thomas_id": "00511", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Herrera Beutler, Jaime", 
+      "sponsored_at": "2015-10-26", 
+      "state": "WA", 
+      "thomas_id": "02071", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "26", 
+      "name": "Higgins, Brian", 
+      "sponsored_at": "2016-03-16", 
+      "state": "NY", 
+      "thomas_id": "01794", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Huffman, Jared", 
+      "sponsored_at": "2016-04-26", 
+      "state": "CA", 
+      "thomas_id": "02101", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Jenkins, Evan H.", 
+      "sponsored_at": "2016-04-12", 
+      "state": "WV", 
+      "thomas_id": "02278", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Keating, William R.", 
+      "sponsored_at": "2016-02-26", 
+      "state": "MA", 
+      "thomas_id": "02025", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Kennedy, Joseph P., III", 
+      "sponsored_at": "2016-02-26", 
+      "state": "MA", 
+      "thomas_id": "02172", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "King, Peter T.", 
+      "sponsored_at": "2016-05-18", 
+      "state": "NY", 
+      "thomas_id": "00635", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Kirkpatrick, Ann", 
+      "sponsored_at": "2016-03-14", 
+      "state": "AZ", 
+      "thomas_id": "01907", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "25", 
+      "name": "Knight, Stephen", 
+      "sponsored_at": "2016-05-18", 
+      "state": "CA", 
+      "thomas_id": "02228", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Langevin, James R.", 
+      "sponsored_at": "2016-02-11", 
+      "state": "RI", 
+      "thomas_id": "01668", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Larson, John B.", 
+      "sponsored_at": "2016-03-22", 
+      "state": "CT", 
+      "thomas_id": "01583", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Lee, Barbara", 
+      "sponsored_at": "2016-02-29", 
+      "state": "CA", 
+      "thomas_id": "01501", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "33", 
+      "name": "Lieu, Ted", 
+      "sponsored_at": "2016-02-25", 
+      "state": "CA", 
+      "thomas_id": "02230", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Lipinski, Daniel", 
+      "sponsored_at": "2016-04-15", 
+      "state": "IL", 
+      "thomas_id": "01781", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Loebsack, David", 
+      "sponsored_at": "2016-04-26", 
+      "state": "IA", 
+      "thomas_id": "01846", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Lynch, Stephen F.", 
+      "sponsored_at": "2015-10-21", 
+      "state": "MA", 
+      "thomas_id": "01686", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Matsui, Doris O.", 
+      "sponsored_at": "2016-03-14", 
+      "state": "CA", 
+      "thomas_id": "01814", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "McGovern, James P.", 
+      "sponsored_at": "2016-05-24", 
+      "state": "MA", 
+      "thomas_id": "01504", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Meehan, Patrick", 
+      "sponsored_at": "2016-06-08", 
+      "state": "PA", 
+      "thomas_id": "02052", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Meeks, Gregory W.", 
+      "sponsored_at": "2016-02-25", 
+      "state": "NY", 
+      "thomas_id": "01506", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Moore, Gwen", 
+      "sponsored_at": "2016-02-26", 
+      "state": "WI", 
+      "thomas_id": "01811", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Moulton, Seth", 
+      "sponsored_at": "2016-05-24", 
+      "state": "MA", 
+      "thomas_id": "02246", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Murphy, Tim", 
+      "sponsored_at": "2016-06-09", 
+      "state": "PA", 
+      "thomas_id": "01744", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Neal, Richard E.", 
+      "sponsored_at": "2016-05-17", 
+      "state": "MA", 
+      "thomas_id": "00854", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Norton, Eleanor Holmes", 
+      "sponsored_at": "2016-03-14", 
+      "state": "DC", 
+      "thomas_id": "00868", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Pocan, Mark", 
+      "sponsored_at": "2016-03-16", 
+      "state": "WI", 
+      "thomas_id": "02171", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Rice, Kathleen M.", 
+      "sponsored_at": "2016-01-05", 
+      "state": "NY", 
+      "thomas_id": "02262", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "27", 
+      "name": "Ros-Lehtinen, Ileana", 
+      "sponsored_at": "2016-06-08", 
+      "state": "FL", 
+      "thomas_id": "00985", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "40", 
+      "name": "Roybal-Allard, Lucille", 
+      "sponsored_at": "2015-10-21", 
+      "state": "CA", 
+      "thomas_id": "00997", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Ryan, Tim", 
+      "sponsored_at": "2016-02-26", 
+      "state": "OH", 
+      "thomas_id": "01756", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Schakowsky, Janice D.", 
+      "sponsored_at": "2016-05-24", 
+      "state": "IL", 
+      "thomas_id": "01588", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "25", 
+      "name": "Slaughter, Louise McIntosh", 
+      "sponsored_at": "2016-03-22", 
+      "state": "NY", 
+      "thomas_id": "01069", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Swalwell, Eric", 
+      "sponsored_at": "2016-04-12", 
+      "state": "CA", 
+      "thomas_id": "02104", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Takai, Mark", 
+      "sponsored_at": "2016-04-12", 
+      "state": "HI", 
+      "thomas_id": "02240", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "41", 
+      "name": "Takano, Mark", 
+      "sponsored_at": "2016-03-15", 
+      "state": "CA", 
+      "thomas_id": "02110", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Tsongas, Niki", 
+      "sponsored_at": "2016-02-26", 
+      "state": "MA", 
+      "thomas_id": "01884", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Walz, Timothy J.", 
+      "sponsored_at": "2016-03-22", 
+      "state": "MN", 
+      "thomas_id": "01856", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Watson Coleman, Bonnie", 
+      "sponsored_at": "2016-02-25", 
+      "state": "NJ", 
+      "thomas_id": "02259", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Young, Don", 
+      "sponsored_at": "2016-03-21", 
+      "state": "AK", 
+      "thomas_id": "01256", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-07-28", 
+  "number": "3235", 
+  "official_title": "To amend the Public Health Service Act to authorize the Secretary of Health and Human Services, acting through the Administrator of the Health Resources and Services Administration, to make grants to States for screening and treatment for maternal depression.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2311-114", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Bringing Postpartum Depression Out of the Shadows Act of 2015", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Clark, Katherine M.", 
+    "state": "MA", 
+    "thomas_id": "02196", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-07-28", 
+  "subjects": [
+    "Child health", 
+    "Health", 
+    "Health programs administration and funding", 
+    "Health promotion and preventive care", 
+    "Medical tests and diagnostic methods", 
+    "Mental health", 
+    "Women's health"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-07-28", 
+    "text": "Bringing Postpartum Depression Out of the Shadows Act of 2015\n\nThis bill amends the Public Health Service Act to authorize the Health Resources and Services Administration (HRSA) to make grants to states to establish, expand, or maintain culturally competent programs for screening and treatment of women who are pregnant, or who have given birth within the preceding 12 months, for maternal depression. The HRSA shall make such grants to at least three states and give priority to states proposing to expand or enhance screening for maternal depression in primary care settings.\n\nActivities eligible for funding: (1) shall include providing appropriate training and relevant resources, including information on maternal depression screening, treatment, follow-up support, and linkages to community-based resources, to health care providers; and (2) may include enabling health care providers to provide or receive real-time psychiatric consultation to aid in the treatment of pregnant and postpartum women, conducting a public awareness campaign, funding start-up costs, and establishing linkages with and among community-based resources."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Bringing Postpartum Depression Out of the Shadows Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Public Health Service Act to authorize the Secretary of Health and Human Services, acting through the Administrator of the Health Resources and Services Administration, to make grants to States for screening and treatment for maternal depression.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:50:43-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3235:@@@L&summ2=m&"
+}

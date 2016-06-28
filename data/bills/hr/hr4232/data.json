@@ -1,0 +1,107 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-12-10", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-12-11", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Energy and Power.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4232-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Energy and Power", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-12-10", 
+  "number": "4232", 
+  "official_title": "To amend the Public Utility Regulatory Policies Act of 1978 to provide for the consideration by State regulatory authorities and nonregulated electric utilities of whether subsidies should be provided for the deployment, construction, maintenance, or operation of a customer-side technology.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr8-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s2384-114", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Ratepayer Fairness Act of 2015", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Pompeo, Mike", 
+    "state": "KS", 
+    "thomas_id": "02022", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-12-10", 
+  "subjects": [
+    "Electric power generation and transmission", 
+    "Energy", 
+    "Public utilities and utility rates", 
+    "State and local government operations"
+  ], 
+  "subjects_top_term": "Energy", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-12-10", 
+    "text": "Ratepayer Fairness Act of 2015 \n\nThis bill amends the Public Utility Regulatory Policies Act of 1978 (PURPA) to require a state regulatory authority and a nonregulated electric utility (entities), to the extent that they allow electric utility rates to include charges that subsidize customer-side technology, to consider whether that subsidy would:\n\n result in benefits predominately enjoyed by only the users of the customer-side technology; shift costs of a customer-side technology to electricity consumers that do not use it, particularly in cases in which disparate economic or resource conditions exist among the electricity consumers cross-subsidizing the customer-side technology; negatively affect resource utilization, fuel diversity, grid reliability, or grid security; give any unfair competitive advantage to market the customer-side technology, including an analysis of whether a state regulatory authority has uncovered fraudulent customer-side technology marketing practices; and be necessary to fulfill an obligation to serve electric consumers. The bill sets deadlines within which the entities must set a hearing date to consider and subsequently determine the subsidization of customer-side technology."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Ratepayer Fairness Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Public Utility Regulatory Policies Act of 1978 to provide for the consideration by State regulatory authorities and nonregulated electric utilities of whether subsidies should be provided for the deployment, construction, maintenance, or operation of a customer-side technology.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:59:03-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4232:@@@L&summ2=m&"
+}

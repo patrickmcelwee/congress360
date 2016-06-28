@@ -1,0 +1,112 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-03-13", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-03-20", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1361-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "2", 
+      "name": "Mullin, Markwayne", 
+      "sponsored_at": "2016-06-22", 
+      "state": "OK", 
+      "thomas_id": "02156", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-03-13", 
+  "number": "1361", 
+  "official_title": "To amend title XIX of the Social Security Act to eliminate the State option to reduce the home equity exemption amount for purposes of eligibility for long-term care assistance under Medicaid, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Medicaid HOME Improvement Act", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Guthrie, Brett", 
+    "state": "KY", 
+    "thomas_id": "01922", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-03-13", 
+  "subjects": [
+    "Health", 
+    "Housing finance and home ownership", 
+    "Long-term, rehabilitative, and terminal care", 
+    "Medicaid"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-03-13", 
+    "text": "Medicaid Home Owner Maximum Equity Improvement Act or the Medicaid HOME Improvement Act\n\nThis bill amends title XIX (Medicaid) of the Social Security Act with respect to the denial of an individual's eligibility for nursing facility services or other long-term care services if the individual's equity interest in his or her home exceeds $500,000.\n\nThe state option to increase such threshold amount to $750,000 is eliminated."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Medicaid HOME Improvement Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Medicaid Home Owner Maximum Equity Improvement Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title XIX of the Social Security Act to eliminate the State option to reduce the home equity exemption amount for purposes of eligibility for long-term care assistance under Medicaid, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:34:47-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR1361:@@@L&summ2=m&"
+}

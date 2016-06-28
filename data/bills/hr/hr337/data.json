@@ -1,0 +1,97 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-01-13", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Transportation and Infrastructure.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-01-14", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Coast Guard and Maritime Transportation.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr337-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Coast Guard and Maritime Transportation", 
+      "subcommittee_id": "07"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-01-13", 
+  "number": "337", 
+  "official_title": "To provide limitations on maritime liens on fishing permits, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Maritime Lien Reform Act", 
+  "sponsor": {
+    "district": null, 
+    "name": "Young, Don", 
+    "state": "AK", 
+    "thomas_id": "01256", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-01-13", 
+  "subjects": [
+    "Civil actions and liability", 
+    "Licensing and registrations", 
+    "Marine and coastal resources, fisheries", 
+    "Marine and inland water transportation", 
+    "Transportation and public works"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-01-13", 
+    "text": "Maritime Lien Reform Act\n\nThis bill revises federal shipping laws governing maritime liability to prohibit: (1) maritime liens (liens on vessels) from being imposed on state or federal fishing permits, or (2) civil actions to enforce maritime liens on the permits. A fishing permit is not considered to be part of a vessel, so it does not pass with a vessel upon the vessel's sale or transfer."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Maritime Lien Reform Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide limitations on maritime liens on fishing permits, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:26:02-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR337:@@@L&summ2=m&"
+}

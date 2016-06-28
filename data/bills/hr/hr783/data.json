@@ -1,0 +1,110 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-02-05", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-02-06", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr783-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "18", 
+      "name": "Jackson Lee, Sheila", 
+      "sponsored_at": "2015-02-05", 
+      "state": "TX", 
+      "thomas_id": "00588", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-02-05", 
+  "number": "783", 
+  "official_title": "To address the urgent need for a Federal strategy to ensure that individuals who encounter minors at risk of female genital mutilation are fully prepared to take action to prevent the practice, and individuals who have been subjected to female genital mutilation can seek necessary services, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Zero Tolerance for FGM Act of 2015", 
+  "sponsor": {
+    "district": "14", 
+    "name": "Crowley, Joseph", 
+    "state": "NY", 
+    "thomas_id": "01604", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-02-05", 
+  "subjects": [
+    "Child health", 
+    "Congressional oversight", 
+    "Health", 
+    "Health information and medical records", 
+    "Sex and reproductive health", 
+    "Sex, gender, sexual orientation discrimination", 
+    "Women's health", 
+    "Women's rights"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-02-05", 
+    "text": "Zero Tolerance for FGM Act of 2015\n\nThis bill requires the Department of Health and Human Services to report on the development and implementation of a strategy that:\n\n ensures individuals who encounter minors at risk of female genital mutilation (FGM) are fully prepared to take action to prevent the practice; ensures individuals subjected to FGM can seek necessary services; provides for updating Centers for Disease Control and Prevention estimates of the prevalence of FGM or female circumcision; and provides for a public awareness campaign, so that the public understands how to help individuals at risk of FGM and address the needs of individuals subjected to FGM."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Zero Tolerance for FGM Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To address the urgent need for a Federal strategy to ensure that individuals who encounter minors at risk of female genital mutilation are fully prepared to take action to prevent the practice, and individuals who have been subjected to female genital mutilation can seek necessary services, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:29:49-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR783:@@@L&summ2=m&"
+}

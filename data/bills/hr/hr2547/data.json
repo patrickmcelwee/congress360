@@ -1,0 +1,100 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-05-21", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-05-22", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2547-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-05-21", 
+  "number": "2547", 
+  "official_title": "To amend the Federal Food, Drug, and Cosmetic Act to provide for the development of accelerated approval development plans for investigational drugs and biological products.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr6-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Surrogate Endpoint Improvement and Utilization Act of 2015", 
+  "sponsor": {
+    "district": "5", 
+    "name": "McMorris Rodgers, Cathy", 
+    "state": "WA", 
+    "thomas_id": "01809", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-05-21", 
+  "subjects": [
+    "Drug safety, medical device, and laboratory regulation", 
+    "Health"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-05-21", 
+    "text": "Surrogate Endpoint Improvement and Utilization Act of 2015\n\nThis bill amends the Federal Food, Drug, and Cosmetic Act to allow the sponsor of a drug that is eligible for accelerated approval to request that the Food and Drug Administration (FDA) agree to an accelerated approval development plan that includes a surrogate endpoint for the study of the drug and a magnitude of drug effect that is sufficient to claim the drug is effective. (Accelerated approval is an FDA process for approving a new drug for a serious medical condition at a point in the study of the drug that is reasonably likely to predict a clinical benefit instead of at a later point when a clinical benefit can be confirmed.)\n\nThe FDA may require the sponsor to modify or terminate an agreed upon plan if additional information indicates that the plan is no longer sufficient to demonstrate the safety and effectiveness of the drug or the drug is no longer eligible for accelerated approval."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Surrogate Endpoint Improvement and Utilization Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Federal Food, Drug, and Cosmetic Act to provide for the development of accelerated approval development plans for investigational drugs and biological products.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:44:50-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2547:@@@L&summ2=m&"
+}

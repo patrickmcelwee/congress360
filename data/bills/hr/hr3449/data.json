@@ -1,0 +1,117 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-09-08", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-09-09", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Immigration and Border Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-09-16", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Subcommittee on Immigration and Border Security Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-17", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-17", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3449-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Immigration and Border Security", 
+      "subcommittee_id": "01"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-09-16", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-09-08", 
+  "number": "3449", 
+  "official_title": "To amend the Immigration and Nationality Act to extend honorary citizenship to otherwise qualified noncitizens who enlisted in the Philippines and died while serving on active duty with the United States Armed Forces during certain periods of hostilities, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "3", 
+    "name": "Jones, Walter B., Jr.", 
+    "state": "NC", 
+    "thomas_id": "00612", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2015-09-17", 
+  "subjects": [
+    "Asia", 
+    "Citizenship and naturalization", 
+    "Conflicts and wars", 
+    "Immigration", 
+    "Military personnel and dependents", 
+    "Philippines"
+  ], 
+  "subjects_top_term": "Immigration", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-09-08", 
+    "text": "This bill amends the Immigration and Nationality Act to extend posthumous citizenship to an otherwise qualified noncitizen who enlisted, reenlisted, extended enlistment, or was inducted into the U.S. Armed Forces in the Philippines and died as a result of such active duty service during the period September 1, 1939-December 31, 1946.\n\nThe executive department under which a person served shall determine whether the person satisfied the requirements for posthumous citizenship.\n\nSpecified naturalization and other posthumous benefit provisions shall not apply to the surviving spouse, child, or parent of such a person."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Immigration and Nationality Act to extend honorary citizenship to otherwise qualified noncitizens who enlisted in the Philippines and died while serving on active duty with the United States Armed Forces during certain periods of hostilities, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:52:31-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3449:@@@L&summ2=m&"
+}

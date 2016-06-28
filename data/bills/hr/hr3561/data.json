@@ -1,0 +1,103 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-09-18", 
+      "references": [
+        {
+          "reference": "CR E1322", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-18", 
+      "committees": [
+        "HSED"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Education and the Workforce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-03-23", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Higher Education and Workforce Training.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3561-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED", 
+      "subcommittee": "Subcommittee on Higher Education and Workforce Training", 
+      "subcommittee_id": "13"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-09-18", 
+  "number": "3561", 
+  "official_title": "To amend the section 484(r) of the Higher Education Act of 1965 to exclude certain marijuana-related offenses from the drug-related offenses that result in students being barred from receiving Federal educational loans, grants, and work assistance, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Fair Access to Education Act of 2015", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Blumenauer, Earl", 
+    "state": "OR", 
+    "thomas_id": "00099", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-09-18", 
+  "subjects": [
+    "Drug trafficking and controlled substances", 
+    "Education", 
+    "Higher education", 
+    "Student aid and college costs"
+  ], 
+  "subjects_top_term": "Education", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Fair Access to Education Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the section 484(r) of the Higher Education Act of 1965 to exclude certain marijuana-related offenses from the drug-related offenses that result in students being barred from receiving Federal educational loans, grants, and work assistance, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:53:27-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3561:@@@L&summ2=m&"
+}

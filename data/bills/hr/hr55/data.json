@@ -1,0 +1,109 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-01-06", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Intelligence (Permanent Select).", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr55-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Intelligence (Permanent Select)", 
+      "committee_id": "HLIG"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "13", 
+      "name": "Lee, Barbara", 
+      "sponsored_at": "2015-02-27", 
+      "state": "CA", 
+      "thomas_id": "01501", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Rangel, Charles B.", 
+      "sponsored_at": "2015-02-27", 
+      "state": "NY", 
+      "thomas_id": "00944", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-01-06", 
+  "number": "55", 
+  "official_title": "To require the Director of National Intelligence to conduct a study on the use of contractors for intelligence activities, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr65-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "RAINC Act", 
+  "sponsor": {
+    "district": "18", 
+    "name": "Jackson Lee, Sheila", 
+    "state": "TX", 
+    "thomas_id": "00588", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-01-06", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Congressional oversight", 
+    "Government studies and investigations", 
+    "Intelligence activities, surveillance, classified information", 
+    "Public contracts and procurement"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-01-06", 
+    "text": "Rightsizing Activities of Intelligence Non-Governmental Contractors Act of 2015 or the RAINC Act\n\nRequires the Director of National Intelligence: (1) to study the extent to which contractors are used in the conduct of intelligence activities and the type of information to which such contractors have access; (2) by December 31, 2015, to submit a report containing the results of the study and a plan for reducing the number of intelligence community contractors with top secret security clearances that are engaged in intelligence activities, including analysis, by 25%; and (3) by December 31, 2016, to make such reduction."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "RAINC Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Rightsizing Activities of Intelligence Non-Governmental Contractors Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require the Director of National Intelligence to conduct a study on the use of contractors for intelligence activities, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:23:41-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR55:@@@L&summ2=m&"
+}

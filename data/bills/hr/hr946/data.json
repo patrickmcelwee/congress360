@@ -1,0 +1,108 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-02-12", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Transportation and Infrastructure.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-02-13", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr946-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Railroads, Pipelines, and Hazardous Materials", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "7", 
+      "name": "Peterson, Collin C.", 
+      "sponsored_at": "2015-02-12", 
+      "state": "MN", 
+      "thomas_id": "00910", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-02-12", 
+  "number": "946", 
+  "official_title": "To make loans and loan guarantees under section 502 of the Railroad Revitalization and Regulatory Reform Act of 1976 available for implementing positive train control systems, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Commuter Rail Passenger Safety Act", 
+  "sponsor": {
+    "district": "18", 
+    "name": "Maloney, Sean Patrick", 
+    "state": "NY", 
+    "thomas_id": "02150", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-02-12", 
+  "subjects": [
+    "Advanced technology and technological innovations", 
+    "Government lending and loan guarantees", 
+    "Railroads", 
+    "Transportation and public works", 
+    "Transportation programs funding", 
+    "Transportation safety and security"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-02-12", 
+    "text": "Commuter Rail Passenger Safety Act \n\n Amends the Railroad Revitalization and Regulatory Reform Act of 1976 to make the installing of positive train control systems eligible for railroad rehabilitation and improvement direct loans and loan guarantees.\n\nExtends the railroad safety technology grants program for FY2016-FY2020."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Commuter Rail Passenger Safety Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To make loans and loan guarantees under section 502 of the Railroad Revitalization and Regulatory Reform Act of 1976 available for implementing positive train control systems, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:31:10-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR946:@@@L&summ2=m&"
+}

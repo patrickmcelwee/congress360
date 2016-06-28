@@ -1,0 +1,143 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-04-23", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-04-24", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Communications and Technology.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2024-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Communications and Technology", 
+      "subcommittee_id": "16"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "9", 
+      "name": "Grayson, Alan", 
+      "sponsored_at": "2015-04-23", 
+      "state": "FL", 
+      "thomas_id": "01914", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Jackson Lee, Sheila", 
+      "sponsored_at": "2015-04-23", 
+      "state": "TX", 
+      "thomas_id": "00588", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Langevin, James R.", 
+      "sponsored_at": "2015-04-27", 
+      "state": "RI", 
+      "thomas_id": "01668", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "51", 
+      "name": "Vargas, Juan", 
+      "sponsored_at": "2015-04-23", 
+      "state": "CA", 
+      "thomas_id": "02112", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-04-23", 
+  "number": "2024", 
+  "official_title": "To require mobile service providers and smartphone manufacturers to give consumers the ability to remotely delete data from smartphones and render smartphones inoperable.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1076-114", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Smartphone Theft Prevention Act of 2015", 
+  "sponsor": {
+    "district": "15", 
+    "name": "Serrano, Jose E.", 
+    "state": "NY", 
+    "thomas_id": "01042", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-04-23", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Computer security and identity theft", 
+    "Consumer affairs", 
+    "Crimes against property", 
+    "Federal Communications Commission (FCC)", 
+    "Science, technology, communications", 
+    "Telephone and wireless communication", 
+    "Trade restrictions"
+  ], 
+  "subjects_top_term": "Science, technology, communications", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-04-23", 
+    "text": "Smartphone Theft Prevention Act of 2015\n\nAmends the Communications Act of 1934 to require commercial mobile service providers to make available on smartphones, in coordination with smartphone manufacturers and operating system providers, a function that an account holder may use remotely to: (1) delete or render inaccessible all information on the smartphone relating to the account holder, (2) render the smartphone inoperable on the global networks of such service providers, (3) prevent reactivation or reprogramming without a passcode or similar authorization after the smartphone has been rendered inoperable or has been subject to an unauthorized factory reset, and (4) restore personal information from the smartphone onto a compatible or interoperable device.\n\nRequires service providers to ensure that smartphones: (1) prompt the account holder to enable such functions during the initial setup process, and (2) allow only the account holder to opt out.\n\nProhibits a smartphone from being manufactured in the United States or imported into the United States for sale or resale to the public, unless the smartphone is configured in such a manner that a service provider may comply with such functionality requirements.\n\nProhibits service providers from charging a fee for making available such functions, the initial prompt, and the ability to opt out.\n\nDirects the Federal Communications Commission (FCC) to establish a common national framework for smartphone anti-theft measures to protect consumers.\n\nRequires the FCC to determine whether this Act should apply to tablets with commercial mobile services."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Smartphone Theft Prevention Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require mobile service providers and smartphone manufacturers to give consumers the ability to remotely delete data from smartphones and render smartphones inoperable.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:40:27-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2024:@@@L&summ2=m&"
+}

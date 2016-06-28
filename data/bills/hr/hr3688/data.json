@@ -1,0 +1,117 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-10-06", 
+      "committees": [
+        "HSFA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Foreign Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-02-12", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on the Western Hemisphere.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3688-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Foreign Affairs", 
+      "committee_id": "HSFA"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Foreign Affairs", 
+      "committee_id": "HSFA", 
+      "subcommittee": "Subcommittee on Western Hemisphere", 
+      "subcommittee_id": "07"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "20", 
+      "name": "Castro, Joaquin", 
+      "sponsored_at": "2016-04-14", 
+      "state": "TX", 
+      "thomas_id": "02163", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Poe, Ted", 
+      "sponsored_at": "2016-04-20", 
+      "state": "TX", 
+      "thomas_id": "01802", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-10-06", 
+  "number": "3688", 
+  "official_title": "To provide for the authority for the successors and assigns of the Starr-Camargo Bridge Company to maintain and operate a toll bridge across the Rio Grande near Rio Grande City, Texas, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2143-114", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "28", 
+    "name": "Cuellar, Henry", 
+    "state": "TX", 
+    "thomas_id": "01807", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-10-06", 
+  "subjects": [
+    "Latin America", 
+    "Mexico", 
+    "Public contracts and procurement", 
+    "Roads and highways", 
+    "Texas", 
+    "Transportation and public works"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-10-06", 
+    "text": "This bill modifies the existing authority for the Starr-Camargo Bridge Company to maintain and operate a toll bridge across the Rio Grande River near Rio Grande City, Texas.\n\nThe authority, which currently expires 66 years after completion of the bridge, is made permanent and expanded to include the successors or assigns of the company. The bridge must not consist of more than 14 lanes.\n\nThe company and its successors and assigns may use eminent domain to acquire certain land needed for the bridge, subject to Texas laws and requirements for just compensation and public proceedings."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide for the authority for the successors and assigns of the Starr-Camargo Bridge Company to maintain and operate a toll bridge across the Rio Grande near Rio Grande City, Texas, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:54:30-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3688:@@@L&summ2=m&"
+}

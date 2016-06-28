@@ -1,0 +1,127 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-01-08", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Oversight and Government Reform.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-01-12", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-01-12", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by the Yeas and Nays: 21 - 16.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2016-04-12T17:20:00-04:00", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on Oversight and Government Reform. H. Rept. 114-485.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-12T17:20:00-04:00", 
+      "calendar": "Union", 
+      "number": "369", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 369.", 
+      "type": "calendar", 
+      "under": null
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4358-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Oversight and Government Reform", 
+      "committee_id": "HSGO"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2016-01-12", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-01-08", 
+  "number": "4358", 
+  "official_title": "To amend title 5, United States Code, to enhance accountability within the Senior Executive Service, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Senior Executive Service Accountability Act", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Walberg, Tim", 
+    "state": "MI", 
+    "thomas_id": "01855", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2016-01-12", 
+  "subjects": [
+    "Administrative remedies", 
+    "Employee leave", 
+    "Employee performance", 
+    "Federal officials", 
+    "Government employee pay, benefits, personnel management", 
+    "Government ethics and transparency, public corruption", 
+    "Government information and archives", 
+    "Government operations and politics", 
+    "Performance measurement"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": {
+    "as": "Reported to House without amendment", 
+    "date": "2016-04-12", 
+    "text": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)\n\nSenior Executive Service Accountability Act \n\n(Sec. 2) This bill revises personnel requirements for employees in the Senior Executive Service (SES) to:\n\n require each federal agency to include in its biennial report to the Office of Personnel Management a justification for certain SES positions and the specific result expected from each position, including the impact of such result on the agency mission; extend the probationary period for SES employees from one year to two years; eliminate the authority for allowing an SES employee removed for a less than fully successful executive performance to retain an SES pay grade level if appointed to a civil service position; require a written description of employee performance requirements to be provided to SES employees by 30 calendar days before each rating period; make SES employees subject to the same 14-day (or less) suspension period, without duties and pay, as is applicable to other federal employees; expand the grounds for suspension or termination of an SES employee to include such cause as would promote the efficiency of the SES; allow an agency to place an SES employee on mandatory leave for misconduct, neglect of duty, malfeasance, or such cause as would promote the efficiency of the SES; provide for expedited removal of SES employees for performance or misconduct and for an expedited appeals process for removals; and require mandatory reassignments of SES employees at least once every five years."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Senior Executive Service Accountability Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Senior Executive Service Accountability Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 5, United States Code, to enhance accountability within the Senior Executive Service, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:00:06-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4358:@@@L&summ2=m&"
+}

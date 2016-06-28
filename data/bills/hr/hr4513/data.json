@@ -1,0 +1,157 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-02-09", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-02-10", 
+      "references": [
+        {
+          "reference": "CR H655-656", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-03-07", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4513-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "27", 
+      "name": "Collins, Chris", 
+      "sponsored_at": "2016-03-14", 
+      "state": "NY", 
+      "thomas_id": "02151", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Gibson, Christopher P.", 
+      "sponsored_at": "2016-02-11", 
+      "state": "NY", 
+      "thomas_id": "02043", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Israel, Steve", 
+      "sponsored_at": "2016-02-11", 
+      "state": "NY", 
+      "thomas_id": "01663", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "King, Peter T.", 
+      "sponsored_at": "2016-02-11", 
+      "state": "NY", 
+      "thomas_id": "00635", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Rice, Kathleen M.", 
+      "sponsored_at": "2016-02-09", 
+      "state": "NY", 
+      "thomas_id": "02262", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Rooney, Thomas J.", 
+      "sponsored_at": "2016-05-13", 
+      "state": "FL", 
+      "thomas_id": "01916", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-02-09", 
+  "number": "4513", 
+  "official_title": "To authorize the Secretary of Veterans Affairs to make grants to State and local entities to carry out peer-to-peer mental health programs.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "1", 
+    "name": "Zeldin, Lee M.", 
+    "state": "NY", 
+    "thomas_id": "02261", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-02-09", 
+  "subjects": [
+    "Advisory bodies", 
+    "Armed forces and national security", 
+    "Health programs administration and funding", 
+    "Mental health", 
+    "Veterans' medical care"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2016-02-09", 
+    "text": "This bill authorizes the Department of Veterans Affairs (VA) to establish the PFC Joseph P. Dwyer Veteran Peer Support program to make grants to eligible entities for peer-to-peer mental health programs for veterans.\n\n\"Eligible entity\" means: (1) a nonprofit organization having historically served the mental health needs of veterans; (2) a congressionally chartered veteran service organization; or (3) a state, local, or tribal veteran service agency, director, or commissioner.\n\nThe VA shall establish an advisory committee to create appropriate program standards."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To authorize the Secretary of Veterans Affairs to make grants to State and local entities to carry out peer-to-peer mental health programs.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:01:24-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4513:@@@L&summ2=m&"
+}

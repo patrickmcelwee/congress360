@@ -1,0 +1,632 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-02-26", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-03-07", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4640-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "5", 
+      "name": "Abraham, Ralph Lee", 
+      "sponsored_at": "2016-02-26", 
+      "state": "LA", 
+      "thomas_id": "02244", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Bishop, Sanford D., Jr.", 
+      "sponsored_at": "2016-04-12", 
+      "state": "GA", 
+      "thomas_id": "00091", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Brat, Dave", 
+      "sponsored_at": "2016-04-12", 
+      "state": "VA", 
+      "thomas_id": "02203", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Byrne, Bradley", 
+      "sponsored_at": "2016-04-14", 
+      "state": "AL", 
+      "thomas_id": "02197", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "29", 
+      "name": "Cardenas, Tony", 
+      "sponsored_at": "2016-06-07", 
+      "state": "CA", 
+      "thomas_id": "02107", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Carter, Earl L. \"Buddy\"", 
+      "sponsored_at": "2016-06-10", 
+      "state": "GA", 
+      "thomas_id": "02236", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Coffman, Mike", 
+      "sponsored_at": "2016-03-14", 
+      "state": "CO", 
+      "thomas_id": "01912", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Cohen, Steve", 
+      "sponsored_at": "2016-06-21", 
+      "state": "TN", 
+      "thomas_id": "01878", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Cole, Tom", 
+      "sponsored_at": "2016-05-16", 
+      "state": "OK", 
+      "thomas_id": "01742", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Conyers, John, Jr.", 
+      "sponsored_at": "2016-04-19", 
+      "state": "MI", 
+      "thomas_id": "00229", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Cramer, Kevin", 
+      "sponsored_at": "2016-06-07", 
+      "state": "ND", 
+      "thomas_id": "02144", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "DeLauro, Rosa L.", 
+      "sponsored_at": "2016-04-19", 
+      "state": "CT", 
+      "thomas_id": "00281", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "DeSaulnier, Mark", 
+      "sponsored_at": "2016-04-15", 
+      "state": "CA", 
+      "thomas_id": "02227", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Dingell, Debbie", 
+      "sponsored_at": "2016-05-10", 
+      "state": "MI", 
+      "thomas_id": "02251", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Dold, Robert J.", 
+      "sponsored_at": "2016-04-18", 
+      "state": "IL", 
+      "thomas_id": "02013", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Duckworth, Tammy", 
+      "sponsored_at": "2016-06-10", 
+      "state": "IL", 
+      "thomas_id": "02123", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Franks, Trent", 
+      "sponsored_at": "2016-06-07", 
+      "state": "AZ", 
+      "thomas_id": "01707", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Gabbard, Tulsi", 
+      "sponsored_at": "2016-02-26", 
+      "state": "HI", 
+      "thomas_id": "02122", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Gallego, Ruben", 
+      "sponsored_at": "2016-04-29", 
+      "state": "AZ", 
+      "thomas_id": "02226", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Green, Al", 
+      "sponsored_at": "2016-06-07", 
+      "state": "TX", 
+      "thomas_id": "01803", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Grijalva, Raul M.", 
+      "sponsored_at": "2016-03-22", 
+      "state": "AZ", 
+      "thomas_id": "01708", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Hill, J. French", 
+      "sponsored_at": "2016-03-22", 
+      "state": "AR", 
+      "thomas_id": "02223", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Honda, Michael M.", 
+      "sponsored_at": "2016-04-12", 
+      "state": "CA", 
+      "thomas_id": "01634", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "50", 
+      "name": "Hunter, Duncan D.", 
+      "sponsored_at": "2016-06-10", 
+      "state": "CA", 
+      "thomas_id": "01909", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Jones, Walter B., Jr.", 
+      "sponsored_at": "2016-03-16", 
+      "state": "NC", 
+      "thomas_id": "00612", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Joyce, David P.", 
+      "sponsored_at": "2016-05-10", 
+      "state": "OH", 
+      "thomas_id": "02154", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Keating, William R.", 
+      "sponsored_at": "2016-03-02", 
+      "state": "MA", 
+      "thomas_id": "02025", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Kilmer, Derek", 
+      "sponsored_at": "2016-04-12", 
+      "state": "WA", 
+      "thomas_id": "02169", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "King, Peter T.", 
+      "sponsored_at": "2016-03-21", 
+      "state": "NY", 
+      "thomas_id": "00635", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Kirkpatrick, Ann", 
+      "sponsored_at": "2016-03-14", 
+      "state": "AZ", 
+      "thomas_id": "01907", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Lamborn, Doug", 
+      "sponsored_at": "2016-03-22", 
+      "state": "CO", 
+      "thomas_id": "01834", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Lawrence, Brenda L.", 
+      "sponsored_at": "2016-03-22", 
+      "state": "MI", 
+      "thomas_id": "02252", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Lewis, John", 
+      "sponsored_at": "2016-05-25", 
+      "state": "GA", 
+      "thomas_id": "00688", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "LoBiondo, Frank A.", 
+      "sponsored_at": "2016-04-26", 
+      "state": "NJ", 
+      "thomas_id": "00699", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Loudermilk, Barry", 
+      "sponsored_at": "2016-04-14", 
+      "state": "GA", 
+      "thomas_id": "02238", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "47", 
+      "name": "Lowenthal, Alan S.", 
+      "sponsored_at": "2016-04-20", 
+      "state": "CA", 
+      "thomas_id": "02111", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Lynch, Stephen F.", 
+      "sponsored_at": "2016-05-12", 
+      "state": "MA", 
+      "thomas_id": "01686", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Massie, Thomas", 
+      "sponsored_at": "2016-04-19", 
+      "state": "KY", 
+      "thomas_id": "02094", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "McGovern, James P.", 
+      "sponsored_at": "2016-04-12", 
+      "state": "MA", 
+      "thomas_id": "01504", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Moulton, Seth", 
+      "sponsored_at": "2016-04-14", 
+      "state": "MA", 
+      "thomas_id": "02246", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "O'Rourke, Beto", 
+      "sponsored_at": "2016-04-12", 
+      "state": "TX", 
+      "thomas_id": "02162", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "Olson, Pete", 
+      "sponsored_at": "2016-04-27", 
+      "state": "TX", 
+      "thomas_id": "01955", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "52", 
+      "name": "Peters, Scott H.", 
+      "sponsored_at": "2016-05-12", 
+      "state": "CA", 
+      "thomas_id": "02113", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Quigley, Mike", 
+      "sponsored_at": "2016-04-14", 
+      "state": "IL", 
+      "thomas_id": "01967", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Rangel, Charles B.", 
+      "sponsored_at": "2016-03-16", 
+      "state": "NY", 
+      "thomas_id": "00944", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Ratcliffe, John", 
+      "sponsored_at": "2016-05-24", 
+      "state": "TX", 
+      "thomas_id": "02268", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Ross, Dennis A.", 
+      "sponsored_at": "2016-03-21", 
+      "state": "FL", 
+      "thomas_id": "02003", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Rush, Bobby L.", 
+      "sponsored_at": "2016-04-14", 
+      "state": "IL", 
+      "thomas_id": "01003", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Smith, Christopher H.", 
+      "sponsored_at": "2016-05-24", 
+      "state": "NJ", 
+      "thomas_id": "01071", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "Stefanik, Elise M.", 
+      "sponsored_at": "2016-05-10", 
+      "state": "NY", 
+      "thomas_id": "02263", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Stewart, Chris", 
+      "sponsored_at": "2016-04-14", 
+      "state": "UT", 
+      "thomas_id": "02168", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Swalwell, Eric", 
+      "sponsored_at": "2016-04-12", 
+      "state": "CA", 
+      "thomas_id": "02104", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "41", 
+      "name": "Takano, Mark", 
+      "sponsored_at": "2016-06-07", 
+      "state": "CA", 
+      "thomas_id": "02110", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Titus, Dina", 
+      "sponsored_at": "2016-02-26", 
+      "state": "NV", 
+      "thomas_id": "01940", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Van Hollen, Chris", 
+      "sponsored_at": "2016-04-29", 
+      "state": "MD", 
+      "thomas_id": "01729", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Welch, Peter", 
+      "sponsored_at": "2016-04-12", 
+      "state": "VT", 
+      "thomas_id": "01879", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Wilson, Joe", 
+      "sponsored_at": "2016-04-19", 
+      "state": "SC", 
+      "thomas_id": "01688", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Yarmuth, John A.", 
+      "sponsored_at": "2016-04-28", 
+      "state": "KY", 
+      "thomas_id": "01853", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Young, David", 
+      "sponsored_at": "2016-03-21", 
+      "state": "IA", 
+      "thomas_id": "02242", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-02-26", 
+  "number": "4640", 
+  "official_title": "To direct the Secretary of Veterans Affairs to conduct a review of the deaths of certain veterans who died by suicide, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Veteran Suicide Prevention Act", 
+  "sponsor": {
+    "district": "13", 
+    "name": "Jolly, David W.", 
+    "state": "FL", 
+    "thomas_id": "02199", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-02-26", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Department of Veterans Affairs", 
+    "Government information and archives", 
+    "Health facilities and institutions", 
+    "Health information and medical records", 
+    "Mental health", 
+    "Prescription drugs", 
+    "Veterans' medical care"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2016-02-26", 
+    "text": "Veteran Suicide Prevention Act\n\nThis bill directs the Department of Veterans Affairs (VA) to complete a publicly available review of the deaths of all covered veterans who died by suicide during the preceding five-year period.\n\n Such review shall include:\n\n the total number of veterans who died by suicide during the five-year period; a summary that includes age, gender, and race; a list of the medications prescribed to, and found in the systems of, such veterans at the time of their deaths, and a summary of medical diagnoses by VA physicians which led to the prescribing of such medications; the number of instances in which the veteran was concurrently on multiple medications prescribed by VA physicians; the percentage of veterans who were not taking any medication prescribed by a VA physician; the percentage of veterans with combat experience or trauma; Veterans Health Administration facilities with markedly high prescription and patient suicide rates; a description of VA policies governing the prescribing of medications; and recommendations to improve the safety and well-being of veterans. \"Covered veteran\" means any veteran who received VA hospital care or medical services during the five-year period preceding the veteran's death."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Veteran Suicide Prevention Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To direct the Secretary of Veterans Affairs to conduct a review of the deaths of certain veterans who died by suicide, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:02:28-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4640:@@@L&summ2=m&"
+}

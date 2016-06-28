@@ -1,0 +1,124 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-05-11", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Oversight and Government Reform.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-05-17", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-17", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5199-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup"
+      ], 
+      "committee": "House Oversight and Government Reform", 
+      "committee_id": "HSGO"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "6", 
+      "name": "Grothman, Glenn", 
+      "sponsored_at": "2016-05-24", 
+      "state": "WI", 
+      "thomas_id": "02276", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Mulvaney, Mick", 
+      "sponsored_at": "2016-05-17", 
+      "state": "SC", 
+      "thomas_id": "02059", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2016-05-17", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-05-11", 
+  "number": "5199", 
+  "official_title": "To amend title 41, United States Code, to improve the manner in which Federal contracts for construction and design services are awarded, and to prohibit the use of reverse auctions for design and construction services procurements.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1526-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s3011-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Construction Consensus Procurement Improvement Act of 2016", 
+  "sponsor": {
+    "district": "11", 
+    "name": "Meadows, Mark", 
+    "state": "NC", 
+    "thomas_id": "02142", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2016-05-17", 
+  "subjects": [
+    "Government operations and politics"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2016-05-11", 
+    "text": "Construction Consensus Procurement Improvement Act of 2016\n\nThis bill modifies the design-build selection procedures used by federal agencies soliciting offers to enter into civilian contracts for the design and construction of a public building, facility, or work. Two-phase selection procedures (i.e., submission of qualifications and then the submission of price and technical proposals in response to a request for proposal) must be used when a contracting officer determines that a project has a value of $750,000 or greater. But for contracts valued at less than $750,000, the contracting officer makes the same determination under current law as to whether the use of two-phase selection procedures is appropriate when the officer anticipates at least three offers for the contract.\n\nFederal agencies must report, each year over a five-year period,\u00a0on each instance where the agency awarded a design-build contract in which: (1) more than five finalists were selected for phase-two requests for proposals, or (2) the contract or order was awarded without using two-phase selection procedures. The Government Accountability Office must report on agency compliance with design-build contract procedures.\n\nThe Federal Acquisition Regulatory Council must amend the Federal Acquisition Regulation to prohibit the use of reverse auctions as part of the two-phase selection procedure for awarding contracts for construction and design services. A \"reverse auction,\" with respect to procurement by an agency, is: (1) a real-time auction conducted through an electronic medium among at least two offerors who compete by submitting bids for a supply or service contract with the ability to submit revised lower bids before the closing of the auction; and (2) the award of the contract, delivery order, task order, or purchase order to the\u00a0offeror based on the price obtained through the auction process."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Construction Consensus Procurement Improvement Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 41, United States Code, to improve the manner in which Federal contracts for construction and design services are awarded, and to prohibit the use of reverse auctions for design and construction services procurements.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:07:09-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR5199:@@@L&summ2=m&"
+}

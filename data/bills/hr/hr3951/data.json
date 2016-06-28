@@ -1,0 +1,92 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-11-05", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-12-03", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3951-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-11-05", 
+  "number": "3951", 
+  "official_title": "To establish in the Veterans Health Administration of the Department of Veterans Affairs the Office of Health Care Quality.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "7", 
+    "name": "Bera, Ami", 
+    "state": "CA", 
+    "thomas_id": "02102", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-11-05", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Department of Veterans Affairs", 
+    "Executive agency funding and structure", 
+    "Health care quality", 
+    "Health facilities and institutions", 
+    "Veterans' medical care"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-11-05", 
+    "text": "This bill establishes in the Veterans Health Administration an Office of Health Care Quality to oversee the implementation and dissemination of best practices, quality improvements, corrective actions, and Inspector General recommendations across all Department of Veterans Affairs medical facilities.\n\nThe Office shall be headed by a Director who shall be an expert in health care quality or administration."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To establish in the Veterans Health Administration of the Department of Veterans Affairs the Office of Health Care Quality.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:56:42-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3951:@@@L&summ2=m&"
+}

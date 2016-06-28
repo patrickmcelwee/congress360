@@ -1,0 +1,334 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-06-11", 
+      "committees": [
+        "HSAS"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Armed Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-06-12", 
+      "references": [
+        {
+          "reference": "CR H4246", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-11-23", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Readiness.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2742-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS", 
+      "subcommittee": "Subcommittee on Readiness", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "8", 
+      "name": "Beyer, Donald S., Jr.", 
+      "sponsored_at": "2015-07-08", 
+      "state": "VA", 
+      "thomas_id": "02272", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Bishop, Mike", 
+      "sponsored_at": "2015-07-21", 
+      "state": "MI", 
+      "thomas_id": "02249", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "29", 
+      "name": "Cardenas, Tony", 
+      "sponsored_at": "2015-06-24", 
+      "state": "CA", 
+      "thomas_id": "02107", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Cooper, Jim", 
+      "sponsored_at": "2015-06-23", 
+      "state": "TN", 
+      "thomas_id": "00231", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Cramer, Kevin", 
+      "sponsored_at": "2015-06-23", 
+      "state": "ND", 
+      "thomas_id": "02144", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Graham, Gwen", 
+      "sponsored_at": "2015-06-17", 
+      "state": "FL", 
+      "thomas_id": "02234", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Grijalva, Raul M.", 
+      "sponsored_at": "2015-06-19", 
+      "state": "AZ", 
+      "thomas_id": "01708", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Jones, Walter B., Jr.", 
+      "sponsored_at": "2015-06-23", 
+      "state": "NC", 
+      "thomas_id": "00612", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "25", 
+      "name": "Knight, Stephen", 
+      "sponsored_at": "2015-06-19", 
+      "state": "CA", 
+      "thomas_id": "02228", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Lance, Leonard", 
+      "sponsored_at": "2015-06-23", 
+      "state": "NJ", 
+      "thomas_id": "01936", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "McSally, Martha", 
+      "sponsored_at": "2015-06-25", 
+      "state": "AZ", 
+      "thomas_id": "02225", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Moore, Gwen", 
+      "sponsored_at": "2015-07-07", 
+      "state": "WI", 
+      "thomas_id": "01811", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Nolan, Richard M.", 
+      "sponsored_at": "2015-06-19", 
+      "state": "MN", 
+      "thomas_id": "00867", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Norton, Eleanor Holmes", 
+      "sponsored_at": "2015-06-23", 
+      "state": "DC", 
+      "thomas_id": "00868", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Peterson, Collin C.", 
+      "sponsored_at": "2015-07-09", 
+      "state": "MN", 
+      "thomas_id": "00910", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Pocan, Mark", 
+      "sponsored_at": "2015-07-08", 
+      "state": "WI", 
+      "thomas_id": "02171", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Quigley, Mike", 
+      "sponsored_at": "2015-06-25", 
+      "state": "IL", 
+      "thomas_id": "01967", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Rangel, Charles B.", 
+      "sponsored_at": "2015-06-24", 
+      "state": "NY", 
+      "thomas_id": "00944", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "36", 
+      "name": "Ruiz, Raul", 
+      "sponsored_at": "2015-07-29", 
+      "state": "CA", 
+      "thomas_id": "02109", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Sinema, Kyrsten", 
+      "sponsored_at": "2015-06-11", 
+      "state": "AZ", 
+      "thomas_id": "02099", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "25", 
+      "name": "Slaughter, Louise McIntosh", 
+      "sponsored_at": "2015-07-28", 
+      "state": "NY", 
+      "thomas_id": "01069", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Swalwell, Eric", 
+      "sponsored_at": "2015-06-25", 
+      "state": "CA", 
+      "thomas_id": "02104", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "41", 
+      "name": "Takano, Mark", 
+      "sponsored_at": "2015-07-07", 
+      "state": "CA", 
+      "thomas_id": "02110", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Titus, Dina", 
+      "sponsored_at": "2015-06-24", 
+      "state": "NV", 
+      "thomas_id": "01940", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Walz, Timothy J.", 
+      "sponsored_at": "2015-06-24", 
+      "state": "MN", 
+      "thomas_id": "01856", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-06-11", 
+  "number": "2742", 
+  "official_title": "To amend title 10, United States Code, to require that military working dogs be retired in the United States, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1498-114", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "3", 
+    "name": "Paulsen, Erik", 
+    "state": "MN", 
+    "thomas_id": "01930", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-06-11", 
+  "subjects": [
+    "Animal protection and human-animal relationships", 
+    "Armed forces and national security", 
+    "Diplomacy, foreign officials, Americans abroad", 
+    "Mammals", 
+    "Service animals"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-06-11", 
+    "text": "This bill requires that a military working dog be retired in the United States, except when a U.S. citizen living abroad adopts the dog at the time of retirement.\n\nAmounts available to the military department concerned shall be available for such dog's transport to the United States for retirement."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 10, United States Code, to require that military working dogs be retired in the United States, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:46:36-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2742:@@@L&summ2=m&"
+}

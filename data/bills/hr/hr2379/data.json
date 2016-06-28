@@ -1,0 +1,138 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-05-15", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Transportation and Infrastructure.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-05-18", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2379-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Railroads, Pipelines, and Hazardous Materials", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "11", 
+      "name": "DeSaulnier, Mark", 
+      "sponsored_at": "2015-06-18", 
+      "state": "CA", 
+      "thomas_id": "02227", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Garamendi, John", 
+      "sponsored_at": "2015-05-15", 
+      "state": "CA", 
+      "thomas_id": "01973", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Lee, Barbara", 
+      "sponsored_at": "2015-05-21", 
+      "state": "CA", 
+      "thomas_id": "01501", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Rangel, Charles B.", 
+      "sponsored_at": "2015-05-21", 
+      "state": "NY", 
+      "thomas_id": "00944", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Tonko, Paul", 
+      "sponsored_at": "2015-05-18", 
+      "state": "NY", 
+      "thomas_id": "01942", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-05-15", 
+  "number": "2379", 
+  "official_title": "To prohibit the transportation of certain volatile crude oil by rail.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "17", 
+    "name": "Lowey, Nita M.", 
+    "state": "NY", 
+    "thomas_id": "00709", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-05-15", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Department of Transportation", 
+    "Oil and gas", 
+    "Railroads", 
+    "Transportation and public works", 
+    "Transportation safety and security"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-05-15", 
+    "text": "This bill prohibits any transportation by rail of crude oil with a Reid vapor pressure level greater than 8.5 psi until the Department of Transportation (DOT) establishes an appropriate national standard for the maximum volatility of crude oil to be permitted to be shipped by rail.\n\nDOT shall establish such a national standard, after which the 8.5 psi standard required by this Act shall expire."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To prohibit the transportation of certain volatile crude oil by rail.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:43:26-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2379:@@@L&summ2=m&"
+}

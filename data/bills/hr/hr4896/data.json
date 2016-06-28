@@ -1,0 +1,117 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-04-11", 
+      "committees": [
+        "HSAG"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Agriculture.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-04-26", 
+      "committees": [
+        "HSAG"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Livestock and Foreign Agriculture.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4896-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Agriculture", 
+      "committee_id": "HSAG"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Agriculture", 
+      "committee_id": "HSAG", 
+      "subcommittee": "Subcommittee on Livestock and Foreign Agriculture", 
+      "subcommittee_id": "29"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "2", 
+      "name": "Courtney, Joe", 
+      "sponsored_at": "2016-04-11", 
+      "state": "CT", 
+      "thomas_id": "01836", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Welch, Peter", 
+      "sponsored_at": "2016-04-11", 
+      "state": "VT", 
+      "thomas_id": "01879", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-04-11", 
+  "number": "4896", 
+  "official_title": "To amend the Agricultural Act of 2014 to require the Secretary of Agriculture to use data from each State to calculate average feed cost and actual dairy production margins, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Dairy Margin Insurance Location Calculation Act of 2016", 
+  "sponsor": {
+    "district": "19", 
+    "name": "Gibson, Christopher P.", 
+    "state": "NY", 
+    "thomas_id": "02043", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-04-11", 
+  "subjects": [
+    "Agriculture and food"
+  ], 
+  "subjects_top_term": "Agriculture and food", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Dairy Margin Insurance Location Calculation Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Dairy MILC Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Agricultural Act of 2014 to require the Secretary of Agriculture to use data from each State to calculate average feed cost and actual dairy production margins, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:04:36-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4896:@@@L&summ2=m&"
+}

@@ -1,0 +1,118 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-03-18", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-03-20", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1420-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "13", 
+      "name": "Rangel, Charles B.", 
+      "sponsored_at": "2015-04-13", 
+      "state": "NY", 
+      "thomas_id": "00944", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Rooney, Thomas J.", 
+      "sponsored_at": "2015-03-18", 
+      "state": "FL", 
+      "thomas_id": "01916", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-03-18", 
+  "number": "1420", 
+  "official_title": "To direct the Secretary of Health and Human Services, acting through the Director of the Centers for Disease Control and Prevention, to establish a surveillance system regarding traumatic brain injury, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "National Traumatic Brain Injury Research and Treatment Improvement Act of 2015", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Pascrell, Bill, Jr.", 
+    "state": "NJ", 
+    "thomas_id": "01510", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-03-18", 
+  "subjects": [
+    "Congressional oversight", 
+    "Government information and archives", 
+    "Government studies and investigations", 
+    "Health", 
+    "Health information and medical records", 
+    "Medical research", 
+    "Neurological disorders"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-03-18", 
+    "text": "National Traumatic Brain Injury Research and Treatment Improvement Act of 2015\n\nRequires the Centers for Disease Control and Prevention (CDC) to: (1) evaluate existing surveillance and data collection systems that track the incidence and circumstances of traumatic brain injury, including concussion; (2) establish a statistically sound, scientifically credible, and integrated National Traumatic Brain Injury Surveillance System; and (3) ensure that the System is designed in a manner that facilitates further research on brain injury.\n\n Requires the CDC to make information and analysis in the System available to the public and ensure that privacy and security protections applicable to the System are at least as stringent as those under the Health Insurance Portability and Accountability Act."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "National Traumatic Brain Injury Research and Treatment Improvement Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To direct the Secretary of Health and Human Services, acting through the Director of the Centers for Disease Control and Prevention, to establish a surveillance system regarding traumatic brain injury, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:35:18-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR1420:@@@L&summ2=m&"
+}

@@ -1,0 +1,218 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-05-20", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-06-11", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-07-14", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-22", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-22", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee by Voice Vote .", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2464-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "5", 
+      "name": "Abraham, Ralph Lee", 
+      "sponsored_at": "2015-07-10", 
+      "state": "LA", 
+      "thomas_id": "02244", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Boustany, Charles W., Jr.", 
+      "sponsored_at": "2015-07-16", 
+      "state": "LA", 
+      "thomas_id": "01787", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Coffman, Mike", 
+      "sponsored_at": "2015-07-21", 
+      "state": "CO", 
+      "thomas_id": "01912", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Costello, Ryan A.", 
+      "sponsored_at": "2015-07-10", 
+      "state": "PA", 
+      "thomas_id": "02266", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Cramer, Kevin", 
+      "sponsored_at": "2015-07-15", 
+      "state": "ND", 
+      "thomas_id": "02144", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Ellmers, Renee L.", 
+      "sponsored_at": "2015-07-21", 
+      "state": "NC", 
+      "thomas_id": "02036", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Jones, Walter B., Jr.", 
+      "sponsored_at": "2015-07-16", 
+      "state": "NC", 
+      "thomas_id": "00612", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Rouzer, David", 
+      "sponsored_at": "2015-07-13", 
+      "state": "NC", 
+      "thomas_id": "02256", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Sinema, Kyrsten", 
+      "sponsored_at": "2015-05-20", 
+      "state": "AZ", 
+      "thomas_id": "02099", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Yoho, Ted S.", 
+      "sponsored_at": "2015-07-16", 
+      "state": "FL", 
+      "thomas_id": "02115", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-07-14", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-05-20", 
+  "number": "2464", 
+  "official_title": "To amend title 38, United States Code, to improve the accountability of the Secretary of Veterans Affairs to the Inspector General of the Department of Veterans Affairs.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Demanding Accountability for Veterans Act of 2015", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Benishek, Dan", 
+    "state": "MI", 
+    "thomas_id": "02027", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-05-20", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Congressional oversight", 
+    "Department of Veterans Affairs", 
+    "Employee performance", 
+    "Government employee pay, benefits, personnel management", 
+    "Government studies and investigations", 
+    "Performance measurement"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-05-20", 
+    "text": "Demanding Accountability for Veterans Act of 2015\n\n Requires the Inspector General (IG) of the Department of Veterans Affairs (VA), at the same time the IG submits a report to the VA, to submit a copy of such report to the House and Senate Committees on Veterans' Affairs, including: (1) an explanation of any changes to the report recommended by the VA Secretary, and (2) a list of each manager responsible for an issue in a report that recommends actions to address to a public health or safety issue in the VA.\n\nRequires the VA: (1) within seven days after such submission, to notify each such manager of such issue; (2) to direct such manager to resolve the issue, (3) to provide the manager with appropriate counseling and a mitigation plan for resolving the issue; and (4) to ensure that the manager's performance review includes an evaluation of actions taken regarding such issue.\n\nProhibits the Secretary from paying a bonus or award to any such manager if such issue remains unresolved."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Demanding Accountability for Veterans Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 38, United States Code, to improve the accountability of the Secretary of Veterans Affairs to the Inspector General of the Department of Veterans Affairs.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:44:09-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2464:@@@L&summ2=m&"
+}

@@ -1,0 +1,121 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-03-02", 
+      "references": [
+        {
+          "reference": "CR E266", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-03-02", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Transportation and Infrastructure.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-03-03", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Aviation.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4675-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Aviation", 
+      "subcommittee_id": "05"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "33", 
+      "name": "Lieu, Ted", 
+      "sponsored_at": "2016-03-21", 
+      "state": "CA", 
+      "thomas_id": "02230", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-03-02", 
+  "number": "4675", 
+  "official_title": "To direct the Administrator of the Federal Aviation Administration to prohibit the use of leaded fuel by aircraft operating within United States airspace.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "No Lead in the Air Act of 2016", 
+  "sponsor": {
+    "district": null, 
+    "name": "Norton, Eleanor Holmes", 
+    "state": "DC", 
+    "thomas_id": "00868", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-03-02", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Air quality", 
+    "Aviation and airports", 
+    "Department of Transportation", 
+    "Environmental regulatory procedures", 
+    "Hazardous wastes and toxic substances", 
+    "Motor fuels", 
+    "Transportation and public works"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2016-03-02", 
+    "text": "No Lead in the Air Act of 2016\n\nThis bill directs the Federal Aviation Administration to issue regulations necessary to prohibit the use of leaded fuel by aircraft operating within U.S. airspace beginning in January 2021."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "No Lead in the Air Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To direct the Administrator of the Federal Aviation Administration to prohibit the use of leaded fuel by aircraft operating within United States airspace.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:02:45-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4675:@@@L&summ2=m&"
+}

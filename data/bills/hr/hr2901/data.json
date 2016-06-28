@@ -1,0 +1,632 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-06-25", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Financial Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-01-13", 
+      "references": [], 
+      "text": "Hearings Held by the Subcommittee on Housing and Insurance Prior to Referral.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-03-02", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-03-02", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 53 - 0.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2016-04-26T11:20:00-04:00", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Financial Services. H. Rept. 114-524.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-26T11:20:00-04:00", 
+      "calendar": "Union", 
+      "number": "404", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 404.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2016-04-26T15:22:00-04:00", 
+      "references": [], 
+      "text": "Mr. Ross moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-26T15:22:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H1952-1954", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-26T15:22:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 2901.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-26T15:33:00-04:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-28T15:26:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2993-2094", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-28T15:33:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR 4/26/2016 H1952-1953", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "177", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 419 - 0 (Roll no. 177).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2016-04-28T15:33:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-09", 
+      "committees": [
+        "SSBK"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2901-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }, 
+    {
+      "activity": [
+        "hearings"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA", 
+      "subcommittee": "Subcommittee on Housing and Insurance", 
+      "subcommittee_id": "04"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Banking, Housing, and Urban Affairs", 
+      "committee_id": "SSBK"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "2", 
+      "name": "Ashford, Brad", 
+      "sponsored_at": "2016-03-14", 
+      "state": "NE", 
+      "thomas_id": "02257", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Barr, Andy", 
+      "sponsored_at": "2015-09-16", 
+      "state": "KY", 
+      "thomas_id": "02131", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Bilirakis, Gus M.", 
+      "sponsored_at": "2016-03-01", 
+      "state": "FL", 
+      "thomas_id": "01838", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Boustany, Charles W., Jr.", 
+      "sponsored_at": "2016-04-26", 
+      "state": "LA", 
+      "thomas_id": "01787", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Boyle, Brendan F.", 
+      "sponsored_at": "2016-04-26", 
+      "state": "PA", 
+      "thomas_id": "02267", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Bustos, Cheri", 
+      "sponsored_at": "2016-04-21", 
+      "state": "IL", 
+      "thomas_id": "02127", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Capuano, Michael E.", 
+      "sponsored_at": "2016-04-26", 
+      "state": "MA", 
+      "thomas_id": "01564", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Castor, Kathy", 
+      "sponsored_at": "2016-04-25", 
+      "state": "FL", 
+      "thomas_id": "01839", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Coffman, Mike", 
+      "sponsored_at": "2016-02-23", 
+      "state": "CO", 
+      "thomas_id": "01912", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Emmer, Tom", 
+      "sponsored_at": "2015-09-08", 
+      "state": "MN", 
+      "thomas_id": "02253", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Fortenberry, Jeff", 
+      "sponsored_at": "2015-10-23", 
+      "state": "NE", 
+      "thomas_id": "01793", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Heck, Denny", 
+      "sponsored_at": "2016-04-20", 
+      "state": "WA", 
+      "thomas_id": "02170", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Hill, J. French", 
+      "sponsored_at": "2015-09-09", 
+      "state": "AR", 
+      "thomas_id": "02223", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Huizenga, Bill", 
+      "sponsored_at": "2015-09-16", 
+      "state": "MI", 
+      "thomas_id": "02028", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Hultgren, Randy", 
+      "sponsored_at": "2016-03-01", 
+      "state": "IL", 
+      "thomas_id": "02015", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Johnson, Bill", 
+      "sponsored_at": "2016-04-15", 
+      "state": "OH", 
+      "thomas_id": "02046", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Jolly, David W.", 
+      "sponsored_at": "2015-07-09", 
+      "state": "FL", 
+      "thomas_id": "02199", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Kildee, Daniel T.", 
+      "sponsored_at": "2016-04-26", 
+      "state": "MI", 
+      "thomas_id": "02134", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "King, Peter T.", 
+      "sponsored_at": "2015-09-25", 
+      "state": "NY", 
+      "thomas_id": "00635", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Lucas, Frank D.", 
+      "sponsored_at": "2015-09-25", 
+      "state": "OK", 
+      "thomas_id": "00711", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "MacArthur, Thomas", 
+      "sponsored_at": "2015-11-16", 
+      "state": "NJ", 
+      "thomas_id": "02258", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Maloney, Carolyn B.", 
+      "sponsored_at": "2016-04-21", 
+      "state": "NY", 
+      "thomas_id": "00729", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Marino, Tom", 
+      "sponsored_at": "2015-10-07", 
+      "state": "PA", 
+      "thomas_id": "02053", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Messer, Luke", 
+      "sponsored_at": "2016-02-26", 
+      "state": "IN", 
+      "thomas_id": "02130", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Moolenaar, John R.", 
+      "sponsored_at": "2016-04-19", 
+      "state": "MI", 
+      "thomas_id": "02248", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Moore, Gwen", 
+      "sponsored_at": "2016-04-19", 
+      "state": "WI", 
+      "thomas_id": "01811", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Mulvaney, Mick", 
+      "sponsored_at": "2015-09-09", 
+      "state": "SC", 
+      "thomas_id": "02059", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Murphy, Patrick", 
+      "sponsored_at": "2015-06-25", 
+      "state": "FL", 
+      "thomas_id": "02117", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Neugebauer, Randy", 
+      "sponsored_at": "2015-09-08", 
+      "state": "TX", 
+      "thomas_id": "01758", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Palazzo, Steven M.", 
+      "sponsored_at": "2015-11-16", 
+      "state": "MS", 
+      "thomas_id": "02035", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Perlmutter, Ed", 
+      "sponsored_at": "2016-04-15", 
+      "state": "CO", 
+      "thomas_id": "01835", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Pittenger, Robert", 
+      "sponsored_at": "2015-09-09", 
+      "state": "NC", 
+      "thomas_id": "02141", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Posey, Bill", 
+      "sponsored_at": "2015-09-08", 
+      "state": "FL", 
+      "thomas_id": "01915", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Rice, Tom", 
+      "sponsored_at": "2016-04-19", 
+      "state": "SC", 
+      "thomas_id": "02160", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Rokita, Todd", 
+      "sponsored_at": "2016-04-19", 
+      "state": "IN", 
+      "thomas_id": "02017", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Rothfus, Keith J.", 
+      "sponsored_at": "2016-03-02", 
+      "state": "PA", 
+      "thomas_id": "02158", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "39", 
+      "name": "Royce, Edward R.", 
+      "sponsored_at": "2016-02-25", 
+      "state": "CA", 
+      "thomas_id": "00998", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Scalise, Steve", 
+      "sponsored_at": "2016-02-01", 
+      "state": "LA", 
+      "thomas_id": "01892", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "30", 
+      "name": "Sherman, Brad", 
+      "sponsored_at": "2016-03-01", 
+      "state": "CA", 
+      "thomas_id": "01526", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "Smith, Lamar", 
+      "sponsored_at": "2016-02-12", 
+      "state": "TX", 
+      "thomas_id": "01075", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "51", 
+      "name": "Vargas, Juan", 
+      "sponsored_at": "2016-04-20", 
+      "state": "CA", 
+      "thomas_id": "02112", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Wagner, Ann", 
+      "sponsored_at": "2015-09-16", 
+      "state": "MO", 
+      "thomas_id": "02137", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "25", 
+      "name": "Williams, Roger", 
+      "sponsored_at": "2016-01-13", 
+      "state": "TX", 
+      "thomas_id": "02165", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Zinke, Ryan K.", 
+      "sponsored_at": "2015-10-09", 
+      "state": "MT", 
+      "thomas_id": "02254", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2016-01-13", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2016-04-28T15:33:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-06-25", 
+  "number": "2901", 
+  "official_title": "To amend the Flood Disaster Protection Act of 1973 to require that certain buildings and personal property be covered by flood insurance, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1679-114", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Flood Insurance Market Parity and Modernization Act", 
+  "sponsor": {
+    "district": "15", 
+    "name": "Ross, Dennis A.", 
+    "state": "FL", 
+    "thomas_id": "02003", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2016-04-28T15:33:00-04:00", 
+  "subjects": [
+    "American Samoa", 
+    "Disaster relief and insurance", 
+    "Finance and financial sector", 
+    "Floods and storm protection", 
+    "Housing finance and home ownership", 
+    "Northern Mariana Islands", 
+    "Puerto Rico", 
+    "Virgin Islands"
+  ], 
+  "subjects_top_term": "Finance and financial sector", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2016-04-28", 
+    "text": "(This measure has not been amended since it was reported to the House on June 25, 2015. The summary of that version is repeated here.)\n\nFlood Insurance Market Parity and Modernization Act\n\n(Sec. 2) This bill amends the Flood Disaster Protection Act of 1973 to make technical amendments without substantive change to requirements for flood insurance under either the federal program or private flood insurance.\n\n(Under current law, any building, mobile home or personal property that would be financed by a federally-backed mortgage must have flood insurance if the property is located in an area designated as a special flood hazard.) As under current law, the amount of mandatory flood insurance shall be, for either federal or private flood insurance, equal to the development or project cost of the building, mobile home, or personal property (less estimated land cost), the outstanding principal balance of the loan, or the maximum limit of federal flood insurance coverage available for the particular type of property, whichever is less.\n\nThe bill revises without substantive change the flood insurance requirements that apply to home loans or loan guarantees by the Federal National Mortgage Association (Fannie Mae) and the Federal Home Loan Mortgage Corporation (Freddie Mac). This revision does specify, however, that any requirements established by Fannie Mae or Freddie Mac relating to the financial strength of private insurance companies from which they will accept private flood insurance must not affect or conflict with any state law, regulation, or procedure concerning the regulation of the business of insurance.\n\nPrivate flood insurance shall include, in addition to a policy issued by a company licensed, admitted, or otherwise approved by the state (as in current law), any policy issued by an insurance company eligible as a nonadmitted insurer to provide flood insurance in the state or jurisdiction where the property to be insured is located.\n\nThe bill specifies that the federal flood insurance program, with respect to both private and federal flood insurance, extends to Puerto Rico, Guam, the Northern Mariana Islands, the Virgin Islands, and American Samoa.\n\nFEMA must consider any period during which a property was continuously covered by private flood insurance to be a period of continuous insurance coverage."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Flood Insurance Market Parity and Modernization Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Flood Insurance Market Parity and Modernization Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Flood Insurance Market Parity and Modernization Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Flood Disaster Protection Act of 1973 to require that certain buildings and personal property be covered by flood insurance, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:47:56-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2901:@@@L&summ2=m&"
+}

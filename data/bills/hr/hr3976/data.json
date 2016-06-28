@@ -1,0 +1,123 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-11-05", 
+      "committees": [
+        "HSAS"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Armed Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-11-23", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Military Personnel.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3976-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS", 
+      "subcommittee": "Subcommittee on Military Personnel", 
+      "subcommittee_id": "02"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "18", 
+      "name": "Jackson Lee, Sheila", 
+      "sponsored_at": "2015-11-05", 
+      "state": "TX", 
+      "thomas_id": "00588", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Kelly, Robin L.", 
+      "sponsored_at": "2015-11-05", 
+      "state": "IL", 
+      "thomas_id": "02190", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Watson Coleman, Bonnie", 
+      "sponsored_at": "2015-11-05", 
+      "state": "NJ", 
+      "thomas_id": "02259", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-11-05", 
+  "number": "3976", 
+  "official_title": "To amend title 10, United States Code, to require the provision of legal assistance to junior enlisted personnel of the Armed Forces and their dependents in connection with their personal civil legal affairs.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Enlisted Legal Assistance Act", 
+  "sponsor": {
+    "district": "14", 
+    "name": "Lawrence, Brenda L.", 
+    "state": "MI", 
+    "thomas_id": "02252", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-11-05", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Lawyers and legal services", 
+    "Military personnel and dependents"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-11-05", 
+    "text": "Enlisted Legal Assistance Act\n\nThis bill requires the Secretary of the department concerned to provide personal civil legal assistance to:\n\n an active duty member of the Armed Forces in pay grades E-1 through E-5 and his or her dependents; and a survivor who was a dependent of the member at the time of the member's death, except that survivor eligibility shall be determined pursuant to regulations prescribed by the Secretary concerned."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Enlisted Legal Assistance Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 10, United States Code, to require the provision of legal assistance to junior enlisted personnel of the Armed Forces and their dependents in connection with their personal civil legal affairs.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:56:54-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3976:@@@L&summ2=m&"
+}

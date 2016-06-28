@@ -1,0 +1,107 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-10-28", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-11-23", 
+      "committees": [
+        "HSHM"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3853-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Crime, Terrorism, Homeland Security, and Investigations", 
+      "subcommittee_id": "08"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "8", 
+      "name": "Van Hollen, Chris", 
+      "sponsored_at": "2015-12-18", 
+      "state": "MD", 
+      "thomas_id": "01729", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-10-28", 
+  "number": "3853", 
+  "official_title": "To provide the Attorney General with greater discretion in issuing Federal firearms licenses, and to authorize temporarily greater scrutiny of Federal firearms licensees who have transferred a firearm unlawfully or had 10 or more crime guns traced back to them in the preceding 2 years.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Gun Dealer Accountability Act", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Moore, Gwen", 
+    "state": "WI", 
+    "thomas_id": "01811", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-10-28", 
+  "subjects": [
+    "Business records", 
+    "Crime and law enforcement", 
+    "Criminal investigation, prosecution, interrogation", 
+    "Firearms and explosives", 
+    "Licensing and registrations", 
+    "Retail and wholesale trades"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Gun Dealer Accountability Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide the Attorney General with greater discretion in issuing Federal firearms licenses, and to authorize temporarily greater scrutiny of Federal firearms licensees who have transferred a firearm unlawfully or had 10 or more crime guns traced back to them in the preceding 2 years.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:55:53-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3853:@@@L&summ2=m&"
+}

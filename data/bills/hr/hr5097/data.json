@@ -1,0 +1,151 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-04-28", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-04-29", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Commerce, Manufacturing, and Trade.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5097-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Commerce, Manufacturing, and Trade", 
+      "subcommittee_id": "17"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "26", 
+      "name": "Burgess, Michael C.", 
+      "sponsored_at": "2016-04-28", 
+      "state": "TX", 
+      "thomas_id": "01751", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Harper, Gregg", 
+      "sponsored_at": "2016-04-28", 
+      "state": "MS", 
+      "thomas_id": "01933", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Lance, Leonard", 
+      "sponsored_at": "2016-04-28", 
+      "state": "NJ", 
+      "thomas_id": "01936", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "Olson, Pete", 
+      "sponsored_at": "2016-04-28", 
+      "state": "TX", 
+      "thomas_id": "01955", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Pompeo, Mike", 
+      "sponsored_at": "2016-04-28", 
+      "state": "KS", 
+      "thomas_id": "02022", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-04-28", 
+  "number": "5097", 
+  "official_title": "To amend the Federal Trade Commission Act to require the termination of inactive investigations after a period of six months.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr5510-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "STALL Act", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Brooks, Susan W.", 
+    "state": "IN", 
+    "thomas_id": "02129", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-04-28", 
+  "subjects": [
+    "Commerce"
+  ], 
+  "subjects_top_term": "Commerce", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2016-04-28", 
+    "text": "Start Taking Action on Lingering Liabilities Act or the STALL Act\n\nThis bill amends the Federal Trade Commission Act to require certain Federal Trade Commission (FTC) investigations involving civil investigative demands to terminate six months after the FTC sends a verifiable written communication to notify the subject of the investigation. The bill also provides an exception that allows such an investigation to continue beyond that six-month period if, before the period expires, the FTC: (1) sends an additional verifiable written communication, or (2) votes to extend the investigation."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "STALL Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Start Taking Action on Lingering Liabilities Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Federal Trade Commission Act to require the termination of inactive investigations after a period of six months.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:06:18-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR5097:@@@L&summ2=m&"
+}

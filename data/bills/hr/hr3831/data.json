@@ -1,0 +1,319 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-10-26", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-10-26", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "text": "Referred to House Ways and Means", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-10-26", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-10-26", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "text": "Referred to House Energy and Commerce", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-10-30", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-12-10T14:48:00-05:00", 
+      "references": [], 
+      "text": "Mr. Tiberi moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-12-10T14:49:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H9217-9218", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-12-10T14:49:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3831.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-12-10T14:56:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H9217", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2015-12-10T14:56:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-12-14", 
+      "references": [], 
+      "text": "Received in the Senate, read twice.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-12-16", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S8728", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2015-12-17", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-12-18", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2015-12-18", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2015-12-18", 
+      "congress": "114", 
+      "law": "public", 
+      "number": "106", 
+      "references": [], 
+      "text": "Became Public Law No: 114-106.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3831-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "02"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "29", 
+      "name": "Cardenas, Tony", 
+      "sponsored_at": "2015-10-26", 
+      "state": "CA", 
+      "thomas_id": "02107", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Murphy, Patrick", 
+      "sponsored_at": "2015-10-26", 
+      "state": "FL", 
+      "thomas_id": "02117", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Pitts, Joseph R.", 
+      "sponsored_at": "2015-10-26", 
+      "state": "PA", 
+      "thomas_id": "01514", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Sinema, Kyrsten", 
+      "sponsored_at": "2015-10-27", 
+      "state": "AZ", 
+      "thomas_id": "02099", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Thompson, Mike", 
+      "sponsored_at": "2015-10-26", 
+      "state": "CA", 
+      "thomas_id": "01593", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "114", 
+    "law_type": "public", 
+    "number": "106"
+  }, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-12-10T14:48:00-05:00", 
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2015-12-18", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2015-12-10T14:56:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2015-12-16", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-10-26", 
+  "number": "3831", 
+  "official_title": "To amend title XVIII of the Social Security Act to extend the annual comment period for payment rates under Medicare Advantage.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr2507-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s2351-114", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Securing Fairness in Regulatory Timing Act of 2015", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Brady, Kevin", 
+    "state": "TX", 
+    "thomas_id": "01468", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2015-12-18", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Department of Health and Human Services", 
+    "Health", 
+    "Health care costs and insurance", 
+    "Medicare"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2015-12-18", 
+    "text": "(This measure has not been amended since it was passed by the House on December 10, 2015. The summary of that version is repeated here.)\n\nSecuring Fairness in Regulatory Timing Act of 2015\n\n(Sec. 2) This bill amends title XVIII (Medicare) of the Social Security Act to extend from 45 days to 60 days the annual notice period for the announcement of payment rates under Medicare Advantage (MA). MA organizations shall have at least 30 days to comment on proposed changes."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Securing Fairness in Regulatory Timing Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Securing Fairness in Regulatory Timing Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "is_for_portion": false, 
+      "title": "Securing Fairness in Regulatory Timing Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": false, 
+      "title": "Securing Fairness in Regulatory Timing Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title XVIII of the Social Security Act to extend the annual comment period for payment rates under Medicare Advantage.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:55:42-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3831:@@@L&summ2=m&"
+}

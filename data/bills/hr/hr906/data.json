@@ -1,0 +1,346 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-02-11", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-02-13", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Energy and Power.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-03-19", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-04-14", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-04-15", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-04-15", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2015-06-09T14:23:00-04:00", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 114-142.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-06-09T14:23:00-04:00", 
+      "calendar": "Union", 
+      "number": "102", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 102.", 
+      "type": "calendar", 
+      "under": null
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr906-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Energy and Power", 
+      "subcommittee_id": "03"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Blum, Rod", 
+      "sponsored_at": "2015-03-25", 
+      "state": "IA", 
+      "thomas_id": "02241", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Bucshon, Larry", 
+      "sponsored_at": "2015-03-25", 
+      "state": "IN", 
+      "thomas_id": "02018", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Byrne, Bradley", 
+      "sponsored_at": "2015-02-27", 
+      "state": "AL", 
+      "thomas_id": "02197", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Cramer, Kevin", 
+      "sponsored_at": "2015-02-11", 
+      "state": "ND", 
+      "thomas_id": "02144", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Doyle, Michael F.", 
+      "sponsored_at": "2015-02-11", 
+      "state": "PA", 
+      "thomas_id": "00316", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Duncan, Jeff", 
+      "sponsored_at": "2015-02-27", 
+      "state": "SC", 
+      "thomas_id": "02057", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Emmer, Tom", 
+      "sponsored_at": "2015-02-27", 
+      "state": "MN", 
+      "thomas_id": "02253", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Gibson, Christopher P.", 
+      "sponsored_at": "2015-02-27", 
+      "state": "NY", 
+      "thomas_id": "02043", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Gowdy, Trey", 
+      "sponsored_at": "2015-03-10", 
+      "state": "SC", 
+      "thomas_id": "02058", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Latta, Robert E.", 
+      "sponsored_at": "2015-02-11", 
+      "state": "OH", 
+      "thomas_id": "01885", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Loebsack, David", 
+      "sponsored_at": "2015-02-11", 
+      "state": "IA", 
+      "thomas_id": "01846", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Messer, Luke", 
+      "sponsored_at": "2015-03-10", 
+      "state": "IN", 
+      "thomas_id": "02130", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Mulvaney, Mick", 
+      "sponsored_at": "2015-02-27", 
+      "state": "SC", 
+      "thomas_id": "02059", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Nolan, Richard M.", 
+      "sponsored_at": "2015-02-27", 
+      "state": "MN", 
+      "thomas_id": "00867", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Peterson, Collin C.", 
+      "sponsored_at": "2015-02-27", 
+      "state": "MN", 
+      "thomas_id": "00910", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Welch, Peter", 
+      "sponsored_at": "2015-02-11", 
+      "state": "VT", 
+      "thomas_id": "01879", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Womack, Steve", 
+      "sponsored_at": "2015-04-13", 
+      "state": "AR", 
+      "thomas_id": "01991", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-03-19", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-02-11", 
+  "number": "906", 
+  "official_title": "To modify the efficiency standards for grid-enabled water heaters.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr1802-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr2177-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s1-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s128-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s259-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s535-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s720-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "1", 
+    "name": "Whitfield, Ed", 
+    "state": "KY", 
+    "thomas_id": "01222", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2015-04-15", 
+  "subjects": [
+    "Alternative and renewable resources", 
+    "Consumer affairs", 
+    "Electric power generation and transmission", 
+    "Energy", 
+    "Energy efficiency and conservation", 
+    "Energy storage, supplies, demand", 
+    "Government information and archives", 
+    "Lighting and heating", 
+    "Public utilities and utility rates"
+  ], 
+  "subjects_top_term": "Energy", 
+  "summary": {
+    "as": "Reported to House without amendment", 
+    "date": "2015-06-09", 
+    "text": "(Sec. 1) Amends the Energy Policy and Conservation Act (EPCA) to provide additional energy conservation standards applicable to grid-enabled water heaters for use as part of an electric thermal storage or demand response program (a program that enables customers to reduce or shift their power use during peak demand periods).\n\nRequires annual reports from: (1) manufacturers of such water heaters regarding the quantity of the products shipped each year, and (2) utilities and other demand response and thermal storage program operators regarding the quantity of products activated for their programs.\n\nRequires the Department of Energy (DOE) to publish analyses of data collected from such reports and to establish procedures to prevent product diversion if sales of the products exceed by at least 15% the quantity activated for use in the demand response and thermal storage programs annually.\n\nMaintains the standards and publication procedures established by this Act until the Secretary determines that: (1) such water heaters do not require a separate efficiency requirement, or (2) procedures to prevent product diversion for non-program purposes would not be adequate to prevent such product diversion.\n\nRequires DOE to consider the impact of EPCA electric water heater standards on thermal storage and demand response programs, including on energy savings, electric bills, peak load reduction, electric reliability, integration of renewable resources, and the environment.\n\nDirects DOE to require the water heaters be equipped with communication capability to enable the grid-enabled water heaters to participate in ancillary services programs if the technology is available, practical, and cost-effective.\n\nMakes it unlawful for any person to:\n\n activate an activation lock for a grid-enabled water heater with knowledge that it is not used as part of such program, distribute an activation key for such a water heater with knowledge that it will be used to activate a heater that is not used as part of the program, enable such water heater to operate at its designed specification and capabilities with knowledge that it is not used as part of the program, or knowingly remove or render illegible the label of a such water heater."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To modify the efficiency standards for grid-enabled water heaters.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:30:50-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR906:@@@L&summ2=m&"
+}

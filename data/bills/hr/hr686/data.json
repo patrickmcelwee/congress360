@@ -1,0 +1,247 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-02-03", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Financial Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-04-29", 
+      "references": [], 
+      "text": "Hearings Held by the Subcommittee on Capital Markets and Government Sponsored Enterprises Prior to Referral.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-05-20", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-05-20", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by the Yeas and Nays: 36 - 24.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2016-01-28T14:53:00-05:00", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on Financial Services. H. Rept. 114-400.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-01-28T14:55:00-05:00", 
+      "calendar": "Union", 
+      "number": "303", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 303.", 
+      "type": "calendar", 
+      "under": null
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr686-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }, 
+    {
+      "activity": [
+        "hearings"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA", 
+      "subcommittee": "Subcommittee on Capital Markets and Government Sponsored Enterprises", 
+      "subcommittee_id": "16"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "8", 
+      "name": "Brady, Kevin", 
+      "sponsored_at": "2016-01-28", 
+      "state": "TX", 
+      "thomas_id": "01468", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "26", 
+      "name": "Curbelo, Carlos", 
+      "sponsored_at": "2015-03-04", 
+      "state": "FL", 
+      "thomas_id": "02235", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Emmer, Tom", 
+      "sponsored_at": "2015-09-22", 
+      "state": "MN", 
+      "thomas_id": "02253", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "26", 
+      "name": "Higgins, Brian", 
+      "sponsored_at": "2015-02-03", 
+      "state": "NY", 
+      "thomas_id": "01794", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Jolly, David W.", 
+      "sponsored_at": "2015-06-10", 
+      "state": "FL", 
+      "thomas_id": "02199", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Kuster, Ann M.", 
+      "sponsored_at": "2015-06-24", 
+      "state": "NH", 
+      "thomas_id": "02145", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Lofgren, Zoe", 
+      "sponsored_at": "2015-05-01", 
+      "state": "CA", 
+      "thomas_id": "00701", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Lucas, Frank D.", 
+      "sponsored_at": "2015-05-13", 
+      "state": "OK", 
+      "thomas_id": "00711", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Posey, Bill", 
+      "sponsored_at": "2015-02-03", 
+      "state": "FL", 
+      "thomas_id": "01915", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Ross, Dennis A.", 
+      "sponsored_at": "2015-12-01", 
+      "state": "FL", 
+      "thomas_id": "02003", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-04-29", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-02-03", 
+  "number": "686", 
+  "official_title": "To amend the Securities Exchange Act of 1934 to exempt from registration brokers performing services in connection with the transfer of ownership of smaller privately held companies.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr37-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr1675-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s1010-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Small Business Mergers, Acquisitions, Sales, and Brokerage Simplification Act of 2015", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Huizenga, Bill", 
+    "state": "MI", 
+    "thomas_id": "02028", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2015-05-20", 
+  "subjects": [
+    "Banking and financial institutions regulation", 
+    "Business records", 
+    "Corporate finance and management", 
+    "Finance and financial sector", 
+    "Licensing and registrations", 
+    "Securities", 
+    "Small business"
+  ], 
+  "subjects_top_term": "Finance and financial sector", 
+  "summary": {
+    "as": "Reported to House without amendment", 
+    "date": "2016-01-28", 
+    "text": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)\n\nSmall Business Mergers, Acquisitions, Sales, and Brokerage Simplification Act of 2015\n\n (Sec. 2) This bill amends the Securities Exchange Act of 1934 to exempt from its registration requirements certain merger and acquisition brokers and associated persons.\n\nA merger and acquisition broker shall not be exempt from registration, however, if the broker: (1) receives, holds, transmits, or has custody of any funds or securities to be exchanged by parties to a transfer of ownership of an eligible privately held company; or (2) engages on behalf of an issuer in a public offering of securities that are either subject to mandatory registration, or with respect to which the issuer must file periodic information, documents, and reports.\n\nNothing in this Act shall be construed to limit any other authority of the Securities and Exchange Commission to exempt any person, or any class of persons, from any provision of this Act, including any related rule or regulation."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Small Business Mergers, Acquisitions, Sales, and Brokerage Simplification Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Small Business Mergers, Acquisitions, Sales, and Brokerage Simplification Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Securities Exchange Act of 1934 to exempt from registration brokers performing services in connection with the transfer of ownership of smaller privately held companies.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:29:00-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR686:@@@L&summ2=m&"
+}

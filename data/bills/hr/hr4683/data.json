@@ -1,0 +1,336 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-03-03", 
+      "committees": [
+        "HSAS"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Armed Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-03-21", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Military Personnel.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4683-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS", 
+      "subcommittee": "Subcommittee on Military Personnel", 
+      "subcommittee_id": "02"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "5", 
+      "name": "Abraham, Ralph Lee", 
+      "sponsored_at": "2016-05-24", 
+      "state": "LA", 
+      "thomas_id": "02244", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "31", 
+      "name": "Aguilar, Pete", 
+      "sponsored_at": "2016-05-23", 
+      "state": "CA", 
+      "thomas_id": "02229", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Blumenauer, Earl", 
+      "sponsored_at": "2016-06-07", 
+      "state": "OR", 
+      "thomas_id": "00099", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Crowley, Joseph", 
+      "sponsored_at": "2016-03-23", 
+      "state": "NY", 
+      "thomas_id": "01604", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Dold, Robert J.", 
+      "sponsored_at": "2016-04-20", 
+      "state": "IL", 
+      "thomas_id": "02013", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Duckworth, Tammy", 
+      "sponsored_at": "2016-03-03", 
+      "state": "IL", 
+      "thomas_id": "02123", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Gabbard, Tulsi", 
+      "sponsored_at": "2016-04-13", 
+      "state": "HI", 
+      "thomas_id": "02122", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Gallego, Ruben", 
+      "sponsored_at": "2016-03-03", 
+      "state": "AZ", 
+      "thomas_id": "02226", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Gibson, Christopher P.", 
+      "sponsored_at": "2016-03-14", 
+      "state": "NY", 
+      "thomas_id": "02043", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Israel, Steve", 
+      "sponsored_at": "2016-03-14", 
+      "state": "NY", 
+      "thomas_id": "01663", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Jenkins, Lynn", 
+      "sponsored_at": "2016-03-17", 
+      "state": "KS", 
+      "thomas_id": "01921", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Jones, Walter B., Jr.", 
+      "sponsored_at": "2016-03-03", 
+      "state": "NC", 
+      "thomas_id": "00612", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Joyce, David P.", 
+      "sponsored_at": "2016-04-26", 
+      "state": "OH", 
+      "thomas_id": "02154", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "King, Peter T.", 
+      "sponsored_at": "2016-03-03", 
+      "state": "NY", 
+      "thomas_id": "00635", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Meehan, Patrick", 
+      "sponsored_at": "2016-03-17", 
+      "state": "PA", 
+      "thomas_id": "02052", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Moulton, Seth", 
+      "sponsored_at": "2016-03-03", 
+      "state": "MA", 
+      "thomas_id": "02246", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Murphy, Patrick", 
+      "sponsored_at": "2016-03-03", 
+      "state": "FL", 
+      "thomas_id": "02117", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "O'Rourke, Beto", 
+      "sponsored_at": "2016-04-20", 
+      "state": "TX", 
+      "thomas_id": "02162", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Radewagen, Aumua Amata Coleman", 
+      "sponsored_at": "2016-05-16", 
+      "state": "AS", 
+      "thomas_id": "02222", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Rice, Kathleen M.", 
+      "sponsored_at": "2016-03-03", 
+      "state": "NY", 
+      "thomas_id": "02262", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Russell, Steve", 
+      "sponsored_at": "2016-03-03", 
+      "state": "OK", 
+      "thomas_id": "02265", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Tsongas, Niki", 
+      "sponsored_at": "2016-05-23", 
+      "state": "MA", 
+      "thomas_id": "01884", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Walz, Timothy J.", 
+      "sponsored_at": "2016-03-03", 
+      "state": "MN", 
+      "thomas_id": "01856", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Zeldin, Lee M.", 
+      "sponsored_at": "2016-03-03", 
+      "state": "NY", 
+      "thomas_id": "02261", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Zinke, Ryan K.", 
+      "sponsored_at": "2016-03-03", 
+      "state": "MT", 
+      "thomas_id": "02254", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-03-03", 
+  "number": "4683", 
+  "official_title": "To amend title 10, United States Code, to provide for a review of the characterization or terms of discharge from the Armed Forces of individuals with mental health disorders alleged to affect terms of discharge.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1567-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Fairness for Veterans Act of 2016", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Coffman, Mike", 
+    "state": "CO", 
+    "thomas_id": "01912", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-03-03", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Assault and harassment offenses", 
+    "Crime victims", 
+    "Emergency medical services and trauma care", 
+    "Health information and medical records", 
+    "Medical tests and diagnostic methods", 
+    "Mental health", 
+    "Military medicine", 
+    "Military personnel and dependents", 
+    "Neurological disorders", 
+    "Sex offenses", 
+    "Veterans' medical care"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2016-03-03", 
+    "text": "Fairness for Veterans Act of 2016\n\nThis bill addresses medical evidence reviews in the case of: (1) a former member of the Armed Forces who was deployed in a contingency operation and subsequently diagnosed as suffering from post-traumatic stress disorder or traumatic brain injury as a consequence of such deployment, or (2) a former member whose application for relief from the terms of his or her military discharge is based in whole or in part on matters relating to post-traumatic stress disorder or traumatic brain injury related to combat or military sexual trauma.\n\nAny board of review shall:\n\n review medical evidence of the Department of Veterans Affairs or a civilian health care provider presented by the former member, and review the case with a rebuttable presumption in favor of the former member that post-traumatic stress disorder or traumatic brain injury materially contributed to the circumstances resulting in the discharge of a lesser characterization."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Fairness for Veterans Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 10, United States Code, to provide for a review of the characterization or terms of discharge from the Armed Forces of individuals with mental health disorders alleged to affect terms of discharge.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:02:49-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4683:@@@L&summ2=m&"
+}

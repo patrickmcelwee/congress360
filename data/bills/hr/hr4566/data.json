@@ -1,0 +1,140 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-02-12", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-02-17", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Federal Lands.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-02-17", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Energy and Mineral Resources.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4566-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Federal Lands", 
+      "subcommittee_id": "10"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Energy and Mineral Resources", 
+      "subcommittee_id": "06"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "27", 
+      "name": "Chu, Judy", 
+      "sponsored_at": "2016-02-12", 
+      "state": "CA", 
+      "thomas_id": "01970", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "28", 
+      "name": "Schiff, Adam B.", 
+      "sponsored_at": "2016-02-12", 
+      "state": "CA", 
+      "thomas_id": "01635", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "30", 
+      "name": "Sherman, Brad", 
+      "sponsored_at": "2016-02-12", 
+      "state": "CA", 
+      "thomas_id": "01526", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-02-12", 
+  "number": "4566", 
+  "official_title": "To withdraw certain lands in Los Angeles County, California, from entry, appropriation, or disposal under the public land laws, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Soledad Canyon Consistency Act", 
+  "sponsor": {
+    "district": "25", 
+    "name": "Knight, Stephen", 
+    "state": "CA", 
+    "thomas_id": "02228", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-02-12", 
+  "subjects": [
+    "California", 
+    "Land transfers", 
+    "Mining", 
+    "Public lands and natural resources"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2016-02-12", 
+    "text": "Soledad Canyon Consistency Act\n\nThis bill withdraws 640.16 acres of the Soledad Canyon Sand & Gravel Mining Project Site (California) from:\n\n entry, appropriation, or disposal under the public land laws; location, entry, and patent under the mining laws; and operation of the mineral leasing, mineral materials, and geothermal leasing laws."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Soledad Canyon Consistency Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To withdraw certain lands in Los Angeles County, California, from entry, appropriation, or disposal under the public land laws, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:01:51-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4566:@@@L&summ2=m&"
+}

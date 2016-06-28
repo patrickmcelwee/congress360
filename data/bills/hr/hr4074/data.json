@@ -1,0 +1,91 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-11-18", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-12-04", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Immigration and Border Security.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4074-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Immigration and Border Security", 
+      "subcommittee_id": "01"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-11-18", 
+  "number": "4074", 
+  "official_title": "To require the Secretary of Homeland Security to collect data regarding foreign travel, or repatriation, to the country of nationality or last habitual residence by an alien admitted to the United States as a refugee, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "8", 
+    "name": "Scott, Austin", 
+    "state": "GA", 
+    "thomas_id": "02009", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-11-18", 
+  "subjects": [
+    "Congressional oversight", 
+    "Government information and archives", 
+    "Immigration", 
+    "Immigration status and procedures", 
+    "Refugees, asylum, displaced persons"
+  ], 
+  "subjects_top_term": "Immigration", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-11-18", 
+    "text": "This bill directs the Department of Homeland Security (DHS) to collect data, and report annually to Congress, regarding instances in which an alien admitted to the United States as a refugee returns temporarily or permanently: (1) to the country of the alien's nationality at the time of such admission; or (2) in the case of an alien having no nationality at the time of such admission, to the country in which the alien last habitually resided prior to such admission.\n\nThe bill prohibits DHS from admitting aliens into the United States as refugees until Congress passes a joint resolution giving DHS authority to resume admitting such aliens."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require the Secretary of Homeland Security to collect data regarding foreign travel, or repatriation, to the country of nationality or last habitual residence by an alien admitted to the United States as a refugee, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:57:44-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4074:@@@L&summ2=m&"
+}

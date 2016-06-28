@@ -1,0 +1,123 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-07-08", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-07-17", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2974-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Benishek, Dan", 
+      "sponsored_at": "2015-07-08", 
+      "state": "MI", 
+      "thomas_id": "02027", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "52", 
+      "name": "Peters, Scott H.", 
+      "sponsored_at": "2015-07-23", 
+      "state": "CA", 
+      "thomas_id": "02113", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "51", 
+      "name": "Vargas, Juan", 
+      "sponsored_at": "2015-07-14", 
+      "state": "CA", 
+      "thomas_id": "02112", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-07-08", 
+  "number": "2974", 
+  "official_title": "To amend the Veterans Access, Choice, and Accountability Act of 2014 to increase the duration of follow-up care provided under the Veterans Choice Program.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Veteran Continuity of Care Act", 
+  "sponsor": {
+    "district": "26", 
+    "name": "Brownley, Julia", 
+    "state": "CA", 
+    "thomas_id": "02106", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-07-08", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Hospital care", 
+    "Veterans' medical care"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-07-08", 
+    "text": "Veteran Continuity of Care Act\n\nThis bill amends the Veterans Access, Choice, and Accountability Act of 2014 to eliminate the 60-day limit on follow-up health care provided under the veterans choice program."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Veteran Continuity of Care Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Veterans Access, Choice, and Accountability Act of 2014 to increase the duration of follow-up care provided under the Veterans Choice Program.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:48:33-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2974:@@@L&summ2=m&"
+}

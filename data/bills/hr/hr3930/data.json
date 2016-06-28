@@ -1,0 +1,104 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-11-04", 
+      "references": [
+        {
+          "reference": "CR E1592", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-11-04", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-11-06", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3930-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-11-04", 
+  "number": "3930", 
+  "official_title": "To amend title XIX of the Social Security Act to increase the Federal medical assistance percentage for the District of Columbia under the Medicaid Program to 80 percent.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "District of Columbia Medicaid Reimbursement Act of 2015", 
+  "sponsor": {
+    "district": null, 
+    "name": "Norton, Eleanor Holmes", 
+    "state": "DC", 
+    "thomas_id": "00868", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-11-04", 
+  "subjects": [
+    "District of Columbia", 
+    "Health", 
+    "Intergovernmental relations", 
+    "Medicaid", 
+    "State and local finance"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "District of Columbia Medicaid Reimbursement Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title XIX of the Social Security Act to increase the Federal medical assistance percentage for the District of Columbia under the Medicaid Program to 80 percent.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:56:31-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3930:@@@L&summ2=m&"
+}

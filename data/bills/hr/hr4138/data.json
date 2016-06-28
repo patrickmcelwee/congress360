@@ -1,0 +1,224 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-12-01", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-12-01", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "text": "Referred to House Veterans' Affairs", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-12-01", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "text": "Referred to House Oversight and Government Reform", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-12-03", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Economic Opportunity.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-04-14", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-11", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-11", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee by the Yeas and Nays: 5 - 3 .", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-18", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-18", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by the Yeas and Nays: 18 - 4.", 
+      "type": "calendar"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4138-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR", 
+      "subcommittee": "Subcommittee on Economic Opportunity", 
+      "subcommittee_id": "10"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Oversight and Government Reform", 
+      "committee_id": "HSGO"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Bridenstine, Jim", 
+      "sponsored_at": "2015-12-01", 
+      "state": "OK", 
+      "thomas_id": "02155", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Costello, Ryan A.", 
+      "sponsored_at": "2015-12-01", 
+      "state": "PA", 
+      "thomas_id": "02266", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Dold, Robert J.", 
+      "sponsored_at": "2015-12-15", 
+      "state": "IL", 
+      "thomas_id": "02013", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "27", 
+      "name": "Farenthold, Blake", 
+      "sponsored_at": "2015-12-15", 
+      "state": "TX", 
+      "thomas_id": "02067", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Goodlatte, Bob", 
+      "sponsored_at": "2016-02-23", 
+      "state": "VA", 
+      "thomas_id": "00446", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Huelskamp, Tim", 
+      "sponsored_at": "2015-12-07", 
+      "state": "KS", 
+      "thomas_id": "02020", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Jones, Walter B., Jr.", 
+      "sponsored_at": "2015-12-07", 
+      "state": "NC", 
+      "thomas_id": "00612", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2016-04-14", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-12-01", 
+  "number": "4138", 
+  "official_title": "To authorize the Secretary of Veterans Affairs to recoup relocation expenses paid to or on behalf of employees of the Department of Veterans Affairs.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "1", 
+    "name": "Miller, Jeff", 
+    "state": "FL", 
+    "thomas_id": "01685", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2016-05-18", 
+  "subjects": [
+    "Administrative remedies", 
+    "Armed forces and national security", 
+    "Department of Veterans Affairs", 
+    "Government employee pay, benefits, personnel management", 
+    "Transportation costs"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-12-01", 
+    "text": "This bill authorizes the Department of Veterans Affairs (VA) to direct a VA employee to repay all or part of the transferee relocation expenses paid to the employee if: (1) the VA determines such repayment is appropriate, and (2) the employee is afforded notice and opportunity for a hearing conducted by another federal department or agency before repayment.\n\n A decision regarding employee repayment shall be final and may not be reviewed by any department, agency, or court."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To authorize the Secretary of Veterans Affairs to recoup relocation expenses paid to or on behalf of employees of the Department of Veterans Affairs.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:58:16-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4138:@@@L&summ2=m&"
+}

@@ -1,0 +1,102 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-09-29", 
+      "references": [
+        {
+          "reference": "CR E1388", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-29", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-09-29", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Social Security.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3642-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM", 
+      "subcommittee": "Subcommittee on Social Security", 
+      "subcommittee_id": "01"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-09-29", 
+  "number": "3642", 
+  "official_title": "To provide for increased flexibility in the extension of the Social Security program to Guam.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Bordallo, Madeleine Z.", 
+    "state": "GU", 
+    "thomas_id": "01723", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-09-29", 
+  "subjects": [
+    "Government employee pay, benefits, personnel management", 
+    "Guam", 
+    "Social security and elderly assistance", 
+    "Social welfare", 
+    "State and local government operations"
+  ], 
+  "subjects_top_term": "Social welfare", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-09-29", 
+    "text": "This bill amends the Social Security Amendments of 1960 with respect to the extension of the Social Security program to Guam.\n\nIf certain legislation enacted by the government of Guam expresses the desire that title II (Old Age, Survivors and Disability Insurance) (OASDI) of the Social Security Act (SSAct) extend only to those officers and employees initially employed by the government of Guam, local governments, and government instrumentalities, then specified other SSAct provisions shall apply to only those individuals."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide for increased flexibility in the extension of the Social Security program to Guam.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:54:07-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3642:@@@L&summ2=m&"
+}

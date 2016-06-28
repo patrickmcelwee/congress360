@@ -1,0 +1,133 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-01-20", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Ways and Means, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-01-20", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "text": "Referred to House Ways and Means", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-01-20", 
+      "committees": [
+        "HSHA"
+      ], 
+      "references": [], 
+      "text": "Referred to House House Administration", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-03-04", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-12-03T11:27:00-05:00", 
+      "committees": [
+        "HSHA"
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on House Administration. H. Rept. 114-362, Part I.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr412-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Administration", 
+      "committee_id": "HSHA"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "10", 
+      "name": "Comstock, Barbara", 
+      "sponsored_at": "2015-03-04", 
+      "state": "VA", 
+      "thomas_id": "02273", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-03-04", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-01-20", 
+  "number": "412", 
+  "official_title": "To reduce Federal spending and the deficit by terminating taxpayer financing of presidential election campaigns.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "4", 
+    "name": "Cole, Tom", 
+    "state": "OK", 
+    "thomas_id": "01742", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-01-20", 
+  "subjects": [
+    "Budget deficits and national debt", 
+    "Child health", 
+    "Elections, voting, political campaign regulation", 
+    "Government trust funds", 
+    "Health programs administration and funding", 
+    "Medical research", 
+    "Research administration and funding", 
+    "Tax administration and collection, taxpayers", 
+    "Taxation"
+  ], 
+  "subjects_top_term": "Taxation", 
+  "summary": {
+    "as": "Reported to House without amendment, Part I", 
+    "date": "2015-12-03", 
+    "text": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)\n\nThis bill amends the Internal Revenue Code to terminate: (1) the taxpayer election to designate $3 of income tax liability for financing of presidential election campaigns for taxable years beginning after December 31, 2014, (2) the Presidential Election Campaign Fund, and (3) the Presidential Primary Matching Payment Account.\n\nOf the amounts in the Fund as of the date of enactment of this Act: (1) a specified amount shall be transferred to the 10-Year Pediatric Research Initiative Fund, and (2) the remainder shall be transferred to the general fund of the Treasury to be used only for reducing the budget deficit."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To reduce Federal spending and the deficit by terminating taxpayer financing of presidential election campaigns.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:26:40-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR412:@@@L&summ2=m&"
+}

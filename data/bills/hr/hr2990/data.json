@@ -1,0 +1,123 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-07-09", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-07-14", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Human Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-05-11", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-11", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2990-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM", 
+      "subcommittee": "Subcommittee on Human Resources", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "23", 
+      "name": "Reed, Tom", 
+      "sponsored_at": "2016-02-12", 
+      "state": "NY", 
+      "thomas_id": "01982", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2016-05-11", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-07-09", 
+  "number": "2990", 
+  "official_title": "To provide for the conduct of demonstration projects to test the effectiveness of subsidized employment for TANF recipients.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Accelerating Individuals into the Workforce Act", 
+  "sponsor": {
+    "district": "10", 
+    "name": "Dold, Robert J.", 
+    "state": "IL", 
+    "thomas_id": "02013", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2016-05-11", 
+  "subjects": [
+    "Employment and training programs", 
+    "Poverty and welfare assistance", 
+    "Social welfare", 
+    "Wages and earnings"
+  ], 
+  "subjects_top_term": "Social welfare", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-07-09", 
+    "text": "Accelerating Individuals into the Workforce Act \n\nThis bill amends part A (Temporary Assistance for Needy Families) (TANF) of title IV of the Social Security Act to direct the Department of Health and Human Services to make grants to states to conduct demonstration projects designed to implement and evaluate strategies that provide wage subsidies to enable low-income individuals to enter into and retain employment."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Accelerating Individuals into the Workforce Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide for the conduct of demonstration projects to test the effectiveness of subsidized employment for TANF recipients.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:48:41-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2990:@@@L&summ2=m&"
+}

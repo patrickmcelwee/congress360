@@ -1,0 +1,148 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-10-28", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-10-28", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Energy and Mineral Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-11-04", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-14", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Subcommittee on Energy and Mineral Resources Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-14", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-15", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-15", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Unanimous Consent.", 
+      "type": "calendar"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3844-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "discharged"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Energy and Mineral Resources", 
+      "subcommittee_id": "06"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "47", 
+      "name": "Lowenthal, Alan S.", 
+      "sponsored_at": "2016-06-13", 
+      "state": "CA", 
+      "thomas_id": "02111", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-11-04", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-10-28", 
+  "number": "3844", 
+  "official_title": "To establish the Energy and Minerals Reclamation Foundation to encourage, obtain, and use gifts, devises, and bequests for projects to reclaim abandoned mine lands and orphan oil and gas well sites, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Energy and Minerals Reclamation Foundation Establishment Act of 2015", 
+  "sponsor": {
+    "district": "10", 
+    "name": "Hice, Jody B.", 
+    "state": "GA", 
+    "thomas_id": "02237", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2016-06-15", 
+  "subjects": [
+    "Environmental protection", 
+    "Historic sites and heritage areas", 
+    "Land transfers", 
+    "Land use and conservation", 
+    "Mining", 
+    "Oil and gas", 
+    "Outdoor recreation", 
+    "Social work, volunteer service, charitable organizations", 
+    "Wildlife conservation and habitat protection"
+  ], 
+  "subjects_top_term": "Environmental protection", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Energy and Minerals Reclamation Foundation Establishment Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To establish the Energy and Minerals Reclamation Foundation to encourage, obtain, and use gifts, devises, and bequests for projects to reclaim abandoned mine lands and orphan oil and gas well sites, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:55:48-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3844:@@@L&summ2=m&"
+}

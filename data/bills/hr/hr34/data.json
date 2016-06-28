@@ -1,0 +1,351 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-01-06", 
+      "committees": [
+        "HSSY"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Science, Space, and Technology.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-01-07T14:21:00-05:00", 
+      "references": [], 
+      "text": "Mr. Smith (TX) moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-07T14:21:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H87-92", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-07T14:21:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 34.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-07T14:38:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H87-90", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2015-01-07T14:38:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-08", 
+      "committees": [
+        "SSCM"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-02-26", 
+      "committees": [
+        "SSCM"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2015-09-22", 
+      "committee": "Commerce, Science, and Transportation", 
+      "committees": [
+        "SSCM"
+      ], 
+      "references": [], 
+      "text": "Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 114-146.", 
+      "type": "reported"
+    }, 
+    {
+      "acted_at": "2015-09-22", 
+      "calendar": "Senate Legislative", 
+      "number": "237", 
+      "references": [], 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 237.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }, 
+    {
+      "acted_at": "2015-10-06", 
+      "references": [
+        {
+          "reference": "CR S7167-7171", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Measure laid before Senate by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-10-06", 
+      "references": [
+        {
+          "reference": "CR S7167-7171", 
+          "type": "text of committee substitute as amended"
+        }
+      ], 
+      "text": "The committee substitute as amended agreed to by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-10-06", 
+      "how": "by Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_BACK:SENATE", 
+      "text": "Passed Senate with an amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2015-10-07", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-11-23", 
+      "references": [], 
+      "text": "An errata sheet on written report No. 114-146 was printed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-11-30", 
+      "references": [
+        {
+          "reference": "114 S.Rept.146", 
+          "type": null
+        }, 
+        {
+          "reference": "errata printed", 
+          "type": null
+        }
+      ], 
+      "text": "Star Print ordered on the errata sheet.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "samdt2709-114", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2709"
+    }
+  ], 
+  "bill_id": "hr34-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Science, Space, and Technology", 
+      "committee_id": "HSSY"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "Senate Commerce, Science, and Transportation", 
+      "committee_id": "SSCM"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "4", 
+      "name": "DeFazio, Peter A.", 
+      "sponsored_at": "2015-01-06", 
+      "state": "OR", 
+      "thomas_id": "00279", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Herrera Beutler, Jaime", 
+      "sponsored_at": "2015-01-07", 
+      "state": "WA", 
+      "thomas_id": "02071", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "30", 
+      "name": "Johnson, Eddie Bernice", 
+      "sponsored_at": "2015-01-06", 
+      "state": "TX", 
+      "thomas_id": "00599", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "48", 
+      "name": "Rohrabacher, Dana", 
+      "sponsored_at": "2015-01-06", 
+      "state": "CA", 
+      "thomas_id": "00979", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Sablan, Gregorio Kilili Camacho", 
+      "sponsored_at": "2015-01-06", 
+      "state": "MP", 
+      "thomas_id": "01962", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Schrader, Kurt", 
+      "sponsored_at": "2015-01-06", 
+      "state": "OR", 
+      "thomas_id": "01950", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "Smith, Lamar", 
+      "sponsored_at": "2015-01-06", 
+      "state": "TX", 
+      "thomas_id": "01075", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-01-07T14:21:00-05:00", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2015-01-07T14:38:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2015-10-06", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-01-06", 
+  "number": "34", 
+  "official_title": "To authorize and strengthen the tsunami detection, forecast, warning, research, and mitigation program of the National Oceanic and Atmospheric Administration, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s533-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Tsunami Warning, Education, and Research Act of 2015", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Bonamici, Suzanne", 
+    "state": "OR", 
+    "thomas_id": "02092", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_BACK:SENATE", 
+  "status_at": "2015-10-06", 
+  "subjects": [
+    "Advisory bodies", 
+    "Alaska", 
+    "Atlantic Ocean", 
+    "Atmospheric science and weather", 
+    "California", 
+    "Caribbean Sea", 
+    "Computers and information technology", 
+    "Congressional oversight", 
+    "Emergency planning and evacuation", 
+    "Floods and storm protection", 
+    "Gulf of Mexico", 
+    "Hawaii", 
+    "Idaho", 
+    "International organizations and cooperation", 
+    "Marine and coastal resources, fisheries", 
+    "Natural disasters", 
+    "Oregon", 
+    "Pacific Ocean", 
+    "Research administration and funding", 
+    "Science, technology, communications", 
+    "Technology transfer and commercialization", 
+    "Washington State"
+  ], 
+  "subjects_top_term": "Science, technology, communications", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2015-01-07", 
+    "text": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)\n\nTsunami Warning, Education, and Research Act of 2015\n\nReauthorizes the Tsunami Warning and Education Act through FY2017.\n\n(Sec. 4) Consolidates separate tsunami warning systems for the Pacific and Arctic Oceans and for the Atlantic Ocean into a single warning system. Requires the system to support international tsunami forecasting and warning efforts.\n\nRequires the National Oceanic and Atmospheric Administration (NOAA) to support or maintain tsunami warning centers to support the national warning system and develop uniform operational procedures for the centers.\n\nRequires warning centers to utilize a range of models to predict tsunami arrival times and flooding estimates, and maintain a fail-safe warning capability and an ability to perform back-up duties for each other. Directs the centers to monitor coastal sea level monitoring stations and other data sources and evaluate landslides and volcanic eruptions that have the potential to generate tsunami.\n\nRequires the National Weather Service (NWS) to coordinate with the centers. Directs the NWS to ensure that resources are available to fulfill the obligations of this Act, including supercomputing resources.\n\nTransfers the responsibility for the maintenance of equipment and technology used to forecast tsunami from the NWS to NOAA. Repeals requirements concerning: (1) annual certification of equipment, and (2) notification to Congress of impaired forecasting capabilities due to equipment or system failures and problems in completing work associated with the forecasting and warning system.\n\n(Sec. 5) Modifies the tsunami hazard mitigation program to provide for: (1) technical and financial assistance; (2) the integration of tsunami preparedness and mitigation programs into resilience planning; (3) activities to support the development of regional hazard and risk assessments; and (4) dissemination of guidelines and standards for community planning, education, and training products, programs, and tools.\n\n(Sec. 6) Expands the tsunami research program, including by: (1) requiring the program to develop the technical basis for validation of tsunami maps, models, and forecasts; and (2) authorizing NOAA to develop a pilot project for near-field tsunami forecast development for the west coast's Cascadia region.\n\n(Sec. 7) Removes a requirement that NOAA operate an International Tsunami Information Center to improve preparedness for Pacific Ocean nations.\n\n(Sec. 8) Directs NOAA to: (1) designate an existing working group to serve as the Tsunami Science and Technology Advisory Panel to provide advice on matters regarding tsunami science, technology, and regional preparedness; (2) report on the implementation of the Tsunami Warning and Education Act; (3) develop and carry out formal outreach activities to improve tsunami education and awareness and foster the development of resilient communities; and (4) convene a coordinating committee to assist in the national tsunami hazard mitigation program."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Tsunami Warning, Education, and Research Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Tsunami Warning, Education, and Research Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to senate", 
+      "is_for_portion": false, 
+      "title": "Tsunami Warning, Education, and Research Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "is_for_portion": false, 
+      "title": "Tsunami Warning, Education, and Research Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To authorize and strengthen the tsunami detection, forecast, warning, research, and mitigation program of the National Oceanic and Atmospheric Administration, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:23:28-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR34:@@@L&summ2=m&"
+}

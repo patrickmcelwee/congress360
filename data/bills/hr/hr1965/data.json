@@ -1,0 +1,161 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-04-22", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Financial Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-04-29", 
+      "references": [], 
+      "text": "Hearings Held by the Subcommittee on Capital Markets and Government Sponsored Enterprises Prior to Referral.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-05-20", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-05-20", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by the Yeas and Nays: 44 - 11.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2016-01-28T14:49:00-05:00", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on Financial Services. H. Rept. 114-399.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-01-28T14:55:00-05:00", 
+      "calendar": "Union", 
+      "number": "302", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 302.", 
+      "type": "calendar", 
+      "under": null
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1965-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }, 
+    {
+      "activity": [
+        "hearings"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA", 
+      "subcommittee": "Subcommittee on Capital Markets and Government Sponsored Enterprises", 
+      "subcommittee_id": "16"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-04-29", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-04-22", 
+  "number": "1965", 
+  "official_title": "To exempt smaller public companies from requirements relating to the use of Extensible Business Reporting Language for periodic reporting to the Securities and Exchange Commission, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr37-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr1675-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr1912-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Small Company Disclosure Simplification Act", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Hurt, Robert", 
+    "state": "VA", 
+    "thomas_id": "02069", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2015-05-20", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Business investment and capital", 
+    "Business records", 
+    "Competition and antitrust", 
+    "Congressional oversight", 
+    "Corporate finance and management", 
+    "Finance and financial sector", 
+    "Financial services and investments", 
+    "Government studies and investigations", 
+    "Securities", 
+    "Securities and Exchange Commission (SEC)", 
+    "Small business"
+  ], 
+  "subjects_top_term": "Finance and financial sector", 
+  "summary": {
+    "as": "Reported to House without amendment", 
+    "date": "2016-01-28", 
+    "text": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)\n\nSmall Company Disclosure Simplification Act \n\n (Sec. 2) This bill exempts emerging growth companies and issuers with total annual gross revenues of less than $250 million from the requirement to use Extensible Business Reporting Language (XBRL) for financial statements and other mandatory periodic reporting filed with the Securities and Exchange Commission (SEC). Such companies, however, may elect to use XBRL for such reporting.\n\n(Sec. 3) The SEC shall: (1) analyze the costs and benefits to such issuers of the requirement to use XBRL for financial statements and other mandatory periodic reporting; and (2) report to certain congressional committees on the results of such analysis as well as on progress in implementing XBRL reporting within the SEC, and use of XBRL data by the SEC and by investors."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Small Company Disclosure Simplification Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Small Company Disclosure Simplification Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To exempt smaller public companies from requirements relating to the use of Extensible Business Reporting Language for periodic reporting to the Securities and Exchange Commission, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:39:57-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR1965:@@@L&summ2=m&"
+}

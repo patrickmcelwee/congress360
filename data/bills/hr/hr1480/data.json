@@ -1,0 +1,259 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-03-19", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Financial Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-03-25", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-03-26", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-03-26", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by the Yeas and Nays: 58 - 0.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2015-04-13T12:20:00-04:00", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on Financial Services. H. Rept. 114-62.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-04-13T12:21:00-04:00", 
+      "calendar": "Union", 
+      "number": "43", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 43.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2015-04-13T16:45:00-04:00", 
+      "references": [], 
+      "text": "Mr. Neugebauer moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-04-13T16:45:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2125-2126", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-04-13T16:45:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1480.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-04-13T16:52:00-04:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-04-13T19:09:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2128-2129", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-04-13T19:16:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H2126", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "147", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 401 - 0 (Roll no. 147).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2015-04-13T19:16:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-04-14", 
+      "committees": [
+        "SSBK"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1480-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Banking, Housing, and Urban Affairs", 
+      "committee_id": "SSBK"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "2", 
+      "name": "Huizenga, Bill", 
+      "sponsored_at": "2015-03-24", 
+      "state": "MI", 
+      "thomas_id": "02028", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Neugebauer, Randy", 
+      "sponsored_at": "2015-03-23", 
+      "state": "TX", 
+      "thomas_id": "01758", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Perlmutter, Ed", 
+      "sponsored_at": "2015-03-19", 
+      "state": "CO", 
+      "thomas_id": "01835", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "32", 
+      "name": "Sessions, Pete", 
+      "sponsored_at": "2015-03-24", 
+      "state": "TX", 
+      "thomas_id": "01525", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-03-25", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2015-04-13T19:16:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-03-19", 
+  "number": "1480", 
+  "official_title": "To ensure access to certain information for financial services industry regulators, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s372-114", 
+      "reason": "identical", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s1910-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "SAFE Act Confidentiality and Privilege Enhancement Act", 
+  "sponsor": {
+    "district": "10", 
+    "name": "Dold, Robert J.", 
+    "state": "IL", 
+    "thomas_id": "02013", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2015-04-13T19:16:00-04:00", 
+  "subjects": [
+    "Banking and financial institutions regulation", 
+    "Finance and financial sector", 
+    "Financial services and investments", 
+    "Right of privacy"
+  ], 
+  "subjects_top_term": "Finance and financial sector", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2015-04-13", 
+    "text": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)\n\nSAFE Act Confidentiality and Privilege Enhancement Act\n\n (Sec. 2) Amends the S.A.F.E. Mortgage Licensing Act of 2008 to extend to state and federal regulatory officials having financial services oversight authority (currently only those having mortgage oversight authority) access to any information provided to the Nationwide Mortgage Licensing System and Registry (or any system established by the Director of the Consumer Financial Protection Bureau without the loss of privilege or confidentiality protections provided by federal and state laws."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "SAFE Act Confidentiality and Privilege Enhancement Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "SAFE Act Confidentiality and Privilege Enhancement Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To ensure access to certain information for financial services industry regulators, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:35:48-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR1480:@@@L&summ2=m&"
+}

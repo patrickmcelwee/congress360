@@ -1,0 +1,184 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-11-16", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-11-16", 
+      "committees": [
+        "HSHM"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-11-17", 
+      "committees": [
+        "HSHM"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Subcommittee on Crime, Terrorism, Homeland Security, and Investigations Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-11-18", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-11-18", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4001-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Crime, Terrorism, Homeland Security, and Investigations", 
+      "subcommittee_id": "08"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "8", 
+      "name": "Bishop, Mike", 
+      "sponsored_at": "2015-11-18", 
+      "state": "MI", 
+      "thomas_id": "02249", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Conyers, John, Jr.", 
+      "sponsored_at": "2015-11-16", 
+      "state": "MI", 
+      "thomas_id": "00229", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Forbes, J. Randy", 
+      "sponsored_at": "2015-11-18", 
+      "state": "VA", 
+      "thomas_id": "01683", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Goodlatte, Bob", 
+      "sponsored_at": "2015-11-16", 
+      "state": "VA", 
+      "thomas_id": "00446", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Jackson Lee, Sheila", 
+      "sponsored_at": "2015-11-18", 
+      "state": "TX", 
+      "thomas_id": "00588", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Ratcliffe, John", 
+      "sponsored_at": "2015-11-18", 
+      "state": "TX", 
+      "thomas_id": "02268", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "45", 
+      "name": "Walters, Mimi", 
+      "sponsored_at": "2015-11-18", 
+      "state": "CA", 
+      "thomas_id": "02232", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-11-17", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-11-16", 
+  "number": "4001", 
+  "official_title": "To make technical amendments to title 18 of the United States Code based on the Law Revision Counsel's footnotes in that title.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Fix the Footnotes Act of 2015", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Buck, Ken", 
+    "state": "CO", 
+    "thomas_id": "02233", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2015-11-18", 
+  "subjects": [
+    "Crime and law enforcement"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Fix the Footnotes Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To make technical amendments to title 18 of the United States Code based on the Law Revision Counsel's footnotes in that title.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:57:07-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4001:@@@L&summ2=m&"
+}

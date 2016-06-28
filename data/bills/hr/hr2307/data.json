@@ -1,0 +1,124 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-05-13", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-06-04", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Federal Lands.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2307-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Federal Lands", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "2", 
+      "name": "Amodei, Mark E.", 
+      "sponsored_at": "2015-10-09", 
+      "state": "NV", 
+      "thomas_id": "02090", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Heck, Joseph J.", 
+      "sponsored_at": "2015-10-23", 
+      "state": "NV", 
+      "thomas_id": "02040", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Titus, Dina", 
+      "sponsored_at": "2015-11-03", 
+      "state": "NV", 
+      "thomas_id": "01940", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-05-13", 
+  "number": "2307", 
+  "official_title": "To validate final patent number 27-2005-0081, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1319-114", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "4", 
+    "name": "Hardy, Cresent", 
+    "state": "NV", 
+    "thomas_id": "02260", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-05-13", 
+  "subjects": [
+    "Environmental assessment, monitoring, research", 
+    "Land transfers", 
+    "Nevada", 
+    "Public lands and natural resources"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-05-13", 
+    "text": "Affirms and validates a specified patent and the associated land reconfiguration issued by the Bureau of Land Management (BLM) on February 18, 2005, as depicted on the map entitled \"Lincoln County Land Patent\" and dated December 4, 2014, as having been issued in compliance with the Nevada-Florida Land Exchange Authorization Act of 1988, the National Environmental Policy Act of 1969, and the Federal Land Policy Management Act of 1976 for the benefit and recovery of the desert tortoise, other species, and their habitat. Ratifies: (1) the process used by the U.S. Fish and Wildlife Service and the BLM in reconfiguring the land as shown in a specified environmental impact statement, and (2) the reconfiguration provided for in a specified Army Corps of Engineers permit.\n\nAuthorizes the BLM to issue a patent for specified acres of land in Lincoln County, Nevada, depicted on such map and described in the legal description of the proposed lease and fee land on file in the BLM's Ely District Office."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To validate final patent number 27-2005-0081, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:42:50-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2307:@@@L&summ2=m&"
+}

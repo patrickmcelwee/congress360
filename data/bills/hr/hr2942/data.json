@@ -1,0 +1,509 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-06-25", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-07-09", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Immigration and Border Security.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2942-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Immigration and Border Security", 
+      "subcommittee_id": "01"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "36", 
+      "name": "Babin, Brian", 
+      "sponsored_at": "2015-07-09", 
+      "state": "TX", 
+      "thomas_id": "02270", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Barletta, Lou", 
+      "sponsored_at": "2015-06-25", 
+      "state": "PA", 
+      "thomas_id": "02054", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Benishek, Dan", 
+      "sponsored_at": "2015-07-09", 
+      "state": "MI", 
+      "thomas_id": "02027", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Blum, Rod", 
+      "sponsored_at": "2015-07-09", 
+      "state": "IA", 
+      "thomas_id": "02241", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Brat, Dave", 
+      "sponsored_at": "2015-06-25", 
+      "state": "VA", 
+      "thomas_id": "02203", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Bridenstine, Jim", 
+      "sponsored_at": "2015-07-21", 
+      "state": "OK", 
+      "thomas_id": "02155", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Brooks, Mo", 
+      "sponsored_at": "2015-07-07", 
+      "state": "AL", 
+      "thomas_id": "01987", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Carter, Earl L. \"Buddy\"", 
+      "sponsored_at": "2015-07-28", 
+      "state": "GA", 
+      "thomas_id": "02236", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Chabot, Steve", 
+      "sponsored_at": "2015-07-23", 
+      "state": "OH", 
+      "thomas_id": "00186", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Clawson, Curt", 
+      "sponsored_at": "2015-07-09", 
+      "state": "FL", 
+      "thomas_id": "02200", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Cramer, Kevin", 
+      "sponsored_at": "2015-07-15", 
+      "state": "ND", 
+      "thomas_id": "02144", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Duncan, Jeff", 
+      "sponsored_at": "2015-06-25", 
+      "state": "SC", 
+      "thomas_id": "02057", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Duncan, John J., Jr.", 
+      "sponsored_at": "2015-07-07", 
+      "state": "TN", 
+      "thomas_id": "00322", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Emmer, Tom", 
+      "sponsored_at": "2015-07-15", 
+      "state": "MN", 
+      "thomas_id": "02253", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Fleming, John", 
+      "sponsored_at": "2015-07-07", 
+      "state": "LA", 
+      "thomas_id": "01924", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Flores, Bill", 
+      "sponsored_at": "2015-07-15", 
+      "state": "TX", 
+      "thomas_id": "02065", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Franks, Trent", 
+      "sponsored_at": "2015-06-25", 
+      "state": "AZ", 
+      "thomas_id": "01707", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Gibbs, Bob", 
+      "sponsored_at": "2015-07-09", 
+      "state": "OH", 
+      "thomas_id": "02049", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Gosar, Paul A.", 
+      "sponsored_at": "2015-06-25", 
+      "state": "AZ", 
+      "thomas_id": "01992", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Griffith, H. Morgan", 
+      "sponsored_at": "2016-06-14", 
+      "state": "VA", 
+      "thomas_id": "02070", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Grothman, Glenn", 
+      "sponsored_at": "2015-07-15", 
+      "state": "WI", 
+      "thomas_id": "02276", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Hartzler, Vicky", 
+      "sponsored_at": "2015-07-23", 
+      "state": "MO", 
+      "thomas_id": "02032", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "50", 
+      "name": "Hunter, Duncan D.", 
+      "sponsored_at": "2015-07-07", 
+      "state": "CA", 
+      "thomas_id": "01909", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Johnson, Sam", 
+      "sponsored_at": "2015-07-15", 
+      "state": "TX", 
+      "thomas_id": "00603", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Jolly, David W.", 
+      "sponsored_at": "2015-07-09", 
+      "state": "FL", 
+      "thomas_id": "02199", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Jones, Walter B., Jr.", 
+      "sponsored_at": "2015-07-09", 
+      "state": "NC", 
+      "thomas_id": "00612", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Kelly, Trent", 
+      "sponsored_at": "2015-07-15", 
+      "state": "MS", 
+      "thomas_id": "02294", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "LaMalfa, Doug", 
+      "sponsored_at": "2015-07-09", 
+      "state": "CA", 
+      "thomas_id": "02100", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Lamborn, Doug", 
+      "sponsored_at": "2015-07-09", 
+      "state": "CO", 
+      "thomas_id": "01834", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "McClintock, Tom", 
+      "sponsored_at": "2015-06-25", 
+      "state": "CA", 
+      "thomas_id": "01908", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "McKinley, David B.", 
+      "sponsored_at": "2015-07-10", 
+      "state": "WV", 
+      "thomas_id": "02074", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "McSally, Martha", 
+      "sponsored_at": "2015-06-25", 
+      "state": "AZ", 
+      "thomas_id": "02225", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Meadows, Mark", 
+      "sponsored_at": "2015-06-25", 
+      "state": "NC", 
+      "thomas_id": "02142", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Messer, Luke", 
+      "sponsored_at": "2015-07-29", 
+      "state": "IN", 
+      "thomas_id": "02130", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Mulvaney, Mick", 
+      "sponsored_at": "2015-07-07", 
+      "state": "SC", 
+      "thomas_id": "02059", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "Olson, Pete", 
+      "sponsored_at": "2015-07-15", 
+      "state": "TX", 
+      "thomas_id": "01955", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Palmer, Gary J.", 
+      "sponsored_at": "2015-07-09", 
+      "state": "AL", 
+      "thomas_id": "02221", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Ribble, Reid J.", 
+      "sponsored_at": "2015-07-09", 
+      "state": "WI", 
+      "thomas_id": "02073", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Rice, Tom", 
+      "sponsored_at": "2015-07-23", 
+      "state": "SC", 
+      "thomas_id": "02160", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Schweikert, David", 
+      "sponsored_at": "2015-06-25", 
+      "state": "AZ", 
+      "thomas_id": "01994", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Scott, Austin", 
+      "sponsored_at": "2016-04-13", 
+      "state": "GA", 
+      "thomas_id": "02009", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "32", 
+      "name": "Sessions, Pete", 
+      "sponsored_at": "2015-07-07", 
+      "state": "TX", 
+      "thomas_id": "01525", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Walker, Mark", 
+      "sponsored_at": "2015-06-25", 
+      "state": "NC", 
+      "thomas_id": "02255", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Weber, Randy K., Sr.", 
+      "sponsored_at": "2015-07-07", 
+      "state": "TX", 
+      "thomas_id": "02161", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Westmoreland, Lynn A.", 
+      "sponsored_at": "2015-07-21", 
+      "state": "GA", 
+      "thomas_id": "01779", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-06-25", 
+  "number": "2942", 
+  "official_title": "To require the Secretary of Homeland Security to detain any alien who is unlawfully present in the United States and is arrested for certain criminal offenses.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1752-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Stop Catch and Release Act of 2015", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Salmon, Matt", 
+    "state": "AZ", 
+    "thomas_id": "01009", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-06-25", 
+  "subjects": [
+    "Administrative remedies", 
+    "Border security and unlawful immigration", 
+    "Detention of persons", 
+    "Immigration", 
+    "Immigration status and procedures"
+  ], 
+  "subjects_top_term": "Immigration", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-06-25", 
+    "text": "Stop Catch and Release Act of 2015\n\nThis legislation amends the Immigration and Nationality Act to require mandatory detention of any alien who is unlawfully present in the United States and arrested for inadmissible or deportable crimes.\n\nThe bill transfers release authority from the Department of Justice to the Department of Homeland Security (DHS). DHS may release the alien to an appropriate authority for proceedings related to the arrest, but DHS must resume custody for any period that the alien is not in custody of the appropriate authority. If the alien is not convicted of crimes for which the alien was arrested, then DHS must continue to detain the alien until removal proceedings are completed.\n\nDHS must complete the removal proceedings within 90 days."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Stop Catch and Release Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require the Secretary of Homeland Security to detain any alien who is unlawfully present in the United States and is arrested for certain criminal offenses.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:48:17-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2942:@@@L&summ2=m&"
+}

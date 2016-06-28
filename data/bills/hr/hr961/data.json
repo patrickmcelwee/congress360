@@ -1,0 +1,270 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-02-12", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-09-17", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-17", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 22 - 11.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2015-10-23T13:54:00-04:00", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-307.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-10-23T13:54:00-04:00", 
+      "calendar": "Union", 
+      "number": "233", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 233.", 
+      "type": "calendar", 
+      "under": null
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr961-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "3", 
+      "name": "Boustany, Charles W., Jr.", 
+      "sponsored_at": "2015-02-12", 
+      "state": "LA", 
+      "thomas_id": "01787", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Johnson, Sam", 
+      "sponsored_at": "2015-07-15", 
+      "state": "TX", 
+      "thomas_id": "00603", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Kind, Ron", 
+      "sponsored_at": "2015-02-12", 
+      "state": "WI", 
+      "thomas_id": "01498", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Larson, John B.", 
+      "sponsored_at": "2015-02-12", 
+      "state": "CT", 
+      "thomas_id": "01583", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "24", 
+      "name": "Marchant, Kenny", 
+      "sponsored_at": "2015-07-22", 
+      "state": "TX", 
+      "thomas_id": "01806", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Neal, Richard E.", 
+      "sponsored_at": "2015-02-12", 
+      "state": "MA", 
+      "thomas_id": "00854", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Noem, Kristi L.", 
+      "sponsored_at": "2015-07-28", 
+      "state": "SD", 
+      "thomas_id": "02060", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Pascrell, Bill, Jr.", 
+      "sponsored_at": "2015-02-12", 
+      "state": "NJ", 
+      "thomas_id": "01510", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Paulsen, Erik", 
+      "sponsored_at": "2015-07-31", 
+      "state": "MN", 
+      "thomas_id": "01930", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "23", 
+      "name": "Reed, Tom", 
+      "sponsored_at": "2015-02-12", 
+      "state": "NY", 
+      "thomas_id": "01982", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Roskam, Peter J.", 
+      "sponsored_at": "2015-02-12", 
+      "state": "IL", 
+      "thomas_id": "01848", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "38", 
+      "name": "Sanchez, Linda T.", 
+      "sponsored_at": "2015-02-13", 
+      "state": "CA", 
+      "thomas_id": "01757", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Schock, Aaron", 
+      "sponsored_at": "2015-02-24", 
+      "state": "IL", 
+      "thomas_id": "01920", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Smith, Adrian", 
+      "sponsored_at": "2015-07-16", 
+      "state": "NE", 
+      "thomas_id": "01860", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Thompson, Mike", 
+      "sponsored_at": "2015-02-12", 
+      "state": "CA", 
+      "thomas_id": "01593", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Young, Todd C.", 
+      "sponsored_at": "2015-02-12", 
+      "state": "IN", 
+      "thomas_id": "02019", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-09-17", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-02-12", 
+  "number": "961", 
+  "official_title": "To amend the Internal Revenue Code of 1986 to permanently extend the subpart F exemption for active financing income.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1946-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Permanent Active Financing Exception Act of 2015", 
+  "sponsor": {
+    "district": "12", 
+    "name": "Tiberi, Patrick J.", 
+    "state": "OH", 
+    "thomas_id": "01664", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2015-09-17", 
+  "subjects": [
+    "Financial services and investments", 
+    "Foreign and international banking", 
+    "Foreign and international corporations", 
+    "Income tax exclusion", 
+    "Insurance industry and regulation", 
+    "Taxation", 
+    "Taxation of foreign income"
+  ], 
+  "subjects_top_term": "Taxation", 
+  "summary": {
+    "as": "Reported to House amended", 
+    "date": "2015-10-23", 
+    "text": "Permanent Active Financing Exception Act of 2015\n\n(Sec. 2) This bill amends the Internal Revenue Code to make permanent the subpart F foreign personal holding company income exemption for income that is derived in the active conduct of a banking, financing, or similar business, as a securities dealer, or in the conduct of an insurance business."
+  }, 
+  "titles": [
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Permanent Active Financing Exception Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Internal Revenue Code of 1986 to permanently extend the subpart F exemption for active financing income.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:31:18-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR961:@@@L&summ2=m&"
+}

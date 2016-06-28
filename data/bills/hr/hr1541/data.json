@@ -1,0 +1,353 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-03-23", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-04-07", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Federal Lands.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-09-09", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-10", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-10", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2015-09-10", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Subcommittee on Federal Lands Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-30T17:56:00-04:00", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-275.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-30T17:56:00-04:00", 
+      "calendar": "Union", 
+      "number": "207", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 207.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2015-11-30T17:03:00-05:00", 
+      "references": [], 
+      "text": "Mr. LaMalfa moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-11-30T17:03:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H8428-8429", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-11-30T17:03:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1541.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-11-30T17:07:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H8428", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2015-11-30T17:07:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-12-01", 
+      "committees": [
+        "SSEG"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1541-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Federal Lands", 
+      "subcommittee_id": "10"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Energy and Natural Resources", 
+      "committee_id": "SSEG"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "5", 
+      "name": "Brown, Corrine", 
+      "sponsored_at": "2015-03-23", 
+      "state": "FL", 
+      "thomas_id": "00132", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Clarke, Yvette D.", 
+      "sponsored_at": "2015-03-23", 
+      "state": "NY", 
+      "thomas_id": "01864", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Clay, Wm. Lacy", 
+      "sponsored_at": "2015-03-23", 
+      "state": "MO", 
+      "thomas_id": "01654", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Hastings, Alcee L.", 
+      "sponsored_at": "2015-03-23", 
+      "state": "FL", 
+      "thomas_id": "00511", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Lujan, Ben Ray", 
+      "sponsored_at": "2015-04-23", 
+      "state": "NM", 
+      "thomas_id": "01939", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "McNerney, Jerry", 
+      "sponsored_at": "2015-04-23", 
+      "state": "CA", 
+      "thomas_id": "01832", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "O'Rourke, Beto", 
+      "sponsored_at": "2015-04-16", 
+      "state": "TX", 
+      "thomas_id": "02162", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Pierluisi, Pedro R.", 
+      "sponsored_at": "2015-03-23", 
+      "state": "PR", 
+      "thomas_id": "01953", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Rangel, Charles B.", 
+      "sponsored_at": "2015-04-23", 
+      "state": "NY", 
+      "thomas_id": "00944", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "51", 
+      "name": "Vargas, Juan", 
+      "sponsored_at": "2015-03-23", 
+      "state": "CA", 
+      "thomas_id": "02112", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "34", 
+      "name": "Vela, Filemon", 
+      "sponsored_at": "2015-04-23", 
+      "state": "TX", 
+      "thomas_id": "02167", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-09-09", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2015-11-30T17:07:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-03-23", 
+  "number": "1541", 
+  "official_title": "To amend title 54, United States Code, to make Hispanic-serving institutions eligible for technical and financial assistance for the establishment of preservation training and degree programs.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s805-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s2012-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Preservation Research at Institutions Serving Minorities Act", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Grijalva, Raul M.", 
+    "state": "AZ", 
+    "thomas_id": "01708", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2015-11-30T17:07:00-05:00", 
+  "subjects": [
+    "Education programs funding", 
+    "Higher education", 
+    "Historic sites and heritage areas", 
+    "Minority education", 
+    "Public lands and natural resources"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2015-11-30", 
+    "text": "(This measure has not been amended since it was reported to the House on September 30, 2015. The summary of that version is repeated here.)\n\nPreservation Research at Institutions Serving Minorities Act or the PRISM Act\n\nThis bill makes Hispanic-serving institutions and Asian American and Native American Pacific Islander-serving institutions of higher education eligible for technical and financial assistance from the Department of the Interior to establish preservation training and degree programs."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Preservation Research at Institutions Serving Minorities Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "PRISM Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Preservation Research at Institutions Serving Minorities Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "PRISM Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Preservation Research at Institutions Serving Minorities Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "PRISM Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 54, United States Code, to make Hispanic-serving institutions eligible for technical and financial assistance for the establishment of preservation training and degree programs.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:36:19-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR1541:@@@L&summ2=m&"
+}

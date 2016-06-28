@@ -1,0 +1,243 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-11-18", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-12-03", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-12-08", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-09T15:52:00-05:00", 
+      "references": [], 
+      "text": "Mr. Miller (FL) moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-09T15:52:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H616-617", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-09T15:52:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 4056.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-09T15:59:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H616", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2016-02-09T15:59:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-09T15:59:00-05:00", 
+      "references": [], 
+      "text": "The title of the measure was amended. Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-10", 
+      "committees": [
+        "SSVA"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-02-22", 
+      "committees": [
+        "SSVA"
+      ], 
+      "references": [
+        {
+          "reference": "CR S914", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Senate Committee on Veterans' Affairs discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-22", 
+      "how": "by Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2016-02-23", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-25", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2016-02-29", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2016-02-29", 
+      "congress": "114", 
+      "law": "public", 
+      "number": "130", 
+      "references": [], 
+      "text": "Became Public Law No: 114-130.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4056-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "03"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Veterans' Affairs", 
+      "committee_id": "SSVA"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": {
+    "congress": "114", 
+    "law_type": "public", 
+    "number": "130"
+  }, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-12-08", 
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2016-02-29", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2016-02-09T15:59:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2016-02-22", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-11-18", 
+  "number": "4056", 
+  "official_title": "To direct the Secretary of Veterans Affairs to convey to the Florida Department of Veterans Affairs all right, title, and interest of the United States to the property known as \"The Community Living Center\" at the Lake Baldwin Veterans Affairs Outpatient Clinic, Orlando, Florida.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "7", 
+    "name": "Mica, John L.", 
+    "state": "FL", 
+    "thomas_id": "00800", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2016-02-29", 
+  "subjects": [
+    "Adult day care", 
+    "Armed forces and national security", 
+    "Department of Veterans Affairs", 
+    "Florida", 
+    "Health facilities and institutions", 
+    "Home and outpatient care", 
+    "Land transfers", 
+    "Long-term, rehabilitative, and terminal care", 
+    "State and local government operations", 
+    "Veterans' medical care"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2016-02-29", 
+    "text": "(This measure has not been amended since it was passed by the House on February 9, 2016. The summary of that version is repeated here.)\n\n(Sec. 1) This bill directs the Department of Veterans Affairs to convey to the Florida Department of Veterans Affairs all right, title, and interest of the United States in the property known as \"The Community Living Center\" at the Lake Baldwin Veterans Affairs Outpatient Clinic, Orlando, Florida.\n\n The deed of conveyance shall require all of the property to be used for the sole purpose of providing nursing home, domiciliary, or adult day health care to veterans."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To authorize the Secretary of Veterans Affairs to convey to the Florida Department of Veterans Affairs all right, title, and interest of the United States to the property known as \"The Community Living Center\" at the Lake Baldwin Veterans Affairs Outpatient Clinic, Orlando, Florida.", 
+      "type": "official"
+    }, 
+    {
+      "as": "amended by house", 
+      "is_for_portion": false, 
+      "title": "To direct the Secretary of Veterans Affairs to convey to the Florida Department of Veterans Affairs all right, title, and interest of the United States to the property known as \"The Community Living Center\" at the Lake Baldwin Veterans Affairs Outpatient Clinic, Orlando, Florida.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:57:35-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4056:@@@L&summ2=m&"
+}

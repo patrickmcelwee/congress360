@@ -1,0 +1,132 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-10-20", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-10-23", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-10-28", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Hearings Held (Part I).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-12-08", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Hearings Held (Part II).", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3764-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Indian, Insular and Alaska Native Affairs", 
+      "subcommittee_id": "24"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "6", 
+      "name": "Goodlatte, Bob", 
+      "sponsored_at": "2015-12-01", 
+      "state": "VA", 
+      "thomas_id": "00446", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Gosar, Paul A.", 
+      "sponsored_at": "2015-10-22", 
+      "state": "AZ", 
+      "thomas_id": "01992", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-10-28", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-10-20", 
+  "number": "3764", 
+  "official_title": "To provide that an Indian group may receive Federal acknowledgment as an Indian tribe only by an Act of Congress, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Tribal Recognition Act of 2015", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Bishop, Rob", 
+    "state": "UT", 
+    "thomas_id": "01753", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-10-20", 
+  "subjects": [
+    "Federal-Indian relations", 
+    "General Native American affairs matters", 
+    "Native Americans"
+  ], 
+  "subjects_top_term": "Native Americans", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-10-20", 
+    "text": "Tribal Recognition Act of 2015\n\nThis bill replaces the process for federal recognition of Indian tribes. Indian groups may only be recognized as an Indian tribe by Congress. Groups that are not federally recognized may submit a petition for federal recognition to the Bureau of Indian Affairs (BIA) and may file a letter of intent in advance. Groups may not be factions of recognized Indian tribes and may not have been denied federal recognition. The BIA must publish guidelines for the preparation of petitions and provide petitioners with suggestions and advice.\n\nThe bill specifies criteria for a group to be considered an Indian tribe, including that the group has been identified as an Indian entity on a substantially continuous basis since 1900, comprises a distinct community, and consists of individuals who descend from a historical Indian tribe. Previous federal recognition is acceptable evidence of the tribal character of a group to the date of the last such recognition.\n\nThe BIA must: (1) notify the group, the state in which the group is located, any tribes or petitioning groups that are related to or have a potential interest in the group, and the public of the receipt of a letter of intent or a petition; (2) conduct a preliminary review of a petition and notify the group of obvious deficiencies or significant omissions and provide the group with an opportunity to revise the petition; and (3) review each petition and may initiate additional research before reporting on the petition to Congress."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Tribal Recognition Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide that an Indian group may receive Federal acknowledgment as an Indian tribe only by an Act of Congress, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:55:08-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3764:@@@L&summ2=m&"
+}

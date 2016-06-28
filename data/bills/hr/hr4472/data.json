@@ -1,0 +1,274 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-02-04", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-02-09", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Human Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-03-16", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-03-16", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2016-03-21T15:37:00-04:00", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-460.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-03-21T15:38:00-04:00", 
+      "calendar": "Union", 
+      "number": "352", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 352.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2016-03-22T13:57:00-04:00", 
+      "references": [], 
+      "text": "Mr. Young (IN) moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-03-22T13:58:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H1524-1528", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-03-22T13:58:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 4472.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-03-22T14:20:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H1524-1525", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2016-03-22T14:20:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-04", 
+      "committees": [
+        "SSFI"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Finance.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4472-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM", 
+      "subcommittee": "Subcommittee on Human Resources", 
+      "subcommittee_id": "03"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Finance", 
+      "committee_id": "SSFI"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "3", 
+      "name": "Boustany, Charles W., Jr.", 
+      "sponsored_at": "2016-03-15", 
+      "state": "LA", 
+      "thomas_id": "01787", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Brooks, Susan W.", 
+      "sponsored_at": "2016-03-02", 
+      "state": "IN", 
+      "thomas_id": "02129", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Davis, Danny K.", 
+      "sponsored_at": "2016-02-04", 
+      "state": "IL", 
+      "thomas_id": "01477", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Kelly, Mike", 
+      "sponsored_at": "2016-03-15", 
+      "state": "PA", 
+      "thomas_id": "02051", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "Nunes, Devin", 
+      "sponsored_at": "2016-03-15", 
+      "state": "CA", 
+      "thomas_id": "01710", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Reichert, David G.", 
+      "sponsored_at": "2016-03-15", 
+      "state": "WA", 
+      "thomas_id": "01810", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Renacci, James B.", 
+      "sponsored_at": "2016-03-15", 
+      "state": "OH", 
+      "thomas_id": "02048", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2016-03-16", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2016-03-22T14:20:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-02-04", 
+  "number": "4472", 
+  "official_title": "To amend title IV of the Social Security Act to require States to adopt a centralized electronic system to help expedite the placement of children in foster care or guardianship, or for adoption, across State lines, and to provide grants to aid States in developing such a system, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2574-114", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Modernizing the Interstate Placement of Children in Foster Care Act", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Young, Todd C.", 
+    "state": "IN", 
+    "thomas_id": "02019", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2016-03-22T14:20:00-04:00", 
+  "subjects": [
+    "Adoption and foster care", 
+    "Families", 
+    "Family services", 
+    "Government information and archives", 
+    "Intergovernmental relations", 
+    "State and local government operations"
+  ], 
+  "subjects_top_term": "Families", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2016-03-22", 
+    "text": "Modernizing the Interstate Placement of Children in Foster Care Act\n\n(Sec. 3) This bill amends part E (Foster Care and Adoption Assistance) of title IV of the Social Security Act to require the procedures a state must have in effect for the orderly and timely interstate placement of children to include the use of an electronic interstate case-processing system.\n\n(Sec. 4) The bill also authorizes grants for development of an electronic interstate case-processing system to expedite the interstate placement of children in foster care, guardianship, or adoptive homes.\n\n(Sec. 5) Discretionary funding shall continue through FY2017 to promote safe and stable families.\n\n(Sec. 6) The Department of Health and Human Services shall reserve $5 million of the amount made available for such grants for FY2017, which reserved amount shall remain available through FY2021."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Modernizing the Interstate Placement of Children in Foster Care Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Modernizing the Interstate Placement of Children in Foster Care Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title IV of the Social Security Act to require States to adopt a centralized electronic system to help expedite the placement of children in foster care or guardianship, or for adoption, across State lines, and to provide grants to aid States in developing such a system, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:01:04-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4472:@@@L&summ2=m&"
+}

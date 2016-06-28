@@ -1,0 +1,146 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-02-02", 
+      "references": [
+        {
+          "reference": "CR E98", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-02", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-02-02", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "text": "Referred to House Transportation and Infrastructure", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-02-02", 
+      "committees": [
+        "HSSY"
+      ], 
+      "references": [], 
+      "text": "Referred to House Science, Space, and Technology", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-02-03", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Aviation.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4432-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Aviation", 
+      "subcommittee_id": "05"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Science, Space, and Technology", 
+      "committee_id": "HSSY"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-02-02", 
+  "number": "4432", 
+  "official_title": "To establish an interim rule for the operation of small unmanned aircraft for commercial purposes, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1314-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Commercial UAS Modernization Act", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Blumenauer, Earl", 
+    "state": "OR", 
+    "thomas_id": "00099", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-02-02", 
+  "subjects": [
+    "Accidents", 
+    "Administrative law and regulatory procedures", 
+    "Aviation and airports", 
+    "Department of Transportation", 
+    "Executive agency funding and structure", 
+    "Federal officials", 
+    "Licensing and registrations", 
+    "Life, casualty, property insurance", 
+    "Research and development", 
+    "Technology assessment", 
+    "Transportation and public works", 
+    "Transportation safety and security"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2016-02-02", 
+    "text": "Commercial UAS Modernization Act\n\nThis bill amends the FAA Modernization and Reform Act of 2012 to permit an individual to operate a small commercial unmanned aircraft without an airworthiness certificate within the United States until the effective date of a final rule based on the notice of proposed rulemaking \"Operation and Certification of Small Unmanned Aircraft Systems\" issued on February 23, 2015, subject to the following requirements:\n\n the Federal Aviation Administration (FAA) must receive an attestation that the aircraft owner has liability insurance covering its operation; the owner must register the aircraft; the operator must pass an initial aeronautical knowledge test developed by the FAA and a proficiency test administered by a test site for such aircraft; the aircraft may be operated for commercial purposes only in daylight conditions, under visual line of sight rules, lower than 500 feet above ground level, and only after a preflight inspection; and the aircraft shall yield right of way to all other users of the National Airspace System. Such an aircraft may not be operated: (1) until the operator of a test site certifies that it meets the requirements in the rulemaking notice and can operate within such restrictions; (2) unless the operator has prior authorization from the air traffic control facility having jurisdiction over the Class B, Class C, or Class D airspace or within the lateral boundaries of the surface area of Class E airspace designated for an airport; and (3) by any individual with any physical or mental condition that would interfere with safe operation of the aircraft.\n\nThe operator of a such an aircraft involved in an accident causing personal injury or property damage must report it to the FAA within two days.\n\nThe FAA shall provide for a micro UAS classification of unmanned aircraft systems, the aircraft component of which may not weigh more than 4.4 pounds, including payload. The operation of such a micro shall be subject to specified restrictions.\n\nThe bill directs the FAA to:\n\n appoint a Deputy Associate Administrator for Unmanned Aircraft who shall create a research and development plan for the safe integration of unmanned aircraft into the National Airspace System; establish a joint aircraft system research and development data collection and analysis program at the William J. Hughes Technical Center; and implement an air traffic management pilot program to research and test a new regulatory structure for operations of such aircraft in airspace below 1,200 feet."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Commercial UAS Modernization Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To establish an interim rule for the operation of small unmanned aircraft for commercial purposes, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:00:43-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4432:@@@L&summ2=m&"
+}

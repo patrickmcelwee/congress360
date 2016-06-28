@@ -1,0 +1,155 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-03-26", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-03-26", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "text": "Referred to House Energy and Commerce", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-03-26", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "text": "Referred to House Ways and Means", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-03-27", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-04-14", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1727-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "02"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "DeGette, Diana", 
+      "sponsored_at": "2015-03-26", 
+      "state": "CO", 
+      "thomas_id": "01479", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-03-26", 
+  "number": "1727", 
+  "official_title": "To amend title XVIII of the Social Security Act to provide for coverage, as supplies associated with the injection of insulin, of containment, removal, decontamination and disposal of home-generated needles, syringes, and other sharps through a sharps container, decontamination/destruction device, or sharps-by-mail program or similar program under part D of the Medicare program.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1066-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Medicare Safe Needle Disposal Coverage Act of 2015", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Whitfield, Ed", 
+    "state": "KY", 
+    "thomas_id": "01222", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-03-26", 
+  "subjects": [
+    "Health", 
+    "Health technology, devices, supplies", 
+    "Home and outpatient care", 
+    "Medicare", 
+    "Prescription drugs", 
+    "Solid waste and recycling"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-03-26", 
+    "text": "Medicare Safe Needle Disposal Coverage Act of 2015\n\n Amends part D (Voluntary Prescription Drug Benefit Program) of title XVIII (Medicare) of the Social Security Act to cover as a part D drug any devices approved for home use by the Food and Drug Administration for the safe and effective containment, removal, decontamination, and disposal of home-generated needles, syringes, and other sharps through a sharps container, decontamination/destructive device, or sharps-by-mail program or similar program."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Medicare Safe Needle Disposal Coverage Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title XVIII of the Social Security Act to provide for coverage, as supplies associated with the injection of insulin, of containment, removal, decontamination and disposal of home-generated needles, syringes, and other sharps through a sharps container, decontamination/destruction device, or sharps-by-mail program or similar program under part D of the Medicare program.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:37:52-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR1727:@@@L&summ2=m&"
+}

@@ -1,0 +1,224 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-06-11", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-07-01", 
+      "committees": [
+        "HSHM"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2732-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Crime, Terrorism, Homeland Security, and Investigations", 
+      "subcommittee_id": "08"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "3", 
+      "name": "Blumenauer, Earl", 
+      "sponsored_at": "2015-10-08", 
+      "state": "OR", 
+      "thomas_id": "00099", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Cohen, Steve", 
+      "sponsored_at": "2015-09-25", 
+      "state": "TN", 
+      "thomas_id": "01878", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Cummings, Elijah E.", 
+      "sponsored_at": "2016-06-07", 
+      "state": "MD", 
+      "thomas_id": "00256", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Delaney, John K.", 
+      "sponsored_at": "2016-06-14", 
+      "state": "MD", 
+      "thomas_id": "02133", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "DeLauro, Rosa L.", 
+      "sponsored_at": "2015-06-11", 
+      "state": "CT", 
+      "thomas_id": "00281", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "Deutch, Theodore E.", 
+      "sponsored_at": "2015-10-07", 
+      "state": "FL", 
+      "thomas_id": "01976", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Esty, Elizabeth H.", 
+      "sponsored_at": "2015-06-11", 
+      "state": "CT", 
+      "thomas_id": "02114", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Honda, Michael M.", 
+      "sponsored_at": "2015-09-25", 
+      "state": "CA", 
+      "thomas_id": "01634", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Kelly, Robin L.", 
+      "sponsored_at": "2015-06-11", 
+      "state": "IL", 
+      "thomas_id": "02190", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Norton, Eleanor Holmes", 
+      "sponsored_at": "2015-06-15", 
+      "state": "DC", 
+      "thomas_id": "00868", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Ruppersberger, C. A. Dutch", 
+      "sponsored_at": "2016-06-16", 
+      "state": "MD", 
+      "thomas_id": "01728", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Sarbanes, John P.", 
+      "sponsored_at": "2016-06-15", 
+      "state": "MD", 
+      "thomas_id": "01854", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Speier, Jackie", 
+      "sponsored_at": "2015-06-16", 
+      "state": "CA", 
+      "thomas_id": "01890", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-06-11", 
+  "number": "2732", 
+  "official_title": "To provide for a grant program for handgun licensing programs, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1751-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Handgun Purchaser Licensing Act", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Van Hollen, Chris", 
+    "state": "MD", 
+    "thomas_id": "01729", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-06-11", 
+  "subjects": [
+    "Crime and law enforcement", 
+    "Criminal justice information and records", 
+    "Firearms and explosives", 
+    "Law enforcement administration and funding", 
+    "Licensing and registrations"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-06-11", 
+    "text": "Handgun Purchaser Licensing Act\n\nAuthorizes the Attorney General to award grants to states, local governments, and Indian tribes for the development, implementation, and evaluation of handgun purchaser licensing requirements and the implementation and improvement of handgun purchaser licensing programs.\n\n Requires grant applications to include a description of: (1) the law that the applicant has enacted to require a license for any purchase of a handgun, including any exemptions; and (2) how the applicant will use the grant to carry out or improve its program.\n\nRequires an applicant, to be eligible for a grant, to have in effect handgun purchaser licensing laws that include requirements that:\n\n an applicant for a handgun license or permit must be at least 21 years old and must be a national or lawful permanent resident of the United States; such an individual must apply for the license or permit at a law enforcement agency in the state in which he or she resides, must reapply within five years, and must submit to a background investigation and a criminal history check; such an individual must submit fingerprints and photographs and must provide proof that the individual is legally present and lawfully resides in the United States; and any individual who is prohibited from possessing a firearm under the federal criminal code may not receive a license or permit."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Handgun Purchaser Licensing Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide for a grant program for handgun licensing programs, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:46:31-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2732:@@@L&summ2=m&"
+}

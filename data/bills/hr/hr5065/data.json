@@ -1,0 +1,112 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-04-26", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Homeland Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-05-06", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Transportation Security.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5065-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM", 
+      "subcommittee": "Subcommittee on Transportation Security", 
+      "subcommittee_id": "07"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "24", 
+      "name": "Katko, John", 
+      "sponsored_at": "2016-04-26", 
+      "state": "NY", 
+      "thomas_id": "02264", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Rice, Kathleen M.", 
+      "sponsored_at": "2016-04-26", 
+      "state": "NY", 
+      "thomas_id": "02262", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-04-26", 
+  "number": "5065", 
+  "official_title": "To direct the Secretary of Homeland Security to notify air carriers and security screening personnel of the Transportation Security Administration of such Administration's guidelines regarding permitting baby formula, breast milk, and juice on airplanes, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Bottles and Breastfeeding Equipment Screening Act", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Herrera Beutler, Jaime", 
+    "state": "WA", 
+    "thomas_id": "02071", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-04-26", 
+  "subjects": [
+    "Transportation and public works"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2016-04-26", 
+    "text": "Bottles and Breastfeeding Equipment Screening Act\n\nThis bill directs the Department of Homeland Security to:\n\n notify air carriers and Transportation Security Administration (TSA) security screening personnel of TSA's 3-1-1 Liquids Rule Exemption guidelines allowing baby formula, breast milk, and juice on airlines; and include training on all special procedures under TSA's travel guidelines for TSA security screening personnel."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Bottles and Breastfeeding Equipment Screening Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To direct the Secretary of Homeland Security to notify air carriers and security screening personnel of the Transportation Security Administration of such Administration's guidelines regarding permitting baby formula, breast milk, and juice on airplanes, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:06:02-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR5065:@@@L&summ2=m&"
+}

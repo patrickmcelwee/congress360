@@ -1,0 +1,270 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-03-03", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Natural Resources, and in addition to the Committees on Agriculture, and Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-03-03", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Referred to House Natural Resources", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-03-03", 
+      "committees": [
+        "HSAG"
+      ], 
+      "references": [], 
+      "text": "Referred to House Agriculture", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-03-03", 
+      "committees": [
+        "HSED"
+      ], 
+      "references": [], 
+      "text": "Referred to House Education and the Workforce", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-03-08", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Federal Lands.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-03-15", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-03-15", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Subcommittee on Federal Lands Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-03-16", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-03-16", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2016-03-22", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Conservation and Forestry.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-05-19T13:24:00-04:00", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-576, Part I.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-19T13:24:00-04:00", 
+      "committees": [
+        "HSAG"
+      ], 
+      "references": [], 
+      "text": "Committee on Agriculture discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-19T13:24:00-04:00", 
+      "committees": [
+        "HSED"
+      ], 
+      "references": [], 
+      "text": "Committee on Education and the Workforce discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-19T13:24:00-04:00", 
+      "calendar": "Union", 
+      "number": "446", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 446.", 
+      "type": "calendar", 
+      "under": null
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4680-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Federal Lands", 
+      "subcommittee_id": "10"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Agriculture", 
+      "committee_id": "HSAG"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Agriculture", 
+      "committee_id": "HSAG", 
+      "subcommittee": "Subcommittee on Conservation and Forestry", 
+      "subcommittee_id": "15"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "21", 
+      "name": "Smith, Lamar", 
+      "sponsored_at": "2016-04-19", 
+      "state": "TX", 
+      "thomas_id": "01075", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2016-03-15", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-03-03", 
+  "number": "4680", 
+  "official_title": "To prepare the National Park Service for its Centennial in 2016 and for a second century of promoting and protecting the natural, historic, and cultural resources of our National Parks for the enjoyment of present and future generations, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr3556-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "National Park Service Centennial Act", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Bishop, Rob", 
+    "state": "UT", 
+    "thomas_id": "01753", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2016-03-16", 
+  "subjects": [
+    "Advisory bodies", 
+    "Aging", 
+    "Appropriations", 
+    "Commemorative events and holidays", 
+    "Department of the Interior", 
+    "Executive agency funding and structure", 
+    "Federal officials", 
+    "Government trust funds", 
+    "Indian lands and resources rights", 
+    "Infrastructure development", 
+    "Land use and conservation", 
+    "Outdoor recreation", 
+    "Parks, recreation areas, trails", 
+    "Public lands and natural resources", 
+    "Social work, volunteer service, charitable organizations", 
+    "User charges and fees"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Reported to House amended, Part I", 
+    "date": "2016-05-19", 
+    "text": "National Park Service Centennial Act\n\nTITLE I--NATIONAL PARK CENTENNIAL CHALLENGE FUND\n\n(Sec. 101) This bill establishes the National Park Centennial Challenge Fund in the Treasury to finance signature projects and programs to enhance the National Park System.\n\n(Sec. 102) The Department of the Interior (for a federal land management agency) and the Department of Agriculture (for the Forest Service) shall make the National Parks and Federal Lands Pass available to any U.S. citizen or person residing in the United States who is 62 years of age or older for:\n\n a period of 12 months from the date of issuance at a cost of $20; and the lifetime of the passholder at a cost (currently $10) equal to the cost of the National Parks and Federal Recreational Lands Pass. Any amounts charged by the National Park Service (NPS) in excess of $10 for such age-discounted National Parks and Federal Lands Passes shall be deposited in the Challenge Fund.\n\n(Sec. 103) Interior shall develop for Congress a list of signature projects and programs eligible for funding from the Challenge Fund.\n\n(Sec. 104) Interior may transfer to the Challenge Fund any qualified donations the NPS receives.\n\n(Sec. 105) Interior shall provide, with the President's annual budget submission, a summary of the status and funding of signature projects and programs.\n\nTITLE II--NATIONAL PARK FOUNDATION ENDOWMENT\n\nNational Park Foundation Endowment Act\n\n(Sec. 202) The National Park Foundation shall establish a Second Century Endowment for the National Park Service consisting of any gifts, devises, or bequests.\n\nInterior shall impose in an NPS unit, and collect for deposit in the endowment, a fee in addition to the daily cost of lodging in unit facilities, but ensure that any such fee does not raise the aggregate amount of government fees to more than 5% of the base daily cost of lodging.\n\nSuch additional fees may not be charged within a system unit for:\n\n system employees, including seasonal employees or employees of concessioners, housed in a national park because of their employment, or for their house guests; persons engaged in residential educational and interpretive programs who are lodged in national park facilities while participating in such programs; and lodging on private property within a system unit. The National Park Foundation shall use endowment funds for projects and activities approved by Interior that further the NPS mission and purposes.\n\nNo funds received for the endowment shall be used by the National Park Foundation for administrative expenses.\n\nTITLE III--NATIONAL PARK NEXT GENERATION STEWARDS\n\n(Sec. 301) Interior shall ensure that management of system units and related areas is enhanced by the availability and use of a broad program of the highest quality interpretation and education.\n\nInterior may undertake a program of regular evaluation of interpretation and education programs to ensure that they:\n\n adjust to how people learn and engage with the natural world and shared heritage as embodied in the NPS; reflect different cultural backgrounds, ages, education, gender, abilities, ethnicity, and needs; demonstrate innovative approaches to management and incorporate emerging learning and communications technology; and reflect current scientific and academic research, content, methods, and audience analysis. Interior may:\n\n coordinate with park partners and volunteers in the delivery of quality programs and services to supplement those provided by the NPS as part of a park's Long Range Interpretive Plan; support interpretive partners by providing opportunities to participate in interpretive training, and collaborate with other organizations to develop, promote, and make available educational opportunities related to resources of the system and programs. (Sec. 302) The Public Lands Corps Act of 1993 is amended to: (1) increase from 25 to 30 the age limit for Public Lands Corps participants, and (2) extend from 120 days to 2 years the period during which noncompetitive hiring status may be given to a former corps participant.\n\n(Sec. 303) The bill increases funding for the Volunteers-In-Parks Program.\n\nTITLE IV--NATIONAL PARK FOUNDATION AUTHORITIES\n\n(Sec. 401) The Secretary of the Interior and the Director of the National Park Foundation shall be non-voting, ex officio members of the Foundation Board (currently, the Secretary and the Director are voting members).\n\nThe Chairman of the board shall be elected by the board from among its members for a two-year term. (Currently, the Secretary shall be the Board Chairman and the Director shall be Board Secretary.)\n\nActivities of the National Park Foundation to solicit, accept, administer, and use any gifts, devises, or bequests for the benefit of, or in connection with, the NPS, shall be undertaken after consultation with the Director to ensure that these activities are consistent with NPS programs and policies.\n\n(Sec. 402) The bill reauthorizes the National Park Foundation through FY2023.\n\nAmounts made available under such reauthorization shall be provided to the National Park Foundation for use for 1-to-1 matching contributions to the foundation.\n\nNo federal funds made available under such reauthorization shall be used by the National Park Foundation for administrative expenses. Nor shall the foundation place such funds into any fund that will be invested or earn interest in any way.\n\nTITLE V--MISCELLANEOUS\n\n(Sec. 501) The bill adds the General Chairman of the National Association of Tribal Historic Preservation Officers to the membership of the Advisory Council on Historic Preservation.\n\nAfter January 20, 2017, the council Chairman shall be appointed by the President (as under current law), serve at the President's will, serve full time, and be compensated at the rate for Level V of the Executive Schedule Pay Rates.\n\nThe Chairman shall serve for a four-year term and may be reappointed once, for a total of up to eight years of service. The term of a Chairman shall start on January 20 after each general presidential election.\n\nThe council Chairmen, before the first appointment of a Chairman in accordance with this bill, shall receive $100 per diem when engaged in the performance of council duties, and shall receive reimbursement for necessary traveling and subsistence expenses incurred in their performance."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "National Park Service Centennial Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": true, 
+      "title": "National Park Foundation Endowment Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "National Park Service Centennial Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": true, 
+      "title": "National Park Foundation Endowment Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To prepare the National Park Service for its Centennial in 2016 and for a second century of promoting and protecting the natural, historic, and cultural resources of our National Parks for the enjoyment of present and future generations, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:02:48-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4680:@@@L&summ2=m&"
+}

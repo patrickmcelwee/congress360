@@ -1,0 +1,114 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-05-19", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-05-22", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2452-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "26", 
+      "name": "Burgess, Michael C.", 
+      "sponsored_at": "2015-05-19", 
+      "state": "TX", 
+      "thomas_id": "01751", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Schrader, Kurt", 
+      "sponsored_at": "2015-05-19", 
+      "state": "OR", 
+      "thomas_id": "01950", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-05-19", 
+  "number": "2452", 
+  "official_title": "To amend the Federal Food, Drug, and Cosmetic Act with respect to facilitating dissemination of health care economic information.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr6-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "7", 
+    "name": "Long, Billy", 
+    "state": "MO", 
+    "thomas_id": "02033", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-05-19", 
+  "subjects": [
+    "Drug safety, medical device, and laboratory regulation", 
+    "Health", 
+    "Health information and medical records"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-05-19", 
+    "text": "This bill amends the Federal Food, Drug, and Cosmetic Act to revise the requirements for health care economic information that is provided to entities selecting drugs for coverage or reimbursement, such as formularies. The information must include a conspicuous and prominent statement describing the differences between the information and the labeling approved for the drug.\n\n\"Health care economic information\" is an analysis that describes the economic consequences of the use of a drug. Such an analysis is no longer required to compare the use of the drug to another intervention or no intervention. An analysis that relates only to an indication for which the drug is not approved is not health care economic information."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Federal Food, Drug, and Cosmetic Act with respect to facilitating dissemination of health care economic information.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:44:02-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2452:@@@L&summ2=m&"
+}

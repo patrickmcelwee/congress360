@@ -1,0 +1,106 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-09-18", 
+      "committees": [
+        "HSED"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Education and the Workforce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-03-23", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Early Childhood, Elementary, and Secondary Education.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3581-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED", 
+      "subcommittee": "Subcommittee on Early Childhood, Elementary, and Secondary Education", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-09-18", 
+  "number": "3581", 
+  "official_title": "To require full funding of part A of title I of the Elementary and Secondary Education Act of 1965 and the Individuals with Disabilities Education Act.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr551-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Keep Our PACT Act", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Van Hollen, Chris", 
+    "state": "MD", 
+    "thomas_id": "01729", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-09-18", 
+  "subjects": [
+    "Appropriations", 
+    "Education", 
+    "Education of the disadvantaged", 
+    "Education programs funding", 
+    "Elementary and secondary education", 
+    "Special education"
+  ], 
+  "subjects_top_term": "Education", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Keep Our PACT Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Keep Our Promise to America's Children and Teachers Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require full funding of part A of title I of the Elementary and Secondary Education Act of 1965 and the Individuals with Disabilities Education Act.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:53:37-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3581:@@@L&summ2=m&"
+}

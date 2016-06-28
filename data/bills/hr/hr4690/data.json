@@ -1,0 +1,154 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-03-03", 
+      "committees": [
+        "HSAS"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Armed Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-03-21", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Readiness.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4690-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS", 
+      "subcommittee": "Subcommittee on Readiness", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "8", 
+      "name": "Duckworth, Tammy", 
+      "sponsored_at": "2016-03-03", 
+      "state": "IL", 
+      "thomas_id": "02123", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Hill, J. French", 
+      "sponsored_at": "2016-03-15", 
+      "state": "AR", 
+      "thomas_id": "02223", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Loebsack, David", 
+      "sponsored_at": "2016-03-03", 
+      "state": "IA", 
+      "thomas_id": "01846", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Tonko, Paul", 
+      "sponsored_at": "2016-03-03", 
+      "state": "NY", 
+      "thomas_id": "01942", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Westerman, Bruce", 
+      "sponsored_at": "2016-03-03", 
+      "state": "AR", 
+      "thomas_id": "02224", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-03-03", 
+  "number": "4690", 
+  "official_title": "To revitalize Army arsenals, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2516-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Army Arsenal Revitalization Act of 2016", 
+  "sponsor": {
+    "district": "17", 
+    "name": "Bustos, Cheri", 
+    "state": "IL", 
+    "thomas_id": "02127", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-03-03", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Armed forces and national security", 
+    "Congressional oversight", 
+    "Department of Defense", 
+    "Industrial facilities", 
+    "Manufacturing", 
+    "Military facilities and property", 
+    "Military procurement, research, weapons development", 
+    "Public contracts and procurement", 
+    "Wages and earnings"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2016-03-03", 
+    "text": "Army Arsenal Revitalization Act of 2016\n\nThis bill requires the Department of Defense (DOD) to report to Congress regarding DOD legacy items with a contract value equal to $5 million or more.\n\nDOD shall use Army arsenals for the production of these legacy items.\n\nDOD shall: (1) report to Congress listing all sole source contracts for the procurement of manufactured items the lack of which would constitute a critical national security issue, and (2) establish Army arsenals as a second source for production of any such manufactured item.\n\nDOD shall report to Congress regarding:\n\n DOD contracts awarded during FY2011-FY2015 using other than competitive procedures for the procurement of equipment, weapons, weapons systems, and components with a contract value of $3 million or more; plans to update practices on Diminishing Manufacturing Sources and Material Shortages (DMSMS), including through the use of the organic industrial base as a resource in the implementation of a DMSMS management plan; and critical capabilities and minimum workloads of the Army arsenals, and fundamental elements for implementing the United States Army Organic Industrial Base Strategic Plan 2012-2022. DOD shall establish a three-year pilot program to permit Army arsenals to adjust their labor rates periodically throughout the year based upon changes in workload and other factors."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Army Arsenal Revitalization Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To revitalize Army arsenals, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:02:53-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4690:@@@L&summ2=m&"
+}

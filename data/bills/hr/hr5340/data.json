@@ -1,0 +1,136 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-05-26", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Homeland Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-06-02", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Transportation Security.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5340-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM", 
+      "subcommittee": "Subcommittee on Transportation Security", 
+      "subcommittee_id": "07"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "10", 
+      "name": "Dold, Robert J.", 
+      "sponsored_at": "2016-05-26", 
+      "state": "IL", 
+      "thomas_id": "02013", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Rice, Kathleen M.", 
+      "sponsored_at": "2016-06-08", 
+      "state": "NY", 
+      "thomas_id": "02262", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Thompson, Bennie G.", 
+      "sponsored_at": "2016-05-26", 
+      "state": "MS", 
+      "thomas_id": "01151", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Watson Coleman, Bonnie", 
+      "sponsored_at": "2016-06-07", 
+      "state": "NJ", 
+      "thomas_id": "02259", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-05-26", 
+  "number": "5340", 
+  "official_title": "To amend title 49, United States Code, to ensure that revenues collected from passengers as aviation security fees are used to help finance the costs of aviation security screening by repealing a requirement that a portion of such fees be credited as offsetting receipts and deposited in the general fund of the Treasury.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "FASTER Act", 
+  "sponsor": {
+    "district": "4", 
+    "name": "DeFazio, Peter A.", 
+    "state": "OR", 
+    "thomas_id": "00279", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-05-26", 
+  "subjects": [
+    "Transportation and public works"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2016-05-26", 
+    "text": "Funding for Aviation Screeners and Threat Elimination Restoration Act or the FASTER Act\n\nThis bill repeals the requirement that a portion of aviation security service fees be credited as offsetting receipts and deposited into the general fund of the Treasury."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "FASTER Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Funding for Aviation Screeners and Threat Elimination Restoration Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 49, United States Code, to ensure that revenues collected from passengers as aviation security fees are used to help finance the costs of aviation security screening by repealing a requirement that a portion of such fees be credited as offsetting receipts and deposited in the general fund of the Treasury.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:08:20-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR5340:@@@L&summ2=m&"
+}

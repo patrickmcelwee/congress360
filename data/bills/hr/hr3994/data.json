@@ -1,0 +1,114 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-11-05", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-11-06", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Commerce, Manufacturing, and Trade.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3994-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Commerce, Manufacturing, and Trade", 
+      "subcommittee_id": "17"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "33", 
+      "name": "Lieu, Ted", 
+      "sponsored_at": "2015-11-05", 
+      "state": "CA", 
+      "thomas_id": "02230", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-11-05", 
+  "number": "3994", 
+  "official_title": "To direct the Administrator of the National Highway Traffic Safety Administration to conduct a study to determine appropriate cybersecurity standards for motor vehicles, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Security and Privacy in Your Car Study Act of 2015", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Wilson, Joe", 
+    "state": "SC", 
+    "thomas_id": "01688", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-11-05", 
+  "subjects": [
+    "Computer security and identity theft", 
+    "Government studies and investigations", 
+    "Motor vehicles", 
+    "Right of privacy", 
+    "Transportation and public works", 
+    "Transportation safety and security"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-11-05", 
+    "text": "Security and Privacy in Your Car Study Act of 2015 or the SPY Car Study Act of 2015\n\nThis bill requires the National Highway Traffic Safety Administration to conduct a study to determine and recommend standards for the regulation of the cybersecurity of motor vehicles manufactured or imported for sale in the United States. The study shall identify:\n\n isolation measures that are necessary to separate critical software systems that can affect the driver's control of the movement of the vehicle from other software systems; measures that are necessary to detect and prevent or minimize anomalous codes, in vehicle software systems, associated with malicious behavior; techniques that are necessary to detect and prevent, discourage, or mitigate intrusions into vehicle software systems and other cybersecurity risks in motor vehicles; and best practices to secure driving data about a vehicle's status or about the owner, lessee, driver, or passenger of a vehicle that is collected by the electronic systems of motor vehicles."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Security and Privacy in Your Car Study Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "SPY Car Study Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To direct the Administrator of the National Highway Traffic Safety Administration to conduct a study to determine appropriate cybersecurity standards for motor vehicles, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:57:03-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3994:@@@L&summ2=m&"
+}

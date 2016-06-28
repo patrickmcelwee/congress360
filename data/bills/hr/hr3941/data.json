@@ -1,0 +1,107 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-11-05", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-11-06", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Energy and Power.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3941-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Energy and Power", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-11-05", 
+  "number": "3941", 
+  "official_title": "To provide for emergency preparedness for energy supply disruptions.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr8-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr22-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "7", 
+    "name": "Lance, Leonard", 
+    "state": "NJ", 
+    "thomas_id": "01936", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-11-05", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Disaster relief and insurance", 
+    "Emergency planning and evacuation", 
+    "Energy", 
+    "Energy storage, supplies, demand", 
+    "Intergovernmental relations", 
+    "Natural disasters", 
+    "Oil and gas", 
+    "Public-private cooperation", 
+    "State and local government operations"
+  ], 
+  "subjects_top_term": "Energy", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-11-05", 
+    "text": "The Department of Energy (DOE) shall adopt procedures to:\n\n improve communication and coordination between DOE's energy response team, federal partners, and industry; leverage the Energy Information Administration's subject matter expertise within DOE's energy response team to improve supply chain situation assessments; establish company liaisons and direct communication with DOE's energy response team to improve situation assessments; streamline and enhance processes for obtaining temporary regulatory relief to speed up emergency response and recovery; facilitate and increase engagement among states, the oil and natural gas industry, and DOE in developing state and local energy assurance plans; establish routine education and training programs for key government emergency response positions with DOE and states; and involve states and the oil and natural gas industry in comprehensive drill and exercise programs. These activities shall include collaborative efforts with state and local government officials and the private sector."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide for emergency preparedness for energy supply disruptions.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:56:37-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3941:@@@L&summ2=m&"
+}

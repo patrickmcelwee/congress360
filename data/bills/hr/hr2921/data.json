@@ -1,0 +1,128 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-06-25", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-06-26", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2921-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "5", 
+      "name": "Hensarling, Jeb", 
+      "sponsored_at": "2015-07-22", 
+      "state": "TX", 
+      "thomas_id": "01749", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Lipinski, Daniel", 
+      "sponsored_at": "2015-06-25", 
+      "state": "IL", 
+      "thomas_id": "01781", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Miller, Jeff", 
+      "sponsored_at": "2015-07-14", 
+      "state": "FL", 
+      "thomas_id": "01685", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-06-25", 
+  "number": "2921", 
+  "official_title": "To intensify stem cell research showing evidence of substantial clinical benefit to patients, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Patients First Act of 2015", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Forbes, J. Randy", 
+    "state": "VA", 
+    "thomas_id": "01683", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-06-25", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Cell biology and embryology", 
+    "Department of Health and Human Services", 
+    "Government studies and investigations", 
+    "Health", 
+    "Medical ethics", 
+    "Medical research", 
+    "Research administration and funding"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-06-25", 
+    "text": "Patients First Act of 2015\n\nThis bill amends the Public Health Service Act to require the Department of Health and Human Services (HHS) to conduct and support basic and applied research to develop techniques for the isolation, derivation, production, testing, and human clinical use of stem cells that may result in improved understanding of, or treatments for, diseases and other adverse health conditions, provided that the techniques will not involve: (1) the creation of a human embryo for research purposes; (2) the destruction or discarding of, or risk of injury to, a living human embryo; or (3) the use of any stem cell the derivation or provision of which would be inconsistent with this Act.\n\nHHS must issue guidelines to ensure that any research (including any clinical trial) supported under this Act: (1) is clearly consistent with the standards established in this Act, if conducted using human cells; and (2) is prioritized in terms of potential for near-term clinical benefit in human patients.\n\nHHS must report on peer reviewed stem cell research proposals that were not funded."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Patients First Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To intensify stem cell research showing evidence of substantial clinical benefit to patients, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:48:06-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2921:@@@L&summ2=m&"
+}

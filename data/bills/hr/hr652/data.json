@@ -1,0 +1,133 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-02-02", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Transportation and Infrastructure.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-02-03", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Highways and Transit.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr652-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Highways and Transit", 
+      "subcommittee_id": "12"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "6", 
+      "name": "Delaney, John K.", 
+      "sponsored_at": "2015-02-03", 
+      "state": "MD", 
+      "thomas_id": "02133", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "44", 
+      "name": "Hahn, Janice", 
+      "sponsored_at": "2015-02-02", 
+      "state": "CA", 
+      "thomas_id": "02089", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Young, Don", 
+      "sponsored_at": "2015-02-03", 
+      "state": "AK", 
+      "thomas_id": "01256", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-02-02", 
+  "number": "652", 
+  "official_title": "To amend title 23, United States Code, to reauthorize the State infrastructure bank program.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s206-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "State Transportation and Infrastructure Financing Innovation Act (STIFIA)", 
+  "sponsor": {
+    "district": "22", 
+    "name": "Hanna, Richard L.", 
+    "state": "NY", 
+    "thomas_id": "02044", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-02-02", 
+  "subjects": [
+    "Public transit", 
+    "Railroads", 
+    "Roads and highways", 
+    "State and local finance", 
+    "Transportation and public works", 
+    "Transportation programs funding", 
+    "Urban and suburban affairs and development"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-02-02", 
+    "text": "State Transportation and Infrastructure Financing Innovation Act (STIFIA) \n\n Revises and reauthorizes the state infrastructure bank program for FY2016-FY2020."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "State Transportation and Infrastructure Financing Innovation Act (STIFIA)", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 23, United States Code, to reauthorize the State infrastructure bank program.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:28:43-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR652:@@@L&summ2=m&"
+}

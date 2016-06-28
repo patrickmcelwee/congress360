@@ -1,0 +1,108 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-06-25", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-07-10", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Economic Opportunity.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2941-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR", 
+      "subcommittee": "Subcommittee on Economic Opportunity", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "5", 
+      "name": "Abraham, Ralph Lee", 
+      "sponsored_at": "2015-07-08", 
+      "state": "LA", 
+      "thomas_id": "02244", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-06-25", 
+  "number": "2941", 
+  "official_title": "To amend title 38, United States Code, to prohibit the receipt of bonuses by Department of Veterans Affairs employees who violate Federal civil laws or regulations, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Veterans Affairs Employee Accountability Act", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Roe, David P.", 
+    "state": "TN", 
+    "thomas_id": "01954", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-06-25", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Congressional oversight", 
+    "Department of Veterans Affairs", 
+    "Government employee pay, benefits, personnel management", 
+    "Government ethics and transparency, public corruption", 
+    "Public contracts and procurement"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-06-25", 
+    "text": "Veterans Affairs Employee Accountability Act \n\n Requires the Department of Veterans Affairs (VA) to ensure that no VA employee who knowingly violates any federal civil law or regulation, including one covered under the Federal Acquisition Regulation or the Veterans Affairs Acquisition Regulation, or any internal VA policy, receives any specified pay augmentation, incentive, or additional gift of any value (bonus)."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Veterans Affairs Employee Accountability Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 38, United States Code, to prohibit the receipt of bonuses by Department of Veterans Affairs employees who violate Federal civil laws or regulations, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:48:16-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2941:@@@L&summ2=m&"
+}

@@ -1,0 +1,137 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-02-03", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-03-16", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Federal Lands.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-03-16", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Energy and Mineral Resources.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr682-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Federal Lands", 
+      "subcommittee_id": "10"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Energy and Mineral Resources", 
+      "subcommittee_id": "06"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "3", 
+      "name": "Blumenauer, Earl", 
+      "sponsored_at": "2015-09-08", 
+      "state": "OR", 
+      "thomas_id": "00099", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Huffman, Jared", 
+      "sponsored_at": "2015-02-03", 
+      "state": "CA", 
+      "thomas_id": "02101", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-02-03", 
+  "number": "682", 
+  "official_title": "To withdraw certain land located in Curry County and Josephine County, Oregon, from all forms of entry, appropriation, or disposal under the public land laws, location, entry, and patent under the mining laws, and operation under the mineral leasing and geothermal leasing laws, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s346-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Southwestern Oregon Watershed and Salmon Protection Act of 2015", 
+  "sponsor": {
+    "district": "4", 
+    "name": "DeFazio, Peter A.", 
+    "state": "OR", 
+    "thomas_id": "00279", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-02-03", 
+  "subjects": [
+    "Land transfers", 
+    "Oregon", 
+    "Public lands and natural resources", 
+    "Wilderness and natural areas, wildlife refuges, wild rivers, habitats"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-02-03", 
+    "text": "Southwestern Oregon Watershed and Salmon Protection Act of 2015\n\nWithdraws specified federal land in Curry and Josephine Counties in Oregon from: (1) entry, appropriation, or disposal under the public land laws; (2) location, entry, and patent under the mining laws, and (3) operation under the mineral leasing and geothermal leasing laws.\n\n Amends the Wild and Scenic Rivers Act to revise the segment designations for the Chetco River in Oregon.\n\nWithdraws the federal land within the boundaries of such segments of the Chetco River from: (1) entry, appropriation, or disposal under the public land laws; (2) location, entry, and patent under the mining laws; and (3) disposition under laws pertaining to mineral and geothermal leasing or mineral materials."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Southwestern Oregon Watershed and Salmon Protection Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To withdraw certain land located in Curry County and Josephine County, Oregon, from all forms of entry, appropriation, or disposal under the public land laws, location, entry, and patent under the mining laws, and operation under the mineral leasing and geothermal leasing laws, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:28:58-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR682:@@@L&summ2=m&"
+}

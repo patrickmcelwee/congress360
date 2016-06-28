@@ -1,0 +1,127 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-12-11", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Transportation and Infrastructure.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-12-14", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4243-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Economic Development, Public Buildings and Emergency Management", 
+      "subcommittee_id": "13"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "5", 
+      "name": "McMorris Rodgers, Cathy", 
+      "sponsored_at": "2015-12-18", 
+      "state": "WA", 
+      "thomas_id": "01809", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Newhouse, Dan", 
+      "sponsored_at": "2015-12-11", 
+      "state": "WA", 
+      "thomas_id": "02275", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Reichert, David G.", 
+      "sponsored_at": "2015-12-11", 
+      "state": "WA", 
+      "thomas_id": "01810", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-12-11", 
+  "number": "4243", 
+  "official_title": "To improve Federal disaster relief and emergency assistance, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Individual Assistance Improvement Act of 2015", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Kilmer, Derek", 
+    "state": "WA", 
+    "thomas_id": "02169", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-12-11", 
+  "subjects": [
+    "Congressional oversight", 
+    "Disaster relief and insurance", 
+    "Emergency management", 
+    "Federal-Indian relations", 
+    "Government information and archives", 
+    "Government studies and investigations", 
+    "Rural conditions and development"
+  ], 
+  "subjects_top_term": "Emergency management", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-12-11", 
+    "text": "Individual Assistance Improvement Act of 2015\n\nThis bill requires the Federal Emergency Management Agency (FEMA) to submit to Congress an annual report on recommendations for improving federal assistance for small states and rural areas under the Robert T. Stafford Disaster Relief and Emergency Assistance Act and additional resources required for such improvements.\n\nIn measuring the severity, magnitude, and impact of a disaster and evaluating the need for assistance to individuals under that Act, FEMA shall not apply, with respect to a rural area, the factor relating to concentration of damages.\n\n FEMA shall provide the governor or the chief executive of an Indian tribal government with documentation related to a major disaster declaration decision within 25 days after such individual requests that documentation, including: (1) an analysis of the factors that it considered in making the decision, and (2) its rationale.\n\nThe Government Accountability Office shall conduct a comprehensive review of: (1) FEMA's damage assessment processes for major disaster declarations, and (2) the teams that carry out such processes.\n\nFEMA shall conduct a study, biennially, to: (1) compare the average amount of individual assistance provided per person for each major disaster declared during the five most recently completed fiscal years, the average damages realized per individual for each disaster, and the average damages realized per individual for each event where a request for a major disaster declaration was denied during the five most recently completed fiscal years; and (2) collect the data needed to update a table relating to the average amount of individual assistance by state."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Individual Assistance Improvement Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To improve Federal disaster relief and emergency assistance, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:59:08-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4243:@@@L&summ2=m&"
+}

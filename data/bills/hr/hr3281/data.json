@@ -1,0 +1,103 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-07-29", 
+      "committees": [
+        "HSAG"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Agriculture.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-08-25", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Conservation and Forestry.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3281-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Agriculture", 
+      "committee_id": "HSAG"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Agriculture", 
+      "committee_id": "HSAG", 
+      "subcommittee": "Subcommittee on Conservation and Forestry", 
+      "subcommittee_id": "15"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "41", 
+      "name": "Takano, Mark", 
+      "sponsored_at": "2015-07-29", 
+      "state": "CA", 
+      "thomas_id": "02110", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-07-29", 
+  "number": "3281", 
+  "official_title": "To authorize the purchase of a small parcel of Natural Resources Conservation Service property in Riverside, California, by the Riverside Corona Resource Conservation District, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "42", 
+    "name": "Calvert, Ken", 
+    "state": "CA", 
+    "thomas_id": "00165", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-07-29", 
+  "subjects": [
+    "Agricultural conservation and pollution", 
+    "California", 
+    "Government buildings, facilities, and property", 
+    "Hazardous wastes and toxic substances", 
+    "Land transfers", 
+    "Land use and conservation", 
+    "Public lands and natural resources"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-07-29", 
+    "text": "Directs the Department of Agriculture to sell and quitclaim all interest of the United States in and to a parcel of real property, including improvements, located at 4500 Glenwood Drive in Riverside, California, consisting of approximately 8.75 acres and administered by the Natural Resources Conservation Service, to the Riverside Corona Resource Conservation District."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To authorize the purchase of a small parcel of Natural Resources Conservation Service property in Riverside, California, by the Riverside Corona Resource Conservation District, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:51:06-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3281:@@@L&summ2=m&"
+}

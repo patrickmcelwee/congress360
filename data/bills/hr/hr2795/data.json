@@ -1,0 +1,374 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-06-16", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Homeland Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-06-19", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Emergency Preparedness, Response and Communications.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-11-04", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-11-04", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2015-12-07T12:14:00-05:00", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-370.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-12-07T12:14:00-05:00", 
+      "calendar": "Union", 
+      "number": "282", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 282.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2015-12-10T16:10:00-05:00", 
+      "references": [], 
+      "text": "Mr. Hurd (TX) moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-12-10T16:10:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H9257-9262", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-12-10T16:10:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 2795.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-12-10T16:20:00-05:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-12-10T17:16:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H9264-9265", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-12-10T17:25:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H9257-9258", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "689", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 396 - 12 (Roll no. 689).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2015-12-10T17:25:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-12-14", 
+      "committees": [
+        "SSGA"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2795-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM", 
+      "subcommittee": "Subcommittee on Emergency Preparedness, Response, and Communications", 
+      "subcommittee_id": "12"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Homeland Security and Governmental Affairs", 
+      "committee_id": "SSGA"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "37", 
+      "name": "Bass, Karen", 
+      "sponsored_at": "2015-06-16", 
+      "state": "CA", 
+      "thomas_id": "01996", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Beatty, Joyce", 
+      "sponsored_at": "2015-06-16", 
+      "state": "OH", 
+      "thomas_id": "02153", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Castro, Joaquin", 
+      "sponsored_at": "2015-06-16", 
+      "state": "TX", 
+      "thomas_id": "02163", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "DeLauro, Rosa L.", 
+      "sponsored_at": "2015-06-16", 
+      "state": "CT", 
+      "thomas_id": "00281", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Fudge, Marcia L.", 
+      "sponsored_at": "2015-06-16", 
+      "state": "OH", 
+      "thomas_id": "01895", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "29", 
+      "name": "Green, Gene", 
+      "sponsored_at": "2015-06-16", 
+      "state": "TX", 
+      "thomas_id": "00462", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Hinojosa, Ruben", 
+      "sponsored_at": "2015-06-16", 
+      "state": "TX", 
+      "thomas_id": "01490", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Kelly, Robin L.", 
+      "sponsored_at": "2015-06-16", 
+      "state": "IL", 
+      "thomas_id": "02190", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Larson, John B.", 
+      "sponsored_at": "2015-06-16", 
+      "state": "CT", 
+      "thomas_id": "01583", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Lee, Barbara", 
+      "sponsored_at": "2015-06-16", 
+      "state": "CA", 
+      "thomas_id": "01501", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Norcross, Donald", 
+      "sponsored_at": "2015-06-16", 
+      "state": "NJ", 
+      "thomas_id": "02202", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Pallone, Frank, Jr.", 
+      "sponsored_at": "2015-06-16", 
+      "state": "NJ", 
+      "thomas_id": "00887", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Pascrell, Bill, Jr.", 
+      "sponsored_at": "2015-06-16", 
+      "state": "NJ", 
+      "thomas_id": "01510", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Payne, Donald M., Jr.", 
+      "sponsored_at": "2015-06-16", 
+      "state": "NJ", 
+      "thomas_id": "02097", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-11-04", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2015-12-10T17:25:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-06-16", 
+  "number": "2795", 
+  "official_title": "To require the Secretary of Homeland Security to submit a study on the circumstances which may impact the effectiveness and availability of first responders before, during, or after a terrorist threat or event.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "First Responder Identification of Emergency Needs in Disaster Situations", 
+  "sponsor": {
+    "district": "18", 
+    "name": "Jackson Lee, Sheila", 
+    "state": "TX", 
+    "thomas_id": "00588", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2015-12-10T17:25:00-05:00", 
+  "subjects": [
+    "Congressional oversight", 
+    "Emergency management", 
+    "Emergency planning and evacuation", 
+    "First responders and emergency personnel", 
+    "Government studies and investigations", 
+    "Performance measurement", 
+    "Terrorism"
+  ], 
+  "subjects_top_term": "Emergency management", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2015-12-10", 
+    "text": "(This measure has not been amended since it was reported to the House on December 7, 2015. The summary of that version is repeated here.)\n\nFirst Responder Identification of Emergency Needs in Disaster Situations or the FRIENDS Act\n\n(Sec. 2) This bill directs the Government Accountability Office (GAO) to submit a report that describes select state and local programs and policies related to the preparedness and protection of first responders, which may include information on:\n\n the degree to which such programs and policies include consideration of the presence of a first responder's family in an area impacted by a terrorist attack, the availability of personal protective equipment for first responders, and the availability of home Medkits for first responders and their families for biological incident response. The GAO may provide information: (1) in a format that delineates high risk urban areas from rural communities; and (2) on the degree to which the selected state and local programs and policies were developed or are being executed with funding from the Department of Homeland Security (DHS), including grants from the State Homeland Security Grant Program or the Urban Area Security Initiative.\n\nDHS shall consider the report's findings and assess its applicability for federal first responders."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "First Responder Identification of Emergency Needs in Disaster Situations", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "FRIENDS Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "First Responder Identification of Emergency Needs in Disaster Situations", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "FRIENDS Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "First Responder Identification of Emergency Needs in Disaster Situations", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "FRIENDS Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require the Secretary of Homeland Security to submit a study on the circumstances which may impact the effectiveness and availability of first responders before, during, or after a terrorist threat or event.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:47:03-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2795:@@@L&summ2=m&"
+}

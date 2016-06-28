@@ -1,0 +1,177 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-02-02", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Ways and Means, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-02-02", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "text": "Referred to House Ways and Means", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-02-02", 
+      "committees": [
+        "HSBU"
+      ], 
+      "references": [], 
+      "text": "Referred to House Budget", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-02-04", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 24 - 14.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2015-02-09T13:54:00-05:00", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-19, Part I.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-02-09T13:54:00-05:00", 
+      "committees": [
+        "HSBU"
+      ], 
+      "references": [], 
+      "text": "Committee on the Budget discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-02-09T13:54:00-05:00", 
+      "calendar": "Union", 
+      "number": "13", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 13.", 
+      "type": "calendar", 
+      "under": null
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr640-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "reporting"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Budget", 
+      "committee_id": "HSBU"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "6", 
+      "name": "Costello, Ryan A.", 
+      "sponsored_at": "2015-02-03", 
+      "state": "PA", 
+      "thomas_id": "02266", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Davis, Danny K.", 
+      "sponsored_at": "2015-02-02", 
+      "state": "IL", 
+      "thomas_id": "01477", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "23", 
+      "name": "Reed, Tom", 
+      "sponsored_at": "2015-02-03", 
+      "state": "NY", 
+      "thomas_id": "01982", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-02-09T13:54:00-05:00", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-02-02", 
+  "number": "640", 
+  "official_title": "To amend the Internal Revenue Code of 1986 to modify the tax rate for excise tax on investment income of private foundations.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2750-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Private Foundation Excise Tax Simplification Act of 2015", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Paulsen, Erik", 
+    "state": "MN", 
+    "thomas_id": "01930", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2015-02-04", 
+  "subjects": [
+    "Financial services and investments", 
+    "Sales and excise taxes", 
+    "Tax-exempt organizations", 
+    "Taxation"
+  ], 
+  "subjects_top_term": "Taxation", 
+  "summary": {
+    "as": "Reported to House amended, Part I", 
+    "date": "2015-02-09", 
+    "text": "Private Foundation Excise Tax Simplification Act of 2015\n\n(Sec. 2) Amends the Internal Revenue Code to: (1) reduce from 2% to 1% the excise tax rate on the net investment income of tax-exempt private foundations, and (2) repeal the 1% reduction in such tax rate for private foundations that meet certain distribution requirements.\n\n(Sec. 3) Excludes the budgetary effects of this Act from PAYGO scorecards."
+  }, 
+  "titles": [
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Private Foundation Excise Tax Simplification Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Internal Revenue Code of 1986 to modify the tax rate for excise tax on investment income of private foundations.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:28:37-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR640:@@@L&summ2=m&"
+}

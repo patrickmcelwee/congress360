@@ -1,0 +1,810 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-10-16T17:52:00-04:00", 
+      "committees": [
+        "HSBU"
+      ], 
+      "references": [], 
+      "text": "The House Committee on the Budget reported an original measure, H. Rept. 114-293, by Mr. Price, Tom.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-10-16T17:52:00-04:00", 
+      "calendar": "Union", 
+      "number": "222", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Placed on the Union Calendar, Calendar No. 222.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2015-10-21T19:36:00-04:00", 
+      "bill_ids": [
+        "hres483-114"
+      ], 
+      "committees": [
+        "HSRU"
+      ], 
+      "references": [], 
+      "text": "Rules Committee Resolution H. Res. 483 Reported to House. Rule provides for consideration of H.R. 3762 with 2 hours of general debate. The resolution provides that the amendment printed in the report shall be considered as adopted for H.R. 3762. The resolution waives clause 6(a) of rule XIII and provides that is shall be in order at any time on the legislative day of Oct. 22, 2015 or Oct. 23, 2015 for the Speaker to entertain motions to suspend the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-10-22T16:58:00-04:00", 
+      "bill_ids": [
+        "hres483-114"
+      ], 
+      "references": [], 
+      "text": "Rule H. Res. 483 passed House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-10-23T09:14:00-04:00", 
+      "bill_ids": [
+        "hres483-114"
+      ], 
+      "references": [
+        {
+          "reference": "CR H7143-7164", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under the provisions of rule H. Res. 483.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-10-23T09:15:00-04:00", 
+      "references": [], 
+      "text": "Rule provides for consideration of H.R. 3762 with 2 hours of general debate. The resolution provides that the amendment printed in the report shall be considered as adopted for H.R. 3762. The resolution waives clause 6(a) of rule XIII and provides that it shall be in order at any time on the legislative day of Oct. 22, 2015 or Oct. 23, 2015 for the Speaker to entertain motions to suspend the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-10-23T09:15:00-04:00", 
+      "bill_ids": [
+        "hres483-114"
+      ], 
+      "references": [], 
+      "text": "DEBATE - Pursuant to the provisions of H. Res. 483, the House proceeded with two hours of debate on H.R. 3762.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-10-23T11:27:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7163", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "The previous question was ordered pursuant to the rule.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-10-23T11:58:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H7143-7144", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "568", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On passage Passed by recorded vote: 240 - 189 (Roll no. 568).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2015-10-23T11:58:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-11-18", 
+      "references": [], 
+      "text": "Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-11-19", 
+      "calendar": "Senate Legislative", 
+      "number": "299", 
+      "references": [], 
+      "text": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 299.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }, 
+    {
+      "acted_at": "2015-12-01", 
+      "references": [
+        {
+          "reference": "CR S8233", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Motion to proceed to consideration of measure agreed to in Senate by Voice Vote.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-12-01", 
+      "references": [
+        {
+          "reference": "CR S8233-8234", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Measure laid before Senate by motion.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-12-02", 
+      "references": [
+        {
+          "reference": "CR S8250-8266, S8268-8283", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-12-03", 
+      "references": [
+        {
+          "reference": "CR S8326-8357", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-12-03", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": "329", 
+      "status": "PASS_BACK:SENATE", 
+      "text": "Passed Senate with an amendment by Yea-Nay Vote. 52 - 47. Record Vote Number: 329.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2015-12-04", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-01-06T15:58:00-05:00", 
+      "bill_ids": [
+        "hres579-114"
+      ], 
+      "references": [
+        {
+          "reference": "CR H52", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Pursuant to the provisions of H. Res. 579, Mr. Price, Tom was recognized for a motion.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-01-06T15:58:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H52-67", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H54", 
+          "type": "text of the motion"
+        }
+      ], 
+      "text": "Mr. Price, Tom moved that the House concur in the Senate amendment.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-01-06T15:59:00-05:00", 
+      "bill_ids": [
+        "hres579-114"
+      ], 
+      "references": [], 
+      "text": "DEBATE - Pursuant to the provisions of H. Res. 579, the House proceeded with one hour of debate on the motion that the House agree to Senate amendment to H.R.3762.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-01-06T17:24:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H66", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "The previous question was ordered pursuant to the rule.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-01-06T17:54:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H52-54", 
+          "type": "text as House agreed to the Senate amendment"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "6", 
+      "status": "PASSED:BILL", 
+      "suspension": null, 
+      "text": "On motion that the House agree to the Senate amendment Agreed to by the Yeas and Nays: 240 - 181 (Roll no. 6).", 
+      "type": "vote", 
+      "vote_type": "pingpong", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2016-01-06T17:54:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-01-07", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2016-01-08", 
+      "references": [
+        {
+          "reference": "CR H210-211", 
+          "type": "text of veto message"
+        }
+      ], 
+      "status": "PROV_KILL:VETO", 
+      "text": "Vetoed by President.", 
+      "type": "vetoed"
+    }, 
+    {
+      "acted_at": "2016-01-08T12:57:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H210-211", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "The Chair laid before the House the veto message from the President.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-01-08T12:59:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H211", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "The Chair announced that the objections of the President to H.R. 3762 would be spread at large upon the Journal and the veto message would be printed as a House document (114-91).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-01-08T13:00:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H211", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Mr. Scalise moved to postpone consideration of the veto message until Jan. 26.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-01-08T13:00:00-05:00", 
+      "references": [], 
+      "text": "Floor summary: DEBATE - The House proceeded with one hour of debate on the Scalise motion to postpone consideration of the veto message.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-01-08T13:01:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H211", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "The previous question on the motion to postpone consideration of the veto message was ordered without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-01-08T13:01:00-05:00", 
+      "references": [], 
+      "text": "On motion to postpone consideration of the veto message until Jan. 26. Agreed to by voice vote.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-01-25T14:03:00-05:00", 
+      "references": [], 
+      "text": "Notwithstanding the order of the House on January 8, 2016, the Chair announced that further consideration of the veto message on H.R. 3762 shall be postponed until Tuesday, February 2, 2016. Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-02T12:49:00-05:00", 
+      "references": [], 
+      "text": "Pursuant to the order of the House of January 25, 2016, the Chair announced that the unfinished business was the further consideration of the veto message of the President on H.R. 3762.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-02T12:49:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with one hour of debate on the question of passage of H.R. 3762, the objections of the President to the contrary, notwithstanding.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-02T14:05:00-05:00", 
+      "references": [], 
+      "text": "POSTPONED PROCEEDINGS - Pursuant to rule 8, clause 20, the Chair postponed further proceedings on the question of passage of H.R. 3762, the objections of the President to the contrary notwithstanding, until later in the legislative day.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-02T17:53:00-05:00", 
+      "references": [], 
+      "text": "The Chair announced the unfinished business to be the consideration of the veto.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-02T17:53:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H482", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-02T17:59:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H482", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": "53", 
+      "status": "VETOED:OVERRIDE_FAIL_ORIGINATING:HOUSE", 
+      "suspension": null, 
+      "text": "On passage, the objections of the President to the contrary notwithstanding Failed by the Yeas and Nays: (2/3 required): 241 - 186 (Roll no. 53).", 
+      "type": "vote", 
+      "vote_type": "override", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2016-02-02T17:59:00-05:00", 
+      "references": [], 
+      "text": "The Chair announced that the bill and accompanying veto message were referred to the Committee on the Budget. The Chair directed the Clerk to notify the Senate of the action to the House.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "hamdt729-114", 
+      "amendment_type": "hamdt", 
+      "chamber": "h", 
+      "number": "729"
+    }, 
+    {
+      "amendment_id": "samdt2874-114", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2874"
+    }, 
+    {
+      "amendment_id": "samdt2875-114", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2875"
+    }, 
+    {
+      "amendment_id": "samdt2876-114", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2876"
+    }, 
+    {
+      "amendment_id": "samdt2877-114", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2877"
+    }, 
+    {
+      "amendment_id": "samdt2878-114", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2878"
+    }, 
+    {
+      "amendment_id": "samdt2879-114", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2879"
+    }, 
+    {
+      "amendment_id": "samdt2880-114", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2880"
+    }, 
+    {
+      "amendment_id": "samdt2881-114", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2881"
+    }, 
+    {
+      "amendment_id": "samdt2882-114", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2882"
+    }, 
+    {
+      "amendment_id": "samdt2883-114", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2883"
+    }, 
+    {
+      "amendment_id": "samdt2884-114", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2884"
+    }, 
+    {
+      "amendment_id": "samdt2885-114", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2885"
+    }, 
+    {
+      "amendment_id": "samdt2886-114", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2886"
+    }, 
+    {
+      "amendment_id": "samdt2887-114", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2887"
+    }, 
+    {
+      "amendment_id": "samdt2888-114", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2888"
+    }, 
+    {
+      "amendment_id": "samdt2889-114", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2889"
+    }, 
+    {
+      "amendment_id": "samdt2890-114", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2890"
+    }, 
+    {
+      "amendment_id": "samdt2891-114", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2891"
+    }, 
+    {
+      "amendment_id": "samdt2892-114", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2892"
+    }, 
+    {
+      "amendment_id": "samdt2893-114", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2893"
+    }, 
+    {
+      "amendment_id": "samdt2894-114", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2894"
+    }, 
+    {
+      "amendment_id": "samdt2895-114", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2895"
+    }, 
+    {
+      "amendment_id": "samdt2896-114", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2896"
+    }, 
+    {
+      "amendment_id": "samdt2897-114", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2897"
+    }, 
+    {
+      "amendment_id": "samdt2898-114", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2898"
+    }, 
+    {
+      "amendment_id": "samdt2899-114", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2899"
+    }, 
+    {
+      "amendment_id": "samdt2900-114", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2900"
+    }, 
+    {
+      "amendment_id": "samdt2901-114", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2901"
+    }, 
+    {
+      "amendment_id": "samdt2902-114", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2902"
+    }, 
+    {
+      "amendment_id": "samdt2903-114", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2903"
+    }, 
+    {
+      "amendment_id": "samdt2904-114", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2904"
+    }, 
+    {
+      "amendment_id": "samdt2905-114", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2905"
+    }, 
+    {
+      "amendment_id": "samdt2906-114", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2906"
+    }, 
+    {
+      "amendment_id": "samdt2907-114", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2907"
+    }, 
+    {
+      "amendment_id": "samdt2908-114", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2908"
+    }, 
+    {
+      "amendment_id": "samdt2909-114", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2909"
+    }, 
+    {
+      "amendment_id": "samdt2910-114", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2910"
+    }, 
+    {
+      "amendment_id": "samdt2911-114", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2911"
+    }, 
+    {
+      "amendment_id": "samdt2912-114", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2912"
+    }, 
+    {
+      "amendment_id": "samdt2913-114", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2913"
+    }, 
+    {
+      "amendment_id": "samdt2914-114", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2914"
+    }, 
+    {
+      "amendment_id": "samdt2915-114", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2915"
+    }, 
+    {
+      "amendment_id": "samdt2916-114", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2916"
+    }, 
+    {
+      "amendment_id": "samdt2917-114", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2917"
+    }, 
+    {
+      "amendment_id": "samdt2918-114", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2918"
+    }, 
+    {
+      "amendment_id": "samdt2919-114", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2919"
+    }
+  ], 
+  "bill_id": "hr3762-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "origin", 
+        "reporting"
+      ], 
+      "committee": "House Budget", 
+      "committee_id": "HSBU"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-10-21T19:36:00-04:00", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_override_result": "fail", 
+    "house_override_result_at": "2016-02-02T17:59:00-05:00", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2016-01-06T17:54:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2015-12-03", 
+    "vetoed": true, 
+    "vetoed_at": "2016-01-08"
+  }, 
+  "introduced_at": "2015-10-16", 
+  "number": "3762", 
+  "official_title": "To provide for reconciliation pursuant to section 2002 of the concurrent resolution on the budget for fiscal year 2016.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hres483-114", 
+      "reason": "rule", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hres579-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Restoring Americans' Healthcare Freedom Reconciliation Act of 2015", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Price, Tom", 
+    "state": "GA", 
+    "thomas_id": "01778", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "VETOED:OVERRIDE_FAIL_ORIGINATING:HOUSE", 
+  "status_at": "2016-02-02T17:59:00-05:00", 
+  "subjects": [
+    "Abortion", 
+    "Appropriations", 
+    "Drug trafficking and controlled substances", 
+    "Drug, alcohol, tobacco use", 
+    "Employee benefits and pensions", 
+    "Employment taxes", 
+    "Family planning and birth control", 
+    "Government trust funds", 
+    "Health", 
+    "Health care costs and insurance", 
+    "Health care coverage and access", 
+    "Health facilities and institutions", 
+    "Health programs administration and funding", 
+    "Health promotion and preventive care", 
+    "Health technology, devices, supplies", 
+    "Hospital care", 
+    "Income tax credits", 
+    "Income tax deductions", 
+    "Medicaid", 
+    "Medical education", 
+    "Medicare", 
+    "Mental health", 
+    "Prescription drugs", 
+    "Sales and excise taxes", 
+    "Self-employed", 
+    "Sex and reproductive health", 
+    "Small business", 
+    "Tax administration and collection, taxpayers", 
+    "Tax-exempt organizations", 
+    "Women's health"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Passed Senate amended", 
+    "date": "2015-12-03", 
+    "text": "TITLE I--HEALTH, EDUCATION, LABOR, AND PENSIONS\n\n(Sec. 101) This bill amends the Patient Protection and Affordable Care Act (PPACA) to terminate the Prevention and Public Health Fund, which provides for investment in prevention and public health programs to improve health and restrain the rate of growth in health care costs. Unobligated funds are rescinded.\n\n(Sec. 102) Funding for community health centers is increased.\n\n(Sec. 103) Certain funding for U.S. territories that establish health insurance exchanges is no longer available after 2017.\n\n(Sec. 104) The Department of Health and Human Services (HHS) may not collect fees or make payments under the transitional reinsurance program.\n\n(Sec. 105) This bill makes appropriations for FY2016 and FY2017 for HHS to award grants to states to address substance abuse or to respond to urgent mental health needs.\n\nTITLE II--FINANCE\n\n(Sec. 201) This bill amends the Internal Revenue Code to require individuals to pay back the full amount of advance payments in excess of their premium assistance tax credit. (Currently, there is a limit on the amount of excess an individual must pay back.)\n\n(Sec. 202) Provisions relating to the premium assistance tax credit, reduced cost-sharing, and eligibility determinations for these subsidies are repealed on December 31, 2017.\n\n(Sec. 203) The small employer health insurance tax credit does not apply after 2017. (This credit is for certain employers who make contributions toward employee health coverage purchased through a health insurance exchange.)\n\n(Sec. 204) The penalty for individuals who do not maintain minimum essential health care coverage is eliminated.\n\n(Sec. 205) Large employers are no longer required to make shared responsibility payments.\n\n(Sec. 206) For one year, this bill restricts the availability of federal funding to a state for payments to an entity (e.g., Planned Parenthood Federation of America) that:\n\n is a 501(c)(3) tax-exempt organization; is an essential community provider primarily engaged in family planning services and reproductive health; provides for abortions other than abortions in cases of rape or incest, or where a physical condition endangers a woman's life unless an abortion is performed; and received a total of more than $350 million under Medicaid in FY2014, including payments to affiliates, subsidiaries, successors, or clinics. (Sec. 207) This bill amends part A (General Provisions) of title XI of the Social Security Act (SSAct) to require the additional payments to U.S. territories for Medicaid under the Health Care and Education Reconciliation Act of 2010 to be made by the end of FY2017 instead of the end of FY2019.\n\nThis bill amends title XIX (Medicaid) of the SSAct to end the expansion of Medicaid under PPACA on December 31, 2017.\n\nAfter 2017, hospitals may no longer elect to provide Medicaid services to individuals during a presumptive eligibility period.\n\nStates must maintain Medicaid eligibility standards for individuals under 19 years old through FY2017 instead of through FY2019.\n\nThe federal medical assistance percentage (FMAP, the federal matching rate for Medicaid expenditures) for U.S. territories is 50% after 2017 (currently, the FMAP is 55%).\n\nThe increased FMAP for childless adults and home and community-based attendant services under PPACA ends December 31, 2017.\n\nAfter 2017, states may no longer elect to provide certain individuals with a presumptive eligibility period for Medicaid.\n\nMedicaid benchmark plans are no longer required to provide minimum essential health benefits after 2017.\n\nAfter 2017, states are no longer required to operate a website for Medicaid enrollment that is linked to the state's health benefit exchange and Children's Health Insurance program (CHIP).\n\n(Sec. 208) Medicaid allotments for disproportionate share hospitals are increased.\n\n(Sec. 209) The excise tax on high cost employer-sponsored health coverage (popularly known as the \"Cadillac tax\") does not apply after 2017.\n\n(Sec. 210) Health savings accounts (HSAs), Archer medical savings accounts (MSAs), health flexible spending arrangements (HFSAs), and health reimbursement arrangements may be used to pay for over-the-counter medications.\n\n(Sec. 211) This bill lowers the tax on distributions from HSAs and Archer MSAs that are not used for medical expenses.\n\n(Sec. 212) Salary reduction contributions to an HFSA under a cafeteria plan are no longer limited.\n\n(Sec. 213) The annual fee on manufacturers and importers of brand name prescription drugs is eliminated.\n\n(Sec. 214) The excise tax on medical devices is eliminated.\n\n(Sec. 215) The annual fee on health insurers is eliminated.\n\n(Sec. 216) Medical costs are allowed as a tax deduction regardless of whether the costs are taken into account when determining the amount of the subsidy for an employer-sponsored retiree prescription drug plan under Medicare part D (Voluntary Prescription Drug Benefit Program).\n\n(Sec. 217) A tax deduction is allowed for medical expenses in excess of 7.5% (currently, 10%) of adjusted gross income.\n\n(Sec. 218) The additional Medicare tax on income above a certain threshold is eliminated.\n\n(Sec. 219) The indoor tanning services tax is eliminated.\n\n(Sec. 220) The net investment income tax is eliminated.\n\n(Sec. 221) A health insurer is allowed a tax deduction for the full amount of an employee's compensation. (Currently, there is a limit on the amount of an employee's compensation that a health insurer may deduct.)\n\n(Sec. 222) Provisions relating to the economic substance doctrine are repealed. (The economic substance doctrine treats a transaction as having economic substance if it has a purpose other than reducing income taxes. Currently, there are penalties for claiming tax benefits for transactions without economic substance.)\n\n(Sec. 223) Funds are transferred from the Department of the Treasury to the Federal Hospital Insurance Trust Fund."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Restoring Americans' Healthcare Freedom Reconciliation Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Restoring Americans' Healthcare Freedom Reconciliation Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Restoring Americans' Healthcare Freedom Reconciliation Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide for reconciliation pursuant to section 2002 of the concurrent resolution on the budget for fiscal year 2016.", 
+      "type": "official"
+    }, 
+    {
+      "as": "agreed to by house and senate", 
+      "is_for_portion": false, 
+      "title": "To provide for reconciliation pursuant to section 2002 of the concurrent resolution on the budget for fiscal year 2016.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:55:07-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3762:@@@L&summ2=m&"
+}

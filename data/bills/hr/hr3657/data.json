@@ -1,0 +1,120 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-09-30", 
+      "references": [
+        {
+          "reference": "CR H6718", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-30", 
+      "committees": [
+        "HSAG"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Agriculture.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-10-15", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Nutrition.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3657-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Agriculture", 
+      "committee_id": "HSAG"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Agriculture", 
+      "committee_id": "HSAG", 
+      "subcommittee": "Subcommittee on Nutrition", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-09-30", 
+  "number": "3657", 
+  "official_title": "To amend the Food and Nutrition Act of 2008 to require that supplemental nutrition assistance program benefits be calculated with reference to the cost of the low-cost food plan as determined by the Secretary of Agriculture, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr5215-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Food Security Improvement Act of 2015", 
+  "sponsor": {
+    "district": "21", 
+    "name": "Deutch, Theodore E.", 
+    "state": "FL", 
+    "thomas_id": "01976", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-09-30", 
+  "subjects": [
+    "Agriculture and food", 
+    "Alaska", 
+    "American Samoa", 
+    "Caribbean area", 
+    "Food assistance and relief", 
+    "Guam", 
+    "Hawaii", 
+    "Poverty and welfare assistance", 
+    "Puerto Rico", 
+    "U.S. territories and protectorates", 
+    "Virgin Islands"
+  ], 
+  "subjects_top_term": "Agriculture and food", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-09-30", 
+    "text": "Food Security Improvement Act of 2015 \n\nThis bill amends the Food and Nutrition Act of 2008 to require Supplemental Nutrition Assistance Program (SNAP, formerly known as the food stamp program) benefits to be calculated using a low-cost food plan.\n\nThe Department of Agriculture must determine the requirements for the low-cost food plan using the diet described in the Center for Nutrition Policy and Promotion's publication entitled \"The Low-Cost, Moderate-Cost, and Liberal Food Plans, 2007\" and adjustments specified in this bill.\n\nThe bill revises the amounts of nutrition assistance block grants for Puerto Rico and American Samoa and requires the amounts to be modified based on adjustments to the low-cost food plan."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Food Security Improvement Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Food and Nutrition Act of 2008 to require that supplemental nutrition assistance program benefits be calculated with reference to the cost of the low-cost food plan as determined by the Secretary of Agriculture, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:54:15-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3657:@@@L&summ2=m&"
+}

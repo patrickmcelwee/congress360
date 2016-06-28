@@ -1,0 +1,117 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-01-22", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-03-02", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Federal Lands.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr488-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Federal Lands", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "4", 
+      "name": "Hardy, Cresent", 
+      "sponsored_at": "2015-01-22", 
+      "state": "NV", 
+      "thomas_id": "02260", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Heck, Joseph J.", 
+      "sponsored_at": "2015-01-22", 
+      "state": "NV", 
+      "thomas_id": "02040", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-01-22", 
+  "number": "488", 
+  "official_title": "To prohibit the further extension or establishment of national monuments in Nevada except by express authorization of Congress.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s232-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "2", 
+    "name": "Amodei, Mark E.", 
+    "state": "NV", 
+    "thomas_id": "02090", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-01-22", 
+  "subjects": [
+    "Congressional oversight", 
+    "Land use and conservation", 
+    "Monuments and memorials", 
+    "Nevada", 
+    "Parks, recreation areas, trails", 
+    "Public lands and natural resources"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-01-22", 
+    "text": "Prohibits any further extension or establishment of national parks and monuments in Nevada from being undertaken, except by express authorization of Congress."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To prohibit the further extension or establishment of national monuments in Nevada except by express authorization of Congress.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:27:18-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR488:@@@L&summ2=m&"
+}

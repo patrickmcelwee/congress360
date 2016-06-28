@@ -1,0 +1,442 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-04-13", 
+      "references": [
+        {
+          "reference": "CR E465", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-04-13", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-05-15", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Courts, Intellectual Property, and the Internet.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1733-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Courts, Intellectual Property, and the Internet", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "37", 
+      "name": "Bass, Karen", 
+      "sponsored_at": "2015-11-05", 
+      "state": "CA", 
+      "thomas_id": "01996", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Blackburn, Marsha", 
+      "sponsored_at": "2015-04-13", 
+      "state": "TN", 
+      "thomas_id": "01748", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Blumenauer, Earl", 
+      "sponsored_at": "2015-08-04", 
+      "state": "OR", 
+      "thomas_id": "00099", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Brady, Robert A.", 
+      "sponsored_at": "2015-10-20", 
+      "state": "PA", 
+      "thomas_id": "01469", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "26", 
+      "name": "Brownley, Julia", 
+      "sponsored_at": "2015-12-03", 
+      "state": "CA", 
+      "thomas_id": "02106", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "29", 
+      "name": "Cardenas, Tony", 
+      "sponsored_at": "2016-03-22", 
+      "state": "CA", 
+      "thomas_id": "02107", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "27", 
+      "name": "Chu, Judy", 
+      "sponsored_at": "2015-05-05", 
+      "state": "CA", 
+      "thomas_id": "01970", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Cicilline, David N.", 
+      "sponsored_at": "2015-09-09", 
+      "state": "RI", 
+      "thomas_id": "02055", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Cohen, Steve", 
+      "sponsored_at": "2015-05-01", 
+      "state": "TN", 
+      "thomas_id": "01878", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Conyers, John, Jr.", 
+      "sponsored_at": "2015-04-13", 
+      "state": "MI", 
+      "thomas_id": "00229", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Crowley, Joseph", 
+      "sponsored_at": "2016-02-12", 
+      "state": "NY", 
+      "thomas_id": "01604", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Davis, Danny K.", 
+      "sponsored_at": "2016-04-20", 
+      "state": "IL", 
+      "thomas_id": "01477", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "Deutch, Theodore E.", 
+      "sponsored_at": "2015-04-13", 
+      "state": "FL", 
+      "thomas_id": "01976", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Edwards, Donna F.", 
+      "sponsored_at": "2016-04-20", 
+      "state": "MD", 
+      "thomas_id": "01894", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "Frankel, Lois", 
+      "sponsored_at": "2016-04-15", 
+      "state": "FL", 
+      "thomas_id": "02119", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Grayson, Alan", 
+      "sponsored_at": "2015-05-01", 
+      "state": "FL", 
+      "thomas_id": "01914", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Huffman, Jared", 
+      "sponsored_at": "2016-04-12", 
+      "state": "CA", 
+      "thomas_id": "02101", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "49", 
+      "name": "Issa, Darrell E.", 
+      "sponsored_at": "2016-04-21", 
+      "state": "CA", 
+      "thomas_id": "01640", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "33", 
+      "name": "Lieu, Ted", 
+      "sponsored_at": "2015-05-01", 
+      "state": "CA", 
+      "thomas_id": "02230", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Maloney, Carolyn B.", 
+      "sponsored_at": "2015-11-30", 
+      "state": "NY", 
+      "thomas_id": "00729", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "McDermott, Jim", 
+      "sponsored_at": "2015-11-18", 
+      "state": "WA", 
+      "thomas_id": "00766", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "32", 
+      "name": "Napolitano, Grace F.", 
+      "sponsored_at": "2015-07-08", 
+      "state": "CA", 
+      "thomas_id": "01602", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Norton, Eleanor Holmes", 
+      "sponsored_at": "2015-10-21", 
+      "state": "DC", 
+      "thomas_id": "00868", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Peterson, Collin C.", 
+      "sponsored_at": "2016-03-23", 
+      "state": "MN", 
+      "thomas_id": "00910", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Pitts, Joseph R.", 
+      "sponsored_at": "2015-10-21", 
+      "state": "PA", 
+      "thomas_id": "01514", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Rangel, Charles B.", 
+      "sponsored_at": "2015-10-29", 
+      "state": "NY", 
+      "thomas_id": "00944", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Rooney, Thomas J.", 
+      "sponsored_at": "2016-03-01", 
+      "state": "FL", 
+      "thomas_id": "01916", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "38", 
+      "name": "Sanchez, Linda T.", 
+      "sponsored_at": "2015-12-08", 
+      "state": "CA", 
+      "thomas_id": "01757", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Schakowsky, Janice D.", 
+      "sponsored_at": "2015-05-20", 
+      "state": "IL", 
+      "thomas_id": "01588", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "28", 
+      "name": "Schiff, Adam B.", 
+      "sponsored_at": "2015-05-01", 
+      "state": "CA", 
+      "thomas_id": "01635", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "30", 
+      "name": "Sherman, Brad", 
+      "sponsored_at": "2015-10-26", 
+      "state": "CA", 
+      "thomas_id": "01526", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "25", 
+      "name": "Slaughter, Louise McIntosh", 
+      "sponsored_at": "2015-07-08", 
+      "state": "NY", 
+      "thomas_id": "01069", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Tipton, Scott  R.", 
+      "sponsored_at": "2015-12-15", 
+      "state": "CO", 
+      "thomas_id": "01997", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Trott, David A.", 
+      "sponsored_at": "2016-05-31", 
+      "state": "MI", 
+      "thomas_id": "02250", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "23", 
+      "name": "Wasserman Schultz, Debbie", 
+      "sponsored_at": "2016-04-14", 
+      "state": "FL", 
+      "thomas_id": "01777", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Watson Coleman, Bonnie", 
+      "sponsored_at": "2015-11-18", 
+      "state": "NJ", 
+      "thomas_id": "02259", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-04-13", 
+  "number": "1733", 
+  "official_title": "To amend title 17, United States Code, to provide fair treatment of radio stations and artists for the use of sound recordings, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr1457-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Fair Play Fair Pay Act of 2015", 
+  "sponsor": {
+    "district": "10", 
+    "name": "Nadler, Jerrold", 
+    "state": "NY", 
+    "thomas_id": "00850", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-04-13", 
+  "subjects": [
+    "Administrative remedies", 
+    "Broadcasting, cable, digital technologies", 
+    "Commerce", 
+    "Intellectual property", 
+    "Licensing and registrations", 
+    "Music", 
+    "Religion", 
+    "Sound recording"
+  ], 
+  "subjects_top_term": "Commerce", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-04-13", 
+    "text": "Fair Play Fair Pay Act of 2015\n\nAmends federal copyright law to extend a sound recording copyright owner's rights to include the exclusive right to perform or authorize the performance of the recording publicly by means of any audio transmission, thereby requiring terrestrial AM/FM broadcast radio stations that play copyrighted sound recordings to pay royalties for the non-digital audio transmissions of the recordings. (Currently, sound recording copyright owners have a performance right that applies only to digital transmissions by cable, satellite, and Internet radio stations.) Requires the Copyright Royalty Judges (CRJs) to commence a proceeding to determine royalty rates and terms for nonsubscription broadcast transmissions. Directs the CRJs, in determining royalty rates for statutory licensing of such digital or non-digital transmissions, to: (1) distinguish among different types of services, and (2) include a minimum fee for each type of service. Allows differences to be based on the quantity and nature of the use of sound recordings and the degree to which use of the service may substitute for or promote consumer purchases of phonorecords.\n\nRequires the CRJs to establish rates that most clearly represent the rates and terms that would have been negotiated in the marketplace between a willing buyer and a willing seller. Directs the CRJs to base their decision on economic, competitive, and programming information presented by the parties, including: (1) the sound recording copyright owner's other streams of revenue from the recordings; and (2) the relative creative contribution, technological contribution, capital investment, cost, and risk of the copyright owner and the transmitting entity.\n\nCaps the annual royalty rate at: (1) $500 for small commercial broadcast stations with less than $1 million in revenues for the calendar year, and (2) $100 for public broadcasting stations. Exempts religious service broadcasts or incidental uses of music from royalty payment requirements.\n\nRequires proceeds for direct licenses of transmissions otherwise licensable under the statutory license to be distributed in the same manner as statutory license proceeds. Requires payment of 45% to featured artists, 2.5% to nonfeatured musicians, and 2.5% to nonfeatured vocalists. Makes such distribution the sole payments to which featured and nonfeatured artists are entitled under a direct license. Requires payment of performance royalties for sound recordings fixed before February 15, 1972, in the same manner as royalties are paid for sound recordings fixed after such date.\n\nRequires a collective designated by the CRJs to implement a policy to accept instructions (referred to as a \"letter of direction\") from a sound recording copyright owner, or from a recording artist, to distribute a portion of performance royalty payments to a producer, mixer, or sound engineer who was part of the creative process behind the sound recording.\n\nRequires the collective to adopt special procedures for a producer, mixer, or sound engineer to receive a portion of royalties for recordings fixed before November 1, 1995, by certifying that a reasonable effort has been made to obtain a letter of direction from an artist who owns the right to receipts payable with respect to the sound recording."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Fair Play Fair Pay Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 17, United States Code, to provide fair treatment of radio stations and artists for the use of sound recordings, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:37:55-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR1733:@@@L&summ2=m&"
+}

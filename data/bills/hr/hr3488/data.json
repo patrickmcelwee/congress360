@@ -1,0 +1,346 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-09-10", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Transportation and Infrastructure.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-09-11", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Highways and Transit.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3488-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Highways and Transit", 
+      "subcommittee_id": "12"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "5", 
+      "name": "Abraham, Ralph Lee", 
+      "sponsored_at": "2015-10-28", 
+      "state": "LA", 
+      "thomas_id": "02244", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Benishek, Dan", 
+      "sponsored_at": "2015-10-09", 
+      "state": "MI", 
+      "thomas_id": "02027", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Buck, Ken", 
+      "sponsored_at": "2015-10-08", 
+      "state": "CO", 
+      "thomas_id": "02233", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Cramer, Kevin", 
+      "sponsored_at": "2015-10-08", 
+      "state": "ND", 
+      "thomas_id": "02144", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Crawford, Eric A. \"Rick\"", 
+      "sponsored_at": "2015-09-11", 
+      "state": "AR", 
+      "thomas_id": "01989", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Duffy, Sean P.", 
+      "sponsored_at": "2015-09-11", 
+      "state": "WI", 
+      "thomas_id": "02072", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Forbes, J. Randy", 
+      "sponsored_at": "2015-11-02", 
+      "state": "VA", 
+      "thomas_id": "01683", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Grothman, Glenn", 
+      "sponsored_at": "2015-09-11", 
+      "state": "WI", 
+      "thomas_id": "02276", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Huelskamp, Tim", 
+      "sponsored_at": "2015-10-20", 
+      "state": "KS", 
+      "thomas_id": "02020", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Jenkins, Lynn", 
+      "sponsored_at": "2015-10-20", 
+      "state": "KS", 
+      "thomas_id": "01921", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Labrador, Raul R.", 
+      "sponsored_at": "2015-10-21", 
+      "state": "ID", 
+      "thomas_id": "02011", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Loudermilk, Barry", 
+      "sponsored_at": "2015-10-22", 
+      "state": "GA", 
+      "thomas_id": "02238", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Mulvaney, Mick", 
+      "sponsored_at": "2015-10-28", 
+      "state": "SC", 
+      "thomas_id": "02059", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Newhouse, Dan", 
+      "sponsored_at": "2015-09-11", 
+      "state": "WA", 
+      "thomas_id": "02275", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Peterson, Collin C.", 
+      "sponsored_at": "2015-09-11", 
+      "state": "MN", 
+      "thomas_id": "00910", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Poliquin, Bruce", 
+      "sponsored_at": "2015-09-11", 
+      "state": "ME", 
+      "thomas_id": "02247", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Ratcliffe, John", 
+      "sponsored_at": "2015-10-22", 
+      "state": "TX", 
+      "thomas_id": "02268", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Rigell, E. Scott", 
+      "sponsored_at": "2015-10-28", 
+      "state": "VA", 
+      "thomas_id": "02068", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Rouzer, David", 
+      "sponsored_at": "2015-09-11", 
+      "state": "NC", 
+      "thomas_id": "02256", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Schrader, Kurt", 
+      "sponsored_at": "2015-09-11", 
+      "state": "OR", 
+      "thomas_id": "01950", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Simpson, Michael K.", 
+      "sponsored_at": "2015-09-11", 
+      "state": "ID", 
+      "thomas_id": "01590", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "Stefanik, Elise M.", 
+      "sponsored_at": "2015-10-08", 
+      "state": "NY", 
+      "thomas_id": "02263", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Stutzman, Marlin A.", 
+      "sponsored_at": "2015-11-03", 
+      "state": "IN", 
+      "thomas_id": "01981", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Tipton, Scott  R.", 
+      "sponsored_at": "2015-10-27", 
+      "state": "CO", 
+      "thomas_id": "01997", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Westerman, Bruce", 
+      "sponsored_at": "2015-10-20", 
+      "state": "AR", 
+      "thomas_id": "02224", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Yoho, Ted S.", 
+      "sponsored_at": "2015-10-09", 
+      "state": "FL", 
+      "thomas_id": "02115", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Zinke, Ryan K.", 
+      "sponsored_at": "2015-11-02", 
+      "state": "MT", 
+      "thomas_id": "02254", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-09-10", 
+  "number": "3488", 
+  "official_title": "To amend title 23, United States Code, with respect to vehicle weight limitations applicable to the Interstate System, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Safe, Flexible, and Efficient Trucking Act of 2015", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Ribble, Reid J.", 
+    "state": "WI", 
+    "thomas_id": "02073", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-09-10", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Department of Transportation", 
+    "Government information and archives", 
+    "Motor carriers", 
+    "Motor vehicles", 
+    "Roads and highways", 
+    "State and local government operations", 
+    "Transportation and public works", 
+    "Transportation programs funding", 
+    "Transportation safety and security"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-09-10", 
+    "text": "Safe, Flexible, and Efficient Trucking Act of 2015\n\nThis bill allows a state to authorize a vehicle with a maximum gross weight (including enforcement tolerances) exceeding certain federal weight limitations to operate on Interstate Highway System routes in the state if:\n\n the vehicle is equipped with at least six axles, the weight of any single axle does not exceed 20,000 pounds, the weight of any tandem axle does not exceed 34,000 pounds, the weight of any group of 3 or more axles does not exceed 51,000 pounds, the gross weight of the vehicle does not exceed 91,000 pounds, and the vehicle complies with a specified bridge formula. The Department of Transportation may issue regulations necessary to require such a vehicle to include one item of additional equipment not otherwise required by law, but only if the equipment item is available at the time the rule is proposed."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Safe, Flexible, and Efficient Trucking Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 23, United States Code, with respect to vehicle weight limitations applicable to the Interstate System, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:52:50-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3488:@@@L&summ2=m&"
+}

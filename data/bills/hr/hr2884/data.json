@@ -1,0 +1,95 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-06-24", 
+      "references": [
+        {
+          "reference": "CR H4602", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-06-24", 
+      "committees": [
+        "HSBU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Budget.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2884-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Budget", 
+      "committee_id": "HSBU"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "5", 
+      "name": "Mulvaney, Mick", 
+      "sponsored_at": "2015-07-22", 
+      "state": "SC", 
+      "thomas_id": "02059", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-06-24", 
+  "number": "2884", 
+  "official_title": "To amend the Balanced Budget and Emergency Deficit Control Act of 1985 to eliminate the firewalls between defense and nondefense discretionary spending limits.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "8", 
+    "name": "Ribble, Reid J.", 
+    "state": "WI", 
+    "thomas_id": "02073", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-06-24", 
+  "subjects": [
+    "Budget deficits and national debt", 
+    "Budget process", 
+    "Defense spending", 
+    "Economics and public finance"
+  ], 
+  "subjects_top_term": "Economics and public finance", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-06-24", 
+    "text": "This bill amends the Balanced Budget and Emergency Deficit Control Act of 1985 to modify provisions that allocate spending between defense and nondefense spending.\n\nThe bill replaces the separate annual discretionary spending limits (commonly known as firewalls) for security and nonsecurity spending for FY2016-FY2021, with annual limits for total discretionary spending.\n\nThe bill also revises procedures for sequestration, which is a process of automatic, usually across-the-board spending reductions under which budgetary resources are permanently cancelled to enforce specific budget policy goals. The requirement that automatic cuts be evenly distributed between defense and nondefense spending is replaced with specified cuts in nondefense and defense direct spending for FY2016-FY2021."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Balanced Budget and Emergency Deficit Control Act of 1985 to eliminate the firewalls between defense and nondefense discretionary spending limits.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:47:48-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2884:@@@L&summ2=m&"
+}

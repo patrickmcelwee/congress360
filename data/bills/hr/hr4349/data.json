@@ -1,0 +1,105 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-01-07", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-01-08", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4349-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-01-07", 
+  "number": "4349", 
+  "official_title": "To require the Secretary of Health and Human Services to establish an institution for mental diseases bed registry program.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr4435-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Coordinating Crisis Care Act", 
+  "sponsor": {
+    "district": "20", 
+    "name": "Tonko, Paul", 
+    "state": "NY", 
+    "thomas_id": "01942", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-01-07", 
+  "subjects": [
+    "Drug, alcohol, tobacco use", 
+    "Health", 
+    "Health facilities and institutions", 
+    "Health information and medical records", 
+    "Health programs administration and funding", 
+    "Hospital care", 
+    "Mental health"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2016-01-07", 
+    "text": "Coordinating Crisis Care Act\n\nThis bill requires the Substance Abuse and Mental Health Services Administration to award grants to states for real-time, Internet-based bed registries that provide information about beds in inpatient psychiatric facilities, crisis stabilization units, residential community mental health treatment facilities, and residential substance abuse treatment facilities to facilitate the identification of space for the temporary treatment of an individual in psychiatric or substance abuse crisis.\n\nA bed registry must: (1) describe and provide contact information for every relevant facility in the state; (2) provide real-time information about the number of beds available at each facility and, for each available bed, provide the type of patient that may be admitted, the level of security provided, and any other information that may be necessary to identify an appropriate facility for an individual in crisis; and (3) allow specified users to search the registry for an appropriate and available bed for an individual in crisis."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Coordinating Crisis Care Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require the Secretary of Health and Human Services to establish an institution for mental diseases bed registry program.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:00:02-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4349:@@@L&summ2=m&"
+}

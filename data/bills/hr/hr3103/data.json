@@ -1,0 +1,122 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-07-16", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-07-17", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Communications and Technology.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3103-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Communications and Technology", 
+      "subcommittee_id": "16"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "2", 
+      "name": "Loebsack, David", 
+      "sponsored_at": "2015-07-16", 
+      "state": "IA", 
+      "thomas_id": "01846", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Pearce, Stevan", 
+      "sponsored_at": "2016-02-01", 
+      "state": "NM", 
+      "thomas_id": "01738", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-07-16", 
+  "number": "3103", 
+  "official_title": "To encourage spectrum licensees to make unused spectrum available for use by rural and smaller carriers in order to expand wireless coverage.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s417-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Rural Spectrum Accessibility Act of 2015", 
+  "sponsor": {
+    "district": "16", 
+    "name": "Kinzinger, Adam", 
+    "state": "IL", 
+    "thomas_id": "02014", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-07-16", 
+  "subjects": [
+    "Broadcasting, cable, digital technologies", 
+    "Licensing and registrations", 
+    "Rural conditions and development", 
+    "Science, technology, communications", 
+    "Telephone and wireless communication"
+  ], 
+  "subjects_top_term": "Science, technology, communications", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-07-16", 
+    "text": "Rural Spectrum Accessibility Act of 2015\n\nDirects the Federal Communications Commission to establish a program under which a wireless carrier receiving a license under specified provisions of the Communications Act of 1934 may partition or disaggregate the license in order to make unused spectrum available to small carriers or carriers to serve certain rural areas.\n\nDefines \"small carrier\" as a carrier with not more than 1,500 employees as calculated under regulatory standards used by the Small Business Administration to determine the number of individuals employed by a business concern on a full-time, part-time, or other basis.\n\nProvides carriers receiving such licenses and participating in the program with a three-year extension of licenses granted under this Act."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Rural Spectrum Accessibility Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To encourage spectrum licensees to make unused spectrum available for use by rural and smaller carriers in order to expand wireless coverage.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:49:37-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3103:@@@L&summ2=m&"
+}

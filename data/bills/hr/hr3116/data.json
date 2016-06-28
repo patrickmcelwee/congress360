@@ -1,0 +1,333 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-07-20", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Oversight and Government Reform.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-07-22", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-23", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-23", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2015-07-29T18:12:00-04:00", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on Oversight and Government Reform. H. Rept. 114-237.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-29T18:12:00-04:00", 
+      "calendar": "Union", 
+      "number": "179", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 179.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2015-09-24T13:27:00-04:00", 
+      "references": [], 
+      "text": "Mr. Chaffetz moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-24T13:27:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6198-6199", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-24T13:27:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3116.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-24T13:31:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H6198", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2015-09-24T13:31:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-25", 
+      "committees": [
+        "SSGA"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-10-06", 
+      "committees": [
+        "SSGA"
+      ], 
+      "references": [], 
+      "text": "Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-10-06", 
+      "references": [
+        {
+          "reference": "CR S7171", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Measure laid before Senate by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-10-06", 
+      "how": "by Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_BACK:SENATE", 
+      "text": "Passed Senate with an amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2015-10-07", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-10-21T15:50:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7060-7061", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Mr. Chaffetz asked unanimous consent that the House agree to the Senate amendment.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-10-21T15:50:00-04:00", 
+      "how": "without objection", 
+      "references": [
+        {
+          "reference": "CR H7060-7061", 
+          "type": "text as House agreed to Senate amendment"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "suspension": null, 
+      "text": "On motion that the House agree to the Senate amendment Agreed to without objection.", 
+      "type": "vote", 
+      "vote_type": "pingpong", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2015-10-21T15:50:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-10-22", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2015-10-22", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2015-10-22", 
+      "congress": "114", 
+      "law": "public", 
+      "number": "72", 
+      "references": [], 
+      "text": "Became Public Law No: 114-72.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "samdt2710-114", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2710"
+    }
+  ], 
+  "bill_id": "hr3116-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Oversight and Government Reform", 
+      "committee_id": "HSGO"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Homeland Security and Governmental Affairs", 
+      "committee_id": "SSGA"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": {
+    "congress": "114", 
+    "law_type": "public", 
+    "number": "72"
+  }, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-07-22", 
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2015-10-22", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2015-10-21T15:50:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2015-10-06", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-07-20", 
+  "number": "3116", 
+  "official_title": "To extend by 15 years the authority of the Secretary of Commerce to conduct the quarterly financial report program.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1868-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s1868-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Quarterly Financial Report Reauthorization Act", 
+  "sponsor": {
+    "district": "33", 
+    "name": "Lieu, Ted", 
+    "state": "CA", 
+    "thomas_id": "02230", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2015-10-22", 
+  "subjects": [
+    "Business records", 
+    "Census and government statistics", 
+    "Commerce", 
+    "Corporate finance and management", 
+    "Economic performance and conditions", 
+    "Finance and financial sector", 
+    "Government information and archives"
+  ], 
+  "subjects_top_term": "Commerce", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2015-10-22", 
+    "text": "(This measure has not been amended since it was passed by the Senate on October 6, 2015. The summary of that version is repeated here.)\n\n(Sec. 2) This bill extends the authority of the Department of Commerce to conduct the quarterly financial report program through September 30, 2030, under which Commerce collects and publishes quarterly financial statistics of business operations, organization, practices, management, and relation to other businesses, including data on sales, expenses, assets, liabilities, and other measures of financial condition.\n\n(Sec. 3) Commerce must conduct and report to specified congressional committees on a review of the data security procedures of the Bureau of the Census. Such report shall:\n\n identify all Bureau information systems that contain sensitive information; describe any actions carried out by Commerce or the Bureau to secure sensitive information since the data breaches of Office of Personnel Management systems were announced in 2015; identify any known data breaches of Bureau information systems that contain sensitive information; and identify whether the Bureau stores any information that, if combined with other information, would comprise classified information."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Quarterly Financial Report Reauthorization Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Quarterly Financial Report Reauthorization Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Quarterly Financial Report Reauthorization Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "is_for_portion": false, 
+      "title": "Quarterly Financial Report Reauthorization Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": false, 
+      "title": "Quarterly Financial Report Reauthorization Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To extend by 15 years the authority of the Secretary of Commerce to conduct the quarterly financial report program.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:49:44-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3116:@@@L&summ2=m&"
+}

@@ -1,0 +1,116 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-01-27", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-01-30", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Energy and Power.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr568-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Energy and Power", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "9", 
+      "name": "McNerney, Jerry", 
+      "sponsored_at": "2015-01-27", 
+      "state": "CA", 
+      "thomas_id": "01832", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-01-27", 
+  "number": "568", 
+  "official_title": "To require the Secretary of Energy to prepare a report on the impact of thermal insulation on both energy and water use for potable hot water.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr8-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Thermal Insulation Efficiency Improvement Act", 
+  "sponsor": {
+    "district": "16", 
+    "name": "Kinzinger, Adam", 
+    "state": "IL", 
+    "thomas_id": "02014", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-01-27", 
+  "subjects": [
+    "Accounting and auditing", 
+    "Congressional oversight", 
+    "Energy", 
+    "Energy efficiency and conservation", 
+    "Government buildings, facilities, and property", 
+    "Government studies and investigations", 
+    "Water storage", 
+    "Water use and supply"
+  ], 
+  "subjects_top_term": "Energy", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-01-27", 
+    "text": "Thermal Insulation Efficiency Improvement Act\n\nThis bill directs the Department of Energy to submit a report within one year on the impact of thermal insulation on both energy and water use systems for potable hot and chilled water in federal buildings and on the return on investment of installing the insulation. The report must include: (1) an analysis based on the cost of municipal or regional water for delivered water and the avoided cost of new water; and (2) a summary of energy and water savings, including short-term and long-term (20 years) projections of such savings."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Thermal Insulation Efficiency Improvement Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require the Secretary of Energy to prepare a report on the impact of thermal insulation on both energy and water use for potable hot water.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:27:58-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR568:@@@L&summ2=m&"
+}

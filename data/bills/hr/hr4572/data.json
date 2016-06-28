@@ -1,0 +1,103 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-02-12", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-02-19", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Trade.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4572-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM", 
+      "subcommittee": "Subcommittee on Trade", 
+      "subcommittee_id": "04"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-02-12", 
+  "number": "4572", 
+  "official_title": "To amend the Trade Act of 1974 to authorize a State to reimburse certain costs incurred by the State in providing training to workers after a petition for certification of eligibility for trade adjustment assistance has been filed, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2556-114", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Workforce Training Enhancement Act of 2016", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Nolan, Richard M.", 
+    "state": "MN", 
+    "thomas_id": "00867", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-02-12", 
+  "subjects": [
+    "Employment and training programs", 
+    "Labor and employment", 
+    "State and local finance", 
+    "State and local government operations", 
+    "Trade adjustment assistance"
+  ], 
+  "subjects_top_term": "Labor and employment", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2016-02-12", 
+    "text": "Workforce Training Enhancement Act of 2016\n\nThis bill amends the Trade Act of 1974, with respect to trade adjustment assistance (TAA) for training to adversely affected workers, to authorize a state to use certain funds distributed by the Department of Labor to reimburse the costs of providing training to an adversely affected worker before the worker is approved for training under the Act if those costs have been paid by:\n\n the state from state funds, the state or local workforce development areas within the state from funds available for workforce investment activities and providers under the Workforce Innovation and Opportunity Act, or another entity eligible in the state under the national dislocated worker grants program from funds available for that program. The use of funds under this Act shall be conditioned, however, on the worker's coverage by a certification for TAA eligibility for training meeting approval requirements which commenced after the date on which the total or partial separations of the group of workers covered by the certification for eligibility began or threatened to begin."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Workforce Training Enhancement Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Trade Act of 1974 to authorize a State to reimburse certain costs incurred by the State in providing training to workers after a petition for certification of eligibility for trade adjustment assistance has been filed, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:01:54-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4572:@@@L&summ2=m&"
+}

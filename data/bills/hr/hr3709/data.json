@@ -1,0 +1,126 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-10-08", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-10-21", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3709-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Bordallo, Madeleine Z.", 
+      "sponsored_at": "2015-10-21", 
+      "state": "GU", 
+      "thomas_id": "01723", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Hastings, Alcee L.", 
+      "sponsored_at": "2015-10-21", 
+      "state": "FL", 
+      "thomas_id": "00511", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Kirkpatrick, Ann", 
+      "sponsored_at": "2015-10-08", 
+      "state": "AZ", 
+      "thomas_id": "01907", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-10-08", 
+  "number": "3709", 
+  "official_title": "To make permanent the pilot program administered by the Secretary of Veterans Affairs regarding enhanced contract care authority for the health care needs of veterans located in highly rural areas, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Helping our Rural Veterans Receive Health Care Act", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Poliquin, Bruce", 
+    "state": "ME", 
+    "thomas_id": "02247", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-10-08", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Health promotion and preventive care", 
+    "Hospital care", 
+    "Rural conditions and development", 
+    "Veterans' education, employment, rehabilitation", 
+    "Veterans' medical care"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-10-08", 
+    "text": "Helping our Rural Veterans Receive Health Care Act\n\nThis bill amends the Veterans' Mental Health and Other Care Improvements Act of 2008 to make permanent and expand the pilot program to provide, through qualifying non-VA health care providers, VA-authorized hospital care or medical, rehabilitative, or preventive health services to veterans in highly rural areas."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Helping our Rural Veterans Receive Health Care Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To make permanent the pilot program administered by the Secretary of Veterans Affairs regarding enhanced contract care authority for the health care needs of veterans located in highly rural areas, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:54:41-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3709:@@@L&summ2=m&"
+}

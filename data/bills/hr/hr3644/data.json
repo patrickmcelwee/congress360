@@ -1,0 +1,114 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-09-29", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-10-16", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Water, Power and Oceans.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3644-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Water, Power and Oceans", 
+      "subcommittee_id": "13"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "4", 
+      "name": "Crenshaw, Ander", 
+      "sponsored_at": "2015-10-06", 
+      "state": "FL", 
+      "thomas_id": "01643", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Posey, Bill", 
+      "sponsored_at": "2015-10-06", 
+      "state": "FL", 
+      "thomas_id": "01915", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-09-29", 
+  "number": "3644", 
+  "official_title": "To authorize grants for data collection for use in stock assessments of red snapper and other reef fish species in the South Atlantic, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "South Atlantic Red Snapper Data Improvement Act", 
+  "sponsor": {
+    "district": "13", 
+    "name": "Jolly, David W.", 
+    "state": "FL", 
+    "thomas_id": "02199", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-09-29", 
+  "subjects": [
+    "Atlantic Ocean", 
+    "Congressional oversight", 
+    "Fishes", 
+    "Government information and archives", 
+    "Marine and coastal resources, fisheries", 
+    "Public lands and natural resources", 
+    "Research administration and funding"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "South Atlantic Red Snapper Data Improvement Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To authorize grants for data collection for use in stock assessments of red snapper and other reef fish species in the South Atlantic, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:54:08-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3644:@@@L&summ2=m&"
+}

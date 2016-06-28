@@ -1,0 +1,134 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-01-22", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-02-06", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Economic Opportunity.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-03-24", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-04-16", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-04-16", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee in the Nature of a Substitute (Amended) by Voice Vote .", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr476-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR", 
+      "subcommittee": "Subcommittee on Economic Opportunity", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-03-24", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-01-22", 
+  "number": "476", 
+  "official_title": "To amend title 38, United States Code, to clarify the process of approving courses of education pursued using educational benefits administered by the Secretary of Veterans Affairs, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr3016-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "GI Bill Education Quality Enhancement Act of 2015", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Wenstrup, Brad R.", 
+    "state": "OH", 
+    "thomas_id": "02152", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-01-22", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Aviation and airports", 
+    "Government studies and investigations", 
+    "Higher education", 
+    "Intergovernmental relations", 
+    "State and local government operations", 
+    "Student aid and college costs", 
+    "Veterans' education, employment, rehabilitation"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-01-22", 
+    "text": "GI Bill Education Quality Enhancement Act of 2015\n\nDeems specified education programs to be approved for veterans' education benefit purposes if a state approving agency determines that they qualify. Authorizes a state approving agency, or the Secretary of Veterans Affairs (VA) acting in the role of a state approving agency, to approve other accredited programs for such purposes.\n\nContinues to allow state approving agencies to establish additional criteria (other than those set forth in current law) for the approval of nonaccredited courses, but requires VA to determine that such criteria are necessary and treat public, private, and proprietary for-profit educational institutions equitably.\n\nProhibits VA from including flight training fees in the in-state tuition and fees at public institutions of higher education (IHEs) that are covered by post-9/11 veterans' educational assistance. Requires post-9/11 veterans' educational assistance for flight training programs at public IHEs to be determined in the same manner as such assistance for education programs pursued at non-public or foreign IHEs is determined.\n\nDirects VA to conduct an annual compliance survey of educational institutions and training establishments offering courses approved for veterans' education benefits if at least 20 individuals who are eligible for such benefits are enrolled in any such course. (Currently, an annual compliance survey of each institution offering such courses must be conducted if at least 300 beneficiaries are enrolled or if any such course does not lead to a standard college degree.) Authorizes VA to waive the annual survey for institutions or establishments that have a record of compliance. Requires VA to conduct a biennial survey of each educational institution and training establishment that offers courses approved for veterans' education benefits."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "GI Bill Education Quality Enhancement Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 38, United States Code, to clarify the process of approving courses of education pursued using educational benefits administered by the Secretary of Veterans Affairs, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:27:12-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR476:@@@L&summ2=m&"
+}

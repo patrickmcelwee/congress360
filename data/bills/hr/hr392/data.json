@@ -1,0 +1,99 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-01-14", 
+      "committees": [
+        "HSAG"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Agriculture.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-01-26", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Conservation and Forestry.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr392-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Agriculture", 
+      "committee_id": "HSAG"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Agriculture", 
+      "committee_id": "HSAG", 
+      "subcommittee": "Subcommittee on Conservation and Forestry", 
+      "subcommittee_id": "15"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-01-14", 
+  "number": "392", 
+  "official_title": "To resolve title issues involving real property and equipment acquired using funds provided under the Alaska Kiln Drying Grant Program.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s644-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Young, Don", 
+    "state": "AK", 
+    "thomas_id": "01256", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-01-14", 
+  "subjects": [
+    "Agricultural equipment and machinery", 
+    "Agricultural prices, subsidies, credit", 
+    "Agriculture and food", 
+    "Alaska", 
+    "Forests, forestry, trees", 
+    "Government buildings, facilities, and property", 
+    "Land transfers"
+  ], 
+  "subjects_top_term": "Agriculture and food", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-01-14", 
+    "text": "Vests title to real property and equipment acquired using funds provided under the Alaska Kiln Drying Grant Program in the grant recipient in accordance with the compensation provisions in this Act."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To resolve title issues involving real property and equipment acquired using funds provided under the Alaska Kiln Drying Grant Program.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:26:29-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR392:@@@L&summ2=m&"
+}

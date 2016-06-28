@@ -1,0 +1,148 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-07-21", 
+      "committees": [
+        "HSAG"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Agriculture.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-08-06", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Conservation and Forestry.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3127-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Agriculture", 
+      "committee_id": "HSAG"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Agriculture", 
+      "committee_id": "HSAG", 
+      "subcommittee": "Subcommittee on Conservation and Forestry", 
+      "subcommittee_id": "15"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "3", 
+      "name": "Boustany, Charles W., Jr.", 
+      "sponsored_at": "2015-07-21", 
+      "state": "LA", 
+      "thomas_id": "01787", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Fleming, John", 
+      "sponsored_at": "2015-07-21", 
+      "state": "LA", 
+      "thomas_id": "01924", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Graves, Garret", 
+      "sponsored_at": "2015-07-21", 
+      "state": "LA", 
+      "thomas_id": "02245", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Richmond, Cedric L.", 
+      "sponsored_at": "2015-07-21", 
+      "state": "LA", 
+      "thomas_id": "02023", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Scalise, Steve", 
+      "sponsored_at": "2015-07-21", 
+      "state": "LA", 
+      "thomas_id": "01892", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-07-21", 
+  "number": "3127", 
+  "official_title": "To provide for the conveyance of certain National Forest System land within Kisatchie National Forest in the State of Louisiana.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s61-114", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Kisatchie National Forest Land Conveyance Act", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Abraham, Ralph Lee", 
+    "state": "LA", 
+    "thomas_id": "02244", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-07-21", 
+  "subjects": [
+    "Forests, forestry, trees", 
+    "Land transfers", 
+    "Louisiana", 
+    "Public lands and natural resources"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-07-21", 
+    "text": "Kisatchie National Forest Land Conveyance Act\n\nAuthorizes the Department of Agriculture to sell specified federal land in Winn Parish, Louisiana. Requires USDA to sell a portion of that land to Collins Camp Properties for the Collins Campsites.\n\nRequires sale proceeds to be used for the acquisition of lands and interests in the Kisatchie National Forest in Louisiana."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Kisatchie National Forest Land Conveyance Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide for the conveyance of certain National Forest System land within Kisatchie National Forest in the State of Louisiana.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:49:49-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3127:@@@L&summ2=m&"
+}

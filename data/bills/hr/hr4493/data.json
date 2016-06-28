@@ -1,0 +1,95 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-02-08", 
+      "committees": [
+        "HSAS"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Armed Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-03-04", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Military Personnel.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4493-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS", 
+      "subcommittee": "Subcommittee on Military Personnel", 
+      "subcommittee_id": "02"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-02-08", 
+  "number": "4493", 
+  "official_title": "To amend title 10, United States Code, to provide a one-year extension of the special survivor indemnity allowance provided to widows and widowers of deceased members of the Armed Forces affected by required Survivor Benefit Plan annuity offset for dependency and indemnity compensation received under section 1311(a) of title 38, United States Code.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr4519-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "9", 
+    "name": "Grayson, Alan", 
+    "state": "FL", 
+    "thomas_id": "01914", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-02-08", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Military personnel and dependents", 
+    "Veterans' pensions and compensation"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2016-02-08", 
+    "text": "This bill extends through FY2018 (at $400 per month) the special survivor indemnity allowance for a surviving or former spouse of a deceased member of the Armed Forces whose annuity under the survivor benefit program is offset by the amount of dependency and indemnity compensation received from the Department of Veterans Affairs."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 10, United States Code, to provide a one-year extension of the special survivor indemnity allowance provided to widows and widowers of deceased members of the Armed Forces affected by required Survivor Benefit Plan annuity offset for dependency and indemnity compensation received under section 1311(a) of title 38, United States Code.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:01:14-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4493:@@@L&summ2=m&"
+}

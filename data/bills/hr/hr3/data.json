@@ -1,0 +1,547 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-01-06", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Energy and Commerce, and Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-01-06", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "text": "Referred to House Transportation and Infrastructure", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-01-06", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "text": "Referred to House Energy and Commerce", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-01-06", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Referred to House Natural Resources", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-01-07T15:44:00-05:00", 
+      "bill_ids": [
+        "hres19-114"
+      ], 
+      "committees": [
+        "HSRU"
+      ], 
+      "references": [], 
+      "text": "Rules Committee Resolution H. Res. 19 Reported to House. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. All points of order against the bills are waived. The bills shall be considered as read.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-09T11:04:00-05:00", 
+      "bill_ids": [
+        "hres19-114"
+      ], 
+      "references": [
+        {
+          "reference": "CR H168-181", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under the provisions of rule H. Res. 19.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-09T11:04:00-05:00", 
+      "references": [], 
+      "text": "Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. All points of order against the bills are waived. The bills shall be considered as read.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-09T11:05:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with one hour of debate on H.R. 3.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-09T12:22:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H179", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "The previous question was ordered pursuant to the rule.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-09T12:22:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H179-181", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H179", 
+          "type": "text"
+        }
+      ], 
+      "text": "Mr. Garamendi moved to recommit with instructions to the Committee on Transportation.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-09T12:22:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with up to ten minutes of debate on the Garamendi motion to recommit with instructions, pending reservation of a point of order. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment which would require TransCanada, the developer of the Keystone XL pipeline, to certify to the President that the oil or other products derived from Canadian oil sands that are transported through the pipeline will be treated similarly to conventional crude oil for the purposes of determining contributions that fund the Oil Spill Liability Trust Fund. Subsequently, the reservation of a point of order was withdrawn.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-09T12:32:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H180", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "The previous question on the motion to recommit with instructions was ordered without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-09T12:57:00-05:00", 
+      "references": [], 
+      "text": "On motion to recommit with instructions Failed by the Yeas and Nays: 180 - 237 (Roll no. 15).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-09T13:06:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H168", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "16", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On passage Passed by the Yeas and Nays: 266 - 153, 1 Present (Roll no. 16).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2015-01-09T13:06:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-12", 
+      "calendar": "Senate Legislative", 
+      "number": "3", 
+      "references": [], 
+      "text": "Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 3.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "36", 
+      "name": "Babin, Brian", 
+      "sponsored_at": "2015-01-08", 
+      "state": "TX", 
+      "thomas_id": "02270", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Barletta, Lou", 
+      "sponsored_at": "2015-01-06", 
+      "state": "PA", 
+      "thomas_id": "02054", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Bishop, Rob", 
+      "sponsored_at": "2015-01-06", 
+      "state": "UT", 
+      "thomas_id": "01753", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Bost, Mike", 
+      "sponsored_at": "2015-01-08", 
+      "state": "IL", 
+      "thomas_id": "02243", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Buck, Ken", 
+      "sponsored_at": "2015-01-08", 
+      "state": "CO", 
+      "thomas_id": "02233", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Conaway, K. Michael", 
+      "sponsored_at": "2015-01-08", 
+      "state": "TX", 
+      "thomas_id": "01805", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Cook, Paul", 
+      "sponsored_at": "2015-01-09", 
+      "state": "CA", 
+      "thomas_id": "02103", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Culberson, John Abney", 
+      "sponsored_at": "2015-01-08", 
+      "state": "TX", 
+      "thomas_id": "01670", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Davis, Rodney", 
+      "sponsored_at": "2015-01-06", 
+      "state": "IL", 
+      "thomas_id": "02126", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Denham, Jeff", 
+      "sponsored_at": "2015-01-06", 
+      "state": "CA", 
+      "thomas_id": "01995", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Dent, Charles W.", 
+      "sponsored_at": "2015-01-08", 
+      "state": "PA", 
+      "thomas_id": "01799", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Ellmers, Renee L.", 
+      "sponsored_at": "2015-01-08", 
+      "state": "NC", 
+      "thomas_id": "02036", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Fitzpatrick, Michael G.", 
+      "sponsored_at": "2015-01-06", 
+      "state": "PA", 
+      "thomas_id": "01797", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Gosar, Paul A.", 
+      "sponsored_at": "2015-01-06", 
+      "state": "AZ", 
+      "thomas_id": "01992", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Hill, J. French", 
+      "sponsored_at": "2015-01-08", 
+      "state": "AR", 
+      "thomas_id": "02223", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Kelly, Mike", 
+      "sponsored_at": "2015-01-06", 
+      "state": "PA", 
+      "thomas_id": "02051", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "McClintock, Tom", 
+      "sponsored_at": "2015-01-08", 
+      "state": "CA", 
+      "thomas_id": "01908", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Miller, Candice S.", 
+      "sponsored_at": "2015-01-06", 
+      "state": "MI", 
+      "thomas_id": "01731", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Miller, Jeff", 
+      "sponsored_at": "2015-01-06", 
+      "state": "FL", 
+      "thomas_id": "01685", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Moolenaar, John R.", 
+      "sponsored_at": "2015-01-08", 
+      "state": "MI", 
+      "thomas_id": "02248", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Mooney, Alexander X.", 
+      "sponsored_at": "2015-01-08", 
+      "state": "WV", 
+      "thomas_id": "02277", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Mullin, Markwayne", 
+      "sponsored_at": "2015-01-06", 
+      "state": "OK", 
+      "thomas_id": "02156", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Pearce, Stevan", 
+      "sponsored_at": "2015-01-06", 
+      "state": "NM", 
+      "thomas_id": "01738", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Ratcliffe, John", 
+      "sponsored_at": "2015-01-06", 
+      "state": "TX", 
+      "thomas_id": "02268", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Rouzer, David", 
+      "sponsored_at": "2015-01-06", 
+      "state": "NC", 
+      "thomas_id": "02256", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "32", 
+      "name": "Sessions, Pete", 
+      "sponsored_at": "2015-01-06", 
+      "state": "TX", 
+      "thomas_id": "01525", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Shuster, Bill", 
+      "sponsored_at": "2015-01-06", 
+      "state": "PA", 
+      "thomas_id": "01681", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Upton, Fred", 
+      "sponsored_at": "2015-01-06", 
+      "state": "MI", 
+      "thomas_id": "01177", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Westerman, Bruce", 
+      "sponsored_at": "2015-01-06", 
+      "state": "AR", 
+      "thomas_id": "02224", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Zinke, Ryan K.", 
+      "sponsored_at": "2015-01-06", 
+      "state": "MT", 
+      "thomas_id": "02254", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-01-07T15:44:00-05:00", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2015-01-09T13:06:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-01-06", 
+  "number": "3", 
+  "official_title": "To approve the Keystone XL Pipeline.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hres19-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hres19-114", 
+      "reason": "rule", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s1-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s147-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Keystone XL Pipeline Act", 
+  "sponsor": {
+    "district": null, 
+    "name": "Cramer, Kevin", 
+    "state": "ND", 
+    "thomas_id": "02144", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2015-01-09T13:06:00-05:00", 
+  "subjects": [
+    "Canada", 
+    "Energy", 
+    "Environmental assessment, monitoring, research", 
+    "Federal appellate courts", 
+    "Judicial review and appeals", 
+    "Licensing and registrations", 
+    "Nebraska", 
+    "Oil and gas", 
+    "Pipelines"
+  ], 
+  "subjects_top_term": "Energy", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2015-01-09", 
+    "text": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.)\n\nKeystone XL Pipeline Act\n\nAuthorizes TransCanada Keystone Pipeline, L.P. to construct, connect, operate, and maintain the pipeline and cross-border facilities specified in an application filed by TransCanada Corporation to the Department of State on May 4, 2012.\n\nDeems the Final Supplemental Environmental Impact Statement regarding the pipeline issued by the Secretary of State in January 2014 to fully satisfy the National Environmental Policy Act of 1969 and any law that requires federal agency consultation or review, including the Endangered Species Act of 1973.\n\nMaintains in effect any applicable federal permit or authorization issued before enactment of this Act.\n\nGrants original and exclusive jurisdiction, except for review in the Supreme Court, to the U.S. Court of Appeals for the District of Columbia Circuit over any civil action for the review of a federal agency action regarding the pipeline and related facilities.\n\nDeclares that this Act does not alter any federal, state, or local process or condition in effect on the date of enactment of this Act that is necessary to secure access from an owner of private property to construct the pipeline and cross-border facilities."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Keystone XL Pipeline Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Keystone XL Pipeline Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To approve the Keystone XL Pipeline.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:23:08-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3:@@@L&summ2=m&"
+}

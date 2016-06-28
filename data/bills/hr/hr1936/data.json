@@ -1,0 +1,169 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-04-22", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-05-04", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1936-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "02"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "6", 
+      "name": "Black, Diane", 
+      "sponsored_at": "2015-04-22", 
+      "state": "TN", 
+      "thomas_id": "02063", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Kelly, Mike", 
+      "sponsored_at": "2015-04-22", 
+      "state": "PA", 
+      "thomas_id": "02051", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "24", 
+      "name": "Marchant, Kenny", 
+      "sponsored_at": "2015-04-22", 
+      "state": "TX", 
+      "thomas_id": "01806", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "23", 
+      "name": "Reed, Tom", 
+      "sponsored_at": "2015-04-22", 
+      "state": "NY", 
+      "thomas_id": "01982", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Renacci, James B.", 
+      "sponsored_at": "2015-05-13", 
+      "state": "OH", 
+      "thomas_id": "02048", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Roe, David P.", 
+      "sponsored_at": "2015-04-23", 
+      "state": "TN", 
+      "thomas_id": "01954", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Young, Todd C.", 
+      "sponsored_at": "2015-04-22", 
+      "state": "IN", 
+      "thomas_id": "02019", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-04-22", 
+  "number": "1936", 
+  "official_title": "To amend title II of the Social Security Act to exclude certain medical sources of evidence in making disability determinations.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1198-114", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Improving the Integrity of Disability Evidence Act", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Johnson, Sam", 
+    "state": "TX", 
+    "thomas_id": "00603", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-04-22", 
+  "subjects": [
+    "Civil actions and liability", 
+    "Disability assistance", 
+    "Evidence and witnesses", 
+    "Fraud offenses and financial crimes", 
+    "Health information and medical records", 
+    "Medicare", 
+    "Social welfare"
+  ], 
+  "subjects_top_term": "Social welfare", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-04-22", 
+    "text": "Improving the Integrity of Disability Evidence Act\n\nThis bill amends the Social Security Act to prohibit the Commissioner of Social Security from considering (except for good cause) any medical evidence with respect to whether an individual is under a disability which is furnished by: (1) any individual convicted of a felony relating to Medicare fraud, (2) any individual or entity excluded from participation in any federal health care program, and (3) any person with respect to whom a civil monetary penalty or assessment has been imposed for the submission of false evidence."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Improving the Integrity of Disability Evidence Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title II of the Social Security Act to exclude certain medical sources of evidence in making disability determinations.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:39:41-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR1936:@@@L&summ2=m&"
+}

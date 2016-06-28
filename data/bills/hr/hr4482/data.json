@@ -1,0 +1,329 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-02-04", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Homeland Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-02-16", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Border and Maritime Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-03-23", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-03-23", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2016-04-13T12:36:00-04:00", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-492.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-13T12:36:00-04:00", 
+      "calendar": "Union", 
+      "number": "374", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 374.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2016-04-13T14:34:00-04:00", 
+      "references": [], 
+      "text": "Ms. McSally moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-13T14:35:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H1663-1665", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-13T14:35:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 4482.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-13T14:41:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H1663-1664", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2016-04-13T14:41:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-14", 
+      "committees": [
+        "SSGA"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4482-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM", 
+      "subcommittee": "Subcommittee on Border and Maritime Security", 
+      "subcommittee_id": "11"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Homeland Security and Governmental Affairs", 
+      "committee_id": "SSGA"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Carter, Earl L. \"Buddy\"", 
+      "sponsored_at": "2016-02-04", 
+      "state": "GA", 
+      "thomas_id": "02236", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Culberson, John Abney", 
+      "sponsored_at": "2016-02-09", 
+      "state": "TX", 
+      "thomas_id": "01670", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Franks, Trent", 
+      "sponsored_at": "2016-02-04", 
+      "state": "AZ", 
+      "thomas_id": "01707", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Gosar, Paul A.", 
+      "sponsored_at": "2016-02-04", 
+      "state": "AZ", 
+      "thomas_id": "01992", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "McCaul, Michael T.", 
+      "sponsored_at": "2016-02-04", 
+      "state": "TX", 
+      "thomas_id": "01804", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Salmon, Matt", 
+      "sponsored_at": "2016-02-04", 
+      "state": "AZ", 
+      "thomas_id": "01009", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Schweikert, David", 
+      "sponsored_at": "2016-02-04", 
+      "state": "AZ", 
+      "thomas_id": "01994", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Sinema, Kyrsten", 
+      "sponsored_at": "2016-02-04", 
+      "state": "AZ", 
+      "thomas_id": "02099", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Walker, Mark", 
+      "sponsored_at": "2016-02-04", 
+      "state": "NC", 
+      "thomas_id": "02255", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Young, David", 
+      "sponsored_at": "2016-02-04", 
+      "state": "IA", 
+      "thomas_id": "02242", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Zinke, Ryan K.", 
+      "sponsored_at": "2016-02-04", 
+      "state": "MT", 
+      "thomas_id": "02254", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2016-03-23", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2016-04-13T14:41:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-02-04", 
+  "number": "4482", 
+  "official_title": "To require the Secretary of Homeland Security to prepare a southwest border threat analysis, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr455-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s1808-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Southwest Border Security Threat Assessment Act of 2016", 
+  "sponsor": {
+    "district": "2", 
+    "name": "McSally, Martha", 
+    "state": "AZ", 
+    "thomas_id": "02225", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2016-04-13T14:41:00-04:00", 
+  "subjects": [
+    "Border security and unlawful immigration", 
+    "Canada", 
+    "Criminal investigation, prosecution, interrogation", 
+    "Department of Homeland Security", 
+    "Drug trafficking and controlled substances", 
+    "Emergency management", 
+    "Fraud offenses and financial crimes", 
+    "Human trafficking", 
+    "Intergovernmental relations", 
+    "International law and treaties", 
+    "International organizations and cooperation", 
+    "Latin America", 
+    "Law enforcement administration and funding", 
+    "Law enforcement officers", 
+    "Mexico", 
+    "Organized crime", 
+    "Smuggling and trafficking", 
+    "State and local government operations", 
+    "Terrorism", 
+    "Travel and tourism"
+  ], 
+  "subjects_top_term": "Emergency management", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2016-04-13", 
+    "text": "Southwest Border Security Threat Assessment Act of 2016\n\n(Sec. 2) This bill directs the Secretary of Homeland Security (DHS) to submit a southwest border threat analysis that includes an assessment of:\n\n terrorism and criminal threats posed by individuals and organized groups seeking to unlawfully enter the United States through the southwest border or seeking to exploit security vulnerabilities along such border; improvements needed at and between ports of entry to prevent terrorists and instruments of terror from entering the United States; gaps in law, policy, and coordination that hinder effective and efficient border security, counterterrorism, anti-human smuggling and trafficking efforts; the flow of legitimate trade along the southwest border; the current percentage of situational awareness and of operational control achieved by DHS along the southwest border; the impact of trusted traveler programs on border wait times and border security; and traveler crossing times and any potential security vulnerability associated with prolonged wait times. As part of such analysis, the Secretary shall consider and examine:\n\n technology, personnel, and infrastructure needs and challenges; the roles and authorities of law enforcement; the status of coordination among law enforcement entities; the terrain, population density, and climate along the southwest border; and international agreements between the United States and Mexico. (Sec. 3) The bill requires the Chief of the Border Patrol, within 180 days after submission of the threat analysis and every five years thereafter, to issue a Border Patrol Strategic Plan that includes consideration of:\n\n the southwest border threat analysis; efforts to analyze and disseminate border security and border threat information between DHS components and with other federal agencies with missions associated with the border; efforts to increase situational awareness, to detect and prevent terrorists and instruments of terrorism from entering the United States, and to detect, interdict, and disrupt aliens and illicit drugs at the earliest possible point upon entry into the United States; efforts to focus intelligence collection to disrupt transnational criminal organizations outside of U.S. borders; efforts to ensure that any new border security technology can be operationally integrated with existing DHS technologies; technology required to maintain, support, and enhance security and facilitate trade at ports of entry; operational coordination unity of effort initiatives of DHS border security components; lessons learned from Operation Jumpstart and Operation Phalanx; cooperative agreements and information sharing with agencies that have jurisdiction on the borders; border security information received from consultation with such agencies and from border community stakeholders; staffing requirements; a prioritized list of departmental research and development objectives; an assessment of training programs for detecting fraudulent documents, understanding the scope of enforcement authorities and the use of force policies, and screening, identifying, and addressing vulnerable populations; and an assessment of how border security operations affect crossing times."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Southwest Border Security Threat Assessment Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Southwest Border Security Threat Assessment Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require the Secretary of Homeland Security to prepare a southwest border threat analysis, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:01:09-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4482:@@@L&summ2=m&"
+}

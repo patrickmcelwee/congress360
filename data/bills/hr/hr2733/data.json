@@ -1,0 +1,253 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-06-11", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-07-01", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-07-15", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-03-15", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-03-15", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Subcommittee on Indian, Insular and Alaska Native Affairs Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-03-16", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-03-16", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported in the Nature of a Substitute (Amended) by Unanimous Consent.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2016-04-12T18:09:00-04:00", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-487.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-12T18:10:00-04:00", 
+      "calendar": "Union", 
+      "number": "371", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 371.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2016-06-07T17:34:00-04:00", 
+      "references": [], 
+      "text": "Mr. Hardy moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-07T17:34:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3485-3486", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-07T17:34:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 2733.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-07T17:39:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H3485", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2016-06-07T17:39:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-08", 
+      "references": [], 
+      "text": "Received in the Senate.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2733-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "discharged"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Indian, Insular and Alaska Native Affairs", 
+      "subcommittee_id": "24"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "4", 
+      "name": "Hardy, Cresent", 
+      "sponsored_at": "2015-06-11", 
+      "state": "NV", 
+      "thomas_id": "02260", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Heck, Joseph J.", 
+      "sponsored_at": "2015-10-22", 
+      "state": "NV", 
+      "thomas_id": "02040", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-07-15", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2016-06-07T17:39:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-06-11", 
+  "number": "2733", 
+  "official_title": "To require the Secretary of the Interior to take land into trust for certain Indian tribes, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1436-114", 
+      "reason": "identical", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s1436-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Nevada Native Nations Land Act", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Amodei, Mark E.", 
+    "state": "NV", 
+    "thomas_id": "02090", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2016-06-07T17:39:00-04:00", 
+  "subjects": [
+    "Federal-Indian relations", 
+    "Indian lands and resources rights", 
+    "Land transfers", 
+    "Native Americans", 
+    "Nevada"
+  ], 
+  "subjects_top_term": "Native Americans", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2016-06-07", 
+    "text": "(This measure has not been amended since it was reported to the House on April 12, 2016. The summary of that version is repeated here.)\n\nNevada Native Nations Land Act\n\n(Sec. 3) This bill requires the United States to hold in trust the following lands for the benefit of:\n\n the Fort McDermitt Paiute and Shoshone Tribe of the Fort McDermitt Indian Reservation, 19,094 acres of Bureau of Land Management (BLM) land; the Shoshone-Paiute Tribes of the Duck Valley Indian Reservation, 82 acres of Forest Service land; the Summit Lake Paiute Tribe, 941 acres of BLM land; the Reno-Sparks Indian Colony, 13,434 acres of BLM land; the Pyramid Lake Paiute Tribe, 6,357 acres of BLM land; and the Duckwater Shoshone Tribe 31,269 acres of BLM land. The lands held for these tribes shall be part of their respective reservations.\n\n(Sec. 4) Gaming is prohibited on these lands."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Nevada Native Nations Land Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Nevada Native Nations Land Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Nevada Native Nations Land Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require the Secretary of the Interior to take land into trust for certain Indian tribes, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:46:32-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2733:@@@L&summ2=m&"
+}

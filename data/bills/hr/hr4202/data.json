@@ -1,0 +1,155 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-12-09", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-12-11", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Federal Lands.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-05-24", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-14", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Subcommittee on Federal Lands Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-14", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-15", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-15", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Unanimous Consent.", 
+      "type": "calendar"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4202-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "discharged"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Federal Lands", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "22", 
+      "name": "Hanna, Richard L.", 
+      "sponsored_at": "2015-12-09", 
+      "state": "NY", 
+      "thomas_id": "02044", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2016-05-24", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-12-09", 
+  "number": "4202", 
+  "official_title": "To authorize the Secretary of the Interior to conduct a special resource study of Fort Ontario in the State of New York.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2622-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Fort Ontario Study Act", 
+  "sponsor": {
+    "district": "24", 
+    "name": "Katko, John", 
+    "state": "NY", 
+    "thomas_id": "02264", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2016-06-15", 
+  "subjects": [
+    "Government studies and investigations", 
+    "Historic sites and heritage areas", 
+    "Military history", 
+    "New York State", 
+    "Parks, recreation areas, trails", 
+    "Public lands and natural resources"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-12-09", 
+    "text": "Fort Ontario Study Act\n\nThis bill directs the Department of the Interior to conduct a special resource study of Fort Ontario in Oswego, New York, which was used as a military installation during the French and Indian War, the Revolutionary War, and the War of 1812.\n\nInterior shall: (1) evaluate the site's national significance, and (2) determine the suitability and feasibility of designating it as a unit of the National Park System."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Fort Ontario Study Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To authorize the Secretary of the Interior to conduct a special resource study of Fort Ontario in the State of New York.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:58:48-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4202:@@@L&summ2=m&"
+}

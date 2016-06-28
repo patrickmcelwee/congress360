@@ -1,0 +1,123 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-03-17", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-03-23", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Water, Power and Oceans.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4787-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Water, Power and Oceans", 
+      "subcommittee_id": "13"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "19", 
+      "name": "Clawson, Curt", 
+      "sponsored_at": "2016-03-17", 
+      "state": "FL", 
+      "thomas_id": "02200", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "25", 
+      "name": "Diaz-Balart, Mario", 
+      "sponsored_at": "2016-04-13", 
+      "state": "FL", 
+      "thomas_id": "01717", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Hastings, Alcee L.", 
+      "sponsored_at": "2016-03-21", 
+      "state": "FL", 
+      "thomas_id": "00511", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-03-17", 
+  "number": "4787", 
+  "official_title": "To direct the Secretary of Commerce to award competitive grants to institutions of higher education to combat lionfish in the Atlantic Ocean and the Gulf of Mexico, through the Cooperative Science and Education Program of the National Oceanic and Atmospheric Administration.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "FILET Act of 2016", 
+  "sponsor": {
+    "district": "26", 
+    "name": "Curbelo, Carlos", 
+    "state": "FL", 
+    "thomas_id": "02235", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-03-17", 
+  "subjects": [
+    "Public lands and natural resources"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "FILET Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Finding Innovative Lionfish Elimination Technologies Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To direct the Secretary of Commerce to award competitive grants to institutions of higher education to combat lionfish in the Atlantic Ocean and the Gulf of Mexico, through the Cooperative Science and Education Program of the National Oceanic and Atmospheric Administration.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:03:42-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4787:@@@L&summ2=m&"
+}

@@ -1,0 +1,222 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-01-21", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-02-06", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-07-14", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-22", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-22", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee by Voice Vote .", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr423-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "17", 
+      "name": "Cartwright, Matt", 
+      "sponsored_at": "2015-03-26", 
+      "state": "PA", 
+      "thomas_id": "02159", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Chabot, Steve", 
+      "sponsored_at": "2015-07-07", 
+      "state": "OH", 
+      "thomas_id": "00186", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Franks, Trent", 
+      "sponsored_at": "2015-01-21", 
+      "state": "AZ", 
+      "thomas_id": "01707", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Jones, Walter B., Jr.", 
+      "sponsored_at": "2015-09-16", 
+      "state": "NC", 
+      "thomas_id": "00612", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Marino, Tom", 
+      "sponsored_at": "2015-07-07", 
+      "state": "PA", 
+      "thomas_id": "02053", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "Olson, Pete", 
+      "sponsored_at": "2015-07-15", 
+      "state": "TX", 
+      "thomas_id": "01955", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Poliquin, Bruce", 
+      "sponsored_at": "2015-05-05", 
+      "state": "ME", 
+      "thomas_id": "02247", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Rothfus, Keith J.", 
+      "sponsored_at": "2015-07-22", 
+      "state": "PA", 
+      "thomas_id": "02158", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Stivers, Steve", 
+      "sponsored_at": "2015-07-08", 
+      "state": "OH", 
+      "thomas_id": "02047", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "Valadao, David G.", 
+      "sponsored_at": "2015-01-21", 
+      "state": "CA", 
+      "thomas_id": "02105", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-07-14", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-01-21", 
+  "number": "423", 
+  "official_title": "To amend title 38, United States Code, to improve the care provided by the Secretary of Veterans Affairs to newborn children.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr3016-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Newborn Care Improvement Act", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Collins, Doug", 
+    "state": "GA", 
+    "thomas_id": "02121", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-01-21", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Child health", 
+    "Congressional oversight", 
+    "Veterans' medical care", 
+    "Women's health"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-01-21", 
+    "text": "Newborn Care Improvement Act\n\nAllows the Secretary of Veterans Affairs (VA) to provide the newborn child of a woman veteran who is receiving VA maternity care with post-delivery care services for 14 days after the child's birth if the veteran delivered the child in a VA facility or another facility with which VA has a contract for such services. (Currently, such care may not be provided for more than 7 days.)"
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Newborn Care Improvement Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 38, United States Code, to improve the care provided by the Secretary of Veterans Affairs to newborn children.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:26:45-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR423:@@@L&summ2=m&"
+}

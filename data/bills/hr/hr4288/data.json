@@ -1,0 +1,107 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-12-17", 
+      "references": [
+        {
+          "reference": "CR E1814", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-12-17", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Transportation and Infrastructure.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-12-18", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4288-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Economic Development, Public Buildings and Emergency Management", 
+      "subcommittee_id": "13"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-12-17", 
+  "number": "4288", 
+  "official_title": "To establish a multi-agency Federal team to improve and reform Federal disaster assistance.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "FEMA Help and Education for Local Partners Act (FEMA HELP Act)", 
+  "sponsor": {
+    "district": null, 
+    "name": "Norton, Eleanor Holmes", 
+    "state": "DC", 
+    "thomas_id": "00868", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-12-17", 
+  "subjects": [
+    "Disaster relief and insurance", 
+    "Emergency management", 
+    "Intergovernmental relations", 
+    "State and local government operations"
+  ], 
+  "subjects_top_term": "Emergency management", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-12-17", 
+    "text": "FEMA Help and Education for Local Partners Act (FEMA HELP Act)\n\nThis bill directs the Federal Emergency Management Agency (FEMA) to establish and convene a multi-agency federal disaster assistance team to work and coordinate with state, local, tribal, and territorial leaders to develop a comprehensive approach to disaster recovery by using a full range of federal program funding resources through collaboration among FEMA, the Department of Housing and Urban Development, the Federal Highway Administration, the Small Business Administration, the Federal Transit Administration, the Department of Defense, the Army Corps of Engineers, and state, local, tribal, and territorial governments.\n\nFEMA shall: (1) ensure that each coordinating officer is trained in a range of applicable disaster recovery funding programs across the team members, and (2) establish and publish guidelines and criteria for making and communicating decisions regarding funding eligibility and requirements for disaster recovery personnel across the team members."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "FEMA Help and Education for Local Partners Act (FEMA HELP Act)", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To establish a multi-agency Federal team to improve and reform Federal disaster assistance.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:59:31-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4288:@@@L&summ2=m&"
+}

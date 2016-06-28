@@ -1,0 +1,228 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-02-27", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-03-18", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Indians, Insular and Alaska Native Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-03-24", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-03-25", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-03-25", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Unanimous Consent.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2015-03-25", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Subcommittee on Indian, Insular and Alaska Native Affairs Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-04-15T16:46:00-04:00", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on Natural Resources. H. Rept. 114-79.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-04-15T16:47:00-04:00", 
+      "calendar": "Union", 
+      "number": "58", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 58.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2015-06-01T15:05:00-04:00", 
+      "references": [], 
+      "text": "Mr. Bishop (UT) moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-06-01T15:05:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3587-3588", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-06-01T15:05:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1168.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-06-01T15:10:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H3587", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2015-06-01T15:10:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-06-02", 
+      "references": [], 
+      "text": "Received in the Senate.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1168-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Indian, Insular and Alaska Native Affairs", 
+      "subcommittee_id": "24"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-03-24", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2015-06-01T15:10:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-02-27", 
+  "number": "1168", 
+  "official_title": "To amend the Indian Child Protection and Family Violence Prevention Act to require background checks before foster care placements are ordered in tribal court proceedings, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s184-114", 
+      "reason": "identical", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s184-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Native American Children's Safety Act", 
+  "sponsor": {
+    "district": null, 
+    "name": "Cramer, Kevin", 
+    "state": "ND", 
+    "thomas_id": "02144", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2015-06-01T15:10:00-04:00", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Adoption and foster care", 
+    "Child safety and welfare", 
+    "Criminal justice information and records", 
+    "Department of the Interior", 
+    "Domestic violence and child abuse", 
+    "Indian social and development programs", 
+    "Native Americans"
+  ], 
+  "subjects_top_term": "Native Americans", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2015-06-01", 
+    "text": "(This measure has not been amended since it was introduced. The expanded summary of the House reported version is repeated here.)\n\nNative American Children's Safety Act\n\n Amends the Indian Child Protection and Family Violence Prevention Act (Act) to prohibit the final approval of any foster care placement and no foster care license from being issued until the tribal social services agency : (1) completes a criminal records check of each covered individual who resides in the household or is employed at the institution in which the foster care placement will be made, and (2) concludes that each of those individuals meets the standards the tribe is required to establish.\n\nDefines a \"covered individual\" as an adult and any other individual the tribe determines is subject to a criminal records check.\n\nRequires such standards to include requirements that each tribal social services agency: (1) perform criminal records checks, including fingerprint-based checks of national crime information databases; (2) check any abuse registries maintained by the Indian tribe, (3) check any child abuse and neglect registry maintained by the state, and any tribal abuse registries maintained in the state, in which the individual resides; (4) request any other state in which the individual resided during the preceding five years to enable the agency to check its registry, and (5) any other additional requirements that the Indian tribe determines is necessary and permissible within its existing authority, such as the creation of voluntary agreements with state entities in order to facilitate the sharing of information related to the performance of criminal records checks.\n\nProhibits a foster care placement from being ordered if the investigation reveals that the covered individual: (1) has been found guilty by a federal, state, or tribal court of a felony involving child abuse or neglect, spousal abuse, a crime against a child, violence, or drugs.\n\nExcepts emergency foster care placements from such requirements.\n\nRequires each Indian tribe to establish procedures to recertify homes or institutions in which foster care placements are made. Requires those procedures to include, at a minimum, periodic intervals at which the home or institution is subject to recertification to ensure the safety of the home or institution and that each covered individual who resides in the home or is employed at the institution is subject to a criminal records check.\n\nDirects the Secretary of the Interior to issue guidance regarding: (1) procedures for a criminal records check of any covered individual who resides in the home or is employed at the institution in which the child is placed after the investigations that preceded that placement occurred, (2) self-reporting requirements for foster care homes or institutions that have knowledge that a covered individual residing on their premises would fail a criminal records check, (3) promising practices used by Indian tribes to address emergency foster care placements, and (4) procedures for certifying compliance with the Act."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Native American Children's Safety Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Native American Children's Safety Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Native American Children's Safety Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Indian Child Protection and Family Violence Prevention Act to require background checks before foster care placements are ordered in tribal court proceedings, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:33:04-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR1168:@@@L&summ2=m&"
+}

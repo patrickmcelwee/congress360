@@ -1,0 +1,159 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-02-12", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-03-16", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Energy and Mineral Resources.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr945-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Energy and Mineral Resources", 
+      "subcommittee_id": "06"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "4", 
+      "name": "Gosar, Paul A.", 
+      "sponsored_at": "2015-05-22", 
+      "state": "AZ", 
+      "thomas_id": "01992", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Lujan Grisham, Michelle", 
+      "sponsored_at": "2015-02-12", 
+      "state": "NM", 
+      "thomas_id": "02146", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Lujan, Ben Ray", 
+      "sponsored_at": "2015-02-12", 
+      "state": "NM", 
+      "thomas_id": "01939", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Pearce, Stevan", 
+      "sponsored_at": "2015-02-12", 
+      "state": "NM", 
+      "thomas_id": "01738", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Stewart, Chris", 
+      "sponsored_at": "2015-02-12", 
+      "state": "UT", 
+      "thomas_id": "02168", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Tipton, Scott  R.", 
+      "sponsored_at": "2015-02-12", 
+      "state": "CO", 
+      "thomas_id": "01997", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-02-12", 
+  "number": "945", 
+  "official_title": "To amend the Mineral Leasing Act to require the Secretary of the Interior to convey to a State all right, title, and interest in and to a percentage of the amount of royalties and other amounts required to be paid to the State under that Act with respect to public land and deposits in the State, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s500-114", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "State Mineral Revenue Protection Act", 
+  "sponsor": {
+    "district": null, 
+    "name": "Lummis, Cynthia M.", 
+    "state": "WY", 
+    "thomas_id": "01960", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-02-12", 
+  "subjects": [
+    "Energy", 
+    "Energy revenues and royalties", 
+    "Intergovernmental relations", 
+    "Mining", 
+    "Oil and gas", 
+    "State and local finance"
+  ], 
+  "subjects_top_term": "Energy", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-02-12", 
+    "text": "State Mineral Revenue Protection Act\n\n Amends the Mineral Leasing Act to direct the Secretary of the Interior, on the request of a state (other than Alaska) and in lieu of any payments to the state under the Federal Oil and Gas Royalty Management Act of 1982 (FOGRMA), to convey to the state all right, title, and interest in and to the percentage specified in the FOGRMA for that state of all amounts otherwise required to be paid into the Treasury from sales, bonuses, royalties (including interest charges), and rentals for all public land or deposits located in the state. (Current law requires payment to a state of 50% of all money derived from such sales, bonuses, royalties, and rentals.)\n\nRequires any person, after a conveyance under this Act, to pay directly to the state any amount the person owes for which the right, title, and interest has been conveyed to the state.\n\nRequires the Secretary to provide prompt notice of any such conveyance, and the duty to make direct payments to the state involved, to each holder of a lease of public land to which this Act applies."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "State Mineral Revenue Protection Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Mineral Leasing Act to require the Secretary of the Interior to convey to a State all right, title, and interest in and to a percentage of the amount of royalties and other amounts required to be paid to the State under that Act with respect to public land and deposits in the State, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:31:10-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR945:@@@L&summ2=m&"
+}

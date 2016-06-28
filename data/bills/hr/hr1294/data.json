@@ -1,0 +1,168 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-03-04", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-03-19", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1294-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "20", 
+      "name": "Castro, Joaquin", 
+      "sponsored_at": "2015-03-04", 
+      "state": "TX", 
+      "thomas_id": "02163", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "28", 
+      "name": "Cuellar, Henry", 
+      "sponsored_at": "2015-03-04", 
+      "state": "TX", 
+      "thomas_id": "01807", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Green, Al", 
+      "sponsored_at": "2015-03-04", 
+      "state": "TX", 
+      "thomas_id": "01803", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "29", 
+      "name": "Green, Gene", 
+      "sponsored_at": "2015-03-04", 
+      "state": "TX", 
+      "thomas_id": "00462", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Jackson Lee, Sheila", 
+      "sponsored_at": "2015-03-04", 
+      "state": "TX", 
+      "thomas_id": "00588", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "33", 
+      "name": "Veasey, Marc A.", 
+      "sponsored_at": "2015-03-19", 
+      "state": "TX", 
+      "thomas_id": "02166", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "34", 
+      "name": "Vela, Filemon", 
+      "sponsored_at": "2015-03-04", 
+      "state": "TX", 
+      "thomas_id": "02167", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-03-04", 
+  "number": "1294", 
+  "official_title": "To require the Secretary of Veterans Affairs to ensure that the South Texas Veterans Affairs Health Care Center in Harlingen, Texas, includes a full-service Department of Veterans Affairs inpatient health care facility.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1534-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Meeting the Inpatient Health Care Needs of Far South Texas Veterans Act of 2015", 
+  "sponsor": {
+    "district": "15", 
+    "name": "Hinojosa, Ruben", 
+    "state": "TX", 
+    "thomas_id": "01490", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-03-04", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Department of Veterans Affairs", 
+    "Health facilities and institutions", 
+    "Hospital care", 
+    "Texas", 
+    "Veterans' medical care"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-03-04", 
+    "text": "Meeting the Inpatient Health Care Needs of Far South Texas Veterans Act of 2015\n\nDirects the Secretary of Veterans Affairs (VA): (1) to ensure that the South Texas Veterans Affairs Health Care Center in Harlingen, Texas, includes a full-service VA inpatient health care facility; and (2) if needed, to modify the existing facility to meet this requirement."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Meeting the Inpatient Health Care Needs of Far South Texas Veterans Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require the Secretary of Veterans Affairs to ensure that the South Texas Veterans Affairs Health Care Center in Harlingen, Texas, includes a full-service Department of Veterans Affairs inpatient health care facility.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:34:08-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR1294:@@@L&summ2=m&"
+}

@@ -1,0 +1,475 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-02-13", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Transportation.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-02-17", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Coast Guard and Maritime Transportation.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr980-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Coast Guard and Maritime Transportation", 
+      "subcommittee_id": "07"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "5", 
+      "name": "Abraham, Ralph Lee", 
+      "sponsored_at": "2015-04-23", 
+      "state": "LA", 
+      "thomas_id": "02244", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Bost, Mike", 
+      "sponsored_at": "2015-06-15", 
+      "state": "IL", 
+      "thomas_id": "02243", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Boustany, Charles W., Jr.", 
+      "sponsored_at": "2015-06-24", 
+      "state": "LA", 
+      "thomas_id": "01787", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Byrne, Bradley", 
+      "sponsored_at": "2016-06-09", 
+      "state": "AL", 
+      "thomas_id": "02197", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Crawford, Eric A. \"Rick\"", 
+      "sponsored_at": "2016-05-10", 
+      "state": "AR", 
+      "thomas_id": "01989", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Crenshaw, Ander", 
+      "sponsored_at": "2015-04-30", 
+      "state": "FL", 
+      "thomas_id": "01643", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Culberson, John Abney", 
+      "sponsored_at": "2015-04-21", 
+      "state": "TX", 
+      "thomas_id": "01670", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Cummings, Elijah E.", 
+      "sponsored_at": "2015-02-13", 
+      "state": "MD", 
+      "thomas_id": "00256", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Davis, Rodney", 
+      "sponsored_at": "2015-05-19", 
+      "state": "IL", 
+      "thomas_id": "02126", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "DesJarlais, Scott", 
+      "sponsored_at": "2016-04-21", 
+      "state": "TN", 
+      "thomas_id": "02062", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Donovan, Daniel M., Jr.", 
+      "sponsored_at": "2016-04-29", 
+      "state": "NY", 
+      "thomas_id": "02293", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Fincher, Stephen Lee", 
+      "sponsored_at": "2016-03-23", 
+      "state": "TN", 
+      "thomas_id": "02064", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Forbes, J. Randy", 
+      "sponsored_at": "2015-04-22", 
+      "state": "VA", 
+      "thomas_id": "01683", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Gibbs, Bob", 
+      "sponsored_at": "2016-04-21", 
+      "state": "OH", 
+      "thomas_id": "02049", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Graham, Gwen", 
+      "sponsored_at": "2015-04-14", 
+      "state": "FL", 
+      "thomas_id": "02234", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Graves, Garret", 
+      "sponsored_at": "2015-12-02", 
+      "state": "LA", 
+      "thomas_id": "02245", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Graves, Sam", 
+      "sponsored_at": "2015-04-22", 
+      "state": "MO", 
+      "thomas_id": "01656", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Harper, Gregg", 
+      "sponsored_at": "2015-09-08", 
+      "state": "MS", 
+      "thomas_id": "01933", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Jenkins, Evan H.", 
+      "sponsored_at": "2016-04-25", 
+      "state": "WV", 
+      "thomas_id": "02278", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Johnson, Bill", 
+      "sponsored_at": "2015-10-23", 
+      "state": "OH", 
+      "thomas_id": "02046", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Jolly, David W.", 
+      "sponsored_at": "2015-04-15", 
+      "state": "FL", 
+      "thomas_id": "02199", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "King, Peter T.", 
+      "sponsored_at": "2015-04-23", 
+      "state": "NY", 
+      "thomas_id": "00635", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "LoBiondo, Frank A.", 
+      "sponsored_at": "2015-02-13", 
+      "state": "NJ", 
+      "thomas_id": "00699", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Luetkemeyer, Blaine", 
+      "sponsored_at": "2015-04-21", 
+      "state": "MO", 
+      "thomas_id": "01931", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "McKinley, David B.", 
+      "sponsored_at": "2016-04-29", 
+      "state": "WV", 
+      "thomas_id": "02074", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Mooney, Alexander X.", 
+      "sponsored_at": "2015-10-23", 
+      "state": "WV", 
+      "thomas_id": "02277", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Palazzo, Steven M.", 
+      "sponsored_at": "2016-02-29", 
+      "state": "MS", 
+      "thomas_id": "02035", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Richmond, Cedric L.", 
+      "sponsored_at": "2015-04-21", 
+      "state": "LA", 
+      "thomas_id": "02023", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Rokita, Todd", 
+      "sponsored_at": "2016-04-26", 
+      "state": "IN", 
+      "thomas_id": "02017", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Roskam, Peter J.", 
+      "sponsored_at": "2015-05-13", 
+      "state": "IL", 
+      "thomas_id": "01848", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Russell, Steve", 
+      "sponsored_at": "2016-05-10", 
+      "state": "OK", 
+      "thomas_id": "02265", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Scalise, Steve", 
+      "sponsored_at": "2015-04-15", 
+      "state": "LA", 
+      "thomas_id": "01892", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Simpson, Michael K.", 
+      "sponsored_at": "2015-09-16", 
+      "state": "ID", 
+      "thomas_id": "01590", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Takai, Mark", 
+      "sponsored_at": "2015-05-19", 
+      "state": "HI", 
+      "thomas_id": "02240", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Thompson, Bennie G.", 
+      "sponsored_at": "2015-04-15", 
+      "state": "MS", 
+      "thomas_id": "01151", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Weber, Randy K., Sr.", 
+      "sponsored_at": "2016-04-25", 
+      "state": "TX", 
+      "thomas_id": "02161", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Wittman, Robert J.", 
+      "sponsored_at": "2015-07-09", 
+      "state": "VA", 
+      "thomas_id": "01886", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Young, David", 
+      "sponsored_at": "2016-04-25", 
+      "state": "IA", 
+      "thomas_id": "02242", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Young, Todd C.", 
+      "sponsored_at": "2015-06-03", 
+      "state": "IN", 
+      "thomas_id": "02019", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Zeldin, Lee M.", 
+      "sponsored_at": "2015-06-15", 
+      "state": "NY", 
+      "thomas_id": "02261", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-02-13", 
+  "number": "980", 
+  "official_title": "To provide for the establishment of nationally uniform and environmentally sound standards governing discharges incidental to the normal operation of a vessel.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr4909-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s373-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Vessel Incidental Discharge Act", 
+  "sponsor": {
+    "district": "50", 
+    "name": "Hunter, Duncan D.", 
+    "state": "CA", 
+    "thomas_id": "01909", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-02-13", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Administrative remedies", 
+    "Aquatic ecology", 
+    "Coast guard", 
+    "Department of Homeland Security", 
+    "Environmental regulatory procedures", 
+    "Environmental technology", 
+    "Hazardous wastes and toxic substances", 
+    "Licensing and registrations", 
+    "Marine and inland water transportation", 
+    "Marine pollution", 
+    "Technology assessment", 
+    "Transportation and public works", 
+    "Water quality"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-02-13", 
+    "text": "Vessel Incidental Discharge Act \n\nThis bill requires the Coast Guard to establish and implement enforceable uniform national standards for the regulation of discharges incidental to the normal operation of a vessel into navigable waters. The Coast Guard's existing rule for ballast water discharges incidental to the normal operation of a vessel are adopted until those performance standards are revised or a more stringent state standard is adopted. Ballast water is water taken aboard a vessel to control stability or during the operation of a vessel's ballast water treatment technology.\n\nWithin two years, the Coast Guard must establish best management practices for discharges incidental to the normal operation of a vessel other than ballast water.\n\nBy January 1, 2020, the Coast Guard must complete a feasibility review to determine whether revising ballast water performance standards will result in a scientifically demonstrable and substantial reduction in the risk of introduction or establishment of aquatic nuisance species. The Coast Guard must establish a revised standard based on the ballast water treatment technology available. Further revisions to the performance standards are to be considered every 10 years.\n\nThis bill establishes a certification requirement for ballast water treatment technology. The Coast Guard may not approve a technology if it uses a biocide or generates a biocide that is a pesticide.\n\nThis bill establishes a petition process for a state seeking to enforce a state or local statute or regulation related to ballast water discharges incidental to the normal operation of a vessel that is more stringent than federal performance standards."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Vessel Incidental Discharge Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide for the establishment of nationally uniform and environmentally sound standards governing discharges incidental to the normal operation of a vessel.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:31:27-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR980:@@@L&summ2=m&"
+}

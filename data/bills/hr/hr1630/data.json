@@ -1,0 +1,126 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-03-25", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-03-27", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Energy and Power.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1630-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Energy and Power", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Welch, Peter", 
+      "sponsored_at": "2015-03-25", 
+      "state": "VT", 
+      "thomas_id": "01879", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-03-25", 
+  "number": "1630", 
+  "official_title": "To amend the National Energy Conservation Policy Act to provide guidance on utility energy service contracts used by Federal agencies, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s723-114", 
+      "reason": "identical", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s2012-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s2089-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Utility Energy Service Contracts Improvement Act of 2015", 
+  "sponsor": {
+    "district": "16", 
+    "name": "Kinzinger, Adam", 
+    "state": "IL", 
+    "thomas_id": "02014", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-03-25", 
+  "subjects": [
+    "Energy", 
+    "Energy efficiency and conservation", 
+    "Government buildings, facilities, and property", 
+    "Performance measurement", 
+    "Public contracts and procurement", 
+    "Public utilities and utility rates", 
+    "Service industries", 
+    "Water use and supply"
+  ], 
+  "subjects_top_term": "Energy", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-03-25", 
+    "text": "Utility Energy Service Contracts Improvement Act of 2015 \n\n This bill amends the National Energy Conservation Policy Act to make explicit that utility energy service contracts (UESCs) may have a contract period of up to 25 years. UESCs are contracts that allow utilities to provide federal agencies with energy and water efficiency improvements and demand reduction services.\n\nUESC conditions must include requirements for measurement, verification, and performance assurances or guarantees of the savings."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Utility Energy Service Contracts Improvement Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the National Energy Conservation Policy Act to provide guidance on utility energy service contracts used by Federal agencies, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:37:03-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR1630:@@@L&summ2=m&"
+}

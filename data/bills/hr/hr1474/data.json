@@ -1,0 +1,124 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-03-19", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-03-26", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Social Security.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1474-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM", 
+      "subcommittee": "Subcommittee on Social Security", 
+      "subcommittee_id": "01"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "35", 
+      "name": "Doggett, Lloyd", 
+      "sponsored_at": "2015-03-19", 
+      "state": "TX", 
+      "thomas_id": "00303", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Kelly, Mike", 
+      "sponsored_at": "2015-04-16", 
+      "state": "PA", 
+      "thomas_id": "02051", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Smith, Jason", 
+      "sponsored_at": "2015-05-08", 
+      "state": "MO", 
+      "thomas_id": "02191", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-03-19", 
+  "number": "1474", 
+  "official_title": "To amend title II of the Social Security Act to provide for the reissuance of Social Security account numbers to children in cases in which the confidentiality of the number has been compromised.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Social Security Child Protection Act of 2015", 
+  "sponsor": {
+    "district": "24", 
+    "name": "Marchant, Kenny", 
+    "state": "TX", 
+    "thomas_id": "01806", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-03-19", 
+  "subjects": [
+    "Child safety and welfare", 
+    "Computer security and identity theft", 
+    "Social security and elderly assistance", 
+    "Social welfare"
+  ], 
+  "subjects_top_term": "Social welfare", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-03-19", 
+    "text": "Social Security Child Protection Act of 2015\n\n Amends title II (Old Age, Survivors and Disability Insurance) of the Social Security Act to direct the Commissioner of Social Security to issue a new Social Security number to a child who has not attained the age of 14 in cases where confidentiality has been compromised:\n\n by reason of theft of related documentation, or by reason of public disclosure of information regarding deceased individuals that includes such number by mistake."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Social Security Child Protection Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title II of the Social Security Act to provide for the reissuance of Social Security account numbers to children in cases in which the confidentiality of the number has been compromised.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:35:45-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR1474:@@@L&summ2=m&"
+}

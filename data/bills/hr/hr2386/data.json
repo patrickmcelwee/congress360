@@ -1,0 +1,118 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-05-15", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-06-04", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-06-17", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2386-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Indian, Insular and Alaska Native Affairs", 
+      "subcommittee_id": "24"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-06-17", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-05-15", 
+  "number": "2386", 
+  "official_title": "To provide for the recognition of certain Native communities and the settlement of certain claims under the Alaska Native Claims Settlement Act, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s872-114", 
+      "reason": "identical", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s3004-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Unrecognized Southeast Alaska Native Communities Recognition and Compensation Act", 
+  "sponsor": {
+    "district": null, 
+    "name": "Young, Don", 
+    "state": "AK", 
+    "thomas_id": "01256", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-05-15", 
+  "subjects": [
+    "Alaska", 
+    "Alaska Natives and Hawaiians", 
+    "Indian claims", 
+    "Indian lands and resources rights", 
+    "Native Americans"
+  ], 
+  "subjects_top_term": "Native Americans", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-05-15", 
+    "text": "Unrecognized Southeast Alaska Native Communities Recognition and Compensation Act\n\nAmends the Alaska Native Claims Settlement Act to permit the Native residents of each of the Native Villages of Haines, Ketchikan, Petersburg, Tenakee, and Wrangell, Alaska, to organize as Urban Corporations and to receive certain settlement land pursuant to this Act.\n\nAuthorizes those Urban Corporations to establish a settlement trust to promote the health, education, and welfare of the trust beneficiaries, and preserve the Native heritage and culture of their communities."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Unrecognized Southeast Alaska Native Communities Recognition and Compensation Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide for the recognition of certain Native communities and the settlement of certain claims under the Alaska Native Claims Settlement Act, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:43:29-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2386:@@@L&summ2=m&"
+}

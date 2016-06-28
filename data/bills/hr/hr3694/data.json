@@ -1,0 +1,309 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-10-06", 
+      "committees": [
+        "HSFA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Foreign Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-02-12", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Africa, Global Health, Global Human Rights and International Organizations.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-04-13", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Subcommittee on Africa, Global Health, Global Human Rights and International Organizations Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-20", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-20", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported in the Nature of a Substitute (Amended) by Unanimous Consent.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2016-06-13T17:34:00-04:00", 
+      "references": [], 
+      "text": "Mr. Royce moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-13T17:34:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3721-3724", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-13T17:34:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3694.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-13T17:50:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H3721-3722", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2016-06-13T17:50:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-14", 
+      "committees": [
+        "SSFR"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Foreign Relations.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3694-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup"
+      ], 
+      "committee": "House Foreign Affairs", 
+      "committee_id": "HSFA"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Foreign Affairs", 
+      "committee_id": "HSFA", 
+      "subcommittee": "Subcommittee on Africa, Global Health, Global Human Rights and International Organizations", 
+      "subcommittee_id": "16"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Foreign Relations", 
+      "committee_id": "SSFR"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "8", 
+      "name": "Bishop, Mike", 
+      "sponsored_at": "2015-12-10", 
+      "state": "MI", 
+      "thomas_id": "02249", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "29", 
+      "name": "Cardenas, Tony", 
+      "sponsored_at": "2015-11-30", 
+      "state": "CA", 
+      "thomas_id": "02107", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Cicilline, David N.", 
+      "sponsored_at": "2016-02-23", 
+      "state": "RI", 
+      "thomas_id": "02055", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Coffman, Mike", 
+      "sponsored_at": "2016-01-05", 
+      "state": "CO", 
+      "thomas_id": "01912", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "Deutch, Theodore E.", 
+      "sponsored_at": "2015-10-06", 
+      "state": "FL", 
+      "thomas_id": "01976", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Johnson, Bill", 
+      "sponsored_at": "2015-12-11", 
+      "state": "OH", 
+      "thomas_id": "02046", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Poe, Ted", 
+      "sponsored_at": "2016-03-22", 
+      "state": "TX", 
+      "thomas_id": "01802", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "39", 
+      "name": "Royce, Edward R.", 
+      "sponsored_at": "2015-12-15", 
+      "state": "CA", 
+      "thomas_id": "00998", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Smith, Christopher H.", 
+      "sponsored_at": "2016-04-12", 
+      "state": "NJ", 
+      "thomas_id": "01071", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Walberg, Tim", 
+      "sponsored_at": "2015-12-18", 
+      "state": "MI", 
+      "thomas_id": "01855", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Weber, Randy K., Sr.", 
+      "sponsored_at": "2015-11-30", 
+      "state": "TX", 
+      "thomas_id": "02161", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2016-04-13", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2016-06-13T17:50:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-10-06", 
+  "number": "3694", 
+  "official_title": "To combat trafficking in human organs, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "STOP Organ Trafficking Act", 
+  "sponsor": {
+    "district": "11", 
+    "name": "Trott, David A.", 
+    "state": "MI", 
+    "thomas_id": "02250", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2016-06-13T17:50:00-04:00", 
+  "subjects": [
+    "Child health", 
+    "Crime victims", 
+    "Criminal justice information and records", 
+    "Human rights", 
+    "Human trafficking", 
+    "International affairs", 
+    "Medical ethics", 
+    "Organ and tissue donation and transplantation", 
+    "Smuggling and trafficking", 
+    "Visas and passports"
+  ], 
+  "subjects_top_term": "International affairs", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-10-06", 
+    "text": "Strategy To Oppose Predatory Organ Trafficking Act or the STOP Organ Trafficking Act\n\n This bill expresses the sense of Congress that:\n\n kidnapping or coercion of individuals to extract their organs for profit contradicts the standards for ethical behavior upon which the United States has based its laws; harvesting of organs from living children, regardless of the level of brain activity, is a violation of the human rights of the child and is a breach of internationally accepted medical ethical standards; illegal harvesting and trafficking of human organs violates the Universal Declaration of Human Rights; and efficient national organ donation systems with effective enforcement mechanisms that ensure voluntary organ donations are the most effective way to combat trafficking in human organs. The State Department Basic Authorities Act of 1956 is amended to prohibit the issuance of a passport to, and revoke a previously issued passport from, a person convicted of trafficking in human organs who used a passport or otherwise crossed an international border in committing such offense.\n\nThe President is authorized to exercise specified authorities under the International Emergency Economic Powers Act in connection with the travel abroad by U.S. citizens to participate in any activity relating to human organ trafficking.\n\nThe Trafficking Victims Protection Act of 2000 is amended to include in the definition of \"coercion\" exploitation of a person through the promise of payments or benefits in order to compel or entice the person to consent to the removal of one or more of the person's organs for a transplant operation in a manner contrary to certain World Health Organization standards.\n\n\"Trafficking in human organs\" is defined as:\n\n the recruitment, transportation, transfer, harboring, or receipt of a person, either living or dead, for the purpose of removing one or more of the person's organs by coercion, abduction, deception, abuse of power, or transfer of payments or benefits; or the illicit transportation and transplantation of those organs in one or more other persons for profit or any other purpose. \"Organ\" is defined as the human (including fetal) kidney, liver, heart, lung, pancreas, bone marrow, cornea, eye, bone, and skin or any subpart thereof, and any other human organ or subpart (including that derived from a fetus) specified by the President.\n\nTrafficking in human organs is included in the definition of \"severe forms of trafficking in persons.\"\n\n The Interagency Task Force To Monitor and Combat Trafficking is tasked with collecting and organizing data from human rights officers at U.S. embassies on host country's laws against trafficking in human organs and any instances of violations of such laws."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "STOP Organ Trafficking Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Strategy To Oppose Predatory Organ Trafficking Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "STOP Organ Trafficking Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Strategy To Oppose Predatory Organ Trafficking Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To combat trafficking in human organs, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:54:33-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3694:@@@L&summ2=m&"
+}

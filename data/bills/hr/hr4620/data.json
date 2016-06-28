@@ -1,0 +1,226 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-02-24", 
+      "references": [], 
+      "text": "Consideration and Mark-up Session Held by the Subcommittee on Capital Markets and Government Sponsored Enterprises Prior to Introduction and Referral.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-25", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Financial Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-03-02", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-03-02", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by the Yeas and Nays: 39 - 18.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2016-05-19", 
+      "committee": "Committee on Banking, Housing, and Urban Affairs Subcommittee on Securities, Insurance, and Investment", 
+      "committees": [
+        "SSBK"
+      ], 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Committee on Banking, Housing, and Urban Affairs Subcommittee on Securities, Insurance, and Investment. Hearings held.", 
+      "type": "hearings"
+    }, 
+    {
+      "acted_at": "2016-05-26T12:03:00-04:00", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on Financial Services. H. Rept. 114-597.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-26T12:04:00-04:00", 
+      "calendar": "Union", 
+      "number": "463", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 463.", 
+      "type": "calendar", 
+      "under": null
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4620-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }, 
+    {
+      "activity": [
+        "markup"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA", 
+      "subcommittee": "Subcommittee on Capital Markets and Government Sponsored Enterprises", 
+      "subcommittee_id": "16"
+    }, 
+    {
+      "activity": [
+        "hearings"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA", 
+      "subcommittee": "Subcommittee on Securities, Insurance, and Investment"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "6", 
+      "name": "Barr, Andy", 
+      "sponsored_at": "2016-05-26", 
+      "state": "KY", 
+      "thomas_id": "02131", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Carney, John C., Jr.", 
+      "sponsored_at": "2016-05-23", 
+      "state": "DE", 
+      "thomas_id": "01999", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Huizenga, Bill", 
+      "sponsored_at": "2016-05-25", 
+      "state": "MI", 
+      "thomas_id": "02028", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Messer, Luke", 
+      "sponsored_at": "2016-02-26", 
+      "state": "IN", 
+      "thomas_id": "02130", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Neugebauer, Randy", 
+      "sponsored_at": "2016-05-25", 
+      "state": "TX", 
+      "thomas_id": "01758", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Stivers, Steve", 
+      "sponsored_at": "2016-05-25", 
+      "state": "OH", 
+      "thomas_id": "02047", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Wagner, Ann", 
+      "sponsored_at": "2016-05-25", 
+      "state": "MO", 
+      "thomas_id": "02137", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2016-03-02", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-02-25", 
+  "number": "4620", 
+  "official_title": "To amend the Securities Exchange Act of 1934 to exempt certain commercial real estate loans from risk retention requirements, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Preserving Access to CRE Capital Act of 2016", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Hill, J. French", 
+    "state": "AR", 
+    "thomas_id": "02223", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2016-03-02", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Credit and credit markets", 
+    "Department of the Treasury", 
+    "Federal Deposit Insurance Corporation (FDIC)", 
+    "Federal Reserve System", 
+    "Finance and financial sector", 
+    "Real estate business", 
+    "Securities", 
+    "Securities and Exchange Commission (SEC)"
+  ], 
+  "subjects_top_term": "Finance and financial sector", 
+  "summary": {
+    "as": "Reported to House without amendment", 
+    "date": "2016-05-26", 
+    "text": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)\n\nPreserving Access to CRE Capital Act of 2016 \n\n(Sec. 2) This bill amends the Securities Exchange Act of 1934 concerning credit risk retention standards for commercial real estate loans to revise the optional standard that may include retention of the first-loss position by a third-party purchaser that specifically negotiates for the purchase of that first loss position, holds adequate financial resources to back losses, provides due diligence on all individual assets in the pool before issuance of the asset-backed securities, and meets the same standards for risk retention as the federal banking agencies and the Securities and Exchange Commission (SEC) require of the securitizer.\n\nThe revised specifications for retention of the first-loss position by a third-party purchaser shall mean the permissible risk retention of the first-loss position by a one or two party third-party purchaser, who may hold the retention obligation in either a senior-subordinate structure or pari passu (where two or more assets, securities, creditors or obligations are equally managed without any display of preference), as long as each party meets the requirements expressed above.\n\nThe bill exempts from risk retention requirements the securitization of a single commercial real estate loan or a group of cross-collateralized or cross-defaulted commercial real estate loans that represent the obligation of one or more related borrowers secured by commercial properties under direct or indirect common ownership or control.\n\nThe SEC and the federal banking agencies shall jointly maintain specified regulations which exempt qualified commercial real estate loans from risk retention requirements."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Preserving Access to CRE Capital Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Preserving Access to CRE Capital Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Securities Exchange Act of 1934 to exempt certain commercial real estate loans from risk retention requirements, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:02:18-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4620:@@@L&summ2=m&"
+}

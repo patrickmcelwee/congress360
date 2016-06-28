@@ -1,0 +1,115 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-05-26", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-06-13", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5337-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "6", 
+      "name": "Coffman, Mike", 
+      "sponsored_at": "2016-05-26", 
+      "state": "CO", 
+      "thomas_id": "01912", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Rice, Kathleen M.", 
+      "sponsored_at": "2016-05-26", 
+      "state": "NY", 
+      "thomas_id": "02262", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Titus, Dina", 
+      "sponsored_at": "2016-05-26", 
+      "state": "NV", 
+      "thomas_id": "01940", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-05-26", 
+  "number": "5337", 
+  "official_title": "To ensure that an individual who is transitioning from receiving medical treatment furnished by the Secretary of Defense to medical treatment furnished by the Secretary of Veterans Affairs receives the pharmaceutical agents required for such transition.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Veteran Prescription Continuity Act", 
+  "sponsor": {
+    "district": "16", 
+    "name": "O'Rourke, Beto", 
+    "state": "TX", 
+    "thomas_id": "02162", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-05-26", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Veteran Prescription Continuity Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To ensure that an individual who is transitioning from receiving medical treatment furnished by the Secretary of Defense to medical treatment furnished by the Secretary of Veterans Affairs receives the pharmaceutical agents required for such transition.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:08:18-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR5337:@@@L&summ2=m&"
+}

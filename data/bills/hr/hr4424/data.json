@@ -1,0 +1,290 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-02-01", 
+      "committees": [
+        "HSAS"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Armed Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-03-04", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Military Personnel.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4424-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS", 
+      "subcommittee": "Subcommittee on Military Personnel", 
+      "subcommittee_id": "02"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "2", 
+      "name": "Ashford, Brad", 
+      "sponsored_at": "2016-02-01", 
+      "state": "NE", 
+      "thomas_id": "02257", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Beatty, Joyce", 
+      "sponsored_at": "2016-02-25", 
+      "state": "OH", 
+      "thomas_id": "02153", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Bishop, Rob", 
+      "sponsored_at": "2016-02-23", 
+      "state": "UT", 
+      "thomas_id": "01753", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Bridenstine, Jim", 
+      "sponsored_at": "2016-02-23", 
+      "state": "OK", 
+      "thomas_id": "02155", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Costa, Jim", 
+      "sponsored_at": "2016-02-23", 
+      "state": "CA", 
+      "thomas_id": "01774", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Gabbard, Tulsi", 
+      "sponsored_at": "2016-02-01", 
+      "state": "HI", 
+      "thomas_id": "02122", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "50", 
+      "name": "Hunter, Duncan D.", 
+      "sponsored_at": "2016-06-08", 
+      "state": "CA", 
+      "thomas_id": "01909", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Kline, John", 
+      "sponsored_at": "2016-02-25", 
+      "state": "MN", 
+      "thomas_id": "01733", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "33", 
+      "name": "Lieu, Ted", 
+      "sponsored_at": "2016-02-01", 
+      "state": "CA", 
+      "thomas_id": "02230", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Murphy, Patrick", 
+      "sponsored_at": "2016-02-23", 
+      "state": "FL", 
+      "thomas_id": "02117", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Nugent, Richard B.", 
+      "sponsored_at": "2016-02-01", 
+      "state": "FL", 
+      "thomas_id": "02001", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Palazzo, Steven M.", 
+      "sponsored_at": "2016-02-01", 
+      "state": "MS", 
+      "thomas_id": "02035", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Pocan, Mark", 
+      "sponsored_at": "2016-02-23", 
+      "state": "WI", 
+      "thomas_id": "02171", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Rooney, Thomas J.", 
+      "sponsored_at": "2016-02-01", 
+      "state": "FL", 
+      "thomas_id": "01916", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Simpson, Michael K.", 
+      "sponsored_at": "2016-02-25", 
+      "state": "ID", 
+      "thomas_id": "01590", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "Stefanik, Elise M.", 
+      "sponsored_at": "2016-05-18", 
+      "state": "NY", 
+      "thomas_id": "02263", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Takai, Mark", 
+      "sponsored_at": "2016-02-01", 
+      "state": "HI", 
+      "thomas_id": "02240", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Thompson, Mike", 
+      "sponsored_at": "2016-02-23", 
+      "state": "CA", 
+      "thomas_id": "01593", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Walz, Timothy J.", 
+      "sponsored_at": "2016-02-01", 
+      "state": "MN", 
+      "thomas_id": "01856", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Zinke, Ryan K.", 
+      "sponsored_at": "2016-02-01", 
+      "state": "MT", 
+      "thomas_id": "02254", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-02-01", 
+  "number": "4424", 
+  "official_title": "To amend title 37, United States Code, to increase the maximum reimbursement amount authorized for travel expenses incurred by certain members of the Selected Reserve of the Ready Reserve to attend inactive duty training outside of normal commuting distances.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr4909-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s2943-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Rural Guard Act of 2016", 
+  "sponsor": {
+    "district": null, 
+    "name": "Young, Don", 
+    "state": "AK", 
+    "thomas_id": "01256", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-02-01", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Military education and training", 
+    "Military personnel and dependents", 
+    "National Guard and reserves", 
+    "Rural conditions and development", 
+    "Transportation costs"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2016-02-01", 
+    "text": "Rural Guard Act of 2016\n\nThis bill authorizes the removal, on a case by case basis, of the $300 cap on travel expense reimbursements to certain members of the Selected Reserve of the Ready Reserve who: (1) live in a rural area in the same state as the inactive duty training location; and (2) are required to travel to the inactive training location using a boat or aircraft due to limited or nonexistent vehicular routes, or from a permanent residence more than 75 miles from that location."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Rural Guard Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 37, United States Code, to increase the maximum reimbursement amount authorized for travel expenses incurred by certain members of the Selected Reserve of the Ready Reserve to attend inactive duty training outside of normal commuting distances.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:00:39-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4424:@@@L&summ2=m&"
+}

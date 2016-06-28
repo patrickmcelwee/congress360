@@ -1,0 +1,101 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-01-06", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Homeland Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-01-23", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Border and Maritime Security.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr82-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM", 
+      "subcommittee": "Subcommittee on Border and Maritime Security", 
+      "subcommittee_id": "11"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-01-06", 
+  "number": "82", 
+  "official_title": "To establish conditions under which the Secretary of Homeland Security may commence U.S. Customs and Border Protection security screening operations at a preclearance facility outside the United States, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Putting Security First in Preclearance Act", 
+  "sponsor": {
+    "district": "18", 
+    "name": "Jackson Lee, Sheila", 
+    "state": "TX", 
+    "thomas_id": "00588", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-01-06", 
+  "subjects": [
+    "Aviation and airports", 
+    "Congressional oversight", 
+    "Customs enforcement", 
+    "Department of Homeland Security", 
+    "Foreign trade and international finance", 
+    "Government employee pay, benefits, personnel management", 
+    "Government studies and investigations", 
+    "Homeland security", 
+    "Transportation safety and security"
+  ], 
+  "subjects_top_term": "Foreign trade and international finance", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-01-06", 
+    "text": "Putting Security First in Preclearance Act \n\n This bill authorizes the Department of Homeland Security (DHS) to establish conditions for commencing U.S. Customs and Border Protection (CBP) security screening operations at preclearance facilities outside of the United States. DHS must give Congress 90-days notice before entering into any agreement to commence security screening operations at such a facility.\n\nThere shall be no funding either directly or through reimbursement by a foreign government or a foreign person of CBP security screening positions at such facilities."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Putting Security First in Preclearance Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To establish conditions under which the Secretary of Homeland Security may commence U.S. Customs and Border Protection security screening operations at a preclearance facility outside the United States, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:23:54-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR82:@@@L&summ2=m&"
+}

@@ -1,0 +1,102 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-02-03", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Transportation and Infrastructure.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-02-04", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Aviation.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4449-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Aviation", 
+      "subcommittee_id": "05"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "3", 
+      "name": "Lipinski, Daniel", 
+      "sponsored_at": "2016-02-03", 
+      "state": "IL", 
+      "thomas_id": "01781", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-02-03", 
+  "number": "4449", 
+  "official_title": "To direct the Secretary of Transportation to establish a remote air traffic control tower pilot program.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "24", 
+    "name": "Katko, John", 
+    "state": "NY", 
+    "thomas_id": "02264", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-02-03", 
+  "subjects": [
+    "Aviation and airports", 
+    "Technology assessment", 
+    "Transportation and public works", 
+    "Transportation programs funding", 
+    "Transportation safety and security", 
+    "Virginia"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2016-02-03", 
+    "text": "This bill directs the Department of Transportation (DOT), by six months after completion of a safety risk management panel conducted by the Federal Aviation Administration for the Leesburg, Virginia, project, to establish a pilot program under which DOT shall install, operate, and assess the benefits of the technology of up to six remote air traffic control towers.\n\nDOT must complete a safety risk management process for a participating airport before air traffic is actively controlled by a remote air traffic control tower at such airport.\n\nAn operator of a public-use airport may apply to participate in the pilot program. DOT: (1) shall establish a list of benefits of remote tower technology to the National Airspace System and criteria that facilities should meet in order to best achieve those benefits; and (2) may select for the pilot program, based on such criteria, one nonhub primary airport, two reliever airports without existing air traffic control towers, one primary airport for the purpose of augmenting the capabilities of an existing air traffic control tower, and two airports classified as local or basic in the national plan of integrated airport systems.\n\n A selected airport shall be eligible for participation in, and funding from, the control tower contract program.\n\nA remote air traffic control tower and ancillary equipment installed with federal funds under this bill shall be considered an air navigation facility.\n\nThe pilot program shall terminate five years after this bill's enactment."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To direct the Secretary of Transportation to establish a remote air traffic control tower pilot program.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:00:52-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4449:@@@L&summ2=m&"
+}

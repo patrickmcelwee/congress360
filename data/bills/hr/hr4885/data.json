@@ -1,0 +1,335 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-03-23", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-04-13", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-13", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 24 - 14.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2016-04-18T14:23:00-04:00", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-498.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-18T14:23:00-04:00", 
+      "calendar": "Union", 
+      "number": "380", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 380.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2016-04-18T18:58:00-04:00", 
+      "bill_ids": [
+        "hres687-114", 
+        "hr1206-114"
+      ], 
+      "committees": [
+        "HSRU"
+      ], 
+      "references": [], 
+      "text": "Rules Committee Resolution H. Res. 687 Reported to House. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Resolution provides for the consideration of H.R. 1206 and H.R. 4885.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-19T14:13:00-04:00", 
+      "bill_ids": [
+        "hres687-114"
+      ], 
+      "references": [], 
+      "text": "Rule H. Res. 687 passed House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-20T12:22:00-04:00", 
+      "bill_ids": [
+        "hres687-114"
+      ], 
+      "references": [
+        {
+          "reference": "CR H1863-1868", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under the provisions of rule H. Res. 687.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-20T12:22:00-04:00", 
+      "bill_ids": [
+        "hr1206-114"
+      ], 
+      "references": [], 
+      "text": "Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Resolution provides for the consideration of H.R. 1206 and H.R. 4885.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-20T12:23:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with one hour of debate on H.R. 4885.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-20T13:14:00-04:00", 
+      "references": [], 
+      "text": "POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 4885, the Chair put the question on passage and by voice vote announced that the yeas had prevailed. Mr. Blumenauer demanded the yeas and nays, and the Chair postponed further proceedings on passage of the bill until later in the legislative day.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-20T16:02:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H1876-1877", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-20T16:11:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H1863", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "161", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On passage Passed by the Yeas and Nays: 245 - 179 (Roll no. 161).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2016-04-20T16:11:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-21", 
+      "references": [], 
+      "text": "Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-25", 
+      "calendar": "Senate Legislative", 
+      "number": "435", 
+      "references": [], 
+      "text": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 435.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "hamdt976-114", 
+      "amendment_type": "hamdt", 
+      "chamber": "h", 
+      "number": "976"
+    }
+  ], 
+  "bill_id": "hr4885-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "3", 
+      "name": "Chaffetz, Jason", 
+      "sponsored_at": "2016-04-15", 
+      "state": "UT", 
+      "thomas_id": "01956", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Holding, George", 
+      "sponsored_at": "2016-03-23", 
+      "state": "NC", 
+      "thomas_id": "02143", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Jenkins, Lynn", 
+      "sponsored_at": "2016-04-12", 
+      "state": "KS", 
+      "thomas_id": "01921", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "24", 
+      "name": "Marchant, Kenny", 
+      "sponsored_at": "2016-03-23", 
+      "state": "TX", 
+      "thomas_id": "01806", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Meehan, Patrick", 
+      "sponsored_at": "2016-03-23", 
+      "state": "PA", 
+      "thomas_id": "02052", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "23", 
+      "name": "Reed, Tom", 
+      "sponsored_at": "2016-03-23", 
+      "state": "NY", 
+      "thomas_id": "01982", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Rice, Tom", 
+      "sponsored_at": "2016-03-23", 
+      "state": "SC", 
+      "thomas_id": "02160", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Roskam, Peter J.", 
+      "sponsored_at": "2016-03-23", 
+      "state": "IL", 
+      "thomas_id": "01848", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "32", 
+      "name": "Sessions, Pete", 
+      "sponsored_at": "2016-04-11", 
+      "state": "TX", 
+      "thomas_id": "01525", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2016-04-13", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2016-04-20T16:11:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-03-23", 
+  "number": "4885", 
+  "official_title": "To require that user fees collected by the Internal Revenue Service be deposited into the general fund of the Treasury.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hres687-114", 
+      "reason": "rule", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "IRS Oversight While Eliminating Spending (OWES) Act of 2016", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Smith, Jason", 
+    "state": "MO", 
+    "thomas_id": "02191", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2016-04-20T16:11:00-04:00", 
+  "subjects": [
+    "Appropriations", 
+    "Department of the Treasury", 
+    "Executive agency funding and structure", 
+    "Government operations and politics", 
+    "Internal Revenue Service (IRS)", 
+    "Tax administration and collection, taxpayers", 
+    "User charges and fees"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2016-04-20", 
+    "text": "(This measure has not been amended since it was reported to the House on April 18, 2016. The summary of that version is repeated here.)\n\nIRS Oversight While Eliminating Spending (OWES) Act of 2016\n\n(Sec. 2) This bill requires the Internal Revenue Service to deposit fees for services in the general fund of the Treasury and prohibits the expenditure of such fees unless an appropriations Act provides for such expenditure."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "IRS Oversight While Eliminating Spending (OWES) Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "IRS Oversight While Eliminating Spending (OWES) Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "IRS Oversight While Eliminating Spending (OWES) Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require that user fees collected by the Internal Revenue Service be deposited into the general fund of the Treasury.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:04:31-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4885:@@@L&summ2=m&"
+}

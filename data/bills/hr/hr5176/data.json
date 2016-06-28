@@ -1,0 +1,99 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-05-10", 
+      "committees": [
+        "HSAS"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Armed Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-06-07", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Military Personnel.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5176-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS", 
+      "subcommittee": "Subcommittee on Military Personnel", 
+      "subcommittee_id": "02"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Radewagen, Aumua Amata Coleman", 
+      "sponsored_at": "2016-05-10", 
+      "state": "AS", 
+      "thomas_id": "02222", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-05-10", 
+  "number": "5176", 
+  "official_title": "To direct the Secretary of Labor to carry out a research program to evaluate the effectiveness of the Transition Assistance Program in addressing the needs of certain minority veterans.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Success in Transition for All Veterans Act", 
+  "sponsor": {
+    "district": "41", 
+    "name": "Takano, Mark", 
+    "state": "CA", 
+    "thomas_id": "02110", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-05-10", 
+  "subjects": [
+    "Armed forces and national security"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Success in Transition for All Veterans Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To direct the Secretary of Labor to carry out a research program to evaluate the effectiveness of the Transition Assistance Program in addressing the needs of certain minority veterans.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:06:57-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR5176:@@@L&summ2=m&"
+}

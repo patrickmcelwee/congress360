@@ -1,0 +1,131 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-01-11", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Oversight and Government Reform.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-03-01", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-03-01", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 21 - 16.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2016-05-31T13:22:00-04:00", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 114-599.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-31T13:22:00-04:00", 
+      "calendar": "Union", 
+      "number": "465", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 465.", 
+      "type": "calendar", 
+      "under": null
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4361-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Oversight and Government Reform", 
+      "committee_id": "HSGO"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "4", 
+      "name": "Westerman, Bruce", 
+      "sponsored_at": "2016-02-26", 
+      "state": "AR", 
+      "thomas_id": "02224", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2016-03-01", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-01-11", 
+  "number": "4361", 
+  "official_title": "To amend section 3554 of title 44, United States Code, to provide for enhanced security of Federal information systems, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Federal Information Systems Safeguards Act of 2016", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Palmer, Gary J.", 
+    "state": "AL", 
+    "thomas_id": "02221", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2016-03-01", 
+  "subjects": [
+    "Computer security and identity theft", 
+    "Government information and archives", 
+    "Government operations and politics"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": {
+    "as": "Reported to House amended", 
+    "date": "2016-05-31", 
+    "text": "Federal Information Systems Safeguards Act of 2016\n\n(Sec. 2) This bill grants the head of each federal agency the sole and exclusive authority, with respect to any information technology or information system under the control of such agency, to take any action the agency determines to be necessary to reduce or eliminate a present or future security weakness and risk, including to protect the information contained in the information technology or information system.\n\n(Sec. 3) The bill does not modify existing law as enacted in the Consolidated Appropriations Act of Fiscal Year 2016 with respect to the Cybersecurity Act of 2015."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Federal Information Systems Safeguards Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Federal Information Systems Safeguards Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend section 3554 of title 44, United States Code, to provide for enhanced security of Federal information systems, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:00:08-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4361:@@@L&summ2=m&"
+}

@@ -1,0 +1,165 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-06-18", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-07-01", 
+      "committees": [
+        "HSHM"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2823-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Crime, Terrorism, Homeland Security, and Investigations", 
+      "subcommittee_id": "08"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "21", 
+      "name": "Deutch, Theodore E.", 
+      "sponsored_at": "2015-07-28", 
+      "state": "FL", 
+      "thomas_id": "01976", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Grijalva, Raul M.", 
+      "sponsored_at": "2015-07-23", 
+      "state": "AZ", 
+      "thomas_id": "01708", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Meng, Grace", 
+      "sponsored_at": "2016-02-10", 
+      "state": "NY", 
+      "thomas_id": "02148", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "32", 
+      "name": "Napolitano, Grace F.", 
+      "sponsored_at": "2015-10-21", 
+      "state": "CA", 
+      "thomas_id": "01602", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Norton, Eleanor Holmes", 
+      "sponsored_at": "2015-07-23", 
+      "state": "DC", 
+      "thomas_id": "00868", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Payne, Donald M., Jr.", 
+      "sponsored_at": "2015-07-23", 
+      "state": "NJ", 
+      "thomas_id": "02097", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Pocan, Mark", 
+      "sponsored_at": "2015-07-23", 
+      "state": "WI", 
+      "thomas_id": "02171", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-06-18", 
+  "number": "2823", 
+  "official_title": "To amend title 18, United States Code, to ensure that juveniles adjudicated in Federal delinquency proceedings are not subject to solitary confinement while committed to juvenile facilities.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Protecting Youth from Solitary Confinement Act", 
+  "sponsor": {
+    "district": "29", 
+    "name": "Cardenas, Tony", 
+    "state": "CA", 
+    "thomas_id": "02107", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-06-18", 
+  "subjects": [
+    "Child safety and welfare", 
+    "Congressional oversight", 
+    "Correctional facilities and imprisonment", 
+    "Crime and law enforcement", 
+    "Detention of persons", 
+    "Juvenile crime and gang violence"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-06-18", 
+    "text": "Protecting Youth from Solitary Confinement Act \n\nThis bill amends the federal criminal code to prohibit solitary confinement for juveniles in federal custody at juvenile facilities.\n\nThe legislation requires the Board of Prisons to submit an annual report to the President and Congress that summarizes and analyzes data regarding the rate of juvenile solitary confinement and trends demonstrated by an analysis of each incarcerated juvenile's offense, race, gender, age, hours of solitary confinement, and purpose of solitary confinement."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Protecting Youth from Solitary Confinement Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 18, United States Code, to ensure that juveniles adjudicated in Federal delinquency proceedings are not subject to solitary confinement while committed to juvenile facilities.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:47:17-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2823:@@@L&summ2=m&"
+}

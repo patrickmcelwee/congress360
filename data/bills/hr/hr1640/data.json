@@ -1,0 +1,330 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-03-25", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Homeland Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-04-07", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Oversight and Management Efficiency.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-05-13", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-05-13", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-05-20", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-05-20", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2015-06-17T13:59:00-04:00", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-166.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-06-17T13:59:00-04:00", 
+      "calendar": "Union", 
+      "number": "122", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 122.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2015-06-23T16:13:00-04:00", 
+      "references": [], 
+      "text": "Mr. Walker moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-06-23T16:13:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4564-4566", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-06-23T16:13:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1640.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-06-23T16:21:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H4564-4565", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2015-06-23T16:21:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-06-24", 
+      "committees": [
+        "SSGA"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1640-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM", 
+      "subcommittee": "Subcommittee on Oversight and Management Efficiency", 
+      "subcommittee_id": "09"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Homeland Security and Governmental Affairs", 
+      "committee_id": "SSGA"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Carter, Earl L. \"Buddy\"", 
+      "sponsored_at": "2015-03-25", 
+      "state": "GA", 
+      "thomas_id": "02236", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Duncan, Jeff", 
+      "sponsored_at": "2015-04-13", 
+      "state": "SC", 
+      "thomas_id": "02057", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "23", 
+      "name": "Hurd, Will", 
+      "sponsored_at": "2015-03-25", 
+      "state": "TX", 
+      "thomas_id": "02269", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "24", 
+      "name": "Katko, John", 
+      "sponsored_at": "2015-03-25", 
+      "state": "NY", 
+      "thomas_id": "02264", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Loudermilk, Barry", 
+      "sponsored_at": "2015-03-25", 
+      "state": "GA", 
+      "thomas_id": "02238", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "McCaul, Michael T.", 
+      "sponsored_at": "2015-03-25", 
+      "state": "TX", 
+      "thomas_id": "01804", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "McSally, Martha", 
+      "sponsored_at": "2015-03-25", 
+      "state": "AZ", 
+      "thomas_id": "02225", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Miller, Candice S.", 
+      "sponsored_at": "2015-05-12", 
+      "state": "MI", 
+      "thomas_id": "01731", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Perry, Scott", 
+      "sponsored_at": "2015-05-12", 
+      "state": "PA", 
+      "thomas_id": "02157", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Ratcliffe, John", 
+      "sponsored_at": "2015-03-25", 
+      "state": "TX", 
+      "thomas_id": "02268", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-05-13", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2015-06-23T16:21:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-03-25", 
+  "number": "1640", 
+  "official_title": "To direct the Secretary of Homeland Security to submit to Congress a report on the Department of Homeland Security headquarters consolidation project in the National Capital Region, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1638-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s1638-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Department of Homeland Security Headquarters Consolidation Accountability Act of 2015", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Walker, Mark", 
+    "state": "NC", 
+    "thomas_id": "02255", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2015-06-23T16:21:00-04:00", 
+  "subjects": [
+    "Building construction", 
+    "Congressional oversight", 
+    "Department of Homeland Security", 
+    "District of Columbia", 
+    "Government buildings, facilities, and property", 
+    "Government operations and politics"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2015-06-23", 
+    "text": "(This measure has not been amended since it was reported to the House on June 17, 2015. The summary of that version is repeated here.)\n\nDepartment of Homeland Security Headquarters Consolidation Accountability Act of 2015\n\n(Sec. 2) Directs the Department of Homeland Security (DHS), in coordination with the General Services Administration (GSA), to submit a report on the DHS headquarters consolidation project within the National Capital Region, including:\n\n a proposed occupancy plan that includes specific information about which DHS-wide operations, component operations, and support offices will be located at the site, the aggregate number of full time equivalent employees projected to occupy the site, and schedule estimates for migrating operations to the site; a comprehensive assessment of the real property needed by DHS in the Region to carry out its mission to secure the homeland and defend against terrorism; an analysis of the difference between the current and needed capital assets and facilities of DHS; a current plan for construction of the headquarters consolidation at the St. Elizabeth's campus that includes the estimated costs and schedule for the current plan and any estimated costs savings associated with reducing the scope of the project and increasing the use of existing capacity developed under the project; a current plan for the leased portfolio of DHS in the Region that includes the total rentable square feet, number of personnel, and proposed utilization rates, the replacement and consolidation plan, including an end-state vision that identifies which DHS-wide operations, component operations, and support offices do not migrate to the St. Elizabeths campus and continue to operate at a property in the leased portfolio, the number of full time equivalent employees who are expected to operate at each property, component, or office, and timing and anticipated leased terms for leased space, and the costs and benefits of leasing and construction alternatives; and a detailed list of alternatives considered by DHS during the plan's development, including their costs and benefits. Directs DHS, in coordination with GSA, to complete the update of the cost and schedule estimates for the portions of the project that are not yet complete based on the information contained in the report. Directs the Comptroller General to review the update, evaluate the quality and reliability of such estimates, and report on the results."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Department of Homeland Security Headquarters Consolidation Accountability Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Department of Homeland Security Headquarters Consolidation Accountability Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Department of Homeland Security Headquarters Consolidation Accountability Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To direct the Secretary of Homeland Security to submit to Congress a report on the Department of Homeland Security headquarters consolidation project in the National Capital Region, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:37:08-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR1640:@@@L&summ2=m&"
+}

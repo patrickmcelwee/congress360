@@ -1,0 +1,118 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-06-13", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Homeland Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-06-14", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Emergency Preparedness, Response and Communications.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-06-16", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-16", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee by Voice Vote .", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5460-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM", 
+      "subcommittee": "Subcommittee on Emergency Preparedness, Response, and Communications", 
+      "subcommittee_id": "12"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "11", 
+      "name": "Donovan, Daniel M., Jr.", 
+      "sponsored_at": "2016-06-13", 
+      "state": "NY", 
+      "thomas_id": "02293", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2016-06-16", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-06-13", 
+  "number": "5460", 
+  "official_title": "To amend the Homeland Security Act of 2002 to establish a review process to review applications for certain grants to purchase equipment or systems that do not meet or exceed any applicable national voluntary consensus standards, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "First Responder Access to Innovative Technologies Act", 
+  "sponsor": {
+    "district": "10", 
+    "name": "Payne, Donald M., Jr.", 
+    "state": "NJ", 
+    "thomas_id": "02097", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-06-13", 
+  "subjects": [
+    "Emergency management"
+  ], 
+  "subjects_top_term": "Emergency management", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "First Responder Access to Innovative Technologies Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Homeland Security Act of 2002 to establish a review process to review applications for certain grants to purchase equipment or systems that do not meet or exceed any applicable national voluntary consensus standards, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:09:23-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR5460:@@@L&summ2=m&"
+}

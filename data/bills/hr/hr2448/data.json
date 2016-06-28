@@ -1,0 +1,97 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-05-19", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-05-22", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2448-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-05-19", 
+  "number": "2448", 
+  "official_title": "To amend the Public Health Service Act to authorize a program of high-risk, high-reward research.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr6-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "1", 
+    "name": "Harris, Andy", 
+    "state": "MD", 
+    "thomas_id": "02026", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-05-19", 
+  "subjects": [
+    "Department of Health and Human Services", 
+    "Health", 
+    "Medical research", 
+    "National Institutes of Health (NIH)", 
+    "Research administration and funding"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-05-19", 
+    "text": "This bill amends the Public Health Service Act to require each national research institute to conduct or support high-risk, high-reward research that pursues innovative approaches to major biomedical challenges. The National Institutes of Health determines the percentage of funding each national research institute must set aside for this research."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Public Health Service Act to authorize a program of high-risk, high-reward research.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:44:00-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2448:@@@L&summ2=m&"
+}

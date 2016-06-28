@@ -1,0 +1,159 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-07-29", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-07-29", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "text": "Referred to House Ways and Means", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-07-29", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "text": "Referred to House Energy and Commerce", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-07-31", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-08-12", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3298-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "02"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "3", 
+      "name": "Kind, Ron", 
+      "sponsored_at": "2015-07-29", 
+      "state": "WI", 
+      "thomas_id": "01498", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "25", 
+      "name": "Knight, Stephen", 
+      "sponsored_at": "2015-09-29", 
+      "state": "CA", 
+      "thomas_id": "02228", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-07-29", 
+  "number": "3298", 
+  "official_title": "To amend title XVIII of the Social Security Act to provide for value-based purchasing of post-acute care services under the Medicare program, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Medicare Post-Acute Care Value-Based Purchasing Act of 2015", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Brady, Kevin", 
+    "state": "TX", 
+    "thomas_id": "01468", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-07-29", 
+  "subjects": [
+    "Health", 
+    "Health care costs and insurance", 
+    "Home and outpatient care", 
+    "Hospital care", 
+    "Long-term, rehabilitative, and terminal care", 
+    "Medicare", 
+    "Nursing"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-07-29", 
+    "text": "Medicare Post-Acute Care Value-Based Purchasing Act of 2015\n\nThis bill amends title XVIII (Medicare) of the Social Security Act to: (1) modify market basket percentages for post-acute care (PAC) providers, and (2) establish a PAC value-based purchasing program under which PAC providers receive value-based incentive payments. PAC providers are skilled nursing facilities, inpatient rehabilitation facilities, home health agencies, and long-term care hospitals.\n\nA market basket is an index that reflects inflation and is used to update payments and cost limits. Under current law, market basket percentage increases for PAC providers are generally based on the application of a formula based on costs from the preceding fiscal year, but for FY2018 these increases are fixed at 1%. The bill repeals these fixed increases, leaving FY2018 increases to instead be determined according to the existing formula.\n\nWith respect to the PAC value-based purchasing program, the bill: (1) requires the Centers for Medicare & Medicaid (CMS) to establish performance standards and scores by which to rank PAC providers; (2) specifies how CMS must calculate value-based incentive payments for each type of PAC provider in accordance with such ranking; (3) requires CMS to make specified annual adjustments to how incentive payments are calculated; and (4) establishes limits on administrative and judicial review.\n\nUnder current law, a value-based purchasing program for skilled nursing facilities has been established to begin in FY2019. The bill maintains this program but specifies that it must terminate in FY2025."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Medicare Post-Acute Care Value-Based Purchasing Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title XVIII of the Social Security Act to provide for value-based purchasing of post-acute care services under the Medicare program, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:51:15-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3298:@@@L&summ2=m&"
+}

@@ -1,0 +1,120 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-01-06", 
+      "committees": [
+        "HSAS"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Armed Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-06-05", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Military Personnel.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr146-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS", 
+      "subcommittee": "Subcommittee on Military Personnel", 
+      "subcommittee_id": "02"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "6", 
+      "name": "Coffman, Mike", 
+      "sponsored_at": "2015-01-21", 
+      "state": "CO", 
+      "thomas_id": "01912", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "50", 
+      "name": "Hunter, Duncan D.", 
+      "sponsored_at": "2015-01-21", 
+      "state": "CA", 
+      "thomas_id": "01909", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Speier, Jackie", 
+      "sponsored_at": "2015-03-23", 
+      "state": "CA", 
+      "thomas_id": "01890", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-01-06", 
+  "number": "146", 
+  "official_title": "To amend title 10, United States Code, to ensure that members of the Armed Forces serving on active duty who are diagnosed with post-traumatic stress disorder or traumatic brain injury have access to hyperbaric oxygen therapy at military medical treatment facilities.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "3", 
+    "name": "Jones, Walter B., Jr.", 
+    "state": "NC", 
+    "thomas_id": "00612", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-01-06", 
+  "subjects": [
+    "Alternative treatments", 
+    "Armed forces and national security", 
+    "Mental health", 
+    "Military medicine", 
+    "Military personnel and dependents", 
+    "Neurological disorders"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-01-06", 
+    "text": "Directs the Secretary of Defense to furnish hyperbaric oxygen therapy available at a military medical treatment facility to a member of the Armed Forces who is: (1) prescribed such therapy by a physician, (2) serving on active duty, and (3) diagnosed with post-traumatic stress disorder or traumatic brain injury."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 10, United States Code, to ensure that members of the Armed Forces serving on active duty who are diagnosed with post-traumatic stress disorder or traumatic brain injury have access to hyperbaric oxygen therapy at military medical treatment facilities.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:24:26-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR146:@@@L&summ2=m&"
+}

@@ -1,0 +1,408 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-02-26", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-03-23", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Water, Power and Oceans.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-06-25", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-10-07", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-10-08", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Subcommittee on Water, Power and Oceans Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-10-08", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-10-08", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Unanimous Consent.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2015-12-03T13:40:00-05:00", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-366.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-12-03T13:40:00-05:00", 
+      "calendar": "Union", 
+      "number": "279", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 279.", 
+      "type": "calendar", 
+      "under": null
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1107-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "discharged"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Water, Power and Oceans", 
+      "subcommittee_id": "13"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "2", 
+      "name": "Amodei, Mark E.", 
+      "sponsored_at": "2015-02-26", 
+      "state": "NV", 
+      "thomas_id": "02090", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Barton, Joe", 
+      "sponsored_at": "2015-02-26", 
+      "state": "TX", 
+      "thomas_id": "00062", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Cartwright, Matt", 
+      "sponsored_at": "2015-02-26", 
+      "state": "PA", 
+      "thomas_id": "02159", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Coffman, Mike", 
+      "sponsored_at": "2015-02-26", 
+      "state": "CO", 
+      "thomas_id": "01912", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Costa, Jim", 
+      "sponsored_at": "2015-10-06", 
+      "state": "CA", 
+      "thomas_id": "01774", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Denham, Jeff", 
+      "sponsored_at": "2015-02-26", 
+      "state": "CA", 
+      "thomas_id": "01995", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Franks, Trent", 
+      "sponsored_at": "2015-02-26", 
+      "state": "AZ", 
+      "thomas_id": "01707", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Garamendi, John", 
+      "sponsored_at": "2015-02-26", 
+      "state": "CA", 
+      "thomas_id": "01973", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Gibson, Christopher P.", 
+      "sponsored_at": "2015-07-23", 
+      "state": "NY", 
+      "thomas_id": "02043", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Hardy, Cresent", 
+      "sponsored_at": "2015-02-26", 
+      "state": "NV", 
+      "thomas_id": "02260", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Heck, Joseph J.", 
+      "sponsored_at": "2015-02-26", 
+      "state": "NV", 
+      "thomas_id": "02040", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Huffman, Jared", 
+      "sponsored_at": "2015-02-26", 
+      "state": "CA", 
+      "thomas_id": "02101", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Kirkpatrick, Ann", 
+      "sponsored_at": "2015-02-26", 
+      "state": "AZ", 
+      "thomas_id": "01907", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "33", 
+      "name": "Lieu, Ted", 
+      "sponsored_at": "2015-02-26", 
+      "state": "CA", 
+      "thomas_id": "02230", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Lummis, Cynthia M.", 
+      "sponsored_at": "2015-02-26", 
+      "state": "WY", 
+      "thomas_id": "01960", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "McClintock, Tom", 
+      "sponsored_at": "2015-02-26", 
+      "state": "CA", 
+      "thomas_id": "01908", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "McSally, Martha", 
+      "sponsored_at": "2015-06-04", 
+      "state": "AZ", 
+      "thomas_id": "02225", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Miller, Jeff", 
+      "sponsored_at": "2015-02-26", 
+      "state": "FL", 
+      "thomas_id": "01685", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "32", 
+      "name": "Napolitano, Grace F.", 
+      "sponsored_at": "2015-02-26", 
+      "state": "CA", 
+      "thomas_id": "01602", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Pearce, Stevan", 
+      "sponsored_at": "2015-02-26", 
+      "state": "NM", 
+      "thomas_id": "01738", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Pocan, Mark", 
+      "sponsored_at": "2015-07-27", 
+      "state": "WI", 
+      "thomas_id": "02171", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Salmon, Matt", 
+      "sponsored_at": "2015-02-26", 
+      "state": "AZ", 
+      "thomas_id": "01009", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Sinema, Kyrsten", 
+      "sponsored_at": "2015-02-26", 
+      "state": "AZ", 
+      "thomas_id": "02099", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Tipton, Scott  R.", 
+      "sponsored_at": "2015-02-26", 
+      "state": "CO", 
+      "thomas_id": "01997", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Zinke, Ryan K.", 
+      "sponsored_at": "2015-02-26", 
+      "state": "MT", 
+      "thomas_id": "02254", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-06-25", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-02-26", 
+  "number": "1107", 
+  "official_title": "To require the Secretary of the Interior to submit to Congress a report on the efforts of the Bureau of Reclamation to manage its infrastructure assets.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s593-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s593-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s2902-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Bureau of Reclamation Transparency Act", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Gosar, Paul A.", 
+    "state": "AZ", 
+    "thomas_id": "01992", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2015-10-08", 
+  "subjects": [
+    "Congressional oversight", 
+    "Dams and canals", 
+    "Department of the Interior", 
+    "Government information and archives", 
+    "Infrastructure development", 
+    "Water resources development", 
+    "Water resources funding", 
+    "Water use and supply"
+  ], 
+  "subjects_top_term": "Water resources development", 
+  "summary": {
+    "as": "Reported to House amended", 
+    "date": "2015-12-03", 
+    "text": "Bureau of Reclamation Transparency Act\n\n(Sec. 4) This bill directs the Department of the Interior to submit to Congress, make publicly available, and biennially update an Asset Management Report that describes the Bureau of Reclamation's efforts to maintain in a reliable manner all reserved works (buildings, structures, facilities, or equipment owned by the Bureau for which operations and maintenance are performed by Bureau employees or through a contract with the Bureau) at Reclamation facilities (infrastructure assets that are owned by the Bureau at each Reclamation project owned by the Bureau) and to standardize and streamline data reporting and processes across regions and areas for the purpose of maintaining such works.\n\nSuch Report must include: (1) a detailed assessment of major repair and rehabilitation needs for all such works; and (2) an itemized list of major repair and rehabilitation needs of individual Reclamation facilities at each Reclamation project, including a budget level cost estimate of appropriations needed to complete each item and an assignment of a categorical rating for each item consistent with existing uniform categorization systems to inform the annual budget process and agency requirements.\n\nInterior may exclude from the public version of the Report any information that it identifies as sensitive or classified, but shall make available to specified congressional committees a version of the report containing the sensitive or classified information.\n\n(Sec. 5) Interior must: (1) coordinate with the non-federal entities responsible for the operation and maintenance of transferred works (Reclamation facilities at which operations and maintenance are carried out by a non-federal entity under a formal agreement with the Bureau) in developing reporting requirements for Asset Management Reports regarding major repair and rehabilitation needs for transferred works, and (2) develop and implement a categorical rating system for transferred works that incorporates the rating system for major repair and rehabilitation needs for reserved works."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Bureau of Reclamation Transparency Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Bureau of Reclamation Transparency Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require the Secretary of the Interior to submit to Congress a report on the efforts of the Bureau of Reclamation to manage its infrastructure assets.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:32:31-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR1107:@@@L&summ2=m&"
+}

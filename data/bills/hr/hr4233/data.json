@@ -1,0 +1,151 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-12-10", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-12-16", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Federal Lands.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-05-12", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4233-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Federal Lands", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "49", 
+      "name": "Issa, Darrell E.", 
+      "sponsored_at": "2015-12-10", 
+      "state": "CA", 
+      "thomas_id": "01640", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "47", 
+      "name": "Lowenthal, Alan S.", 
+      "sponsored_at": "2015-12-10", 
+      "state": "CA", 
+      "thomas_id": "02111", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "39", 
+      "name": "Royce, Edward R.", 
+      "sponsored_at": "2015-12-10", 
+      "state": "CA", 
+      "thomas_id": "00998", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "46", 
+      "name": "Sanchez, Loretta", 
+      "sponsored_at": "2015-12-15", 
+      "state": "CA", 
+      "thomas_id": "01522", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "45", 
+      "name": "Walters, Mimi", 
+      "sponsored_at": "2015-12-10", 
+      "state": "CA", 
+      "thomas_id": "02232", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2016-05-12", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-12-10", 
+  "number": "4233", 
+  "official_title": "To eliminate an unused lighthouse reservation, provide management consistency by incorporating the rocks and small islands along the coast of Orange County, California, into the California Coastal National Monument managed by the Bureau of Land Management, and meet the original Congressional intent of preserving Orange County's rocks and small islands, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "48", 
+    "name": "Rohrabacher, Dana", 
+    "state": "CA", 
+    "thomas_id": "00979", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-12-10", 
+  "subjects": [
+    "California", 
+    "Land transfers", 
+    "Land use and conservation", 
+    "Marine and coastal resources, fisheries", 
+    "Monuments and memorials", 
+    "Navigation, waterways, harbors", 
+    "Pacific Ocean", 
+    "Parks, recreation areas, trails", 
+    "Public lands and natural resources"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-12-10", 
+    "text": "This bill makes certain rocks, pinnacles, reefs, and islands in the Pacific Ocean within a mile of the coast of Orange County, California, part of the California Coastal National Monument and repeals their current temporary reservation.\n\nThe Department of the Interior shall ensure that economic and recreational activities conducted on the lands added to the California Coastal Monument shall continue to be allowed to the same extent they were authorized and ongoing on the day before such lands were added.\n\nLikewise repealed is the lighthouse reservation with respect to the San Juan and San Mateo Rocks and the two rocks in the vicinity of Laguna Beach, off the coast of Orange County."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To eliminate an unused lighthouse reservation, provide management consistency by incorporating the rocks and small islands along the coast of Orange County, California, into the California Coastal National Monument managed by the Bureau of Land Management, and meet the original Congressional intent of preserving Orange County's rocks and small islands, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:59:03-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4233:@@@L&summ2=m&"
+}

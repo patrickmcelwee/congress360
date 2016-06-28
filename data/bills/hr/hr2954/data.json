@@ -1,0 +1,183 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-07-07", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Transportation and Infrastructure.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-07-08", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-07-23", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-23", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-23", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2015-09-08T19:08:00-04:00", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on Transportation and Infrastructure. H. Rept. 114-247.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-08T19:08:00-04:00", 
+      "calendar": "House", 
+      "number": "54", 
+      "references": [], 
+      "text": "Placed on the House Calendar, Calendar No. 54.", 
+      "type": "calendar", 
+      "under": null
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2954-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Economic Development, Public Buildings and Emergency Management", 
+      "subcommittee_id": "13"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "9", 
+      "name": "Cohen, Steve", 
+      "sponsored_at": "2015-07-23", 
+      "state": "TN", 
+      "thomas_id": "01878", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Hill, J. French", 
+      "sponsored_at": "2015-07-07", 
+      "state": "AR", 
+      "thomas_id": "02223", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Westerman, Bruce", 
+      "sponsored_at": "2015-07-07", 
+      "state": "AR", 
+      "thomas_id": "02224", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Womack, Steve", 
+      "sponsored_at": "2015-07-07", 
+      "state": "AR", 
+      "thomas_id": "01991", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-07-23", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-07-07", 
+  "number": "2954", 
+  "official_title": "To designate the Federal building located at 617 Walnut Street in Helena, Arkansas, as the \"Jacob Trieber Federal Building, United States Post Office, and United States Court House\".", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1707-114", 
+      "reason": "identical", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s1707-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "1", 
+    "name": "Crawford, Eric A. \"Rick\"", 
+    "state": "AR", 
+    "thomas_id": "01989", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2015-07-23", 
+  "subjects": [
+    "Arkansas", 
+    "Congressional tributes", 
+    "Government buildings, facilities, and property", 
+    "Government operations and politics", 
+    "Postal service"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": {
+    "as": "Reported to House without amendment", 
+    "date": "2015-09-08", 
+    "text": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.)\n\n Designates the federal building located at 617 Walnut Street in Helena, Arkansas, as the \"Jacob Trieber Federal Building, United States Post Office, and United States Court House.\""
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To designate the Federal building located at 617 Walnut Street in Helena, Arkansas, as the \"Jacob Trieber Federal Building, United States Post Office, and United States Court House\".", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:48:23-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2954:@@@L&summ2=m&"
+}

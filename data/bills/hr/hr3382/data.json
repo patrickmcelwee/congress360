@@ -1,0 +1,272 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-07-29", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Natural Resources, and in addition to the Committees on Agriculture, and Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-07-29", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Referred to House Natural Resources", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-07-29", 
+      "committees": [
+        "HSAG"
+      ], 
+      "references": [], 
+      "text": "Referred to House Agriculture", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-07-29", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "text": "Referred to House Transportation and Infrastructure", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-07-30", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Water Resources and Environment.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-08-31", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Federal Lands.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-08-31", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Water, Power and Oceans.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-10-07", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-10-08", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Subcommittee on Federal Lands Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-10-08", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Subcommittee on Water, Power and Oceans Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-10-08", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-10-08", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 21 - 16.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2016-02-01T12:21:00-05:00", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-404, Part I.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-01T12:21:00-05:00", 
+      "committees": [
+        "HSAG"
+      ], 
+      "references": [], 
+      "text": "Committee on Agriculture discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-01T12:21:00-05:00", 
+      "references": [], 
+      "text": "Committee on Transportation discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-01T12:22:00-05:00", 
+      "calendar": "Union", 
+      "number": "307", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 307.", 
+      "type": "calendar", 
+      "under": null
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3382-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Federal Lands", 
+      "subcommittee_id": "10"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Water, Power and Oceans", 
+      "subcommittee_id": "13"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Agriculture", 
+      "committee_id": "HSAG"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Water Resources and Environment", 
+      "subcommittee_id": "02"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "2", 
+      "name": "Amodei, Mark E.", 
+      "sponsored_at": "2015-07-29", 
+      "state": "NV", 
+      "thomas_id": "02090", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-10-07", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-07-29", 
+  "number": "3382", 
+  "official_title": "To amend the Lake Tahoe Restoration Act to enhance recreational opportunities, environmental restoration activities, and forest management activities in the Lake Tahoe Basin, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Lake Tahoe Restoration Act of 2015", 
+  "sponsor": {
+    "district": "4", 
+    "name": "McClintock, Tom", 
+    "state": "CA", 
+    "thomas_id": "01908", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2015-10-08", 
+  "subjects": [
+    "Aquatic ecology", 
+    "California", 
+    "Ecology", 
+    "Environmental assessment, monitoring, research", 
+    "Environmental protection", 
+    "Fires", 
+    "Fishes", 
+    "Forests, forestry, trees", 
+    "Lakes and rivers", 
+    "Land transfers", 
+    "Land use and conservation", 
+    "Nevada", 
+    "Outdoor recreation", 
+    "Regional and metropolitan planning", 
+    "Water quality", 
+    "Water resources funding", 
+    "Watersheds", 
+    "Wetlands", 
+    "Wildlife conservation and habitat protection"
+  ], 
+  "subjects_top_term": "Environmental protection", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Lake Tahoe Restoration Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Lake Tahoe Restoration Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Lake Tahoe Restoration Act to enhance recreational opportunities, environmental restoration activities, and forest management activities in the Lake Tahoe Basin, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:51:57-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3382:@@@L&summ2=m&"
+}

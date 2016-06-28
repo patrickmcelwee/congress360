@@ -1,0 +1,118 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-01-28", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-01-30", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr617-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "5", 
+      "name": "Brown, Corrine", 
+      "sponsored_at": "2015-03-16", 
+      "state": "FL", 
+      "thomas_id": "00132", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "25", 
+      "name": "Slaughter, Louise McIntosh", 
+      "sponsored_at": "2015-01-28", 
+      "state": "NY", 
+      "thomas_id": "01069", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-01-28", 
+  "number": "617", 
+  "official_title": "To amend the Public Health Service Act to enhance the clinical trial registry data bank reporting requirements and enforcement measures.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Clinical Trial Cancer Mission 2020 Act", 
+  "sponsor": {
+    "district": "23", 
+    "name": "Reed, Tom", 
+    "state": "NY", 
+    "thomas_id": "01982", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-01-28", 
+  "subjects": [
+    "Drug safety, medical device, and laboratory regulation", 
+    "Government information and archives", 
+    "Health", 
+    "Health information and medical records", 
+    "Health programs administration and funding", 
+    "Medical research", 
+    "Military medicine"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-01-28", 
+    "text": "Clinical Trial Cancer Mission 2020 Act\n\nAmends the Public Health Service Act to revise clinical trial registry data bank provisions to specify that a device or drug clinical trial must be included in the clinical trial registry data bank regardless of whether it results in a positive or negative outcome.\n\nRequires the responsible party of any clinical trials funded in whole or in part by the Department of Defense (DOD) to certify in all required grant or progress forms that the required submissions to the clinical trial registry data bank have been made. Requires DOD to verify that the clinical trial information has been submitted before releasing any remaining grant funds or funding future grants.\n\nMakes a clinical trial grantee of the Department of Health and Human Services or DOD who fails to submit the required information to the data bank ineligible for the remaining grant funds or future funds. Makes the grantee liable for repayment of grant amounts already provided."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Clinical Trial Cancer Mission 2020 Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Public Health Service Act to enhance the clinical trial registry data bank reporting requirements and enforcement measures.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:28:22-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR617:@@@L&summ2=m&"
+}

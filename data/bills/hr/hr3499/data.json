@@ -1,0 +1,97 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-09-11", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-09-16", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Social Security.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3499-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM", 
+      "subcommittee": "Subcommittee on Social Security", 
+      "subcommittee_id": "01"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-09-11", 
+  "number": "3499", 
+  "official_title": "To amend titles II and XVI of the Social Security Act to provide for treatment of disability rated and certified as total by the Secretary of Veterans Affairs as disability for purposes of such titles.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Veteran Disability Rating Parity Act", 
+  "sponsor": {
+    "district": "13", 
+    "name": "Jolly, David W.", 
+    "state": "FL", 
+    "thomas_id": "02199", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-09-11", 
+  "subjects": [
+    "Disability assistance", 
+    "Poverty and welfare assistance", 
+    "Social security and elderly assistance", 
+    "Social welfare", 
+    "Veterans' pensions and compensation"
+  ], 
+  "subjects_top_term": "Social welfare", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-09-11", 
+    "text": "Veteran Disability Rating Parity Act \n\nThis bill amends titles II (Old Age, Survivors and Disability Insurance) (OASDI) and XVI (Supplemental Security Income) (SSI) of the Social Security Act to treat service-connected disability rated and certified as total by the Department of Veterans Affairs as disability for purposes of the OASDI (including child's, widow's, and widower's benefits) and SSI programs."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Veteran Disability Rating Parity Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend titles II and XVI of the Social Security Act to provide for treatment of disability rated and certified as total by the Secretary of Veterans Affairs as disability for purposes of such titles.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:52:56-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3499:@@@L&summ2=m&"
+}

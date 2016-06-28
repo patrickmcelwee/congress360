@@ -1,0 +1,37 @@
+## Sources
+
+### Members of Congress
+
+Downloaded `legislators-current.csv` from here: https://www.govtrack.us/data/congress-legislators/
+
+### Twitter
+
+To use the Twitter REST API, you have to generate authorization headers with this tool: https://dev.twitter.com/oauth/tools/signature-generator/12542719
+
+US House Twitter Accounts:
+
+    curl --get 'https://api.twitter.com/1.1/lists/members.json' --data 'cursor=-1&owner_screen_name=gov&slug=us-house'
+
+US Senate Twitter Accounts:
+
+    curl --get 'https://api.twitter.com/1.1/lists/members.json' --data 'cursor=-1&owner_screen_name=gov&slug=us-senate'
+
+US House Tweets (roughly February to June 2016): 
+
+    curl --get 'https://api.twitter.com/1.1/lists/statuses.json' --data 'cursor=-1&owner_screen_name=gov&slug=us-house'
+
+US Senate Tweets (roughly February to June 2016):
+
+    curl --get 'https://api.twitter.com/1.1/lists/statuses.json' --data 'cursor=-1&owner_screen_name=gov&slug=us-senate'
+
+### Districts
+
+ShapeMaps for the 114th Congressional districts: http://nationalmap.gov/small_scale/atlasftp.html?openChapters=chpbound#chpbound
+
+### Bills
+
+These are only House bills (not resolutions) from the 114th Congress, as JSON. From: https://www.govtrack.us/developers/data
+
+Retrieved with the following `rsync` command:
+
+    rsync -avz --delete --delete-excluded --exclude **/text-versions/ govtrack.us::govtrackdata/congress/114/bills/hr ./

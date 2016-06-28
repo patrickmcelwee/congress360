@@ -1,0 +1,133 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-02-11", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Oversight and Government.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-03-25", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-03-25", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2016-02-04T10:46:00-05:00", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on Oversight and Government Reform. H. Rept. 114-415.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-04T10:47:00-05:00", 
+      "calendar": "Union", 
+      "number": "316", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 316.", 
+      "type": "calendar", 
+      "under": null
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr901-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Oversight and Government Reform", 
+      "committee_id": "HSGO"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "3", 
+      "name": "Jones, Walter B., Jr.", 
+      "sponsored_at": "2016-01-07", 
+      "state": "NC", 
+      "thomas_id": "00612", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-03-25", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-02-11", 
+  "number": "901", 
+  "official_title": "To prohibit accessing pornographic web sites from Federal computers, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Eliminating Pornography from Agencies Act", 
+  "sponsor": {
+    "district": "11", 
+    "name": "Meadows, Mark", 
+    "state": "NC", 
+    "thomas_id": "02142", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2015-03-25", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Computers and information technology", 
+    "Government employee pay, benefits, personnel management", 
+    "Government ethics and transparency, public corruption", 
+    "Government operations and politics", 
+    "Internet and video services", 
+    "Office of Management and Budget (OMB)", 
+    "Pornography"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": {
+    "as": "Reported to House without amendment", 
+    "date": "2016-02-04", 
+    "text": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)\n\nEliminating Pornography from Agencies Act\n\n(Sec. 2) This bill directs the Office of Management and Budget to issue guidelines that prohibit the access of a pornographic or other explicit website from a federal computer.\n\nThe bill allows an exception to this prohibition if the computer is used for an investigative purpose that requires accessing a pornographic website."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Eliminating Pornography from Agencies Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Eliminating Pornography from Agencies Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To prohibit accessing pornographic web sites from Federal computers, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:30:48-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR901:@@@L&summ2=m&"
+}

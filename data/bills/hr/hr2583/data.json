@@ -1,0 +1,251 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-05-29", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-06-02", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-06-02", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-06-03", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-06-03", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2015-10-22T17:59:00-04:00", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 114-305.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-10-22T17:59:00-04:00", 
+      "calendar": "Union", 
+      "number": "231", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 231.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2015-11-16T17:48:00-05:00", 
+      "references": [], 
+      "text": "Mr. Walden moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-11-16T17:48:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H8182-8185", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-11-16T17:48:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 2583.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-11-16T17:57:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H8182-8184", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2015-11-16T17:57:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-11-17", 
+      "committees": [
+        "SSCM"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2583-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Commerce, Science, and Transportation", 
+      "committee_id": "SSCM"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "16", 
+      "name": "Kinzinger, Adam", 
+      "sponsored_at": "2015-05-29", 
+      "state": "IL", 
+      "thomas_id": "02014", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-06-02", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2015-11-16T17:57:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-05-29", 
+  "number": "2583", 
+  "official_title": "To amend the Communications Act of 1934 to provide for greater transparency and efficiency in the procedures followed by the Federal Communications Commission, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr2589-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr2592-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr2593-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s421-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Federal Communications Commission Process Reform Act of 2015", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Walden, Greg", 
+    "state": "OR", 
+    "thomas_id": "01596", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2015-11-16T17:57:00-05:00", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Atmospheric science and weather", 
+    "Census and government statistics", 
+    "Congressional oversight", 
+    "Consumer affairs", 
+    "Economic performance and conditions", 
+    "Emergency communications systems", 
+    "Executive agency funding and structure", 
+    "Federal Communications Commission (FCC)", 
+    "Freedom of information", 
+    "Government information and archives", 
+    "Government studies and investigations", 
+    "Licensing and registrations", 
+    "Performance measurement", 
+    "Science, technology, communications", 
+    "Telecommunication rates and fees", 
+    "Telephone and wireless communication"
+  ], 
+  "subjects_top_term": "Science, technology, communications", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2015-11-16", 
+    "text": "Federal Communications Commission Process Reform Act of 2015\n\n(Sec. 2) This bill amends the Communications Act of 1934 to require the Federal Communications Commission (FCC) to complete a rulemaking proceeding to adopt rules establishing:\n\n minimum comment and reply periods for rulemakings; policies to ensure that the public has notice and an opportunity to respond to comments, ex parte communications, or materials submitted toward the end of, or after, the comment period; deadlines for public notice, and guidelines for disposition, of certain petitions; and procedures to include the specific language of proposed rules or amendments in proposed rulemaking notices. The rules must also establish procedures\u00a0for publishing on the FCC's website and submitting to Congress reports regarding: (1) the status of open rulemakings and items circulated for FCC commissioners' review; (2) the number of pending petitions, applications, complaints, and other requests for action by the FCC and the amount of time such requests have been pending; and (3) pending congressional investigations of the FCC and the cost of such investigations. The website postings and reports must be updated at least quarterly.\n\nPerformance measures must be included in notices of proposed rulemakings or orders that would create or substantially change a program activity. A \"program activity\" is a specific activity or project as listed in the program and financing schedules of the U.S. annual budget, including any annual collection or distribution or related series of collections or distributions by the FCC of $100 million or more.\n\nThe FCC must seek public comment regarding whether the FCC should establish procedures to: (1) allow a bipartisan majority of commissioners to place items on an open meeting agenda; (2) publish in advance of open meetings the text of agenda items on which the FCC will vote; (3) ensure that commissioners have adequate time, prior to a required decision, to review the proposed decision document, including the specific rule or any proposed amendments; (4) provide deadlines for the disposition of certain license applications; and (5) publish orders, decisions, reports, and actions within 30 days after adoption.\n\nThe Government Accountability Office must audit the FCC's estimates of the costs of congressional investigations of the FCC.\n\nThe FCC must initiate a new rulemaking proceeding every five years to continue its consideration of procedural rule changes.\n\nA bipartisan majority of commissioners may hold a nonpublic meeting, including a meeting to collaborate with joint boards or conferences, if: (1) no votes or actions are taken, and (2) an attorney from the FCC's Office of General Counsel is present. Such a closed meeting must be disclosed within two business days after the meeting, along with a list of persons in attendance and a summary of discussed matters, provided that such matters are not classified or otherwise exempt from disclosure.\n\nThe FCC must provide on its website: (1) information regarding the FCC's budget, appropriations, and total number of full-time equivalent employees; (2) the FCC's annual performance plan; and (3) information about consumer complaints in a publicly available, searchable database.\n\nThe chair of the FCC must also publish on the website policies established by the chair that relate to the FCC's functioning or its agenda.\n\nThe FCC must complete actions necessary for the required publication of documents in the Federal Register within specified time frames.\n\nThe FCC must inform the public about its performance and efficiency in meeting disclosure and other requirements under the Freedom of Information Act (FOIA), including by: (1) publishing on the FCC website its logs for managing FOIA requests and associated fees, (2) releasing decisions to grant or deny requests, and (3) presenting information about the number of FOIA requests received and granted or denied by the FCC in its annual budget estimates and annual performance and financial reports.\n\nBy January 15 of each year, the FCC must publish on its website and in other required formats an anticipated release schedule for all statistical reports and reports to Congress.\n\nThe bill requires annual reports to Congress on the FCC's performance in conducting its proceedings and meeting the deadlines and guidelines established by this Act.\n\n(Sec. 3) In compiling its quarterly report with respect to informal consumer inquiries and complaints, the FCC is prohibited from categorizing an inquiry or complaint under the Telephone Consumer Protection Act of 1991 (places restrictions on telephone solicitations and automatic dialing systems) as a wireline or wireless inquiry or complaint unless a wireline or wireless carrier was the subject of the inquiry or complaint.\n\n(Sec. 5) The Universal Service Antideficiency Temporary Suspension Act is amended to extend through December 31, 2020, the waiver of certain limitations on: (1) expending, obligating, or apportioning appropriations with respect to federal universal service contributions collected or received under the Communications Act of 1934; and (2) expending or obligating funds attributable to such contributions for universal service support programs.\n\n(Sec. 6) The FCC must consult with the Small Business Administration to report to Congress with actions and recommendations to improve participation of small businesses in FCC proceedings.\n\n(Sec. 7) The budgetary effects of this Act are excluded from PAYGO scorecards under the Statutory Pay-As-You-Go Act of 2010 and section 201 of S.Con.Res. 21 (110th Congress)."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Federal Communications Commission Process Reform Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Federal Communications Commission Process Reform Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Federal Communications Commission Process Reform Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Communications Act of 1934 to provide for greater transparency and efficiency in the procedures followed by the Federal Communications Commission, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:45:16-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2583:@@@L&summ2=m&"
+}

@@ -1,0 +1,112 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-11-18", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-11-30", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Federal Lands.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4072-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Federal Lands", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "6", 
+      "name": "Barton, Joe", 
+      "sponsored_at": "2015-11-18", 
+      "state": "TX", 
+      "thomas_id": "00062", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Dingell, Debbie", 
+      "sponsored_at": "2015-11-18", 
+      "state": "MI", 
+      "thomas_id": "02251", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-11-18", 
+  "number": "4072", 
+  "official_title": "To remove a restriction that prohibits the use of Federal funds to pay for maintenance of the memorial to honor Tomas G. Masaryk in the District of Columbia.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "9", 
+    "name": "Schakowsky, Janice D.", 
+    "state": "IL", 
+    "thomas_id": "01588", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-11-18", 
+  "subjects": [
+    "Czech Republic", 
+    "District of Columbia", 
+    "Europe", 
+    "Monuments and memorials", 
+    "Public lands and natural resources", 
+    "Slovakia", 
+    "World history"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-11-18", 
+    "text": "This bill repeals a restriction prohibiting the use of federal funds for maintenance of the memorial to honor Tomas G. Masaryk on federal land in the District of Columbia."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To remove a restriction that prohibits the use of Federal funds to pay for maintenance of the memorial to honor Tomas G. Masaryk in the District of Columbia.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:57:43-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4072:@@@L&summ2=m&"
+}

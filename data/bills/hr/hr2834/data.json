@@ -1,0 +1,101 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-06-18", 
+      "references": [
+        {
+          "reference": "CR E931", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-06-18", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-10-27", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-10-27", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by the Yeas and Nays: 20 - 13.", 
+      "type": "calendar"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2834-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-10-27", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-06-18", 
+  "number": "2834", 
+  "official_title": "To enact certain laws relating to the environment as title 55, United States Code, \"Environment\".", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "10", 
+    "name": "Marino, Tom", 
+    "state": "PA", 
+    "thomas_id": "02053", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2015-10-27", 
+  "subjects": [
+    "Air quality", 
+    "Environmental Protection Agency (EPA)", 
+    "Environmental protection"
+  ], 
+  "subjects_top_term": "Environmental protection", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-06-18", 
+    "text": "This bill replaces certain environmental laws in the United States Code with provisions in the new Title 55, Environment, as part of an effort to consolidate environmental acts found in several sections of the code into one title. Subtitle I of Title 55 contains provisions that establish the Environmental Protection Agency, national environmental policy, the National Environmental Policy Act of 1969, and the Council on Environmental Quality. Subtitle II contains provisions about air quality and air pollution control, including provisions from the Clean Air Act and related laws.\n\nA change in wording made in the restatement of existing law enacted by this bill is meant to elucidate the existing law, but not to change the meaning or effect of the existing law."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To enact certain laws relating to the environment as title 55, United States Code, \"Environment\".", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:47:23-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2834:@@@L&summ2=m&"
+}

@@ -1,0 +1,140 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-01-13", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-03-02", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Water, Power and Oceans.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-03-02", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Federal Lands.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr330-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Water, Power and Oceans", 
+      "subcommittee_id": "13"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Federal Lands", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "3", 
+      "name": "Jones, Walter B., Jr.", 
+      "sponsored_at": "2015-09-22", 
+      "state": "NC", 
+      "thomas_id": "00612", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-01-13", 
+  "number": "330", 
+  "official_title": "To amend title 54, United States Code, to provide for congressional approval of national monuments and restrictions on the use of national monuments, to establish requirements for declaration of marine national monuments, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s228-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Marine Access and State Transparency", 
+  "sponsor": {
+    "district": null, 
+    "name": "Young, Don", 
+    "state": "AK", 
+    "thomas_id": "01256", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-01-13", 
+  "subjects": [
+    "Congressional oversight", 
+    "Environmental assessment, monitoring, research", 
+    "Intergovernmental relations", 
+    "Land use and conservation", 
+    "Marine and coastal resources, fisheries", 
+    "Monuments and memorials", 
+    "Parks, recreation areas, trails", 
+    "Presidents and presidential powers, Vice Presidents", 
+    "Public lands and natural resources", 
+    "State and local government operations"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-01-13", 
+    "text": "Marine Access and State Transparency or the MAST Act\n\n Amends the Antiquities Act of 1906 to bar the President from declaring any area of the exclusive economic zone to be a national monument unless:\n\n such a declaration is specifically authorized by an Act of Congress; the President has submitted a proposal to make the declaration to the governor of each state or territory located within 100 nautical miles of that area; each governor submits to the President a notice that the legislature of that state or territory has approved the proposal; and the declaration is substantially the same as the proposal. Prohibits the Department of the Interior or the Department of Commerce, with respect to any area of the exclusive economic zone that is designated as a national monument, from implementing any restrictions on the public use of such a national monument until the expiration of an appropriate review period providing for public input and congressional approval."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Marine Access and State Transparency", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "MAST Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 54, United States Code, to provide for congressional approval of national monuments and restrictions on the use of national monuments, to establish requirements for declaration of marine national monuments, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:25:58-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR330:@@@L&summ2=m&"
+}

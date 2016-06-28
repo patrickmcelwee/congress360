@@ -1,0 +1,147 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-02-11", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-03-16", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-09-29", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr872-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Indian, Insular and Alaska Native Affairs", 
+      "subcommittee_id": "24"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "8", 
+      "name": "Beyer, Donald S., Jr.", 
+      "sponsored_at": "2015-02-11", 
+      "state": "VA", 
+      "thomas_id": "02272", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Connolly, Gerald E.", 
+      "sponsored_at": "2015-02-11", 
+      "state": "VA", 
+      "thomas_id": "01959", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Rigell, E. Scott", 
+      "sponsored_at": "2015-04-15", 
+      "state": "VA", 
+      "thomas_id": "02068", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Scott, Robert C. \"Bobby\"", 
+      "sponsored_at": "2015-02-11", 
+      "state": "VA", 
+      "thomas_id": "01037", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-09-29", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-02-11", 
+  "number": "872", 
+  "official_title": "To extend Federal recognition to the Chickahominy Indian Tribe, the Chickahominy Indian Tribe-Eastern Division, the Upper Mattaponi Tribe, the Rappahannock Tribe, Inc., the Monacan Indian Nation, and the Nansemond Indian Tribe.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s465-114", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "1", 
+    "name": "Wittman, Robert J.", 
+    "state": "VA", 
+    "thomas_id": "01886", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-02-11", 
+  "subjects": [
+    "Federal-Indian relations", 
+    "Gambling", 
+    "Indian lands and resources rights", 
+    "Indian social and development programs", 
+    "Land transfers", 
+    "Native Americans", 
+    "Property rights", 
+    "Virginia"
+  ], 
+  "subjects_top_term": "Native Americans", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-02-11", 
+    "text": "Thomasina E. Jordan Indian Tribes of Virginia Federal Recognition Act of 2015\n\n Extends federal recognition to the following Indian tribes of Virginia and establishes their relationship with the federal government as described below: (1) the Chickahominy Tribe, (2) the Chickahominy Indian Tribe--Eastern Division, (3) the Upper Mattaponi Tribe, (4) the Rappahannock Tribe, Inc., (5) the Monacan Indian Nation, and (6) the Nansemond Indian Tribe.\n\nMakes the tribes and their members eligible for all services and benefits provided by the federal government to federally recognized Indian tribes. Establishes the service area of each tribe and requirements for each tribe regarding its membership roll, governing documents, and governing body.\n\nRequires the Department of the Interior, on request of any of the tribes, to take specified lands into trust for the benefit of that tribe, to be considered part of that tribe's reservation.\n\nProhibits the tribes from conducting gaming activities.\n\nProhibits this Act from affecting the hunting, fishing, trapping, gathering, or water rights of the tribes and their members.\n\nProhibits the use of eminent domain to acquire lands in fee or in trust for an Indian tribe recognized under this Act."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To extend Federal recognition to the Chickahominy Indian Tribe, the Chickahominy Indian Tribe-Eastern Division, the Upper Mattaponi Tribe, the Rappahannock Tribe, Inc., the Monacan Indian Nation, and the Nansemond Indian Tribe.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:30:33-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR872:@@@L&summ2=m&"
+}

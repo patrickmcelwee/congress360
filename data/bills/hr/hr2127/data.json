@@ -1,0 +1,227 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-04-30", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Homeland Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-05-15", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Transportation Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-06-25", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-06-25", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2015-07-22T15:25:00-04:00", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-220.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-22T15:25:00-04:00", 
+      "calendar": "Union", 
+      "number": "166", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 166.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2015-07-27T16:49:00-04:00", 
+      "references": [], 
+      "text": "Mr. Katko moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-27T16:49:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5502-5504", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-27T16:49:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 2127.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-27T16:55:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H5502-5503", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2015-07-27T16:55:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-28", 
+      "committees": [
+        "SSCM"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2127-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM", 
+      "subcommittee": "Subcommittee on Transportation Security", 
+      "subcommittee_id": "07"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Commerce, Science, and Transportation", 
+      "committee_id": "SSCM"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "24", 
+      "name": "Katko, John", 
+      "sponsored_at": "2015-04-30", 
+      "state": "NY", 
+      "thomas_id": "02264", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Rice, Kathleen M.", 
+      "sponsored_at": "2015-04-30", 
+      "state": "NY", 
+      "thomas_id": "02262", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-06-25", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2015-07-27T16:55:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-04-30", 
+  "number": "2127", 
+  "official_title": "To direct the Administrator of the Transportation Security Administration to limit access to expedited airport security screening at an airport security checkpoint to participants of the PreCheck program and other known low-risk passengers, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Securing Expedited Screening Act", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Thompson, Bennie G.", 
+    "state": "MS", 
+    "thomas_id": "01151", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2015-07-27T16:55:00-04:00", 
+  "subjects": [
+    "Aviation and airports", 
+    "Congressional oversight", 
+    "Transportation and public works", 
+    "Transportation safety and security"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2015-07-27", 
+    "text": "Securing Expedited Screening Act\n\n(Sec. 3) The Transportation Security Administration (TSA) of the Department of Homeland Security shall, within 180 days after enactment of this Act, limit access to expedited airport security screening at airport security checkpoints to only a passenger who:\n\n voluntarily submits biographic and biometric information for a security risk assessment and has an approved PreCheck program application; is traveling as air transportation security or a member of the Armed Forces, including any accompanying family member; is a member of a population designated by the TSA as known and low-risk and who may be issued a unique, known traveler number; or is 75 years or older, or 12 years or younger and traveling with a parent or guardian participating in the PreCheck program. The TSA may extend for one year implementation of the requirement for passengers who have been designated frequent fliers.\n\nThe TSA may provide access to expedited airport security screening to additional passengers through an alternate method upon submission to Congress of an independent assessment of its security effectiveness.\n\n(Sec. 4) The TSA shall report annually to Congress certain information on passengers provided expedited security screening."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Securing Expedited Screening Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Securing Expedited Screening Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Securing Expedited Screening Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To direct the Administrator of the Transportation Security Administration to limit access to expedited airport security screening at an airport security checkpoint to participants of the PreCheck program and other known low-risk passengers, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:41:19-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2127:@@@L&summ2=m&"
+}

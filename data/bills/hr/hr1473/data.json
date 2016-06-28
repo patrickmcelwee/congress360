@@ -1,0 +1,168 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-03-19", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Transportation and Infrastructure.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-03-20", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-04-15", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-04-15", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-04-15", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2015-05-08T11:45:00-04:00", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on Transportation and Infrastructure. H. Rept. 114-105.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-05-08T11:46:00-04:00", 
+      "calendar": "Union", 
+      "number": "74", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 74.", 
+      "type": "calendar", 
+      "under": null
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1473-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Economic Development, Public Buildings and Emergency Management", 
+      "subcommittee_id": "13"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "7", 
+      "name": "Carson, Andre", 
+      "sponsored_at": "2015-03-19", 
+      "state": "IN", 
+      "thomas_id": "01889", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-04-15", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-03-19", 
+  "number": "1473", 
+  "official_title": "To amend the John F. Kennedy Center Act to authorize appropriations for the John F. Kennedy Center for the Performing Arts.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2808-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s2808-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "John F. Kennedy Center Reauthorization Act of 2015", 
+  "sponsor": {
+    "district": "11", 
+    "name": "Barletta, Lou", 
+    "state": "PA", 
+    "thomas_id": "02054", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2015-04-15", 
+  "subjects": [
+    "Arts, culture, religion", 
+    "District of Columbia", 
+    "Humanities programs funding", 
+    "Museums, exhibitions, cultural centers", 
+    "Performing arts"
+  ], 
+  "subjects_top_term": "Arts, culture, religion", 
+  "summary": {
+    "as": "Reported to House without amendment", 
+    "date": "2015-05-08", 
+    "text": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.)\n\nJohn F. Kennedy Center Reauthorization Act of 2015\n\n Amends the John F. Kennedy Center Act to reauthorize appropriations for FY2016-FY2020 for maintenance, repair, and security, and capital projects for the John F. Kennedy Center for the Performing Arts."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "John F. Kennedy Center Reauthorization Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "John F. Kennedy Center Reauthorization Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the John F. Kennedy Center Act to authorize appropriations for the John F. Kennedy Center for the Performing Arts.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:35:45-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR1473:@@@L&summ2=m&"
+}

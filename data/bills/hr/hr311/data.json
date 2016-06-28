@@ -1,0 +1,109 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-01-13", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-01-16", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr311-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "4", 
+      "name": "Massie, Thomas", 
+      "sponsored_at": "2015-04-15", 
+      "state": "KY", 
+      "thomas_id": "02094", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-01-13", 
+  "number": "311", 
+  "official_title": "To amend title X of the Public Health Service Act with respect to adoption and other pregnancy options counseling.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Adoption Promotion Act of 2015", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Long, Billy", 
+    "state": "MO", 
+    "thomas_id": "02033", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-01-13", 
+  "subjects": [
+    "Adoption and foster care", 
+    "Government studies and investigations", 
+    "Health", 
+    "Health information and medical records", 
+    "Medical tests and diagnostic methods", 
+    "Sex and reproductive health", 
+    "Women's health"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-01-13", 
+    "text": "Adoption Promotion Act of 2015\n\nAmends the Public Health Service Act (PHSA) to direct the Department of Health and Human Services to ensure that pregnancy options counseling funded through training grants for family planning service program personnel includes adoption counseling and is provided by licensed social workers or counselors who have knowledge and experience in adoption practice. Requires that family planning service program training include training on the adoption process.\n\nRequires research related to family planning and population funded under the PHSA to include: (1) the collection of data on the number of pregnancy tests administered to individuals served by family planning service programs and the results of those tests; and (2) the evaluation of the quality, consistency, and outcomes of pregnancy options counseling."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Adoption Promotion Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title X of the Public Health Service Act with respect to adoption and other pregnancy options counseling.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:25:49-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR311:@@@L&summ2=m&"
+}

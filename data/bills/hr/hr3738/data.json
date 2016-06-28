@@ -1,0 +1,155 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-10-09", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Financial Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-11-03", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-11-04", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-11-04", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by the Yeas and Nays: 35 - 22.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2016-06-08T15:30:00-04:00", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on Financial Services. H. Rept. 114-608.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-08T15:31:00-04:00", 
+      "calendar": "Union", 
+      "number": "473", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 473.", 
+      "type": "calendar", 
+      "under": null
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3738-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "49", 
+      "name": "Issa, Darrell E.", 
+      "sponsored_at": "2016-01-04", 
+      "state": "CA", 
+      "thomas_id": "01640", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Murphy, Patrick", 
+      "sponsored_at": "2015-10-09", 
+      "state": "FL", 
+      "thomas_id": "02117", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-11-03", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-10-09", 
+  "number": "3738", 
+  "official_title": "To amend the Dodd-Frank Wall Street Reform and Consumer Protection Act to improve the transparency, accountability, governance, and operations of the Office of Financial Research, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Office of Financial Research Accountability Act of 2015", 
+  "sponsor": {
+    "district": "39", 
+    "name": "Royce, Edward R.", 
+    "state": "CA", 
+    "thomas_id": "00998", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2015-11-04", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Advisory bodies", 
+    "Banking and financial institutions regulation", 
+    "Business records", 
+    "Computer security and identity theft", 
+    "Department of the Treasury", 
+    "Finance and financial sector", 
+    "Financial services and investments", 
+    "Government information and archives", 
+    "Government studies and investigations", 
+    "Performance measurement"
+  ], 
+  "subjects_top_term": "Finance and financial sector", 
+  "summary": {
+    "as": "Reported to House without amendment", 
+    "date": "2016-06-08", 
+    "text": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)\n\nOffice of Financial Research Accountability Act of 2015\n\n(Sec. 2) This bill amends the Dodd-Frank Wall Street Reform and Consumer Protection Act to require the Office of Financial Research within the Department of the Treasury to publish annually a detailed work plan of the Office priorities for the upcoming fiscal year, including a detailed description of the progress made by primary financial regulatory agencies in adopting a unique alphanumeric system (\"Legal Entity Identifier\") to identify legally distinct entities that engage in financial transactions, as well as a list of regulations requiring the use of such a system and actions taken to ensure its adoption by those agencies.\n\nThe bill requires the Office to develop and implement a cybersecurity plan using adequate safeguards to protect the integrity and confidentiality of the data in Office possession."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Office of Financial Research Accountability Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Office of Financial Research Accountability Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Dodd-Frank Wall Street Reform and Consumer Protection Act to improve the transparency, accountability, governance, and operations of the Office of Financial Research, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:54:55-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3738:@@@L&summ2=m&"
+}

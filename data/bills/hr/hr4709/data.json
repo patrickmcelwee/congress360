@@ -1,0 +1,97 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-03-03", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-03-04", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Commerce, Manufacturing, and Trade.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4709-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Commerce, Manufacturing, and Trade", 
+      "subcommittee_id": "17"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-03-03", 
+  "number": "4709", 
+  "official_title": "To amend the CAN-SPAM Act of 2003 to require commercial email messages to include an option allowing recipients to unsubscribe from any such future emails.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Unsubscribe From All Act of 2016", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Rice, Kathleen M.", 
+    "state": "NY", 
+    "thomas_id": "02262", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-03-03", 
+  "subjects": [
+    "Computers and information technology", 
+    "Consumer affairs", 
+    "Internet and video services", 
+    "Marketing and advertising", 
+    "Science, technology, communications"
+  ], 
+  "subjects_top_term": "Science, technology, communications", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2016-03-03", 
+    "text": "Unsubscribe From All Act of 2016\n\nThis bill amends the CAN-SPAM Act of 2003 to require commercial email messages to contain an \"unsubscribe from all\" option that recipients may select, with not more than one additional action required by the recipient, to send a reply requesting not to receive future emails from the sender.\n\nA commercial email message must remain capable of receiving such unsubscribe replies for at least 30 days after the transmission of the original message."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Unsubscribe From All Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the CAN-SPAM Act of 2003 to require commercial email messages to include an option allowing recipients to unsubscribe from any such future emails.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:03:02-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4709:@@@L&summ2=m&"
+}

@@ -1,0 +1,117 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-05-21", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-06-03", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Human Resources.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2503-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM", 
+      "subcommittee": "Subcommittee on Human Resources", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "3", 
+      "name": "Boustany, Charles W., Jr.", 
+      "sponsored_at": "2015-05-21", 
+      "state": "LA", 
+      "thomas_id": "01787", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Renacci, James B.", 
+      "sponsored_at": "2015-05-21", 
+      "state": "OH", 
+      "thomas_id": "02048", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-05-21", 
+  "number": "2503", 
+  "official_title": "To amend title III of the Social Security Act to prevent the payment of unemployment benefits to incarcerated individuals.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Permanently Ending Receipt by Prisoners Act", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Reichert, David G.", 
+    "state": "WA", 
+    "thomas_id": "01810", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-05-21", 
+  "subjects": [
+    "Correctional facilities and imprisonment", 
+    "Criminal justice information and records", 
+    "Intergovernmental relations", 
+    "Labor and employment", 
+    "State and local government operations", 
+    "Unemployment"
+  ], 
+  "subjects_top_term": "Labor and employment", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-05-21", 
+    "text": "Permanently Ending Receipt by Prisoners Act\n\n Amends title III (Grants to States for Unemployment Compensation Administration) of the Social Security Act to require the state agency charged with administering a state's unemployment compensation law to seek from the Commissioner of Social Security, and through additional appropriate means, information necessary to carry out any provision of that law which renders ineligible for regular compensation, because he or she is unable to satisfy work requirements, any individual confined in a jail, prison, or other penal institution or correctional facility for conviction of a criminal offense.\n\nDirects the Department of Labor to notify any state whose unemployment compensation agency fails to comply substantially with such requirements that further payments (for unemployment benefits) will not be made to the state until there is no longer any such failure."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Permanently Ending Receipt by Prisoners Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title III of the Social Security Act to prevent the payment of unemployment benefits to incarcerated individuals.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:44:28-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2503:@@@L&summ2=m&"
+}

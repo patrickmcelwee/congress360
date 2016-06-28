@@ -1,0 +1,213 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-09-24", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Homeland Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-09-30", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-30", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2015-11-02T16:25:00-05:00", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-324.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-11-02T16:25:00-05:00", 
+      "calendar": "Union", 
+      "number": "247", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 247.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2015-11-02T16:26:00-05:00", 
+      "references": [], 
+      "text": "Mr. Barletta moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-11-02T16:26:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H7355-7357", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-11-02T16:26:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3598.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-11-02T16:36:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H7355-7356", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2015-11-02T16:36:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-11-03", 
+      "committees": [
+        "SSGA"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3598-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Homeland Security and Governmental Affairs", 
+      "committee_id": "SSGA"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "2", 
+      "name": "King, Peter T.", 
+      "sponsored_at": "2015-09-24", 
+      "state": "NY", 
+      "thomas_id": "00635", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "McCaul, Michael T.", 
+      "sponsored_at": "2015-09-29", 
+      "state": "TX", 
+      "thomas_id": "01804", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-09-30", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2015-11-02T16:36:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-09-24", 
+  "number": "3598", 
+  "official_title": "To amend the Homeland Security Act of 2002 to enhance the partnership between the Department of Homeland Security and the National Network of Fusion Centers, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Fusion Center Enhancement Act of 2015", 
+  "sponsor": {
+    "district": "11", 
+    "name": "Barletta, Lou", 
+    "state": "PA", 
+    "thomas_id": "02054", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2015-11-02T16:36:00-05:00", 
+  "subjects": [
+    "Chemical and biological weapons", 
+    "Congressional oversight", 
+    "Criminal justice information and records", 
+    "Department of Homeland Security", 
+    "Emergency management", 
+    "Homeland security", 
+    "Intelligence activities, surveillance, classified information", 
+    "Intergovernmental relations", 
+    "Nuclear weapons", 
+    "Right of privacy", 
+    "State and local government operations", 
+    "Terrorism"
+  ], 
+  "subjects_top_term": "Emergency management", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2015-11-02", 
+    "text": "Fusion Center Enhancement Act of 2015\n\n(Sec. 2) This bill amends the Homeland Security Act of 2002 to revise provisions concerning the Department of Homeland Security (DHS) State, Local, and Regional Fusion Center Initiative. The bill renames it as the Department of Homeland Security Fusion Center Partnership Initiative and changes references to \"participating state, local, or regional fusion centers\" to references to the \"National Network of Fusion Centers,\" which is defined as a decentralized arrangement of fusion centers intended to enhance individual state and urban area fusion centers' ability to leverage the capabilities and expertise of all fusion centers for the purpose of enhancing analysis and homeland security information sharing nationally. (A fusion center serves as a focal point within the state and local environment for the receipt, analysis, gathering, and sharing of threat-related information between the federal government and state, local, tribal, territorial, and private sector partners.)\n\nThe duties of the Secretary of Homeland Security with respect to the Initiative are revised to include:\n\n supporting the maturation and sustainment of the Network, reducing inefficiencies and maximizing the effectiveness of federal resource support to the Network, ensuring that support for the Network is included as a national priority in applicable homeland security grant guidance, ensuring that each fusion center in the Network has a privacy policy and a civil rights and civil liberties policy approved by DHS, coordinating the nationwide suspicious activity report initiative to ensure that information gathered by the Network is incorporated, ensuring that fusion centers in the Network are the primary focal points for the sharing of homeland security information, terrorism information, and weapons of mass destruction information with state and local entities, and disseminating best practices on the appropriate levels for staffing at Network fusion centers of qualified representatives from state, local, tribal, and territorial law enforcement and emergency services, public health disciplines, and the private sector. The Under Secretary for Intelligence and Analysis must ensure that fusion centers in the Network have access to homeland security information sharing systems and that DHS personnel are deployed to support fusion centers in the Network in a manner consistent with DHS's mission and existing statutory limits.\n\nThe Under Secretary shall negotiate memoranda of understanding between DHS and a state or local government regarding the exchange of information between DHS and Network fusion centers. Such memoranda shall include:\n\n the categories of information to be provided by the parties to such memoranda, the contemplated uses of the exchanged information, the procedures for developing joint products, the information sharing dispute resolution processes, and any protections necessary to ensure the exchange of information accords with applicable law and policies. The Under Secretary shall: (1) coordinate with appropriate federal officials to ensure the deployment to Network fusion centers of representatives of other federal agencies with relevant expertise; and (2) report to specified congressional committees annually through 2022 on the efforts of DHS components to enhance support provided to Network fusion centers."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Fusion Center Enhancement Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Fusion Center Enhancement Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Homeland Security Act of 2002 to enhance the partnership between the Department of Homeland Security and the National Network of Fusion Centers, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:53:45-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3598:@@@L&summ2=m&"
+}

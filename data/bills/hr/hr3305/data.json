@@ -1,0 +1,146 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-07-29", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-07-29", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "text": "Referred to House Oversight and Government Reform", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-07-29", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "text": "Referred to House Homeland Security", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-08-11", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Cybersecurity, Infrastructure Protection, and Security Technologies.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3305-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Oversight and Government Reform", 
+      "committee_id": "HSGO"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM", 
+      "subcommittee": "Subcommittee on Cybersecurity, Infrastructure Protection, and Security Technologies", 
+      "subcommittee_id": "08"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "10", 
+      "name": "McCaul, Michael T.", 
+      "sponsored_at": "2015-07-29", 
+      "state": "TX", 
+      "thomas_id": "01804", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Ratcliffe, John", 
+      "sponsored_at": "2015-07-29", 
+      "state": "TX", 
+      "thomas_id": "02268", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-07-29", 
+  "number": "3305", 
+  "official_title": "To help enhance American network security and mitigate cybersecurity risks, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr1560-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "EINSTEIN Act of 2015", 
+  "sponsor": {
+    "district": "23", 
+    "name": "Hurd, Will", 
+    "state": "TX", 
+    "thomas_id": "02269", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-07-29", 
+  "subjects": [
+    "Computer security and identity theft", 
+    "Computers and information technology", 
+    "Government information and archives", 
+    "Government operations and politics"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-07-29", 
+    "text": "EINSTEIN Act of 2015\n\nAmends the Homeland Security Act of 2002 to require the Department of Homeland Security (DHS) to deploy, operate, and maintain (to make available for use by any federal agency, with or without reimbursement) capabilities to protect federal agency information and federal civilian information systems, including technologies to continuously diagnose, detect, prevent, and mitigate against cybersecurity risks involving such information or systems.\n\nAuthorizes the DHS Secretary to access, and allows federal agency heads to disclose to the Secretary, information traveling to or from or stored on such systems, regardless of from where the Secretary accesses such information, notwithstanding any law that would otherwise restrict or prevent such disclosures.\n\nAuthorizes the Secretary to retain, use, and disclose information obtained through such activities only to protect federal agency information and federal civilian information systems from cybersecurity risks or in furtherance of the national cybersecurity and communications integration center's (NCCIC's) authority, or, with DOJ approval and if disclosure of such information is not otherwise prohibited by law, to law enforcement only to investigate, prosecute, disrupt, or otherwise respond to:\n\n criminal computer fraud; an imminent threat of death or serious bodily harm; a serious threat to a minor, including sexual exploitation or threats to physical safety; or an attempt or conspiracy to commit any of such offenses. Provides liability protections to private entities authorized to assist the Secretary for such purposes.\n\nRedefines for purposes of the NCCIC's cybersecurity functions: (1) \"cybersecurity risk\" to exclude actions that solely involve a violation of a consumer term of service or a consumer licensing agreement; and (2) \"incident\" to include an occurrence that actually or imminently jeopardizes, without lawful authority, an information system, thereby replacing a standard that includes occurrences that constitute a violation or imminent threat of violation of law, security policies, security procedures, or acceptable use policies."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "EINSTEIN Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To help enhance American network security and mitigate cybersecurity risks, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:51:18-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3305:@@@L&summ2=m&"
+}

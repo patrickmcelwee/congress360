@@ -1,0 +1,300 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-02-01", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Homeland Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-02-02", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-02", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2016-04-11T15:55:00-04:00", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on Homeland Security. H. Rept. 114-481.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-11T15:55:00-04:00", 
+      "calendar": "Union", 
+      "number": "366", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 366.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2016-05-16T17:54:00-04:00", 
+      "references": [], 
+      "text": "Mr. Katko moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-16T17:54:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2413-2415", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-16T17:54:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 4407.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-16T18:03:00-04:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-16T18:51:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2416", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-16T18:57:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H2413", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "195", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 389 - 5 (Roll no. 195).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2016-05-16T18:57:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-17", 
+      "committees": [
+        "SSGA"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4407-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Homeland Security and Governmental Affairs", 
+      "committee_id": "SSGA"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "23", 
+      "name": "Hurd, Will", 
+      "sponsored_at": "2016-02-01", 
+      "state": "TX", 
+      "thomas_id": "02269", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Keating, William R.", 
+      "sponsored_at": "2016-02-01", 
+      "state": "MA", 
+      "thomas_id": "02025", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Loudermilk, Barry", 
+      "sponsored_at": "2016-02-01", 
+      "state": "GA", 
+      "thomas_id": "02238", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "McCaul, Michael T.", 
+      "sponsored_at": "2016-02-01", 
+      "state": "TX", 
+      "thomas_id": "01804", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "McSally, Martha", 
+      "sponsored_at": "2016-02-01", 
+      "state": "AZ", 
+      "thomas_id": "02225", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Payne, Donald M., Jr.", 
+      "sponsored_at": "2016-02-01", 
+      "state": "NJ", 
+      "thomas_id": "02097", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Ratcliffe, John", 
+      "sponsored_at": "2016-02-01", 
+      "state": "TX", 
+      "thomas_id": "02268", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "46", 
+      "name": "Sanchez, Loretta", 
+      "sponsored_at": "2016-02-01", 
+      "state": "CA", 
+      "thomas_id": "01522", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "34", 
+      "name": "Vela, Filemon", 
+      "sponsored_at": "2016-02-01", 
+      "state": "TX", 
+      "thomas_id": "02167", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2016-02-02", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2016-05-16T18:57:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-02-01", 
+  "number": "4407", 
+  "official_title": "To amend the Homeland Security Act of 2002 to establish in the Department of Homeland Security a board to coordinate and integrate departmental intelligence, activities, and policy related to counterterrorism, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr5471-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Counterterrorism Advisory Board Act of 2016", 
+  "sponsor": {
+    "district": "24", 
+    "name": "Katko, John", 
+    "state": "NY", 
+    "thomas_id": "02264", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2016-05-16T18:57:00-04:00", 
+  "subjects": [
+    "Department of Homeland Security", 
+    "Emergency management", 
+    "Executive agency funding and structure", 
+    "Federal officials", 
+    "Intelligence activities, surveillance, classified information", 
+    "Terrorism"
+  ], 
+  "subjects_top_term": "Emergency management", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2016-05-16", 
+    "text": "Counterterrorism Advisory Board Act of 2016\n\n(Sec. 2) This bill amends the Homeland Security Act of 2002 to establish in the Department of Homeland Security (DHS) a board to coordinate and integrate DHS's intelligence, activities, and policy related to its counterterrorism mission and functions. The board shall: (1) advise the Secretary of DHS on the issuance of terrorism alerts, and (2) meet on a regular basis to discuss intelligence and coordinate ongoing threat mitigation efforts and departmental activities.\n\nThe board's charter shall direct it to focus on the current threat environment and the importance of aligning departmental counterterrorism activities under the Secretary's guidance.\n\nThe Secretary shall appoint a Coordinator for Counterterrorism within DHS who shall serve as the chair of the board and report on its status and activities."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Counterterrorism Advisory Board Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Counterterrorism Advisory Board Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Counterterrorism Advisory Board Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Homeland Security Act of 2002 to establish in the Department of Homeland Security a board to coordinate and integrate departmental intelligence, activities, and policy related to counterterrorism, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:00:31-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4407:@@@L&summ2=m&"
+}

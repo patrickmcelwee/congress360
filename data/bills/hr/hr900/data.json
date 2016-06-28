@@ -1,0 +1,197 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-02-11", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-03-16", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Federal Lands.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr900-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Federal Lands", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Benishek, Dan", 
+      "sponsored_at": "2015-02-11", 
+      "state": "MI", 
+      "thomas_id": "02027", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Byrne, Bradley", 
+      "sponsored_at": "2015-02-17", 
+      "state": "AL", 
+      "thomas_id": "02197", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Cook, Paul", 
+      "sponsored_at": "2015-02-11", 
+      "state": "CA", 
+      "thomas_id": "02103", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Duncan, Jeff", 
+      "sponsored_at": "2015-03-18", 
+      "state": "SC", 
+      "thomas_id": "02057", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Gosar, Paul A.", 
+      "sponsored_at": "2015-02-11", 
+      "state": "AZ", 
+      "thomas_id": "01992", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Hice, Jody B.", 
+      "sponsored_at": "2016-02-25", 
+      "state": "GA", 
+      "thomas_id": "02237", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "LaMalfa, Doug", 
+      "sponsored_at": "2015-02-11", 
+      "state": "CA", 
+      "thomas_id": "02100", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Love, Mia B.", 
+      "sponsored_at": "2015-02-24", 
+      "state": "UT", 
+      "thomas_id": "02271", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Pearce, Stevan", 
+      "sponsored_at": "2015-02-11", 
+      "state": "NM", 
+      "thomas_id": "01738", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Radewagen, Aumua Amata Coleman", 
+      "sponsored_at": "2015-02-11", 
+      "state": "AS", 
+      "thomas_id": "02222", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-02-11", 
+  "number": "900", 
+  "official_title": "To amend title 54, United States Code, to provide for congressional and State approval of national monuments and restrictions on the use of national monuments.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s228-114", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "National Monument Designation Transparency and Accountability Act of 2015", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Labrador, Raul R.", 
+    "state": "ID", 
+    "thomas_id": "02011", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-02-11", 
+  "subjects": [
+    "Congressional oversight", 
+    "Environmental assessment, monitoring, research", 
+    "Land use and conservation", 
+    "Monuments and memorials", 
+    "Parks, recreation areas, trails", 
+    "Presidents and presidential powers, Vice Presidents", 
+    "Public lands and natural resources", 
+    "Wilderness and natural areas, wildlife refuges, wild rivers, habitats"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-02-11", 
+    "text": "National Monument Designation Transparency and Accountability Act of 2015\n\nThis bill requires the President, before a national monument can be designated on public land, to obtain congressional approval, certify compliance with the National Environmental Policy Act of 1969, and determine that the state in which the monument is to be located has enacted legislation approving its designation.\n\nThe Department of the Interior may not implement restrictions on the public use of a national monument until the expiration of an appropriate review period providing for public input and congressional approval."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "National Monument Designation Transparency and Accountability Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 54, United States Code, to provide for congressional and State approval of national monuments and restrictions on the use of national monuments.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:30:47-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR900:@@@L&summ2=m&"
+}

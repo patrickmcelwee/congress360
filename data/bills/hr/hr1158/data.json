@@ -1,0 +1,341 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-02-27", 
+      "committees": [
+        "HSSY"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Science, Space, and Technology.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-03-04", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-03-04", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2015-05-19T17:54:00-04:00", 
+      "committees": [
+        "HSSY"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 114-124.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-05-19T17:54:00-04:00", 
+      "calendar": "Union", 
+      "number": "89", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 89.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2015-05-19T18:33:00-04:00", 
+      "references": [], 
+      "text": "Mr. Smith (TX) moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-05-19T18:33:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3373-3377", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-05-19T18:33:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1158.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-05-19T18:52:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H3373-3374", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2015-05-19T18:52:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-05-20", 
+      "committees": [
+        "SSEG"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1158-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Science, Space, and Technology", 
+      "committee_id": "HSSY"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Energy and Natural Resources", 
+      "committee_id": "SSEG"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "5", 
+      "name": "Esty, Elizabeth H.", 
+      "sponsored_at": "2015-03-04", 
+      "state": "CT", 
+      "thomas_id": "02114", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Fattah, Chaka", 
+      "sponsored_at": "2015-02-27", 
+      "state": "PA", 
+      "thomas_id": "00371", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Gibson, Christopher P.", 
+      "sponsored_at": "2015-05-18", 
+      "state": "NY", 
+      "thomas_id": "02043", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "30", 
+      "name": "Johnson, Eddie Bernice", 
+      "sponsored_at": "2015-02-27", 
+      "state": "TX", 
+      "thomas_id": "00599", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Lipinski, Daniel", 
+      "sponsored_at": "2015-02-27", 
+      "state": "IL", 
+      "thomas_id": "01781", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Lujan, Ben Ray", 
+      "sponsored_at": "2015-02-27", 
+      "state": "NM", 
+      "thomas_id": "01939", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Neugebauer, Randy", 
+      "sponsored_at": "2015-02-27", 
+      "state": "TX", 
+      "thomas_id": "01758", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Newhouse, Dan", 
+      "sponsored_at": "2015-02-27", 
+      "state": "WA", 
+      "thomas_id": "02275", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Perlmutter, Ed", 
+      "sponsored_at": "2015-02-27", 
+      "state": "CO", 
+      "thomas_id": "01835", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "48", 
+      "name": "Rohrabacher, Dana", 
+      "sponsored_at": "2015-02-27", 
+      "state": "CA", 
+      "thomas_id": "00979", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "Smith, Lamar", 
+      "sponsored_at": "2015-02-27", 
+      "state": "TX", 
+      "thomas_id": "01075", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Swalwell, Eric", 
+      "sponsored_at": "2015-02-27", 
+      "state": "CA", 
+      "thomas_id": "02104", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Weber, Randy K., Sr.", 
+      "sponsored_at": "2015-02-27", 
+      "state": "TX", 
+      "thomas_id": "02161", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-03-04", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2015-05-19T18:52:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-02-27", 
+  "number": "1158", 
+  "official_title": "To improve management of the National Laboratories, enhance technology commercialization, facilitate public-private partnerships, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr1806-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s1187-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s1363-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Department of Energy Laboratory Modernization and Technology Transfer Act of 2015", 
+  "sponsor": {
+    "district": "14", 
+    "name": "Hultgren, Randy", 
+    "state": "IL", 
+    "thomas_id": "02015", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2015-05-19T18:52:00-04:00", 
+  "subjects": [
+    "Advanced technology and technological innovations", 
+    "Congressional oversight", 
+    "Department of Energy", 
+    "Education programs funding", 
+    "Energy", 
+    "Energy research", 
+    "Executive agency funding and structure", 
+    "Federal officials", 
+    "Government studies and investigations", 
+    "Higher education", 
+    "Intellectual property", 
+    "Nuclear power", 
+    "Performance measurement", 
+    "Public contracts and procurement", 
+    "Public-private cooperation", 
+    "Research administration and funding", 
+    "Research and development", 
+    "Small business", 
+    "Technology transfer and commercialization"
+  ], 
+  "subjects_top_term": "Energy", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2015-05-19", 
+    "text": "Department of Energy Laboratory Modernization and Technology Transfer Act of 2015\n\nTITLE I--INNOVATION MANAGEMENT AT DEPARTMENT OF ENERGY\n\n(Sec. 101) Directs the Department of Energy (DOE) to: (1) report annually on its ability to improve the technology transfer and commercialization of energy technologies, including an assessment of the role and effectiveness of the Director of the Office of Technology Transitions; and (2) recommend changes to improve the ability to successfully transfer new energy technologies to the private sector.\n\n (Sec. 102) Expresses the sense of Congress that DOE should encourage the nonmilitary national laboratories (national laboratories) and federally funded research and development centers to inform small businesses of the opportunities and resources that exist pursuant to this Act.\n\n(Sec. 103) Requires DOE to report on its capabilities to authorize, host, and oversee privately funded fusion and non-light water reactor prototypes and related demonstration facilities at DOE-owned sites. Instructs DOE, for purposes of such report, to consider DOE's capabilities to facilitate privately-funded prototypes of up to 20 megawatts thermal output.\n\nTITLE II--CROSS-SECTOR PARTNERSHIPS AND GRANT COMPETITIVENESS\n\n (Sec. 201) Directs DOE to carry out the Agreements for Commercializing Technology pilot program in accordance with this Act, including by giving the contractors of the DOE nonmilitary national laboratories increased authority to negotiate contract terms and making every such facility eligible for the program.\n\nPermits the directors of the national laboratories to execute agreements with non-federal entities, provided that such funding is only used to carry out the purposes of the federal award. Subjects agreements that are funding agreements to the requirements of the Bayh-Dole Act (concerning patent rights to inventions arising from federally-supported research and development).\n\n Imposes contractor certification requirements for the avoidance of direct competition with the private sector and conflicts of interest.\n\nExtends the pilot program until October 31, 2017.\n\nRequires DOE to report to Congress on the overall effectiveness of the pilot program and to annually account for, and justify, incidences of use by non-federal entities of funds derived from a federal contract or award to carry out agreements pursuant to the pilot program.\n\n(Sec. 202) Requires DOE to delegate to the directors of the national laboratories signature authority with respect to certain agreements the total cost of which is less than $1 million, if such an agreement falls within the scope of: (1) a strategic plan for the national laboratory that has been approved by DOE; or (2) the most recent congressionally approved budget for DOE activities to be carried out by that laboratory.\n\nMakes this section inapplicable to any agreement with a majority foreign-owned company.\n\n(Sec. 203) Permits the directors of national laboratories to use funds authorized to support technology transfer within DOE to carry out early-stage and pre-commercial technology demonstration activities to: (1) remove technology barriers that limit private sector interest, and (2) demonstrate potential commercial applications of any research and technologies arising from national laboratory activities.\n\n(Sec. 204) Amends the Energy Policy Act of 2005 to exempt institutions of higher education and nonprofit institutions from the cost-sharing requirements for research and development for six years.\n\n(Sec. 205) Authorizes DOE to enter into an agreement with the National Science Foundation to enable the participation of DOE researchers in the National Science Foundation Innovation Corps program.\n\nTITLE III--ASSESSMENT OF IMPACT\n\n (Sec. 301) Requires the Government Accountability Office to report to Congress on the results of projects developed under this Act and on the impact of DOE efforts to promote technology transfer and private sector engagement at the national laboratories."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Department of Energy Laboratory Modernization and Technology Transfer Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Department of Energy Laboratory Modernization and Technology Transfer Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Department of Energy Laboratory Modernization and Technology Transfer Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To improve management of the National Laboratories, enhance technology commercialization, facilitate public-private partnerships, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:32:59-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR1158:@@@L&summ2=m&"
+}

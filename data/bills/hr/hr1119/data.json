@@ -1,0 +1,233 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-02-26", 
+      "committees": [
+        "HSSY"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Science, Space, and Technology.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-03-04", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-03-04", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2015-05-19T17:51:00-04:00", 
+      "committees": [
+        "HSSY"
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on Science, Space, and Technology. H. Rept. 114-121.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-05-19T17:52:00-04:00", 
+      "calendar": "Union", 
+      "number": "86", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 86.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2015-05-19T17:57:00-04:00", 
+      "references": [], 
+      "text": "Mr. Smith (TX) moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-05-19T17:58:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3365-3366", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-05-19T17:58:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1119.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-05-19T18:06:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H3365", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2015-05-19T18:06:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-05-20", 
+      "committees": [
+        "SSCM"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1119-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Science, Space, and Technology", 
+      "committee_id": "HSSY"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Commerce, Science, and Transportation", 
+      "committee_id": "SSCM"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "30", 
+      "name": "Johnson, Eddie Bernice", 
+      "sponsored_at": "2015-02-26", 
+      "state": "TX", 
+      "thomas_id": "00599", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Lipinski, Daniel", 
+      "sponsored_at": "2015-02-26", 
+      "state": "IL", 
+      "thomas_id": "01781", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "Smith, Lamar", 
+      "sponsored_at": "2015-02-26", 
+      "state": "TX", 
+      "thomas_id": "01075", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-03-04", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2015-05-19T18:06:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-02-26", 
+  "number": "1119", 
+  "official_title": "To improve the efficiency of Federal research and development, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr1806-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Research and Development Efficiency Act", 
+  "sponsor": {
+    "district": "10", 
+    "name": "Comstock, Barbara", 
+    "state": "VA", 
+    "thomas_id": "02273", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2015-05-19T18:06:00-04:00", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Advisory bodies", 
+    "Congressional oversight", 
+    "Executive agency funding and structure", 
+    "Government information and archives", 
+    "Government studies and investigations", 
+    "Higher education", 
+    "Office of Science and Technology Policy", 
+    "Research administration and funding", 
+    "Research and development", 
+    "Science, technology, communications"
+  ], 
+  "subjects_top_term": "Science, technology, communications", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2015-05-19", 
+    "text": "Research and Development Efficiency Act\n\n Requires the Office of Science and Technology Policy (OSTP) to establish a working group under the authority of the National Science and Technology Council, to include the Office of Management and Budget, to be responsible for reviewing federal regulations affecting research and research universities and making recommendations on how to: (1) harmonize, streamline, and eliminate duplicative federal regulations and reporting requirements; (2) minimize the regulatory burden on U.S. institutions of higher education performing federally funded research while maintaining accountability for federal tax dollars; and (3) identify and update specific regulations to refocus on performance-based goals rather than on process while still meeting the desired outcome.\n\nInstructs the working group to take into account input and recommendations from non-federal stakeholders, including researchers, institutions of higher education, industry, and others with a stake in ensuring effectiveness, efficiency, and accountability in the performance of scientific research.\n\nRequires OSTP to report to Congress annually on the steps taken to carry out the working group's recommendations."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Research and Development Efficiency Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Research and Development Efficiency Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Research and Development Efficiency Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To improve the efficiency of Federal research and development, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:32:37-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR1119:@@@L&summ2=m&"
+}

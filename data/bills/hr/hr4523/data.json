@@ -1,0 +1,151 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-02-10", 
+      "committees": [
+        "HSAS"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Armed Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-03-04", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Military Personnel.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4523-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS", 
+      "subcommittee": "Subcommittee on Military Personnel", 
+      "subcommittee_id": "02"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "3", 
+      "name": "Chaffetz, Jason", 
+      "sponsored_at": "2016-02-24", 
+      "state": "UT", 
+      "thomas_id": "01956", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "DeFazio, Peter A.", 
+      "sponsored_at": "2016-02-10", 
+      "state": "OR", 
+      "thomas_id": "00279", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "DeSaulnier, Mark", 
+      "sponsored_at": "2016-04-14", 
+      "state": "CA", 
+      "thomas_id": "02227", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Polis, Jared", 
+      "sponsored_at": "2016-02-10", 
+      "state": "CO", 
+      "thomas_id": "01910", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "48", 
+      "name": "Rohrabacher, Dana", 
+      "sponsored_at": "2016-02-10", 
+      "state": "CA", 
+      "thomas_id": "00979", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Upton, Fred", 
+      "sponsored_at": "2016-04-15", 
+      "state": "MI", 
+      "thomas_id": "01177", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-02-10", 
+  "number": "4523", 
+  "official_title": "To repeal the Military Selective Service Act, and thereby terminate the registration requirements of such Act and eliminate civilian local boards, civilian appeal boards, and similar local agencies of the Selective Service System.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s3041-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "6", 
+    "name": "Coffman, Mike", 
+    "state": "CO", 
+    "thomas_id": "01912", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-02-10", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Employment discrimination and employee rights", 
+    "Military personnel and dependents", 
+    "Selective Service System"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2016-02-10", 
+    "text": "This bill repeals The Military Selective Service Act.\n\nNo person may be denied a right, privilege, benefit, or employment position under federal law on the grounds that the person failed to present himself for and submit to registration under the Military Selective Service Act before its repeal by this Act."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To repeal the Military Selective Service Act, and thereby terminate the registration requirements of such Act and eliminate civilian local boards, civilian appeal boards, and similar local agencies of the Selective Service System.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:01:29-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4523:@@@L&summ2=m&"
+}

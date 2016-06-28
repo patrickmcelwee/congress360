@@ -1,0 +1,258 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-06-15", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Homeland Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-06-23", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Border and Maritime Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-06-23", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Transportation Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-06-25", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-06-25", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2015-07-28T14:22:00-04:00", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on Homeland Security. H. Rept. 114-233.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-28T14:22:00-04:00", 
+      "calendar": "Union", 
+      "number": "176", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 176.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2015-09-28T17:09:00-04:00", 
+      "references": [], 
+      "text": "Ms. McSally moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-28T17:09:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6284-6285", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-28T17:09:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 2786.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-28T17:15:00-04:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-28T18:56:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6291", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-28T19:05:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H6284", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "520", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 412 - 0 (Roll no. 520).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2015-09-28T19:05:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-29", 
+      "committees": [
+        "SSGA"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2786-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM", 
+      "subcommittee": "Subcommittee on Border and Maritime Security", 
+      "subcommittee_id": "11"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM", 
+      "subcommittee": "Subcommittee on Transportation Security", 
+      "subcommittee_id": "07"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Homeland Security and Governmental Affairs", 
+      "committee_id": "SSGA"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "10", 
+      "name": "Miller, Candice S.", 
+      "sponsored_at": "2015-06-15", 
+      "state": "MI", 
+      "thomas_id": "01731", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-06-25", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2015-09-28T19:05:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-06-15", 
+  "number": "2786", 
+  "official_title": "To require the Commissioner of U.S. Customs and Border Protection to submit a report on cross-border rail security, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Cross-Border Rail Security Act of 2015", 
+  "sponsor": {
+    "district": "34", 
+    "name": "Vela, Filemon", 
+    "state": "TX", 
+    "thomas_id": "02167", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2015-09-28T19:05:00-04:00", 
+  "subjects": [
+    "Canada", 
+    "Congressional oversight", 
+    "Customs enforcement", 
+    "Government studies and investigations", 
+    "Latin America", 
+    "Mexico", 
+    "Radiation", 
+    "Railroads", 
+    "Transportation and public works", 
+    "Transportation safety and security"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2015-09-28", 
+    "text": "(This measure has not been amended since it was introduced. The expanded summary of the House reported version is repeated here.)\n\nCross-Border Rail Security Act of 2015\n\n(Sec. 2) This bill directs the U.S. Customs and Border Protection (CBP) to report to Congress on:\n\n the number of high-risk rail shipments annually entering the United States; the status of radiation detection units at each rail crossing on the northern and southern land borders of the United States; an assessment of whether additional radiation detection equipment is necessary to ensure that all high-risk cross-border rail shipments are examined with appropriate equipment; and a plan for ensuring that all relevant CBP personnel receive adequate training and guidance on the proper use of CBP's Automated Targeting System for such shipments, the use of appropriate radiation detection equipment for shipment examination, and requirements for recording examination results. The General Accountability Office shall periodically audit CBP operations at rail crossings on such borders to ensure that rail shipments are targeted and examined and that the examination results are properly documented."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Cross-Border Rail Security Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Cross-Border Rail Security Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Cross-Border Rail Security Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require the Commissioner of U.S. Customs and Border Protection to submit a report on cross-border rail security, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:46:58-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2786:@@@L&summ2=m&"
+}

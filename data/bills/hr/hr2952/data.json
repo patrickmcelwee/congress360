@@ -1,0 +1,113 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-07-07", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-07-10", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Human Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-05-24", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-24", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 23 - 12.", 
+      "type": "calendar"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2952-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM", 
+      "subcommittee": "Subcommittee on Human Resources", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2016-05-24", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-07-07", 
+  "number": "2952", 
+  "official_title": "To provide payments to States for increasing the employment, job retention, and earnings of former TANF recipients.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Improving Employment Outcomes of TANF Recipients Act", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Boustany, Charles W., Jr.", 
+    "state": "LA", 
+    "thomas_id": "01787", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2016-05-24", 
+  "subjects": [
+    "Employee hiring", 
+    "Performance measurement", 
+    "Poverty and welfare assistance", 
+    "Social welfare"
+  ], 
+  "subjects_top_term": "Social welfare", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-07-07", 
+    "text": "Improving Employment Outcomes of TANF Recipients Act\n\nThis bill amends part A (Temporary Assistance for Needy Families) (TANF) of title IV of the Social Security Act to replace the current program of bonus grants for high performing states with a program requiring the Department of Health and Human Services (HHS) to make a grant to a state for each fiscal year that it achieves a requisite level of performance, under an agreement with HHS, indicated by the percentage of former TANF recipients who are in unsubsidized employment after exiting the TANF program."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Improving Employment Outcomes of TANF Recipients Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide payments to States for increasing the employment, job retention, and earnings of former TANF recipients.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:48:22-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2952:@@@L&summ2=m&"
+}

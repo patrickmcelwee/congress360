@@ -1,0 +1,216 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-06-16", 
+      "references": [], 
+      "text": "Hearings Held by the Subcommittee on Capital Markets and Government Sponsored Enterprises Prior to Introduction and Referral.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-11-02", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Financial Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-11-04", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-11-04", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 53 - 4.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2016-04-19T14:25:00-04:00", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Financial Services. H. Rept. 114-508.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-19T14:25:00-04:00", 
+      "calendar": "Union", 
+      "number": "388", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 388.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2016-05-19", 
+      "committee": "Committee on Banking, Housing, and Urban Affairs Subcommittee on Securities, Insurance, and Investment", 
+      "committees": [
+        "SSBK"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee on Banking, Housing, and Urban Affairs Subcommittee on Securities, Insurance, and Investment. Hearings held.", 
+      "type": "hearings"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3868-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }, 
+    {
+      "activity": [
+        "hearings"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA", 
+      "subcommittee": "Subcommittee on Capital Markets and Government Sponsored Enterprises", 
+      "subcommittee_id": "16"
+    }, 
+    {
+      "activity": [
+        "hearings"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA", 
+      "subcommittee": "Subcommittee on Securities, Insurance, and Investment"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "10", 
+      "name": "Dold, Robert J.", 
+      "sponsored_at": "2015-12-07", 
+      "state": "IL", 
+      "thomas_id": "02013", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Kildee, Daniel T.", 
+      "sponsored_at": "2015-11-04", 
+      "state": "MI", 
+      "thomas_id": "02134", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Pittenger, Robert", 
+      "sponsored_at": "2015-11-04", 
+      "state": "NC", 
+      "thomas_id": "02141", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Schweikert, David", 
+      "sponsored_at": "2015-11-04", 
+      "state": "AZ", 
+      "thomas_id": "01994", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "30", 
+      "name": "Sherman, Brad", 
+      "sponsored_at": "2015-11-04", 
+      "state": "CA", 
+      "thomas_id": "01526", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Stivers, Steve", 
+      "sponsored_at": "2015-11-04", 
+      "state": "OH", 
+      "thomas_id": "02047", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-11-04", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-11-02", 
+  "number": "3868", 
+  "official_title": "To amend the Investment Company Act of 1940 to remove certain restrictions on the ability of business development companies to own securities of investment advisers and certain financial companies, to change certain requirements relating to the capital structure of business development companies, to direct the Securities and Exchange Commission to revise certain rules relating to business development companies, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Small Business Credit Availability Act", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Mulvaney, Mick", 
+    "state": "SC", 
+    "thomas_id": "02059", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2015-11-04", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Banking and financial institutions regulation", 
+    "Business investment and capital", 
+    "Business records", 
+    "Finance and financial sector", 
+    "Financial services and investments", 
+    "Licensing and registrations", 
+    "Securities", 
+    "Securities and Exchange Commission (SEC)"
+  ], 
+  "subjects_top_term": "Finance and financial sector", 
+  "summary": {
+    "as": "Reported to House amended", 
+    "date": "2016-04-19", 
+    "text": "Small Business Credit Availability Act\n\n(Sec. 2) This bill directs the Securities and Exchange Commission (SEC) to promulgate regulations that codify a specified order in Investment Company Act Release No. 30024, dated March 30, 2012.\n\nUnder Investment Company Act Release No. 30024 the SEC permitted the Ares Capital Corporation to: continue to own (directly or indirectly) up to 100% of the outstanding equity interests of Ivy Hill ll Asset Management, L.P.; and make additional investments in Ivy Hill, in each case, following the time Ivy Hill shall be required to become a registered investment adviser under the Investment Advisers Act of 1940. The bill entitles a business development company (BDC) to treat such regulations as having been completed if the SEC fails to complete the regulations required by this bill.\n\nThe bill further states, however, that nothing in it shall prevent the SEC from issuing rules that address potential conflicts of interest between BDCs and investment advisers.\n\nThe Investment Company Act of 1940 is amended to deem certain securities to be permissible BDC assets to the extent necessary for the sum of permissible assets to equal 70% of the value of a BDC's total assets (excluding specified noninvestment assets) if the aggregate value of such securities does not exceed 20% of the value of the BDC's total assets.\n\n(Sec. 3) The asset coverage requirements of registered closed-end companies also applicable to BDCs shall be reduced from 200% to 150% if the BDC makes certain disclosures on its website, and its directors or general partners approve of the modified requirements.\n\n(A registered closed-end investment company may not issue, or sell, any class of senior security unless it represents an indebtedness and, immediately after the issuance or sale, it will have an asset coverage of at least 300%. This asset coverage requirement currently is reduced to 200% for most BDCs.) As an additional requirement, a BDC that issues equity securities that are not registered on a national securities exchange (non-traded BDC) must extend, to each shareholder as of the date of the approval, an offer to repurchase the shareholder's equity securities, with 25% of them to be repurchased in each of the four quarters following the approval date. In the alternative, the non-traded BDC shall obtain, at a special or annual meeting of shareholders or partners at which a quorum is present, the approval of the 150% reduction in requirements by more than 50% of the votes cast. A BDC may issue more than one class of senior security which is stock but only if it is issued to and held by a qualified institutional buyer.\n\n(Sec. 4) The SEC must revise various rules under the Securities Act of 1933, and related forms, so as to allow a BDC to use security offering rules (such as those enabling a registrant to be a Well Known Seasoned Issuer, use shelf offerings, and communicate directly with shareholders) which are available to other issuers who are required to file security issuance reports under the Securities Exchange Act of 1934.\n\nShould the SEC fail to complete such revisions in timely fashion, a BDC shall be entitled to treat those revisions as having been completed in accordance with the timetable set forth in this bill until the SEC does complete them."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Small Business Credit Availability Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Small Business Credit Availability Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Investment Company Act of 1940 to remove certain restrictions on the ability of business development companies to own securities of investment advisers and certain financial companies, to change certain requirements relating to the capital structure of business development companies, to direct the Securities and Exchange Commission to revise certain rules relating to business development companies, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:56:00-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3868:@@@L&summ2=m&"
+}

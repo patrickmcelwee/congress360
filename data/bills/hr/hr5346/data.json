@@ -1,0 +1,175 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-05-26", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Homeland Security, and in addition to the Committees on Energy and Commerce, and Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-05-26", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "text": "Referred to House Homeland Security", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-05-26", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "text": "Referred to House Energy and Commerce", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-05-26", 
+      "committees": [
+        "HSAG"
+      ], 
+      "references": [], 
+      "text": "Referred to House Agriculture", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-06-03", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Emergency Preparedness, Response and Communications.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-06-10", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Biotechnology, Horticulture, and Research.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-06-16", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-16", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5346-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM", 
+      "subcommittee": "Subcommittee on Emergency Preparedness, Response, and Communications", 
+      "subcommittee_id": "12"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Agriculture", 
+      "committee_id": "HSAG"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Agriculture", 
+      "committee_id": "HSAG", 
+      "subcommittee": "Subcommittee on Biotechnology, Horticulture, and Research", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "11", 
+      "name": "Donovan, Daniel M., Jr.", 
+      "sponsored_at": "2016-06-13", 
+      "state": "NY", 
+      "thomas_id": "02293", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2016-06-16", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-05-26", 
+  "number": "5346", 
+  "official_title": "To amend the Homeland Security Act of 2002 to make the Assistant Secretary of Homeland Security for Health Affairs responsible for coordinating the efforts of the Department of Homeland Security related to food, agriculture, and veterinary defense against terrorism, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Securing our Agriculture and Food Act", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Young, David", 
+    "state": "IA", 
+    "thomas_id": "02242", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-05-26", 
+  "subjects": [
+    "Emergency management"
+  ], 
+  "subjects_top_term": "Emergency management", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Securing our Agriculture and Food Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Homeland Security Act of 2002 to make the Assistant Secretary of Homeland Security for Health Affairs responsible for coordinating the efforts of the Department of Homeland Security related to food, agriculture, and veterinary defense against terrorism, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:08:23-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR5346:@@@L&summ2=m&"
+}

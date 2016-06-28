@@ -1,0 +1,293 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-04-17", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Ways and Means, and in addition to the Committees on Energy and Commerce, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-04-17", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "text": "Referred to House Ways and Means", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-04-17", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "text": "Referred to House Energy and Commerce", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-04-17", 
+      "committees": [
+        "HSBU"
+      ], 
+      "references": [], 
+      "text": "Referred to House Budget", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-04-21", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Trade.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-04-23", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-04-23", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported Without Recommendation (Amended).", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2015-04-24", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-05-08T14:08:00-04:00", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-108, Part I.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-05-08T14:09:00-04:00", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "text": "Committee on Energy and Commerce discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-05-08T14:09:00-04:00", 
+      "committees": [
+        "HSBU"
+      ], 
+      "references": [], 
+      "text": "Committee on the Budget discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-05-08T14:09:00-04:00", 
+      "calendar": "Union", 
+      "number": "76", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 76.", 
+      "type": "calendar", 
+      "under": null
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1892-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM", 
+      "subcommittee": "Subcommittee on Trade", 
+      "subcommittee_id": "04"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Budget", 
+      "committee_id": "HSBU"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "7", 
+      "name": "Meehan, Patrick", 
+      "sponsored_at": "2015-04-17", 
+      "state": "PA", 
+      "thomas_id": "02052", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "23", 
+      "name": "Reed, Tom", 
+      "sponsored_at": "2015-04-17", 
+      "state": "NY", 
+      "thomas_id": "01982", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-04-23", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-04-17", 
+  "number": "1892", 
+  "official_title": "To extend the trade adjustment assistance program, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr1088-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr1314-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s505-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s568-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s1003-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s1005-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s1268-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s1295-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Trade Adjustment Assistance Reauthorization Act of 2015", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Reichert, David G.", 
+    "state": "WA", 
+    "thomas_id": "01810", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2015-04-23", 
+  "subjects": [
+    "Administrative remedies", 
+    "Corporate finance and management", 
+    "Customs enforcement", 
+    "Digestive and metabolic diseases", 
+    "Employee benefits and pensions", 
+    "Employment and training programs", 
+    "Foreign trade and international finance", 
+    "Government information and archives", 
+    "Health care costs and insurance", 
+    "Health care coverage and access", 
+    "Higher education", 
+    "Income tax credits", 
+    "Income tax exclusion", 
+    "Licensing and registrations", 
+    "Medicare", 
+    "Performance measurement", 
+    "Tax administration and collection, taxpayers", 
+    "Tax treatment of families", 
+    "Taxation of foreign income", 
+    "Trade adjustment assistance", 
+    "Unemployment", 
+    "User charges and fees"
+  ], 
+  "subjects_top_term": "Foreign trade and international finance", 
+  "summary": {
+    "as": "Reported to House amended, Part I", 
+    "date": "2015-05-08", 
+    "text": "Trade Adjustment Assistance Reauthorization Act of 2015\n\n(Sec. 2) Amends the Trade Adjustment Assistance Extension Act of 2011 to repeal the declaration that trade adjustment assistance (TAA) program requirements in effect as of February 13, 2011, under the Trade Act of 1974 shall apply to petitions for certification to apply for TAA for workers, firms, and farmers that are filed before January 1, 2014.\n\n(Sec. 3) Amends the Trade Act of 1974 to extend through June 30, 2021:\n\n the TAA program, and the reemployment trade adjustment assistance (RTAA) program. Makes funds available for FY2015-FY2021 for training of adversely affected workers as well as (through June 30, 2021) reemployment and case management services.\n\nReauthorizes appropriations:\n\n through June 30, 2021, for the TAA program for workers; and for FY2015-FY2021 for the TAA program for firms and farmers. (Sec. 4) Revises and replaces core indicators of performance with primary indicators of performance. Adds among other factors the percentage and number of workers receiving TAA benefits who are in:\n\n unsubsidized employment, and an education or training program that leads to a recognized postsecondary schooling credential or employment and who are achieving measurable gains in skills toward that credential or employment. Revises and adds to elements of mandatory reporting of data on training:\n\n the average cost per workers of receiving training, and the percentage of workers who received training as well as obtained unsubsidized employment related to it. (Sec. 5) Specifies criteria the Department of Labor must use to determine the eligibility of workers to apply for TAA if no determination has been made, upon enactment of this Act, as to whether to certify a group of workers or firms as eligible pursuant to a petition filed between January 1, 2014, and enactment of this Act. Requires the Department to reconsider any determination made before enactment of this Act not to certify such workers or firms, and to certify them as eligible if they meet the specified requirements.\n\n(Sec. 6) Increases from 52 to 65 additional weeks of TAA payments in a 78-week period the length of additional time permissible to complete training.\n\n(Sec. 7) Amends the Internal Revenue Code to extend the tax credit for health insurance costs of a taxpayer and qualifying family members through 2020. The tax credit for health insurance costs is a refundable tax credit equal to 72.5% of the cost of qualified health coverage paid by an eligible individual (defined as an individual who is receiving a trade adjustment allowance, is eligible for the alternative trade adjustment assistance program, or is over age 55 and receives pension benefits from the Pension Benefit Guaranty Corporation [PBGC]).\n\nRequires a taxpayer to elect to have the tax credit apply for any eligible coverage month during a taxable year (a month in which an eligible individual is covered by qualified health insurance, does not have other specified coverage, and is not imprisoned).\n\nDirects the Departments of the Treasury, of Health and Human Services (HHS), and of Labor and the PBGC to conduct a public outreach, including on the Internet, to inform individuals eligible for the tax credit for health insurance costs on the extension of such credit and the availability of the election to claim such credit retroactively for coverage months beginning after December 31, 2013.\n\n(Sec. 8) Amends the Consolidated Omnibus Budget Reconciliation Act of 1985 (COBRA) to extend the charging of specified customs user fees through FY2025.\n\nAmends the United States-Korea Free Trade Agreement Implementation Act to increase from 0.21% ad valorem to 0.3464% ad valorem, for the period between July 15, 2025, and September 30, 2025, the customs user fees for the processing of merchandise formally entered or released into the United States.\n\n(Sec. 9) Amends the Internal Revenue Code to declare that the requirement making a portion of the child care expense tax credit refundable shall not apply to a taxpayer that elects to exclude foreign earned income from gross income.\n\n(Sec. 10) Increases by 2.75% the required estimated income tax payments otherwise due in the third quarter of 2020 for corporations with assets of at least $1 billion. Requires the next required installment to be appropriately reduced to reflect the amount of this increase.\n\n(Sec. 11) Amends title XVIII (Medicare) of the Social Security Act to require Medicare payment of renal dialysis services furnished on or after January 1, 2017, by a renal dialysis facility or provider of services paid to an individual with an acute kidney injury. Requires this payment to be adjusted by any applicable geographical adjustment factor, and allows HHS to adjust it also by any other adjustment factor.\n\n(Sec. 12) Amends the Balanced Budget and Emergency Deficit Control Act of 1985 (Gramm-Rudman-Hollings Act), with respect to the implementation of direct spending reductions, to require the President to order a sequestration for FY2024 that increases from 0.0% to 0.25% the reduction of Medicare payments for the second six months of the order."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Trade Adjustment Assistance Act (TAA), and for other purposes of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Trade Adjustment Assistance Reauthorization Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To extend the trade adjustment assistance program, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:39:19-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR1892:@@@L&summ2=m&"
+}

@@ -1,0 +1,112 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-04-21", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-05-17", 
+      "committees": [
+        "HSHM"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5042-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Crime, Terrorism, Homeland Security, and Investigations", 
+      "subcommittee_id": "08"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "12", 
+      "name": "Dingell, Debbie", 
+      "sponsored_at": "2016-04-21", 
+      "state": "MI", 
+      "thomas_id": "02251", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-04-21", 
+  "number": "5042", 
+  "official_title": "To require the Director of the Bureau of Prisons to be appointed by and with the advice and consent of the Senate.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2459-114", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Federal Prisons Accountability Act of 2016", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Walberg, Tim", 
+    "state": "MI", 
+    "thomas_id": "01855", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-04-21", 
+  "subjects": [
+    "Crime and law enforcement"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2016-04-21", 
+    "text": "Federal Prisons Accountability Act of 2016\n\nThis bill amends the federal criminal code to require the Director of the Bureau of Prisons (BOP) to be appointed by the President and confirmed by the Senate. Currently, the Director is appointed by the Attorney General.\n\nIt also limits the BOP Director to a single term of 10 years.\n\n The incumbent Director may continue to serve for three months after the date of enactment. The President may appoint that individual to be the Director in accordance with the requirements of this Act."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Federal Prisons Accountability Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require the Director of the Bureau of Prisons to be appointed by and with the advice and consent of the Senate.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:05:50-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR5042:@@@L&summ2=m&"
+}

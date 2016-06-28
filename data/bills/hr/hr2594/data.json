@@ -1,0 +1,115 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-06-01", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Transportation and Infrastructure.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-06-02", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2594-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Economic Development, Public Buildings and Emergency Management", 
+      "subcommittee_id": "13"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "11", 
+      "name": "Donovan, Daniel M., Jr.", 
+      "sponsored_at": "2015-06-16", 
+      "state": "NY", 
+      "thomas_id": "02293", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Smith, Christopher H.", 
+      "sponsored_at": "2015-06-15", 
+      "state": "NJ", 
+      "thomas_id": "01071", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-06-01", 
+  "number": "2594", 
+  "official_title": "To amend the Robert T. Stafford Disaster Relief and Emergency Assistance Act to ensure that the receipt of certain loans provided by the Small Business Administration does not violate the prohibition against receiving duplicative financial assistance in the case of a disaster.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Disaster Survivor Benefit Clarification Act of 2015", 
+  "sponsor": {
+    "district": "3", 
+    "name": "MacArthur, Thomas", 
+    "state": "NJ", 
+    "thomas_id": "02258", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-06-01", 
+  "subjects": [
+    "Disaster relief and insurance", 
+    "Emergency management", 
+    "Government lending and loan guarantees", 
+    "Small business"
+  ], 
+  "subjects_top_term": "Emergency management", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-06-01", 
+    "text": "Disaster Survivor Benefit Clarification Act of 2015\n\nExpresses the sense of Congress that disaster loans made by the Small Business Administration (SBA) that carry interest and must be repaid should not be considered the same type of benefit as a grant from the Federal Emergency Management Agency for purposes of calculating duplication of benefits under the Robert T. Stafford Disaster Relief and Emergency Assistance Act.\n\nAmends the Stafford Act to provide that an SBA disaster loan made on or after January 1, 2012, shall not be considered financial assistance for purposes of the prohibition on receiving duplicative disaster assistance if: (1) such loan has been repaid in full; or (2) the borrower is making the required payments on time. Deems the borrower of any such loan made by the date of this Act's enactment for which the borrower was not making the required payments on time to be compliant with this Act if, within 60 days, the borrower becomes current on the loan payments."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Disaster Survivor Benefit Clarification Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Robert T. Stafford Disaster Relief and Emergency Assistance Act to ensure that the receipt of certain loans provided by the Small Business Administration does not violate the prohibition against receiving duplicative financial assistance in the case of a disaster.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:45:21-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2594:@@@L&summ2=m&"
+}

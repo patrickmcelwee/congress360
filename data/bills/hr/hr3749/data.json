@@ -1,0 +1,107 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-10-09", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-11-03", 
+      "committees": [
+        "HSHM"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3749-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Crime, Terrorism, Homeland Security, and Investigations", 
+      "subcommittee_id": "08"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "2", 
+      "name": "King, Peter T.", 
+      "sponsored_at": "2015-10-09", 
+      "state": "NY", 
+      "thomas_id": "00635", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-10-09", 
+  "number": "3749", 
+  "official_title": "To amend title 18, United States Code, to prohibit interference with communication frequencies used by emergency response providers.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Emergency Responder Radio Communications Protection Act of 2015", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Israel, Steve", 
+    "state": "NY", 
+    "thomas_id": "01663", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-10-09", 
+  "subjects": [
+    "Crime and law enforcement", 
+    "Emergency communications systems"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-10-09", 
+    "text": "Emergency Responder Radio Communications Protection Act of 2015\n\nThis bill amends the federal criminal code to make it a crime to knowingly: (1) interfere with a radio frequency used by emergency response providers in their official capacity; or (2) obstruct, hinder, or delay a transmission over any such frequency.\n\nA person who violates, or attempts or conspires to violate, this provision is subject to fines and/or up to 10 years in prison."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Emergency Responder Radio Communications Protection Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 18, United States Code, to prohibit interference with communication frequencies used by emergency response providers.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:55:01-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3749:@@@L&summ2=m&"
+}

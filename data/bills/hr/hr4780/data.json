@@ -1,0 +1,193 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-03-17", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Homeland Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-03-23", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-03-23", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2016-05-13T12:12:00-04:00", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-566.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-13T12:12:00-04:00", 
+      "calendar": "Union", 
+      "number": "439", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 439.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2016-05-16T17:43:00-04:00", 
+      "references": [], 
+      "text": "Mr. Ratcliffe moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-16T17:43:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2411-2413", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-16T17:43:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 4780.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-16T17:54:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H2411-2412", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2016-05-16T17:54:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-17", 
+      "committees": [
+        "SSGA"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4780-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Homeland Security and Governmental Affairs", 
+      "committee_id": "SSGA"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2016-03-23", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2016-05-16T17:54:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-03-17", 
+  "number": "4780", 
+  "official_title": "To require the Secretary of Homeland Security to develop a comprehensive strategy for Department of Homeland Security operations abroad, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Department of Homeland Security Strategy for International Programs Act", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Thompson, Bennie G.", 
+    "state": "MS", 
+    "thomas_id": "01151", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2016-05-16T17:54:00-04:00", 
+  "subjects": [
+    "Border security and unlawful immigration", 
+    "Congressional oversight", 
+    "Department of Homeland Security", 
+    "Emergency management", 
+    "International organizations and cooperation"
+  ], 
+  "subjects_top_term": "Emergency management", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2016-05-16", 
+    "text": "(This measure has not been amended since it was reported to the House on May 13, 2006. The summary of that version is repeated here.)\n\nDepartment of Homeland Security Strategy for International Programs Act\n\n(Sec. 2) This bill directs the Department of Homeland Security (DHS) to submit a comprehensive three-year strategy for international programs in which DHS personnel and resources are deployed abroad for vetting and screening persons seeking to enter the United States.\n\nThe strategy shall include:\n\n specific risk-based goals for such programs; a risk-based method for determining whether to establish new international programs in new locations, given resource constraints, or expand existing international programs; alignment with the highest DHS-wide and government-wide strategic priorities of resource allocations on such programs; and a common reporting framework for the submission of reliable, comparable cost data by DHS components on overseas expenditures attributable to such programs. In developing the strategy, DHS shall consider:\n\n information on existing operations of DHS programs that includes corresponding information for each location in which each such program operates, analysis of the impact of each such international program on domestic activities of DHS components, the number of DHS personnel deployed to each location at which such an international program is in operation during the current and preceding fiscal year, and analysis of barriers to the expansion of such an international program."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Department of Homeland Security Strategy for International Programs Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Department of Homeland Security Strategy for International Programs Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Department of Homeland Security Strategy for International Programs Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require the Secretary of Homeland Security to develop a comprehensive strategy for Department of Homeland Security operations abroad, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:03:38-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4780:@@@L&summ2=m&"
+}

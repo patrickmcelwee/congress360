@@ -1,0 +1,127 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-05-16", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-05-20", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Commerce, Manufacturing, and Trade.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5245-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Commerce, Manufacturing, and Trade", 
+      "subcommittee_id": "17"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "8", 
+      "name": "Jeffries, Hakeem S.", 
+      "sponsored_at": "2016-06-16", 
+      "state": "NY", 
+      "thomas_id": "02149", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Lipinski, Daniel", 
+      "sponsored_at": "2016-05-23", 
+      "state": "IL", 
+      "thomas_id": "01781", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Sires, Albio", 
+      "sponsored_at": "2016-05-23", 
+      "state": "NJ", 
+      "thomas_id": "01818", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-05-16", 
+  "number": "5245", 
+  "official_title": "To direct the Federal Trade Commission to prescribe rules to protect consumers from unfair and deceptive acts and practices in connection with primary and secondary ticket sales, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr5104-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Better Oversight of Secondary Sales and Accountability in Concert Ticketing Act of 2016", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Pascrell, Bill, Jr.", 
+    "state": "NJ", 
+    "thomas_id": "01510", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-05-16", 
+  "subjects": [
+    "Commerce"
+  ], 
+  "subjects_top_term": "Commerce", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2016-05-16", 
+    "text": "Better Oversight of Secondary Sales and Accountability in Concert Ticketing Act of 2016\n\nThis bill directs the Federal Trade Commission (FTC) to promulgate rules for the primary or secondary sale, distribution, or pricing of tickets for sporting events, theater, musical performances, or places of public amusement.\n\nFor primary sales, sellers must: (1) disclose at least seven days prior to sale, the total number of tickets the seller is offering and the total number and distribution method of tickets not available to the general public; (2) print on each ticket the distribution method, date, and time of the primary sale; (3) disclose service fees, convenience charges, and parking fees and provide refunds for such charges; and (4) provide full refunds for nontransferable tickets if requested by the consumer by one week prior to the event. Primary sellers are prohibited from requiring that consumers only be permitted to resell tickets in a manner determined by the primary seller.\n\nFor secondary sales, the secondary ticket sales marketplace must: (1) disclose if it does not possess the ticket at the time of sale, and (2) explain refund procedures if the ticket received does not match the description by the secondary marketplace.\n\nThe secondary sales rules must prohibit the use of software to circumvent a security system or access control measure on a primary ticket seller's website that is used to ensure equitable consumer access to tickets.\n\nThe secondary marketplace must disclose: (1) the distribution method and face value of each ticket; (2) the location of the seats or space; and (3) if the marketplace purchased the ticket during a public sale, the date and time of the purchase by the secondary marketplace.\n\nOnline marketplace resellers are: (1) prohibited from representing an affiliation or endorsement with venues, teams, or artists without their consent, except when it constitutes fair use; and (2) required to post notice on their websites indicating that they are conducting secondary sales and requiring users to confirm having read such notice before starting a transaction.\n\nIndividual employees of venues, primary ticket sellers, teams, artists, online resale marketplaces, or box offices are prohibited from reselling tickets: (1) for higher than face value, or (1) to third parties for resale for higher than face value.\n\n Online marketplace resellers must disclose when the secondary marketplace of a ticket is the primary ticket seller, venue, team, or artist associated with the event.\n\nThe FTC and states are provided authority to enforce against violations. Persons may bring private civil actions to recover damages for injuries from violations."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Better Oversight of Secondary Sales and Accountability in Concert Ticketing Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To direct the Federal Trade Commission to prescribe rules to protect consumers from unfair and deceptive acts and practices in connection with primary and secondary ticket sales, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:07:32-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR5245:@@@L&summ2=m&"
+}

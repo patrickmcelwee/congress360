@@ -1,0 +1,108 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-03-17", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Transportation and Infrastructure.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-03-18", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Coast Guard and Maritime Transportation.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1402-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Coast Guard and Maritime Transportation", 
+      "subcommittee_id": "07"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-03-17", 
+  "number": "1402", 
+  "official_title": "To direct the Commandant of the Coast Guard to convey certain property from the United States to the County of Marin, California.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1191-114", 
+      "reason": "identical", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s1611-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Point Reyes Coast Guard Housing Conveyance Act", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Huffman, Jared", 
+    "state": "CA", 
+    "thomas_id": "02101", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-03-17", 
+  "subjects": [
+    "California", 
+    "Coast guard", 
+    "Department of Homeland Security", 
+    "Land transfers", 
+    "Transportation and public works"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-03-17", 
+    "text": "Point Reyes Coast Guard Housing Conveyance Act\n\nThis bill directs the Coast Guard to convey 32 acres of federal land (including all buildings, structures, utilities, and facilities on the land) known as CAMSPAC Housing in Point Reyes Station to Marin County, California, to be used for affordable housing or to provide a public benefit approved by the County.\n\nThe property must be sold at fair market value.\n\nThe Coast Guard may deposit the proceeds in the Coast Guard Housing Fund.\n\nThe Coast Guard's authority to convey the property expires after four years."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Point Reyes Coast Guard Housing Conveyance Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To direct the Commandant of the Coast Guard to convey certain property from the United States to the County of Marin, California.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:35:07-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR1402:@@@L&summ2=m&"
+}

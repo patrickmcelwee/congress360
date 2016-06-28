@@ -1,0 +1,447 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-02-25", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-02-25", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "text": "Referred to House Oversight and Government Reform", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-02-25", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Referred to House Judiciary", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-03-01", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-03-01", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 20 - 17.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2016-04-01", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-06-10T13:55:00-04:00", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on Oversight and Government Reform. H. Rept. 114-618, Part I.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-10T13:56:00-04:00", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Committee on the Judiciary discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-10T13:56:00-04:00", 
+      "calendar": "Union", 
+      "number": "480", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 480.", 
+      "type": "calendar", 
+      "under": null
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4612-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Oversight and Government Reform", 
+      "committee_id": "HSGO"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Regulatory Reform, Commercial And Antitrust Law", 
+      "subcommittee_id": "05"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "36", 
+      "name": "Babin, Brian", 
+      "sponsored_at": "2016-03-14", 
+      "state": "TX", 
+      "thomas_id": "02270", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Barletta, Lou", 
+      "sponsored_at": "2016-04-15", 
+      "state": "PA", 
+      "thomas_id": "02054", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Bishop, Mike", 
+      "sponsored_at": "2016-04-12", 
+      "state": "MI", 
+      "thomas_id": "02249", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Blum, Rod", 
+      "sponsored_at": "2016-02-25", 
+      "state": "IA", 
+      "thomas_id": "02241", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Brat, Dave", 
+      "sponsored_at": "2016-03-01", 
+      "state": "VA", 
+      "thomas_id": "02203", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Carter, Earl L. \"Buddy\"", 
+      "sponsored_at": "2016-03-21", 
+      "state": "GA", 
+      "thomas_id": "02236", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Chabot, Steve", 
+      "sponsored_at": "2016-04-12", 
+      "state": "OH", 
+      "thomas_id": "00186", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Cramer, Kevin", 
+      "sponsored_at": "2016-03-01", 
+      "state": "ND", 
+      "thomas_id": "02144", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "DeSantis, Ron", 
+      "sponsored_at": "2016-02-25", 
+      "state": "FL", 
+      "thomas_id": "02116", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Duncan, John J., Jr.", 
+      "sponsored_at": "2016-02-29", 
+      "state": "TN", 
+      "thomas_id": "00322", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "27", 
+      "name": "Farenthold, Blake", 
+      "sponsored_at": "2016-02-25", 
+      "state": "TX", 
+      "thomas_id": "02067", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Gosar, Paul A.", 
+      "sponsored_at": "2016-02-25", 
+      "state": "AZ", 
+      "thomas_id": "01992", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Grothman, Glenn", 
+      "sponsored_at": "2016-03-07", 
+      "state": "WI", 
+      "thomas_id": "02276", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Hensarling, Jeb", 
+      "sponsored_at": "2016-03-14", 
+      "state": "TX", 
+      "thomas_id": "01749", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Hice, Jody B.", 
+      "sponsored_at": "2016-02-25", 
+      "state": "GA", 
+      "thomas_id": "02237", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Huizenga, Bill", 
+      "sponsored_at": "2016-02-29", 
+      "state": "MI", 
+      "thomas_id": "02028", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Jenkins, Lynn", 
+      "sponsored_at": "2016-02-25", 
+      "state": "KS", 
+      "thomas_id": "01921", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "King, Steve", 
+      "sponsored_at": "2016-02-29", 
+      "state": "IA", 
+      "thomas_id": "01724", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "LaMalfa, Doug", 
+      "sponsored_at": "2016-03-01", 
+      "state": "CA", 
+      "thomas_id": "02100", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Lummis, Cynthia M.", 
+      "sponsored_at": "2016-02-25", 
+      "state": "WY", 
+      "thomas_id": "01960", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "McSally, Martha", 
+      "sponsored_at": "2016-03-02", 
+      "state": "AZ", 
+      "thomas_id": "02225", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Miller, Candice S.", 
+      "sponsored_at": "2016-02-25", 
+      "state": "MI", 
+      "thomas_id": "01731", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Mullin, Markwayne", 
+      "sponsored_at": "2016-06-07", 
+      "state": "OK", 
+      "thomas_id": "02156", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Mulvaney, Mick", 
+      "sponsored_at": "2016-02-25", 
+      "state": "SC", 
+      "thomas_id": "02059", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Palazzo, Steven M.", 
+      "sponsored_at": "2016-03-02", 
+      "state": "MS", 
+      "thomas_id": "02035", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Ribble, Reid J.", 
+      "sponsored_at": "2016-02-25", 
+      "state": "WI", 
+      "thomas_id": "02073", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Rouzer, David", 
+      "sponsored_at": "2016-03-14", 
+      "state": "NC", 
+      "thomas_id": "02256", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "Smith, Lamar", 
+      "sponsored_at": "2016-02-25", 
+      "state": "TX", 
+      "thomas_id": "01075", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Walker, Mark", 
+      "sponsored_at": "2016-02-29", 
+      "state": "NC", 
+      "thomas_id": "02255", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2016-03-01", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-02-25", 
+  "number": "4612", 
+  "official_title": "To ensure economic stability, accountability, and efficiency of Federal Government operations by establishing a moratorium on midnight rules during a President's final days in office, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2582-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Midnight Rule Relief Act of 2016", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Walberg, Tim", 
+    "state": "MI", 
+    "thomas_id": "01855", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2016-03-01", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Competition and antitrust", 
+    "Competitiveness, trade promotion, trade deficits", 
+    "Economic performance and conditions", 
+    "Elections, voting, political campaign regulation", 
+    "Government operations and politics", 
+    "Inflation and prices", 
+    "Presidents and presidential powers, Vice Presidents", 
+    "Small business", 
+    "Unemployment"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2016-02-25", 
+    "text": "Midnight Rule Relief Act of 2016\n\nThis bill prohibits a federal agency (excluding the Federal Election Commission, the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, or the U.S. Postal Service) from proposing or finalizing any midnight rule unless the Office of Information and Regulatory Affairs (OIRA)\u00a0of the Office of Management and Budget finds that it will not result in: (1) an annual effect on the economy of $100 million or more; (2) a major increase in costs or prices; (3) significant adverse effects on competition, employment, investment, productivity, innovation, or the ability of U.S.-based enterprises to compete internationally; or (4) a significant economic impact on a substantial number of small businesses.\n\nThe bill defines \"midnight rule\" as an agency statement of general applicability and future effect that is issued during the moratorium period, that is intended to have the force and effect of law, and that is designed to: (1) implement, interpret, or prescribe law or policy; or (2) describe the procedure or practice requirements of an agency. The \"moratorium period\" begins on the day after the Tuesday next after the first Monday in November in every fourth year succeeding a presidential election and extends through January 20 of the following year in which a President is not serving a consecutive term.\n\nThe bill exempts any midnight rule that the President determines is necessary: (1) because of an imminent threat to health or safety or other emergency, (2) to enforce criminal laws, (3) to protect U.S. national security, or (4) to implement an international trade agreement. The moratorium does not apply to a midnight rule if the OIRA finds that such rule is limited to repealing an existing rule and certifies such finding in writing."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Midnight Rule Relief Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Midnight Rule Relief Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To ensure economic stability, accountability, and efficiency of Federal Government operations by establishing a moratorium on midnight rules during a President's final days in office, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:02:14-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4612:@@@L&summ2=m&"
+}

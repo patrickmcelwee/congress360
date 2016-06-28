@@ -1,0 +1,110 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-01-21", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-03-02", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Federal Lands.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr435-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Federal Lands", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-01-21", 
+  "number": "435", 
+  "official_title": "To direct the Secretary of the Interior to sell certain Federal lands in Arizona, Colorado, Idaho, Montana, Nebraska, Nevada, New Mexico, Oregon, Utah, and Wyoming, previously identified as suitable for disposal, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s361-114", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Disposal of Excess Federal Lands Act of 2015", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Chaffetz, Jason", 
+    "state": "UT", 
+    "thomas_id": "01956", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-01-21", 
+  "subjects": [
+    "Arizona", 
+    "Colorado", 
+    "Idaho", 
+    "Land transfers", 
+    "Montana", 
+    "Nebraska", 
+    "Nevada", 
+    "New Mexico", 
+    "Oregon", 
+    "Public lands and natural resources", 
+    "Utah", 
+    "Wyoming"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-01-21", 
+    "text": "Disposal of Excess Federal Lands Act of 2015\n\n Directs the Secretary of the Interior to offer for disposal by competitive sale certain federal lands in Arizona, Colorado, Idaho, Montana, Nebraska, Nevada, New Mexico, Oregon, Utah, and Wyoming, previously identified as suitable for disposal in the report submitted to Congress on May 27, 1997, pursuant to the Federal Agriculture Improvement and Reform Act of 1996."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Disposal of Excess Federal Lands Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To direct the Secretary of the Interior to sell certain Federal lands in Arizona, Colorado, Idaho, Montana, Nebraska, Nevada, New Mexico, Oregon, Utah, and Wyoming, previously identified as suitable for disposal, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:26:51-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR435:@@@L&summ2=m&"
+}

@@ -1,0 +1,93 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-03-10", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-03-14", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Social Security.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4728-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM", 
+      "subcommittee": "Subcommittee on Social Security", 
+      "subcommittee_id": "01"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-03-10", 
+  "number": "4728", 
+  "official_title": "To amend title II of the Social Security Act to expand the exception to the windfall elimination provision based on years of coverage.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "SWEPT Act of 2016", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Smith, Adam", 
+    "state": "WA", 
+    "thomas_id": "01528", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-03-10", 
+  "subjects": [
+    "Social welfare"
+  ], 
+  "subjects_top_term": "Social welfare", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2016-03-10", 
+    "text": "SWEPT Act of 2016\n\nThis bill amends title II (Old Age, Survivors and Disability Insurance) of the Social Security Act with respect to the exception to the windfall elimination provision (WEP) under which an individual's Social Security benefits may be reduced for work for an employer that does not withhold Social Security taxes.\n\nThe bill revises the formula for computation of an individual's primary insurance benefit amount to: (1) lower from 30 to 25 the number of years of coverage required for exception to the WEP; (2) alter the determination of partial exemptions for those who have more than 20 but less than 25 years of coverage; and (3) reduce the dollar amount of annual earnings subject to Social Security taxes required to constitute an applicable year of Social Security coverage."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "SWEPT Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title II of the Social Security Act to expand the exception to the windfall elimination provision based on years of coverage.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:03:12-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4728:@@@L&summ2=m&"
+}

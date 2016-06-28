@@ -1,0 +1,310 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-04-16", 
+      "committees": [
+        "HSAG"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Agriculture, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-04-16", 
+      "committees": [
+        "HSAG"
+      ], 
+      "references": [], 
+      "text": "Referred to House Agriculture", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-04-16", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "text": "Referred to House Financial Services", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-04-29", 
+      "references": [], 
+      "text": "Hearings Held by the Subcommittee on Capital Markets and Government Sponsored Enterprises Prior to Referral.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-05-05", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Commodity Exchanges, Energy, and Credit.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-05-20", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-05-20", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 60 - 0.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2015-07-14T14:30:00-04:00", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Financial Services. H. Rept. 114-202, Part I.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-14T14:31:00-04:00", 
+      "committees": [
+        "HSAG"
+      ], 
+      "references": [], 
+      "text": "Committee on Agriculture discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-14T14:31:00-04:00", 
+      "calendar": "Union", 
+      "number": "151", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 151.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2015-07-14T14:36:00-04:00", 
+      "references": [], 
+      "text": "Mr. Hurt (VA) moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-14T14:36:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5145-5147", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-14T14:36:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1847.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-14T14:49:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H5145-5146", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2015-07-14T14:49:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-15", 
+      "committees": [
+        "SSAF"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1847-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Agriculture", 
+      "committee_id": "HSAG"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Agriculture", 
+      "committee_id": "HSAG", 
+      "subcommittee": "Subcommittee on Commodity Exchanges, Energy, and Credit", 
+      "subcommittee_id": "22"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }, 
+    {
+      "activity": [
+        "hearings"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA", 
+      "subcommittee": "Subcommittee on Capital Markets and Government Sponsored Enterprises", 
+      "subcommittee_id": "16"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Agriculture, Nutrition, and Forestry", 
+      "committee_id": "SSAF"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "2", 
+      "name": "Huizenga, Bill", 
+      "sponsored_at": "2015-04-16", 
+      "state": "MI", 
+      "thomas_id": "02028", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Maloney, Sean Patrick", 
+      "sponsored_at": "2015-04-16", 
+      "state": "NY", 
+      "thomas_id": "02150", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Moore, Gwen", 
+      "sponsored_at": "2015-04-16", 
+      "state": "WI", 
+      "thomas_id": "01811", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-04-29", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2015-07-14T14:49:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-04-16", 
+  "number": "1847", 
+  "official_title": "To amend the Securities Exchange Act of 1934 and the Commodity Exchange Act to repeal the indemnification requirements for regulatory authorities to obtain access to swap data required to be provided by swaps entities under such Acts.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr37-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s1560-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s1910-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s2132-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Swap Data Repository and Clearinghouse Indemnification Correction Act of 2015", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Crawford, Eric A. \"Rick\"", 
+    "state": "AR", 
+    "thomas_id": "01989", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2015-07-14T14:49:00-04:00", 
+  "subjects": [
+    "Banking and financial institutions regulation", 
+    "Civil actions and liability", 
+    "Commodities markets", 
+    "Commodity Futures Trading Commission", 
+    "Finance and financial sector", 
+    "Securities", 
+    "Securities and Exchange Commission (SEC)"
+  ], 
+  "subjects_top_term": "Finance and financial sector", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2015-07-14", 
+    "text": "Swap Data Repository and Clearinghouse Indemnification Correction Act of 2015\n\n Amends the Commodity Exchange Act, with respect to derivatives clearing organizations and swap data repositories, to repeal the prerequisite that, before the Commodity Futures Trading Commission (CFTC) may share information with specified regulatory agencies, such agencies must agree to indemnify the CFTC for expenses arising from litigation relating to information so provided.\n\nAmends the Securities Exchange Act of 1934 to repeal similarly the prerequisite that, before a security-based swap data repository may share information with specified regulatory entities, such entities must agree to indemnify both such repository and the Securities and Exchange Commission (SEC) for expenses arising from litigation relating to information so provided.\n\nAmends both the CEA and the SEA to require a swap or security-based swap data repository, on a confidential basis and after notification to the CFTC or the SEC, as appropriate, to make only swap or security-based swap data (currently, all data) it has obtained available to specified regulatory authorities, including other foreign authorities in addition to foreign financial supervisors, foreign central banks, and foreign ministries.\n\nMakes these amendments effective as if enacted as part of the Dodd-Frank Wall Street Reform and Consumer Protection Act on July 21, 2010."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Swap Data Repository and Clearinghouse Indemnification Correction Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Swap Data Repository and Clearinghouse Indemnification Correction Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Swap Data Repository and Clearinghouse Indemnification Correction Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Securities Exchange Act of 1934 and the Commodity Exchange Act to repeal the indemnification requirements for regulatory authorities to obtain access to swap data required to be provided by swaps entities under such Acts.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:38:56-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR1847:@@@L&summ2=m&"
+}

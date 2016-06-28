@@ -1,0 +1,166 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-01-07", 
+      "references": [
+        {
+          "reference": "CR E26", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-07", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr192-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "5", 
+      "name": "Brooks, Mo", 
+      "sponsored_at": "2015-10-06", 
+      "state": "AL", 
+      "thomas_id": "01987", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Ellmers, Renee L.", 
+      "sponsored_at": "2016-02-24", 
+      "state": "NC", 
+      "thomas_id": "02036", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Gosar, Paul A.", 
+      "sponsored_at": "2015-09-10", 
+      "state": "AZ", 
+      "thomas_id": "01992", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Jones, Walter B., Jr.", 
+      "sponsored_at": "2015-01-14", 
+      "state": "NC", 
+      "thomas_id": "00612", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Ross, Dennis A.", 
+      "sponsored_at": "2016-02-01", 
+      "state": "FL", 
+      "thomas_id": "02003", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-01-07", 
+  "number": "192", 
+  "official_title": "To amend the Internal Revenue Code of 1986 to deny the refundable portion of the child tax credit to individuals who are not authorized to be employed in the United States and to terminate the use of certifying acceptance agents to facilitate the application process for ITINs.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr2956-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr4140-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr4722-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr5297-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "SHUT Act of 2015", 
+  "sponsor": {
+    "district": "12", 
+    "name": "Bilirakis, Gus M.", 
+    "state": "FL", 
+    "thomas_id": "01838", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-01-07", 
+  "subjects": [
+    "Border security and unlawful immigration", 
+    "Foreign labor", 
+    "Income tax credits", 
+    "Tax administration and collection, taxpayers", 
+    "Tax treatment of families", 
+    "Taxation"
+  ], 
+  "subjects_top_term": "Taxation", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-01-07", 
+    "text": "Stop Handouts to Unauthorized Taxpayers Act of 2015 or the SHUT Act of 2015\n\nAmends the Internal Revenue Code to deny the refundable portion of the child tax credit to individuals unless they include their social security number on their tax return or otherwise demonstrate that they are authorized to be employed in the United States.\n\nProhibits the Secretary of the Treasury or any delegate of the Secretary employed by the Department of the Treasury from issuing an individual taxpayer identification number unless supporting documentary evidence is submitted."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "SHUT Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Stop Handouts to Unauthorized Taxpayers Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Internal Revenue Code of 1986 to deny the refundable portion of the child tax credit to individuals who are not authorized to be employed in the United States and to terminate the use of certifying acceptance agents to facilitate the application process for ITINs.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:24:49-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR192:@@@L&summ2=m&"
+}

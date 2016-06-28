@@ -1,0 +1,114 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-02-25", 
+      "committees": [
+        "HSED"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Education and the Workforce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-04-29", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Early Childhood, Elementary, and Secondary Education.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1080-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED", 
+      "subcommittee": "Subcommittee on Early Childhood, Elementary, and Secondary Education", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Lujan Grisham, Michelle", 
+      "sponsored_at": "2015-02-25", 
+      "state": "NM", 
+      "thomas_id": "02146", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-02-25", 
+  "number": "1080", 
+  "official_title": "To amend the Individuals with Disabilities Education Act in order to limit the penalties to a State that does not meet its maintenance of effort level of funding to a one-time penalty, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s415-114", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "IDEA MOE Adjustment Act", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Lujan, Ben Ray", 
+    "state": "NM", 
+    "thomas_id": "01939", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-02-25", 
+  "subjects": [
+    "Education", 
+    "Education programs funding", 
+    "Elementary and secondary education", 
+    "Intergovernmental relations", 
+    "Special education", 
+    "State and local finance"
+  ], 
+  "subjects_top_term": "Education", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-02-25", 
+    "text": "IDEA MOE Adjustment Act\n\nAmends the Individuals with Disabilities Education Act to alter the formula for reallocating the federal special education funding that is denied to states that reduce their level of special education funding from one fiscal year to the next.\n\nReallocates:\n\n 85% of those funds on the basis of each nonpenalized state's share of children aged 3 through 21 who are of the same age as children with disabilities for whom the state provides a free appropriate public education, and 15% of those funds on the basis of each nonpenalized state's share of those children who are impoverished. Prohibits the Secretary of Education from considering those penalties or redistributions when calculating the amount of special education funds a state received in a preceding fiscal year for purposes of determining the state's current share of federal special education funds.\n\nLimits the application of the penalty imposed on a state that reduces its special education funding from one fiscal year to the next to a reduction of federal special education funds (equal to the amount of the state shortfall) that is imposed: (1) the following fiscal year, or (2) over a multi-year period that is no more than five consecutive fiscal years. (Currently, that penalty may be imposed on a state for any fiscal year after the fiscal year the state reduces its special education funding.)"
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "IDEA MOE Adjustment Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Individuals with Disabilities Education Act in order to limit the penalties to a State that does not meet its maintenance of effort level of funding to a one-time penalty, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:32:17-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR1080:@@@L&summ2=m&"
+}

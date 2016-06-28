@@ -1,0 +1,400 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-03-17", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Financial Services, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-03-17", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "text": "Referred to House Financial Services", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-03-17", 
+      "committees": [
+        "HSAG"
+      ], 
+      "references": [], 
+      "text": "Referred to House Agriculture", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-04-08", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Commodity Exchanges, Energy, and Credit.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1389-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Agriculture", 
+      "committee_id": "HSAG"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Agriculture", 
+      "committee_id": "HSAG", 
+      "subcommittee": "Subcommittee on Commodity Exchanges, Energy, and Credit", 
+      "subcommittee_id": "22"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "5", 
+      "name": "Brooks, Mo", 
+      "sponsored_at": "2015-10-20", 
+      "state": "AL", 
+      "thomas_id": "01987", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Buchanan, Vern", 
+      "sponsored_at": "2015-04-16", 
+      "state": "FL", 
+      "thomas_id": "01840", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Cramer, Kevin", 
+      "sponsored_at": "2015-05-13", 
+      "state": "ND", 
+      "thomas_id": "02144", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "26", 
+      "name": "Curbelo, Carlos", 
+      "sponsored_at": "2015-05-01", 
+      "state": "FL", 
+      "thomas_id": "02235", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "DesJarlais, Scott", 
+      "sponsored_at": "2015-09-11", 
+      "state": "TN", 
+      "thomas_id": "02062", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Duffy, Sean P.", 
+      "sponsored_at": "2015-03-19", 
+      "state": "WI", 
+      "thomas_id": "02072", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Duncan, John J., Jr.", 
+      "sponsored_at": "2015-05-13", 
+      "state": "TN", 
+      "thomas_id": "00322", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Fincher, Stephen Lee", 
+      "sponsored_at": "2015-03-25", 
+      "state": "TN", 
+      "thomas_id": "02064", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Fleischmann, Charles J. \"Chuck\"", 
+      "sponsored_at": "2015-05-20", 
+      "state": "TN", 
+      "thomas_id": "02061", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Gosar, Paul A.", 
+      "sponsored_at": "2015-06-01", 
+      "state": "AZ", 
+      "thomas_id": "01992", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Guinta, Frank C.", 
+      "sponsored_at": "2015-03-25", 
+      "state": "NH", 
+      "thomas_id": "02038", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Hill, J. French", 
+      "sponsored_at": "2015-03-19", 
+      "state": "AR", 
+      "thomas_id": "02223", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Hultgren, Randy", 
+      "sponsored_at": "2015-04-14", 
+      "state": "IL", 
+      "thomas_id": "02015", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Jenkins, Lynn", 
+      "sponsored_at": "2015-06-01", 
+      "state": "KS", 
+      "thomas_id": "01921", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Jolly, David W.", 
+      "sponsored_at": "2015-05-20", 
+      "state": "FL", 
+      "thomas_id": "02199", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Nugent, Richard B.", 
+      "sponsored_at": "2015-05-20", 
+      "state": "FL", 
+      "thomas_id": "02001", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Ross, Dennis A.", 
+      "sponsored_at": "2015-05-01", 
+      "state": "FL", 
+      "thomas_id": "02003", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Rothfus, Keith J.", 
+      "sponsored_at": "2015-04-21", 
+      "state": "PA", 
+      "thomas_id": "02158", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "Smith, Lamar", 
+      "sponsored_at": "2015-03-25", 
+      "state": "TX", 
+      "thomas_id": "01075", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Stivers, Steve", 
+      "sponsored_at": "2015-03-24", 
+      "state": "OH", 
+      "thomas_id": "02047", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Tipton, Scott  R.", 
+      "sponsored_at": "2015-03-17", 
+      "state": "CO", 
+      "thomas_id": "01997", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Wagner, Ann", 
+      "sponsored_at": "2015-03-19", 
+      "state": "MO", 
+      "thomas_id": "02137", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Webster, Daniel", 
+      "sponsored_at": "2015-05-01", 
+      "state": "FL", 
+      "thomas_id": "02002", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Westmoreland, Lynn A.", 
+      "sponsored_at": "2015-03-25", 
+      "state": "GA", 
+      "thomas_id": "01779", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Wilson, Joe", 
+      "sponsored_at": "2015-04-14", 
+      "state": "SC", 
+      "thomas_id": "01688", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Zinke, Ryan K.", 
+      "sponsored_at": "2015-03-24", 
+      "state": "MT", 
+      "thomas_id": "02254", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-03-17", 
+  "number": "1389", 
+  "official_title": "To improve the mortgage finance system and the regulation of financial institutions, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr1113-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr1210-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr1259-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s871-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "American Jobs and Community Revitalization Act of 2015", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Barr, Andy", 
+    "state": "KY", 
+    "thomas_id": "02131", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-03-17", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Administrative remedies", 
+    "Bank accounts, deposits, capital", 
+    "Banking and financial institutions regulation", 
+    "Civil actions and liability", 
+    "Commodities markets", 
+    "Commodity Futures Trading Commission", 
+    "Congressional oversight", 
+    "Consumer Financial Protection Bureau", 
+    "Consumer credit", 
+    "Credit and credit markets", 
+    "Criminal justice information and records", 
+    "Currency", 
+    "Department of the Treasury", 
+    "Federal Deposit Insurance Corporation (FDIC)", 
+    "Federal Reserve System", 
+    "Finance and financial sector", 
+    "Financial services and investments", 
+    "Fraud offenses and financial crimes", 
+    "Housing finance and home ownership", 
+    "Interest, dividends, interest rates", 
+    "National Credit Union Administration", 
+    "Rural conditions and development", 
+    "Securities and Exchange Commission (SEC)", 
+    "Small business", 
+    "Tax administration and collection, taxpayers", 
+    "Terrorism"
+  ], 
+  "subjects_top_term": "Finance and financial sector", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-03-17", 
+    "text": "American Jobs and Community Revitalization Act of 2015\n\nDirects the Consumer Financial Protection Bureau (CFPB) to establish an application process under which a person who lives or does business in a state may apply to have an area in the state identified as a rural area if it has not yet been so designated by the CFPB for purposes of federal consumer financial law.\n\nPrescribes criteria for the CFPB to consider when evaluating the application.Requires the CFPB to: (1) grant or deny the application within 90 days after the public comment period ends; and (2) publish the grant or denial in the Federal Register, including an explanation of the factors upon which the CFPB relied in making its determination.\n\nAmends the Truth in Lending Act to create a safe harbor from lawsuit for creditors that are depository institutions for any failure to comply with certain requirements with respect to a residential mortgage loan, and the banking regulators are required to treat such a loan as a qualified mortgage, if the creditor has, since the loan's origination, held it on its balance sheet and all prepayment penalties with respect to the loan comply with specified limitations.\n\nA safe harbor from lawsuit is also created for mortgage originators for steering a consumer to a residential mortgage loan if: (1) the creditor is a depository institution and has informed the mortgage originator that it intends to hold the loan on its balance sheet for the life of the loan, and (2) the mortgage originator informs the consumer that the creditor intends to do so.\n\nRequires the Federal Deposit Insurance Corporation, the Office of Comptroller of the Currency, the Board of Governors of the Federal Reserve System, CFPB, the National Credit Union Administration, the Securities and Exchange Commission, and the Commodity Futures Trading Commission, before issuing a regulation or order, to assess other federal regulations and orders to determine whether the agency's proposal is in conflict with, is inconsistent with, or is duplicative of such other regulations or orders and whether such other federal regulations or orders are outdated.\n\nAmends the Federal Deposit Insurance Act to double the maximum asset size of certain small insured depository institutions that qualify for an onsite examination by the appropriate federal banking agency every 18 months instead of every 12 months.\n\n Directs the Secretary of the Treasury to issue final rules to exempt depository institutions from reporting requirements with respect to a monetary instrument transaction involving a qualified customer.\n\nRequires the Director of the Financial Crimes Enforcement Network (FinCEN) to report annually to Congress on how the FinCEN data access service and the information it collects are used to detect and prevent money laundering, terrorist financing, and other financial crimes.\n\nDirects the Secretary to establish operating procedures with respect to the government-wide data access service and the FinCEN financial crimes communications center which provide for appropriate metrics to monitor, track, assess, and report on access to information in the FinCEN data access service.\n\nAmends the Dodd-Frank Wall Street and Consumer Protection Act to direct the appropriate federal banking agencies to issue final regulations authorizing S corporation banks to make dividend distributions under their capital conservation buffer for payment of taxes arising from bank activities."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "American Jobs and Community Revitalization Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To improve the mortgage finance system and the regulation of financial institutions, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:35:01-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR1389:@@@L&summ2=m&"
+}

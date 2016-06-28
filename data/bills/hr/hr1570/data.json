@@ -1,0 +1,151 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-03-24", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-03-27", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1570-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Bordallo, Madeleine Z.", 
+      "sponsored_at": "2015-03-24", 
+      "state": "GU", 
+      "thomas_id": "01723", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Pierluisi, Pedro R.", 
+      "sponsored_at": "2015-03-24", 
+      "state": "PR", 
+      "thomas_id": "01953", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Plaskett, Stacey E.", 
+      "sponsored_at": "2015-03-24", 
+      "state": "VI", 
+      "thomas_id": "02274", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Radewagen, Aumua Amata Coleman", 
+      "sponsored_at": "2015-03-24", 
+      "state": "AS", 
+      "thomas_id": "02222", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Sablan, Gregorio Kilili Camacho", 
+      "sponsored_at": "2015-03-24", 
+      "state": "MP", 
+      "thomas_id": "01962", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-03-24", 
+  "number": "1570", 
+  "official_title": "To provide for greater transparency and information with respect to Federal expenditures under the Medicaid and CHIP programs in the territories of the United States, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr2635-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Medicaid and CHIP Territory Transparency and Information Act", 
+  "sponsor": {
+    "district": "12", 
+    "name": "Bilirakis, Gus M.", 
+    "state": "FL", 
+    "thomas_id": "01838", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-03-24", 
+  "subjects": [
+    "Child health", 
+    "Government information and archives", 
+    "Health", 
+    "Health care costs and insurance", 
+    "Medicaid", 
+    "Poverty and welfare assistance", 
+    "U.S. territories and protectorates"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-03-24", 
+    "text": "Medicaid and CHIP Territory Transparency and Information Act\n\nThis bill directs the Secretary of Health and Human Services to publish and update periodically, on the Internet site of the Centers for Medicare and Medicaid Services information on the Medicaid program and the Children's Health Insurance Program under titles XIX and XXI of the Social Security Act that are carried out in the U.S. territories."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Medicaid and CHIP Territory Transparency and Information Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide for greater transparency and information with respect to Federal expenditures under the Medicaid and CHIP programs in the territories of the United States, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:36:33-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR1570:@@@L&summ2=m&"
+}

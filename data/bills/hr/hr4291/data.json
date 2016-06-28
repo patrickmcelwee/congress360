@@ -1,0 +1,144 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-12-18", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-01-15", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Immigration and Border Security.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4291-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Immigration and Border Security", 
+      "subcommittee_id": "01"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "50", 
+      "name": "Hunter, Duncan D.", 
+      "sponsored_at": "2015-12-18", 
+      "state": "CA", 
+      "thomas_id": "01909", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "25", 
+      "name": "Knight, Stephen", 
+      "sponsored_at": "2015-12-18", 
+      "state": "CA", 
+      "thomas_id": "02228", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Poe, Ted", 
+      "sponsored_at": "2016-01-13", 
+      "state": "TX", 
+      "thomas_id": "01802", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "48", 
+      "name": "Rohrabacher, Dana", 
+      "sponsored_at": "2015-12-18", 
+      "state": "CA", 
+      "thomas_id": "00979", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-12-18", 
+  "number": "4291", 
+  "official_title": "To provide for additional security requirements for Syrian and Iraqi refugees, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "SAFER Act of 2015", 
+  "sponsor": {
+    "district": "42", 
+    "name": "Calvert, Ken", 
+    "state": "CA", 
+    "thomas_id": "00165", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-12-18", 
+  "subjects": [
+    "Criminal justice information and records", 
+    "Immigration", 
+    "Immigration status and procedures", 
+    "Internet and video services", 
+    "Iraq", 
+    "Middle East", 
+    "Refugees, asylum, displaced persons", 
+    "Syria", 
+    "Terrorism"
+  ], 
+  "subjects_top_term": "Immigration", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-12-18", 
+    "text": "Secure Accountability for Emigres and Refugees Act of 2015 or the SAFER Act of 2015\n\nThis bill requires that, before the U.S. refugee admission of a covered alien, the Department of Homeland Security (DHS) shall ensure that such person:\n\n has passed a lie detector test; has submitted to DHS biometric identification information, including DNA, which DHS has compared against all relevant databases and determined that the person has no known history of terrorist activity; and does not pose a threat to U.S. national security based on a background check that includes a review of the person's Internet interactions, including social media services. \"Covered alien\" means an alien applying for U.S. refugee admission who: (1) is a national of Iraq or Syria, (2) has no nationality and whose last habitual residence was in Iraq or Syria, or (3) has been present in Iraq or Syria at any time on or after March 1, 2011."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "SAFER Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Secure Accountability for Emigres and Refugees Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide for additional security requirements for Syrian and Iraqi refugees, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:59:32-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4291:@@@L&summ2=m&"
+}

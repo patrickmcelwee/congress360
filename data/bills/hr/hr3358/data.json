@@ -1,0 +1,127 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-07-29", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-09-08", 
+      "committees": [
+        "HSHM"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-09-08", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Immigration and Border Security.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3358-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Crime, Terrorism, Homeland Security, and Investigations", 
+      "subcommittee_id": "08"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Immigration and Border Security", 
+      "subcommittee_id": "01"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "24", 
+      "name": "Katko, John", 
+      "sponsored_at": "2015-07-29", 
+      "state": "NY", 
+      "thomas_id": "02264", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-07-29", 
+  "number": "3358", 
+  "official_title": "To require the Secretary of Homeland Security to ensure that sex offenders to be released from the custody of Immigration and Customs Enforcement are registered on sex offender registry, and relevant State, tribal, and local authorities are notified of their release, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Prevent Repeat Offenders Act of 2015", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Keating, William R.", 
+    "state": "MA", 
+    "thomas_id": "02025", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-07-29", 
+  "subjects": [
+    "Crime and law enforcement", 
+    "Criminal justice information and records", 
+    "Detention of persons", 
+    "Immigration status and procedures", 
+    "Licensing and registrations", 
+    "Sex offenses"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-07-29", 
+    "text": "Prevent Repeat Offenders Act of 2015\n\nThis bill amends the Sex Offender Registration and Notification Act to direct the Department of Homeland Security (DHS) to ensure that: (1) any alien who is required to register under such Act is registered in the National Sex Offender Registry and is informed of the registration requirements under such Act before such alien may be released from the custody of U.S. Immigration and Customs Enforcement (ICE), and (2) the release of such an alien is conditioned on such alien's registration in each jurisdiction required by such Act.\n\nDHS is also required to ensure that the chief law enforcement officer of each jurisdiction in which such an alien resides and the agency responsible for the receipt or maintenance of sex offender registration information in such jurisdiction are promptly notified when such an alien is: (1) taken into custody by ICE, (2) released from ICE custody, or (3) removed from the United States."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Prevent Repeat Offenders Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require the Secretary of Homeland Security to ensure that sex offenders to be released from the custody of Immigration and Customs Enforcement are registered on sex offender registry, and relevant State, tribal, and local authorities are notified of their release, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:51:45-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3358:@@@L&summ2=m&"
+}

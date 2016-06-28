@@ -1,0 +1,113 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-02-29", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-03-03", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4650-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "02"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "9", 
+      "name": "Pascrell, Bill, Jr.", 
+      "sponsored_at": "2016-02-29", 
+      "state": "NJ", 
+      "thomas_id": "01510", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-02-29", 
+  "number": "4650", 
+  "official_title": "To amend title XVIII of the Social Security Act to provide for an extension of certain Medicare long-term care hospital payment rules.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2108-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Preserving Patient Access to Post-Acute Hospital Care Act of 2016", 
+  "sponsor": {
+    "district": "16", 
+    "name": "Buchanan, Vern", 
+    "state": "FL", 
+    "thomas_id": "01840", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-02-29", 
+  "subjects": [
+    "Health", 
+    "Health facilities and institutions", 
+    "Hospital care", 
+    "Long-term, rehabilitative, and terminal care", 
+    "Medicare"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2016-02-29", 
+    "text": "Preserving Patient Access to Post-Acute Hospital Care Act of 2016\n\nThis bill amends title XVIII (Medicare) of the Social Security Act to delay by two additional years the application of negative payment adjustments under the \"25-percent rule\" to certain long-term care hospitals and satellite facilities. This rule reduces payments to a long-term care facility that admits proportionately more patients from any single hospital."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Preserving Patient Access to Post-Acute Hospital Care Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title XVIII of the Social Security Act to provide for an extension of certain Medicare long-term care hospital payment rules.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:02:33-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4650:@@@L&summ2=m&"
+}

@@ -1,0 +1,127 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-01-21", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-02-06", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr444-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "13", 
+      "name": "Ryan, Tim", 
+      "sponsored_at": "2015-03-25", 
+      "state": "OH", 
+      "thomas_id": "01756", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Tonko, Paul", 
+      "sponsored_at": "2015-03-16", 
+      "state": "NY", 
+      "thomas_id": "01942", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-01-21", 
+  "number": "444", 
+  "official_title": "To expand the research and education on and delivery of complementary and alternative medicine to veterans, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Expanding Care for Veterans Act", 
+  "sponsor": {
+    "district": "26", 
+    "name": "Brownley, Julia", 
+    "state": "CA", 
+    "thomas_id": "02106", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-01-21", 
+  "subjects": [
+    "Alternative treatments", 
+    "Armed forces and national security", 
+    "Department of Veterans Affairs", 
+    "Government employee pay, benefits, personnel management", 
+    "Government studies and investigations", 
+    "Health care coverage and access", 
+    "Health personnel", 
+    "Health programs administration and funding", 
+    "Health promotion and preventive care", 
+    "Long-term, rehabilitative, and terminal care", 
+    "Medical education", 
+    "Medical research", 
+    "Mental health", 
+    "Physical fitness and lifestyle", 
+    "Research administration and funding", 
+    "Veterans' medical care"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-01-21", 
+    "text": "Expanding Care for Veterans Act\n\nDirects the Secretary of Veterans Affairs (VA) to develop a plan to expand the scope of VA's research and education on, and delivery and integration of, complementary and alternative medicine services.\n\nRequires the Secretary to carry out, through VA's Office of Patient Centered Care and Cultural Transformation, a three-year program to: (1) assess the feasibility and advisability of integrating the delivery of complementary and alternative medicine services selected by the Secretary with other VA health care services for veterans, and (2) identify and resolve barriers to providing such services and integrating them with other VA health services.\n\nRequires such program to be conducted, at not fewer than 15 VA medical centers, by integrating the provision of complementary and alternative medicine services with other VA health care services provided to veterans who have a mental health condition, experience chronic pain, or have a chronic condition. Requires veterans' participation to be voluntary.\n\nDirects the Secretary to contract with a qualified independent entity for comprehensive studies of the barriers encountered by veterans in receiving, and by administrators and clinicians in providing, complementary and alternative medicine services through VA. Provides for the conduct of such studies through surveys of veterans and VA administrators and clinicians.\n\nRequires the Secretary to carry out a three-year program awarding grants to public or private nonprofit entities to assess the feasibility and advisability of using wellness programs to complement the provision of mental health care to veterans and family members who are eligible for readjustment counseling from VA."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Expanding Care for Veterans Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To expand the research and education on and delivery of complementary and alternative medicine to veterans, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:26:56-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR444:@@@L&summ2=m&"
+}

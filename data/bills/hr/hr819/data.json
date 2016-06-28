@@ -1,0 +1,97 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-02-09", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Transportation and Infrastructure.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-02-10", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Aviation.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr819-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Aviation", 
+      "subcommittee_id": "05"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-02-09", 
+  "number": "819", 
+  "official_title": "To require the Administrator of the Federal Aviation Administration to use the definitions in section 40125 of title 49, United States Code, in determining whether an unmanned aircraft conducting aeronautical research flights qualifies for public aircraft status under that section, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s387-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Young, Don", 
+    "state": "AK", 
+    "thomas_id": "01256", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-02-09", 
+  "subjects": [
+    "Astronomy", 
+    "Atmospheric science and weather", 
+    "Aviation and airports", 
+    "Transportation and public works", 
+    "Transportation safety and security"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-02-09", 
+    "text": "This bill requires the Administrator of the Federal Aviation Administration, for purposes of determining whether an unmanned aircraft (drone) used for aeronautical research qualifies as a public aircraft, to use definitions under federal aviation safety law for determining whether the aircraft is used for:\n\n a commercial purpose, and aeronautical research and platform-based research. The Administrator must also develop procedures for the safe, beyond-line-of-sight operation of aeronautical research drones in the national airspace system."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require the Administrator of the Federal Aviation Administration to use the definitions in section 40125 of title 49, United States Code, in determining whether an unmanned aircraft conducting aeronautical research flights qualifies for public aircraft status under that section, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:30:07-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR819:@@@L&summ2=m&"
+}

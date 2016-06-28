@@ -1,0 +1,309 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-02-12", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-02-24", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-25", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-25", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by the Yeas and Nays: 28 - 22.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2016-02-29T18:58:00-05:00", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on Energy and Commerce. H. Rept. 114-439.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-29T18:58:00-05:00", 
+      "calendar": "Union", 
+      "number": "336", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 336.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2016-03-02T17:24:00-05:00", 
+      "bill_ids": [
+        "hres635-114"
+      ], 
+      "committees": [
+        "HSRU"
+      ], 
+      "references": [], 
+      "text": "Rules Committee Resolution H. Res. 635 Reported to House. Rule provides for consideration of H.R. 4557 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Bill is closed to amendments.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-03-03T10:34:00-05:00", 
+      "bill_ids": [
+        "hres635-114"
+      ], 
+      "references": [], 
+      "text": "Rule H. Res. 635 passed House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-03-03T10:42:00-05:00", 
+      "bill_ids": [
+        "hres635-114"
+      ], 
+      "references": [
+        {
+          "reference": "CR H1129-1134", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under the provisions of rule H. Res. 635.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-03-03T10:42:00-05:00", 
+      "references": [], 
+      "text": "Rule provides for consideration of H.R. 4557 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Bill is closed to amendments.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-03-03T10:43:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with one hour of debate on H.R. 4557.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-03-03T11:22:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1133", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "The previous question was ordered pursuant to the rule.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-03-03T11:41:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H1129-1130", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "109", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On passage Passed by the Yeas and Nays: 238 - 163 (Roll no. 109).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2016-03-03T11:41:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-03-07", 
+      "committees": [
+        "SSEV"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4557-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Environment and Public Works", 
+      "committee_id": "SSEV"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "2", 
+      "name": "Bishop, Sanford D., Jr.", 
+      "sponsored_at": "2016-02-12", 
+      "state": "GA", 
+      "thomas_id": "00091", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Granger, Kay", 
+      "sponsored_at": "2016-02-25", 
+      "state": "TX", 
+      "thomas_id": "01487", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Murphy, Tim", 
+      "sponsored_at": "2016-02-25", 
+      "state": "PA", 
+      "thomas_id": "01744", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Roby, Martha", 
+      "sponsored_at": "2016-02-12", 
+      "state": "AL", 
+      "thomas_id": "01986", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "32", 
+      "name": "Sessions, Pete", 
+      "sponsored_at": "2016-02-25", 
+      "state": "TX", 
+      "thomas_id": "01525", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Sewell, Terri A.", 
+      "sponsored_at": "2016-02-12", 
+      "state": "AL", 
+      "thomas_id": "01988", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Shimkus, John", 
+      "sponsored_at": "2016-02-12", 
+      "state": "IL", 
+      "thomas_id": "01527", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2016-02-24", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2016-03-03T11:41:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-02-12", 
+  "number": "4557", 
+  "official_title": "To allow for judicial review of any final rule addressing national emission standards for hazardous air pollutants for brick and structural clay products or for clay ceramics manufacturing before requiring compliance with such rule.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hres635-114", 
+      "reason": "rule", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Blocking Regulatory Interference from Closing Kilns Act of 2016", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Johnson, Bill", 
+    "state": "OH", 
+    "thomas_id": "02046", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2016-03-03T11:41:00-05:00", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Air quality", 
+    "Environmental Protection Agency (EPA)", 
+    "Environmental protection", 
+    "Environmental regulatory procedures", 
+    "Hazardous wastes and toxic substances", 
+    "Judicial review and appeals", 
+    "Manufacturing"
+  ], 
+  "subjects_top_term": "Environmental protection", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2016-03-03", 
+    "text": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.)\n\nBlocking Regulatory Interference from Closing Kilns Act of 2016\n\n(Sec. 2) This bill prohibits the Environmental Protection Agency from requiring compliance with Clean Air Act rules concerning national emission standards for hazardous air pollutants with respect to brick and structural clay products manufacturing or clay ceramics manufacturing until judicial reviews of the rules are complete."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Blocking Regulatory Interference from Closing Kilns Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Blocking Regulatory Interference from Closing Kilns Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Blocking Regulatory Interference from Closing Kilns Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To allow for judicial review of any final rule addressing national emission standards for hazardous air pollutants for brick and structural clay products or for clay ceramics manufacturing before requiring compliance with such rule.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:01:46-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4557:@@@L&summ2=m&"
+}

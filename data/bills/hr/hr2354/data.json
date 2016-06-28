@@ -1,0 +1,164 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-05-13", 
+      "references": [], 
+      "text": "Hearings Held by the Subcommittee on Capital Markets and Government Sponsored Enterprises Prior to Referral.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-05-15", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Financial Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-05-20", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-05-20", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 41 - 16.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2016-01-28T15:04:00-05:00", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Financial Services. H. Rept. 114-403.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-01-28T15:05:00-05:00", 
+      "calendar": "Union", 
+      "number": "306", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 306.", 
+      "type": "calendar", 
+      "under": null
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2354-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }, 
+    {
+      "activity": [
+        "hearings"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA", 
+      "subcommittee": "Subcommittee on Capital Markets and Government Sponsored Enterprises", 
+      "subcommittee_id": "16"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "8", 
+      "name": "Posey, Bill", 
+      "sponsored_at": "2015-05-19", 
+      "state": "FL", 
+      "thomas_id": "01915", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Sinema, Kyrsten", 
+      "sponsored_at": "2015-05-15", 
+      "state": "AZ", 
+      "thomas_id": "02099", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-05-20", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-05-15", 
+  "number": "2354", 
+  "official_title": "To direct the Securities and Exchange Commission to review all its significant regulations to determine whether such regulations are necessary in the public interest or whether such regulations should be amended or rescinded.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr1675-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Streamlining Excessive and Costly Regulations Review Act", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Hurt, Robert", 
+    "state": "VA", 
+    "thomas_id": "02069", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2015-05-20", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Banking and financial institutions regulation", 
+    "Congressional oversight", 
+    "Finance and financial sector", 
+    "Securities", 
+    "Securities and Exchange Commission (SEC)"
+  ], 
+  "subjects_top_term": "Finance and financial sector", 
+  "summary": {
+    "as": "Reported to House amended", 
+    "date": "2016-01-28", 
+    "text": "Streamlining Excessive and Costly Regulations Review Act\n\n(Sec. 2) This bill requires the Securities and Exchange Commission (SEC), within 5 years after enactment of this Act, and thereafter at least once within each 10-year period, to:\n\n review each significant regulation it has issued; determine by vote whether it is ineffective, excessively burdensome, unnecessary, or inconsistent with its mandate; solicit public comment as to whether the regulation should be amended or repealed; and subsequently amend or repeal accordingly. The SEC shall report to certain congressional committees the steps it has taken to implement the results of its decision, including any action to amend or repeal the target regulation.\n\nThe bill declares that SEC determinations made pursuant to this Act are final and not subject to judicial review."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Streamlining Excessive and Costly Regulations Review Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Streamlining Excessive and Costly Regulations Review Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To direct the Securities and Exchange Commission to review all its significant regulations to determine whether such regulations are necessary in the public interest or whether such regulations should be amended or rescinded.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:43:13-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2354:@@@L&summ2=m&"
+}

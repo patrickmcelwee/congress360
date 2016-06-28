@@ -1,0 +1,161 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-07-22", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-07-24", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Commerce, Manufacturing, and Trade.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-07-29", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-29", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2015-09-08T14:53:00-04:00", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on Energy and Commerce. H. Rept. 114-243.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-08T14:54:00-04:00", 
+      "calendar": "Union", 
+      "number": "184", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 184.", 
+      "type": "calendar", 
+      "under": null
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3154-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Commerce, Manufacturing, and Trade", 
+      "subcommittee_id": "17"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "2", 
+      "name": "Loebsack, David", 
+      "sponsored_at": "2015-07-22", 
+      "state": "IA", 
+      "thomas_id": "01846", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-07-29", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-07-22", 
+  "number": "3154", 
+  "official_title": "To allow manufacturers to meet warranty and labeling requirements for consumer products by displaying the terms of warranties on Internet websites, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1359-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s1359-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "E-Warranty Act of 2015", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Mullin, Markwayne", 
+    "state": "OK", 
+    "thomas_id": "02156", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2015-07-29", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Commerce", 
+    "Federal Trade Commission (FTC)", 
+    "Internet and video services", 
+    "Product safety and quality", 
+    "Retail and wholesale trades"
+  ], 
+  "subjects_top_term": "Commerce", 
+  "summary": {
+    "as": "Reported to House without amendment", 
+    "date": "2015-09-08", 
+    "text": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)\n\nE-Warranty Act of 2015\n\n(Sec. 3) Amends the Magnuson-Moss Warranty--Federal Trade Commission Improvement Act to require the Federal Trade Commission to revise its rules to allow manufacturers to satisfy requirements concerning the availability of written warranties on consumer products by making the terms accessible in a digital format on the manufacturer's Internet website. Requires the product, packaging, or product manual in the case of a warranty provided on a website in such manner to display to the consumer: (1) the website where the warranty terms can be obtained; and (2) a phone number, postal address, or other reasonable non-Internet based means of contacting the manufacturer to obtain and review such terms.\n\nProhibits such Internet website warranties from satisfying any requirement that a warranty be made available prior to sale in a retail location, by catalog, or through door-to-door sales, unless the seller makes the warranty available, through electronic or other means, at the location of the sale before the purchase."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "E-Warranty Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "E-Warranty Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To allow manufacturers to meet warranty and labeling requirements for consumer products by displaying the terms of warranties on Internet websites, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:50:03-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3154:@@@L&summ2=m&"
+}

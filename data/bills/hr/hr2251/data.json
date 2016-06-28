@@ -1,0 +1,137 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-05-12", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-05-15", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Communications and Technology.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2251-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Communications and Technology", 
+      "subcommittee_id": "16"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "4", 
+      "name": "Gosar, Paul A.", 
+      "sponsored_at": "2015-05-21", 
+      "state": "AZ", 
+      "thomas_id": "01992", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Jones, Walter B., Jr.", 
+      "sponsored_at": "2015-05-12", 
+      "state": "NC", 
+      "thomas_id": "00612", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "McCaul, Michael T.", 
+      "sponsored_at": "2015-05-12", 
+      "state": "TX", 
+      "thomas_id": "01804", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Scott, Austin", 
+      "sponsored_at": "2015-06-10", 
+      "state": "GA", 
+      "thomas_id": "02009", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-05-12", 
+  "number": "2251", 
+  "official_title": "To prohibit the National Telecommunications and Information Administration from relinquishing responsibilities with respect to Internet domain name functions unless it certifies that it has received a proposal for such relinquishment that meets certain criteria, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Defending Internet Freedom Act of 2015", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Kelly, Mike", 
+    "state": "PA", 
+    "thomas_id": "02051", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-05-12", 
+  "subjects": [
+    "Congressional oversight", 
+    "Department of Commerce", 
+    "Executive agency funding and structure", 
+    "First Amendment rights", 
+    "Government information and archives", 
+    "Internet and video services", 
+    "Public contracts and procurement", 
+    "Science, technology, communications"
+  ], 
+  "subjects_top_term": "Science, technology, communications", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-05-12", 
+    "text": "Defending Internet Freedom Act of 2015\n\nProhibits the Assistant Secretary of Commerce for Communications and Information from relinquishing the responsibilities of the National Telecommunications and Information Administration (NTIA) with respect to Internet domain name functions, including Internet Assigned Numbers Authority (IANA) functions, unless the Assistant Secretary certifies to Congress that a final proposal has been received that ensures:\n\n control over the management of the Internet domain name system will not be exercised by a governmental or intergovernmental body; standards for freedoms of speech, of the press, of assembly, and of association are at least as protective as the First Amendment to the U.S. Constitution; the Internet Corporation for Assigned Names and Numbers (ICANN) has an external, independent process for reviewing and resolving disputes between ICANN and external parties, including the ability to reverse decisions of the board of directors; ICANN remains subject to U.S. law; ICANN has adopted disclosure procedures that are at least as protective of public access as the Freedom of Information Act; the U.S. government has been granted ownership of the \".gov\" and \".mil\" top-level domains; and ICANN has adopted additional measures recommended by the multistakeholder community. Requires such certification to ensure amendments to ICANN bylaws to prohibit ICANN from: (1) engaging in activities unrelated to ICANN's core mission of managing the IANA functions and proposing and overseeing policy decisions central to coordinating the global interoperability and uniqueness of Internet domain names; or (2) agreeing to impose on a registrar or registry any condition, such as a regulation of content, that is unrelated to ICANN's core mission.\n\nRequires such a certification to also ensure amendments to bylaws concerning: (1) Governmental Advisory Committee advice and policy proposals, and (2) a required supermajority of the board of directors for votes regarding changes to bylaws.\n\nDirects the Assistant Secretary, if such a certification is not submitted to Congress by a specified deadline, to extend through September 30, 2017, the existing IANA functions contract under which ICANN is required to perform IANA functions."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Defending Internet Freedom Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To prohibit the National Telecommunications and Information Administration from relinquishing responsibilities with respect to Internet domain name functions unless it certifies that it has received a proposal for such relinquishment that meets certain criteria, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:42:21-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2251:@@@L&summ2=m&"
+}

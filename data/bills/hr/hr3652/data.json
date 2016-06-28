@@ -1,0 +1,307 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-09-30", 
+      "references": [
+        {
+          "reference": "CR H6711", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-30", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-10-02", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3652-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "3", 
+      "name": "Blumenauer, Earl", 
+      "sponsored_at": "2015-10-08", 
+      "state": "OR", 
+      "thomas_id": "00099", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "29", 
+      "name": "Cardenas, Tony", 
+      "sponsored_at": "2015-11-03", 
+      "state": "CA", 
+      "thomas_id": "02107", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "27", 
+      "name": "Chu, Judy", 
+      "sponsored_at": "2015-10-20", 
+      "state": "CA", 
+      "thomas_id": "01970", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Cicilline, David N.", 
+      "sponsored_at": "2015-10-08", 
+      "state": "RI", 
+      "thomas_id": "02055", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Cohen, Steve", 
+      "sponsored_at": "2015-12-17", 
+      "state": "TN", 
+      "thomas_id": "01878", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "DeGette, Diana", 
+      "sponsored_at": "2015-09-30", 
+      "state": "CO", 
+      "thomas_id": "01479", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "DeLauro, Rosa L.", 
+      "sponsored_at": "2015-10-09", 
+      "state": "CT", 
+      "thomas_id": "00281", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "Deutch, Theodore E.", 
+      "sponsored_at": "2015-10-08", 
+      "state": "FL", 
+      "thomas_id": "01976", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Edwards, Donna F.", 
+      "sponsored_at": "2015-10-08", 
+      "state": "MD", 
+      "thomas_id": "01894", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Garamendi, John", 
+      "sponsored_at": "2015-10-28", 
+      "state": "CA", 
+      "thomas_id": "01973", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Lawrence, Brenda L.", 
+      "sponsored_at": "2016-04-12", 
+      "state": "MI", 
+      "thomas_id": "02252", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Lee, Barbara", 
+      "sponsored_at": "2015-09-30", 
+      "state": "CA", 
+      "thomas_id": "01501", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "McCollum, Betty", 
+      "sponsored_at": "2015-12-09", 
+      "state": "MN", 
+      "thomas_id": "01653", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Moore, Gwen", 
+      "sponsored_at": "2015-10-20", 
+      "state": "WI", 
+      "thomas_id": "01811", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Norcross, Donald", 
+      "sponsored_at": "2016-02-11", 
+      "state": "NJ", 
+      "thomas_id": "02202", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Rice, Kathleen M.", 
+      "sponsored_at": "2015-10-20", 
+      "state": "NY", 
+      "thomas_id": "02262", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Schakowsky, Janice D.", 
+      "sponsored_at": "2015-10-20", 
+      "state": "IL", 
+      "thomas_id": "01588", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Titus, Dina", 
+      "sponsored_at": "2015-12-02", 
+      "state": "NV", 
+      "thomas_id": "01940", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-09-30", 
+  "number": "3652", 
+  "official_title": "To expand programs with respect to women's health.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s674-114", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "21st Century Women's Health Act of 2015", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Bonamici, Suzanne", 
+    "state": "OR", 
+    "thomas_id": "02092", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-09-30", 
+  "subjects": [
+    "Abortion", 
+    "Advisory bodies", 
+    "Assault and harassment offenses", 
+    "Cancer", 
+    "Child health", 
+    "Congressional oversight", 
+    "Crime victims", 
+    "Crimes against women", 
+    "Department of Health and Human Services", 
+    "Emergency medical services and trauma care", 
+    "Executive agency funding and structure", 
+    "Family planning and birth control", 
+    "Government studies and investigations", 
+    "Health", 
+    "Health care costs and insurance", 
+    "Health care coverage and access", 
+    "Health care quality", 
+    "Health facilities and institutions", 
+    "Health information and medical records", 
+    "Health personnel", 
+    "Health programs administration and funding", 
+    "Health promotion and preventive care", 
+    "Higher education", 
+    "Internet and video services", 
+    "Medicaid", 
+    "Medical education", 
+    "Medical research", 
+    "Medical tests and diagnostic methods", 
+    "Minority health", 
+    "Nursing", 
+    "Research administration and funding", 
+    "Sex and reproductive health", 
+    "Sex offenses", 
+    "Sexually transmitted diseases", 
+    "Women's health"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-09-30", 
+    "text": "21st Century Women's Health Act of 2015\n\nThis bill amends the Public Health Service Act (PHSA) to allow the Department of Health and Human Services (HHS) to award grants for family planning service projects, expansion of family planning preventive health services, and training of nurse practitioners specializing in women's health care.\n\nThis bill amends title XIX (Medicaid) of the Social Security Act to require state Medicaid programs to offer free preventive care, including contraceptives.\n\nA hospital cannot receive federal funds unless it promptly provides information about emergency contraception to any woman arriving at the hospital who is a victim of sexual assault. The Centers for Disease Control and Prevention and the Health Resources and Services Administration must develop and disseminate information on emergency contraception. The Agency for Healthcare Research and Quality must study sexual assault survivors' access to emergency contraception.\n\nThe PHSA is amended to establish an Office of the Ombudsperson on Women's Health in HHS to handle complaints involving HHS regarding women's health services and to study the adequacy of health plan provider networks for women's health services.\n\nHHS must coordinate a national public education campaign regarding preventive health services for women and families.\n\nHHS must award states grants to establish maternal mortality review committees to investigate pregnancy-related deaths.\n\nThe National Institutes of Health must organize a national workshop on severe maternal morbidity.\n\nTo eliminate disparities in maternal health outcomes, HHS must conduct research, expand access to services that improve maternity care, and compare and implement interventions for reducing disparities."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "21st Century Women's Health Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To expand programs with respect to women's health.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:54:12-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3652:@@@L&summ2=m&"
+}

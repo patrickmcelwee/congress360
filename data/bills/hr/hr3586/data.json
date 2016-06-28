@@ -1,0 +1,282 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-09-22", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Homeland Security, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-09-22", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "text": "Referred to House Homeland Security", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-09-22", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "text": "Referred to House Transportation and Infrastructure", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-09-23", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Aviation.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-09-23", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Coast Guard and Maritime Transportation.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-09-30", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-30", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2016-04-12T19:24:00-04:00", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-488, Part I.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-12T19:24:00-04:00", 
+      "references": [], 
+      "text": "Committee on Transportation discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-12T19:24:00-04:00", 
+      "calendar": "Union", 
+      "number": "372", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 372.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2016-04-13T14:19:00-04:00", 
+      "references": [], 
+      "text": "Mrs. Miller (MI) moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-13T14:19:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H1655-1663", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-13T14:19:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3586.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-13T14:33:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H1655-1661", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2016-04-13T14:33:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-14", 
+      "committees": [
+        "SSGA"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3586-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Aviation", 
+      "subcommittee_id": "05"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Coast Guard and Maritime Transportation", 
+      "subcommittee_id": "07"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Homeland Security and Governmental Affairs", 
+      "committee_id": "SSGA"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "10", 
+      "name": "McCaul, Michael T.", 
+      "sponsored_at": "2015-09-22", 
+      "state": "TX", 
+      "thomas_id": "01804", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-09-30", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2016-04-13T14:33:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-09-22", 
+  "number": "3586", 
+  "official_title": "To amend the Homeland Security Act of 2002 to improve border and maritime security coordination in the Department of Homeland Security, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Border and Maritime Coordination Improvement Act", 
+  "sponsor": {
+    "district": "10", 
+    "name": "Miller, Candice S.", 
+    "state": "MI", 
+    "thomas_id": "01731", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2016-04-13T14:33:00-04:00", 
+  "subjects": [
+    "Aviation and airports", 
+    "Border security and unlawful immigration", 
+    "California", 
+    "Coast guard", 
+    "Computer security and identity theft", 
+    "Congressional oversight", 
+    "Criminal investigation, prosecution, interrogation", 
+    "Department of Homeland Security", 
+    "Emergency management", 
+    "Executive agency funding and structure", 
+    "Foreign labor", 
+    "Government studies and investigations", 
+    "Homeland security", 
+    "Immigration status and procedures", 
+    "International organizations and cooperation", 
+    "Marine and coastal resources, fisheries", 
+    "Marine and inland water transportation", 
+    "Navigation, waterways, harbors", 
+    "Transportation employees", 
+    "Transportation safety and security"
+  ], 
+  "subjects_top_term": "Emergency management", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2016-04-13", 
+    "text": "Border and Maritime Coordination Improvement Act\n\n(Sec. 2) This bill amends the Homeland Security Act of 2002 to establish within U.S. Customs and Border Protection (CBP) an Immigration Cooperation Program, under which CBP officers may cooperate with authorities of the government of a foreign country, air carriers, and security employees at airports located in that country to identify persons who may be inadmissible to the United States or otherwise pose a risk to border security.\n\nIn carrying out the program, CBP officers posted in a foreign country may:\n\n be stationed at airports in that country; assist with document examination and traveler security assessments; provide technical assistance, equipment, and training to facilitate risk assessments of travelers and appropriate enforcement activities; and make recommendations to air carriers to deny boarding to potentially inadmissible travelers bound for the United States. CBP shall: (1) establish a program for the collection by CBP of advance electronic information from air carriers and other persons and governments within the supply chain regarding cargo being transported to the United States by air and require such information to be transmitted at the earliest point practicable prior to loading such cargo onto an aircraft destined to or transiting through the United States, and (2) coordinate with the Transportation Security Administration (TSA) to identify opportunities where such information can be used to meet TSA program requirements.\n\nAny deployment of new assets by CBP's Office of Air and Marine Operations after this bill's enactment shall occur in accordance with a risk-based assessment that considers mission needs, validated requirements, performance results, threats, costs, and any other relevant factors identified by CBP. Factors shall include:\n\n mission requirements that prioritize the operational needs of field commanders to secure the U.S. border and ports, other Department of Homeland Security (DHS) assets available to help address any unmet border and port security mission requirements, risk analysis showing positioning of assets to respond to intelligence on emerging terrorist or other threats, and cost-benefit analysis showing the relative ability to use assets in the most cost-effective way to reduce risk and achieve mission success. Any such assessment shall consider applicable federal guidance, standards, and agency strategic and performance plans, including:\n\n the most recent departmental Quadrennial Homeland Security Review and any follow-up guidance related to such Review; DHS's Annual Performance Plans; DHS policy guiding use of integrated risk management in resource allocation decisions; DHS and CBP Strategic Plans and Resource Deployment Plans; and applicable aviation guidance from DHS, including the DHS Aviation Concept of Operations. The Inspector General of DHS shall, biennially, audit the deployment of new assets by the Office of Air and Marine Operations and report on DHS compliance with this bill.\n\nCBP shall submit to Congress an identification of facilities owned by the federal government in strategic locations along the maritime border of California that may be suitable for establishing additional Office of Air and Marine Operations marine interdiction stations.\n\nThe Secretary of DHS shall establish the Integrated Border Enforcement Team (IBET) program and administer it in a manner that results in a cooperative approach between the United States and Canada to:\n\n strengthen security between designated ports of entry; detect, prevent, investigate, and respond to terrorism and violations of law related to border security; facilitate collaboration among components and offices within DHS and international partners; execute coordinated activities in furtherance of border security and homeland security; and enhance information-sharing. IBETs shall be led by the U.S. Border Patrol and may be comprised of personnel from specified U.S. agencies and foreign law enforcement partners. DHS is authorized to establish IBETs in regions after considering:\n\n whether a region is significantly impacted by cross-border threats; the availability of federal, state, local, tribal, and foreign law enforcement resources to participate in an IBET; and whether other joint cross-border initiatives already take place within the region. DHS shall ensure that an IBET under consideration does not duplicate the efforts of other existing interagency task forces or centers. DHS may direct the assignment of federal personnel to IBETs and take other actions to assist federal, state, local, and tribal entities to participate in such IBETs.\n\nDHS shall coordinate the IBET program with other DHS border security and antiterrorism programs in accordance with the strategic objectives of the Cross-Border Law Enforcement Advisory Committee.\n\nDHS shall report to Congress on:\n\n the effectiveness of IBETs; the impact of certain challenges on the sustainment of cross-border IBET operations; ways to support joint training for IBET stakeholder agencies and radio interoperability to allow for secure cross-border radio communications; and how IBETs, Border Enforcement Security Task Forces, and the Integrated Cross-Border Maritime Law Enforcement Operation Program can better align operations. (Sec. 3) The bill directs DHS to establish and operate Joint Task Forces to conduct joint operations using DHS component and office personnel and capabilities to secure U.S. land and maritime borders. Joint Task Force-East and Joint Task Force-West shall execute a strategic plan to secure such borders. Joint Task Force-Investigations shall be responsible for coordinating criminal investigations supporting such task forces.\n\nDHS may allocate on a temporary basis component and office personnel and equipment to a requesting task force. shall consider the impact of such allocation on the ability of the donating component to carry out the primary missions of DHS. Coast Guard personnel and equipment may be used only to carry out operations and investigations related to securing U.S. maritime borders.\n\nDHS shall establish: (1) performance metrics to evaluate the effectiveness of the task forces in securing the U.S. land and maritime borders, and (2) a joint duty training program to enhance departmental unity of efforts and promote workforce professional development.\n\nDHS may establish additional joint task forces for: (1) coordinating operations along the northern border, (2) homeland security crises, (3) establishing other regionally based operations, or (4) cybersecurity. DHS may not establish a joint task force for any major disaster or emergency declared under the Robert T. Stafford Disaster Relief and Emergency Assistance Act or any incident for which the Federal Emergency Management Agency (FEMA) has primary responsibility for management of the response, with exceptions. DHS must notify Congress 90 days prior to the establishment of an additional joint task force, subject to a waiver of that requirement in the event of an emergency circumstance that imminently threatens the protection of human life or the protection of property.\n\nThe Inspector General shall conduct a review of the joint task forces. Joint task force provisions terminate on September 30, 2018.\n\nDHS must submit: (1) a plan for the coordination and cooperation of maritime operations undertaken by DHS components and offices with responsibility for maritime security missions, which shall update the maritime operations coordination plan released by DHS in July 2011; and (2) an update to such plan by July 1, 2020.\n\n(Sec. 4) The bill authorizes CBP to enter into a fee agreement with any requesting entity under which:\n\n CBP shall provide services by CBP employees or contractors pertaining to, or in support of, customs, agricultural processing, border security, or immigration inspection-related matters at a U.S. port of entry or other facility; such entity shall remit to CBP a fee for the full costs of providing such services; and space provided at each facility at which CBP services are performed shall be provided, maintained, and equipped by such entity, without cost to the federal government, in accordance with CBP specifications. CBP may enter into fee agreements only for services that: (1) will increase or enhance the operational capacity of CBP based on available staffing and workload; and (2) will not shift the cost of services funded in any appropriations Act or provided from any Treasury account derived by the collection of fees to entities under this bill.\n\nCBP may enter into an agreement with any entity to accept a donation of personal property, money, or nonpersonal services to be used for expenses related to furniture, fixtures, equipment, or technology, or to accept a donation of real property or money to be used for activities related to port of entry construction, alteration, operation, or maintenance, only with respect to the following locations at which CBP inspection services are performed:\n\n a new or existing sea or air port of entry, an existing federal government-owned land port of entry, and a new federal government-owned land port of entry if the fair market value of the donation is $50 million or less and the fair market value of such port of entry when completed is $50 million or less. CBP shall establish criteria for:\n\n the selection and evaluation of donors; identification of roles and responsibilities between CBP, the General Services Administration (GSA), and donors; and identification, allocation, and management of explicit and implicit risks of partnering between the federal government and donors. CBP shall establish criteria for evaluating a proposal to enter into such an agreement and shall make such criteria publicly available. Such criteria shall consider:\n\n the impact of a proposal on ports of entry and other similar facilities or other infrastructure near the location of the proposed donation; such proposal's potential to increase trade and travel efficiency through added capacity and to enhance port of entry security; whether a real property donation satisfies the requirements of such proposal or whether additional real property would be required, as well as how such donation was acquired; the funding available to complete the intended use of such donation; the costs of maintaining and operating such donation; and the impact of such proposal on CBP staffing requirements. The bill repeals provisions of: (1) the Consolidated and Further Continuing Appropriations Act, 2013, regarding port of entry infrastructure; and (2) the Consolidated Appropriations Act, 2014, regarding a port of entry partnership pilot program.\n\n(Sec. 5) The bill establishes within DHS the Office of Biometric Identity Management, which shall:\n\n lead DHS's biometric identity services to support anti-terrorism, counter-terrorism, border security, credentialing, national security, and public safety; enable operational missions across DHS by matching, storing, sharing, and analyzing biometric data; deliver biometric identity information and analysis capabilities to DHS, other federal, state, local, and tribal agencies, and appropriate foreign governments and private sector entities; support the law enforcement, public safety, national security, and homeland security missions of other agencies; establish and manage the operation and maintenance of DHS's sole biometric repository; establish, manage, and operate Biometric Support Centers to provide biometric identification and verification analysis and services to DHS and other appropriate agencies, foreign governments, and private entities; establish a DHS-wide research and development program to support efforts in assessment, development, and exploration of biometric advancements and emerging technologies; oversee DHS-wide standards for biometric conformity and work to make such standards government-wide; enter into data sharing agreements with appropriate federal agencies to support immigration, law enforcement, national security, and public safety missions; and maximize interoperability with other federal, state, local, and international biometric systems. (Sec. 6) The bill requires DHS to conduct a cost-benefit analysis of co-locating aviation and maritime operational assets of its respective agencies for any location in which CBP's Office of Air and Marine Operations is based within 45 miles of locations where any other DHS agency also operates air and marine assets. Such analysis shall consider:\n\n potential enhanced cooperation derived from DHS personnel being co-located; potential costs of, and savings derived through, shared maintenance and logistics facilities and activities; joint use of base and facility infrastructure; potential operational costs of co-locating aviation and maritime assets and personnel. short term moving costs required in order to co-locate facilities; and acquisition and infrastructure costs for enlarging current facilities, as needed. DHS must report to Congress on the results of the analysis and any planned actions based upon such results.\n\n(Sec. 7) CBP must submit to Congress a three-year strategic plan for deployment of CBP personnel outside the United States, which shall include:\n\n a risk-based method for determining expansion of CBP international programs to new locations, given resource constraints; a plan to ensure CBP personnel deployed at locations outside the United States have appropriate oversight and support to ensure performance in support of program goals; and information on planned future deployments of CBP personnel for a three-year period. (Sec. 8) CBP shall submit to Congress an assessment of the security threats posed by U.S.-bound international mail.\n\n(Sec. 9) The Government Accountability Office shall submit to Congress a report on the state of the Coast Guard's Deployable Specialized Forces, which shall include:\n\n an analysis of training, operating, and travel costs; and the mission impact, feasibility, and cost of combining DSFs, primarily focused on counterdrug operations, under one centralized command and of distributing counter-terrorism and anti-terrorism capabilities to DSFs in each major U.S. port. (Sec. 10) The bill amends the Security and Accountability for Every Port Act (SAFE Port Act) of 2006 to include exporters among the entities that are eligible to apply to voluntarily enter into partnerships with DHS under the Customs-Trade Partnership Against Terrorism (C-TPAT) program.\n\nThe bill requires DHS, at least 30 days before signing an arrangement between the United States and a foreign government providing for mutual recognition of supply chain security practices which might result in the utilization of benefits under the trusted shipper programs, to: (1) notify Congress of the proposed terms of the arrangement, and (2) determine that such government's supply chain security program provides comparable security as that provided by C-TPAT.\n\n(Sec. 11) DHS must provide an update of the strategic plan to enhance the security of the international supply chain within 270 days after enactment of this bill and every three years thereafter.\n\n(Sec. 12) CBP must report to Congress by 270 days after this bill's enactment on the effectiveness of, and the need for any improvements to, the Container Security Initiative.\n\n(Sec. 13) The TSA must seek to strengthen the integrity of transportation security cards (Transportation Worker Identification Credential) against improper access by individuals not lawfully present in the United States by:\n\n requiring each card applicant to produce a documents that demonstrate identity and proof of lawful presence in the United States, and ensuring that trusted agents at card enrollment centers receive training to identify fraudulent documents. A transportation security card shall expire on the earlier of the date of its expiration or the date on which the individual to whom such card is issued is no longer lawfully entitled to be present in the United States.\n\nDHS shall report on the average time for completion of the appeals process pertaining to such cards, the most common reasons for delays, and recommendations on resolving such delays expeditiously.\n\n(Sec. 14) The bill repeals various provisions of the SAFE Port Act concerning completed reporting and other requirements."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Border and Maritime Coordination Improvement Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Border and Maritime Coordination Improvement Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Border and Maritime Coordination Improvement Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Homeland Security Act of 2002 to improve border and maritime security coordination in the Department of Homeland Security, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:53:39-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3586:@@@L&summ2=m&"
+}

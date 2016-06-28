@@ -1,0 +1,113 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-05-18", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-05-22", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Energy and Power.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2402-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Energy and Power", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "4", 
+      "name": "Gowdy, Trey", 
+      "sponsored_at": "2015-05-18", 
+      "state": "SC", 
+      "thomas_id": "02058", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-05-18", 
+  "number": "2402", 
+  "official_title": "To amend the Federal Power Act to prohibit the public disclosure of protected information, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Protecting Critical Infrastructure Act", 
+  "sponsor": {
+    "district": "19", 
+    "name": "Lofgren, Zoe", 
+    "state": "CA", 
+    "thomas_id": "00701", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-05-18", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Canada", 
+    "Electric power generation and transmission", 
+    "Energy", 
+    "Federal Energy Regulatory Commission (FERC)", 
+    "Freedom of information", 
+    "Homeland security", 
+    "International organizations and cooperation", 
+    "Latin America", 
+    "Mexico", 
+    "Terrorism"
+  ], 
+  "subjects_top_term": "Energy", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-05-18", 
+    "text": "Protecting Critical Infrastructure Act\n\nThis bill amends the Federal Power Act to: (1) exempt protected electric security information from mandatory public disclosure under the Freedom of Information Act; and (2) prohibit any state, local, or tribal authority from disclosing such information pursuant to state, local, or tribal law.\n\nThe Federal Energy Regulatory Commission (FERC) shall promulgate specified regulations and issue the orders necessary to designate protected electric security information and to prohibit its unauthorized disclosure.\n\nThere is no requirement for a person or entity in possession of protected electric security information to share it with federal, state, local, or tribal authorities. Sharing information with Congress, however, is permitted.\n\n Unless specifically redesignated by FERC, information may not be designated as protected electric security information for longer than five years. FERC shall remove a designation, in whole or in part, if it determines that its unauthorized disclosure could no longer be used to impair the security or reliability of the bulk-power system or distribution facilities."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Protecting Critical Infrastructure Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Federal Power Act to prohibit the public disclosure of protected information, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:43:37-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2402:@@@L&summ2=m&"
+}

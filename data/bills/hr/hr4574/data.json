@@ -1,0 +1,117 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-02-12", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Transportation and Infrastructure.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-02-16", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Aviation.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4574-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Aviation", 
+      "subcommittee_id": "05"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "2", 
+      "name": "Polis, Jared", 
+      "sponsored_at": "2016-02-12", 
+      "state": "CO", 
+      "thomas_id": "01910", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "Stefanik, Elise M.", 
+      "sponsored_at": "2016-06-13", 
+      "state": "NY", 
+      "thomas_id": "02263", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-02-12", 
+  "number": "4574", 
+  "official_title": "To require the Federal Aviation Administration to adopt safety standards regarding fuel systems in newly manufactured helicopters.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Helicopter Fuel System Safety Act", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Perlmutter, Ed", 
+    "state": "CO", 
+    "thomas_id": "01835", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-02-12", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Aviation and airports", 
+    "Department of Transportation", 
+    "Motor fuels", 
+    "Transportation and public works", 
+    "Transportation safety and security"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2016-02-12", 
+    "text": "Helicopter Fuel System Safety Act\n\nThis bill directs the Federal Aviation Administration, in accordance with the safety recommendations of the National Transportation Safety Board (A-15-12), to issue regulations to ensure that certain fuel system crash resistance requirements are met by requiring that all newly manufactured helicopters, regardless of the design's original certification date, have fuel systems that meet such crash-worthiness requirements."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Helicopter Fuel System Safety Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require the Federal Aviation Administration to adopt safety standards regarding fuel systems in newly manufactured helicopters.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:01:55-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4574:@@@L&summ2=m&"
+}

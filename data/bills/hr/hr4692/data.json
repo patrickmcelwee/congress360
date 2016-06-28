@@ -1,0 +1,101 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-03-03", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-03-04", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4692-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-03-03", 
+  "number": "4692", 
+  "official_title": "To amend the Public Health Service Act, in relation to requiring adrenoleukodystrophy screening of newborns.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2641-114", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Aidan's Law", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Clarke, Yvette D.", 
+    "state": "NY", 
+    "thomas_id": "01864", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-03-03", 
+  "subjects": [
+    "Advisory bodies", 
+    "Child health", 
+    "Health", 
+    "Health promotion and preventive care", 
+    "Hereditary and development disorders", 
+    "Medical tests and diagnostic methods", 
+    "Neurological disorders"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Aidan's Law", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Public Health Service Act, in relation to requiring adrenoleukodystrophy screening of newborns.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:02:54-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4692:@@@L&summ2=m&"
+}

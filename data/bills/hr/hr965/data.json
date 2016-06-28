@@ -1,0 +1,109 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-02-13", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-02-20", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr965-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "3", 
+      "name": "Boustany, Charles W., Jr.", 
+      "sponsored_at": "2015-02-13", 
+      "state": "LA", 
+      "thomas_id": "01787", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-02-13", 
+  "number": "965", 
+  "official_title": "To require the issuance of guidance on the application of the Federal policy for the protection of human subjects with respect to clinical data registries.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Facilitating Participation in Clinical Data Registries Act of 2015", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Pascrell, Bill, Jr.", 
+    "state": "NJ", 
+    "thomas_id": "01510", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-02-13", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Department of Health and Human Services", 
+    "Health", 
+    "Health information and medical records", 
+    "Medical ethics", 
+    "Medical research", 
+    "Right of privacy"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-02-13", 
+    "text": "Facilitating Participation in Clinical Data Registries Act of 2015\n\nThis bill requires the Office for Human Research Protections of the Department of Health and Human Services to issue guidance within one year on the application of the Common Rule, which provides protections for human research subjects, to clinical data registries."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Facilitating Participation in Clinical Data Registries Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require the issuance of guidance on the application of the Federal policy for the protection of human subjects with respect to clinical data registries.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:31:20-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR965:@@@L&summ2=m&"
+}

@@ -1,0 +1,97 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-11-19", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-11-19", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Social Security.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4115-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM", 
+      "subcommittee": "Subcommittee on Social Security", 
+      "subcommittee_id": "01"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-11-19", 
+  "number": "4115", 
+  "official_title": "To adjust the amount of monthly old-age, survivors, and disability insurance payments under title II of the Social Security Act based on locality-based comparability payment rates.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Locality-based Social Security Benefits Act of 2015", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Meng, Grace", 
+    "state": "NY", 
+    "thomas_id": "02148", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-11-19", 
+  "subjects": [
+    "Government employee pay, benefits, personnel management", 
+    "Inflation and prices", 
+    "Social security and elderly assistance", 
+    "Social welfare", 
+    "Wages and earnings"
+  ], 
+  "subjects_top_term": "Social welfare", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-11-19", 
+    "text": "Locality-based Social Security Benefits Act of 2015\n\nThis bill directs the Social Security Administration to increase the monthly benefit amount to which each individual is otherwise entitled under title II (Old Age, Survivors and Disability Insurance) (OASDI) of the Social Security Act by the percentage determined by the President for the locality pay area in which the individual resides at the time of the increase."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Locality-based Social Security Benefits Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To adjust the amount of monthly old-age, survivors, and disability insurance payments under title II of the Social Security Act based on locality-based comparability payment rates.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:58:04-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4115:@@@L&summ2=m&"
+}

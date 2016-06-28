@@ -1,0 +1,98 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-09-08", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-09-28", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3451-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Regulatory Reform, Commercial And Antitrust Law", 
+      "subcommittee_id": "05"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-09-08", 
+  "number": "3451", 
+  "official_title": "To amend title 11 of the United States Code to make student loans dischargeable.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr449-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Student Loan Bankruptcy Parity Act of 2015", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Kildee, Daniel T.", 
+    "state": "MI", 
+    "thomas_id": "02134", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-09-08", 
+  "subjects": [
+    "Bankruptcy", 
+    "Finance and financial sector", 
+    "Higher education", 
+    "Student aid and college costs"
+  ], 
+  "subjects_top_term": "Finance and financial sector", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Student Loan Bankruptcy Parity Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 11 of the United States Code to make student loans dischargeable.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:52:32-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3451:@@@L&summ2=m&"
+}

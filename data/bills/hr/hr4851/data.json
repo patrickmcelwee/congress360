@@ -1,0 +1,136 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-03-23", 
+      "committees": [
+        "HSAS"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Armed Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-04-05", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Emerging Threats and Capabilities.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4851-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS", 
+      "subcommittee": "Subcommittee on Emerging Threats and Capabilities", 
+      "subcommittee_id": "26"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "2", 
+      "name": "Larsen, Rick", 
+      "sponsored_at": "2016-03-23", 
+      "state": "WA", 
+      "thomas_id": "01675", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "McSally, Martha", 
+      "sponsored_at": "2016-04-13", 
+      "state": "AZ", 
+      "thomas_id": "02225", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Pitts, Joseph R.", 
+      "sponsored_at": "2016-05-03", 
+      "state": "PA", 
+      "thomas_id": "01514", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Scott, Austin", 
+      "sponsored_at": "2016-04-13", 
+      "state": "GA", 
+      "thomas_id": "02009", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-03-23", 
+  "number": "4851", 
+  "official_title": "To enhance electronic warfare capabilities, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2486-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Electronic Warfare Capabilities Enhancement Act of 2016", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Walorski, Jackie", 
+    "state": "IN", 
+    "thomas_id": "02128", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-03-23", 
+  "subjects": [
+    "Armed forces and national security"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2016-03-23", 
+    "text": "Electronic Warfare Capabilities Enhancement Act of 2016\n\nThis bill permits the use of appropriations authorized for electromagnetic spectrum warfare systems and electronic warfare in order to develop and field electromagnetic spectrum warfare systems and electronic warfare capabilities.\n\nThe Bob Stump National Defense Authorization Act for Fiscal Year 2003 is amended to include electronic warfare programs in the rapid acquisition authority program.\n\nElectronic warfare is military action involving the use of electromagnetic and directed energy to control the electromagnetic spectrum or to attack the enemy.\n\nThe Department of Defense shall delegate to the senior electronic warfare executive the authority to review and validate all Joint Capabilities Integration and Development System documents for electronic warfare acquisition programs.\n\nThe Electronic Warfare Executive Committee shall submit to the congressional defense committees a strategic plan with measurable and timely objectives to achieve its mission according to specified metrics."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Electronic Warfare Capabilities Enhancement Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To enhance electronic warfare capabilities, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:04:14-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4851:@@@L&summ2=m&"
+}

@@ -1,0 +1,116 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-02-09", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-02-11", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Trade.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4503-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM", 
+      "subcommittee": "Subcommittee on Trade", 
+      "subcommittee_id": "04"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Miller, Jeff", 
+      "sponsored_at": "2016-03-21", 
+      "state": "FL", 
+      "thomas_id": "01685", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-02-09", 
+  "number": "4503", 
+  "official_title": "To allow for additional markings, including the word \"Israel\", to be used for country of origin marking requirements for goods made in the geographical areas known as the West Bank and Gaza Strip.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2474-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Fair Treatment of Israel in Product Labeling Act of 2016", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Poe, Ted", 
+    "state": "TX", 
+    "thomas_id": "01802", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-02-09", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Customs enforcement", 
+    "Department of the Treasury", 
+    "Foreign trade and international finance", 
+    "Gaza Strip", 
+    "Israel", 
+    "Middle East", 
+    "West Bank"
+  ], 
+  "subjects_top_term": "Foreign trade and international finance", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2016-02-09", 
+    "text": "Fair Treatment of Israel in Product Labeling Act of 2016\n\nThis bill requires that, for goods produced or originating in the areas known as the West Bank and the Gaza Strip, proper markings for country of origin include: (1) Israel, (2) West Bank, (3) Gaza, (4) Gaza Strip, (5) West Bank/Gaza, or (6) West Bank/Gaza Strip.\n\nNeither the Department of the Treasury, the Department of State, the Department of Homeland Security, nor any competent official of another federal department or agency shall prohibit the use of any such markings for purposes of country of origin marking requirements."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Fair Treatment of Israel in Product Labeling Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To allow for additional markings, including the word \"Israel\", to be used for country of origin marking requirements for goods made in the geographical areas known as the West Bank and Gaza Strip.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:01:19-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4503:@@@L&summ2=m&"
+}

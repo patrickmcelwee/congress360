@@ -1,0 +1,107 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-09-29", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-11-03", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Immigration and Border Security.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3647-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Immigration and Border Security", 
+      "subcommittee_id": "01"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "2", 
+      "name": "Pearce, Stevan", 
+      "sponsored_at": "2015-09-29", 
+      "state": "NM", 
+      "thomas_id": "01738", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-09-29", 
+  "number": "3647", 
+  "official_title": "To amend the Immigration and Nationality Act to provide that United States citizens' sons and daughters with mental or physical disabilities be considered immediate relatives for purposes of exemption from numerical limitations on visas issued to such sons and daughters.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Fairness for Families Act of 2015", 
+  "sponsor": {
+    "district": "16", 
+    "name": "O'Rourke, Beto", 
+    "state": "TX", 
+    "thomas_id": "02162", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-09-29", 
+  "subjects": [
+    "Adult day care", 
+    "Disability and paralysis", 
+    "Immigration", 
+    "Immigration status and procedures", 
+    "Visas and passports"
+  ], 
+  "subjects_top_term": "Immigration", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-09-29", 
+    "text": "Fairness for Families Act of 2015\n\nThis bill amends the Immigration and Nationality Act to define \"mental or physical disability\" as a mental or physical impairment or physical disability that: (1) a licensed examining physician designated by the Department of State has determined renders the individual unable to care for himself or herself as an adult, and (2) because of this impairment or disability the individual's parent or sibling is solely responsible for the individual's care.\n\nU.S. citizens' sons and daughters with mental or physical disabilities shall be considered immediate relatives for exemption from numerical limitations on visas."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Fairness for Families Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Immigration and Nationality Act to provide that United States citizens' sons and daughters with mental or physical disabilities be considered immediate relatives for purposes of exemption from numerical limitations on visas issued to such sons and daughters.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:54:10-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3647:@@@L&summ2=m&"
+}

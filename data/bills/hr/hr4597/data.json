@@ -1,0 +1,158 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-02-24", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-02-29", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Immigration and Border Security.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4597-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Immigration and Border Security", 
+      "subcommittee_id": "01"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "27", 
+      "name": "Farenthold, Blake", 
+      "sponsored_at": "2016-03-07", 
+      "state": "TX", 
+      "thomas_id": "02067", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Gosar, Paul A.", 
+      "sponsored_at": "2016-02-26", 
+      "state": "AZ", 
+      "thomas_id": "01992", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Jones, Walter B., Jr.", 
+      "sponsored_at": "2016-02-29", 
+      "state": "NC", 
+      "thomas_id": "00612", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "King, Steve", 
+      "sponsored_at": "2016-02-26", 
+      "state": "IA", 
+      "thomas_id": "01724", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Palazzo, Steven M.", 
+      "sponsored_at": "2016-04-26", 
+      "state": "MS", 
+      "thomas_id": "02035", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-02-24", 
+  "number": "4597", 
+  "official_title": "To provide resources and incentives for the enforcement of immigration laws in the interior of the United States and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2538-114", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "ICE Agent Support Act of 2016", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Brooks, Mo", 
+    "state": "AL", 
+    "thomas_id": "01987", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-02-24", 
+  "subjects": [
+    "Appropriations", 
+    "Border security and unlawful immigration", 
+    "Criminal investigation, prosecution, interrogation", 
+    "Criminal justice information and records", 
+    "Department of Homeland Security", 
+    "Detention of persons", 
+    "Executive agency funding and structure", 
+    "Firearms and explosives", 
+    "Government buildings, facilities, and property", 
+    "Government employee pay, benefits, personnel management", 
+    "Immigration", 
+    "Immigration status and procedures", 
+    "Law enforcement officers", 
+    "Motor vehicles"
+  ], 
+  "subjects_top_term": "Immigration", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2016-02-24", 
+    "text": "ICE Agent Support Act of 2016\n\nThis bill directs the Department of the Treasury to refund out of the Immigration Enforcement Account the amount paid out of any appropriation for expenses incurred by the Department of Homeland Security (DHS) for:\n\n identification, investigation, apprehension, detention, and removal of criminal aliens, including providing staffing levels within the Enforcement and Removal Operations division of U.S. Immigration and Customs Enforcement; maintenance and updating of systems used by the division to identify and track criminal aliens, deportable aliens, inadmissible aliens, and aliens illegally entering the United States; and purchase of firearms, vehicles, and other safety or apprehension equipment for the division. DHS shall establish the percentage of positions within the division that shall be classified as a criminal investigator position."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "ICE Agent Support Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide resources and incentives for the enforcement of immigration laws in the interior of the United States and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:02:06-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4597:@@@L&summ2=m&"
+}

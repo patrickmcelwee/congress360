@@ -1,0 +1,126 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-03-23", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Financial Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-04-14", 
+      "references": [], 
+      "text": "Hearings Held by the Subcommittee on Capital Markets and Government Sponsored Enterprises Prior to Referral.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-15", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-16", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-16", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 57 - 2.", 
+      "type": "calendar"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4855-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }, 
+    {
+      "activity": [
+        "hearings"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA", 
+      "subcommittee": "Subcommittee on Capital Markets and Government Sponsored Enterprises", 
+      "subcommittee_id": "16"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "6", 
+      "name": "Schweikert, David", 
+      "sponsored_at": "2016-06-08", 
+      "state": "AZ", 
+      "thomas_id": "01994", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2016-04-14", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-03-23", 
+  "number": "4855", 
+  "official_title": "To amend provisions in the securities laws relating to regulation crowdfunding to raise the dollar amount limit and to clarify certain requirements and exclusions for funding portals established by such Act.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Fix Crowdfunding Act", 
+  "sponsor": {
+    "district": "10", 
+    "name": "McHenry, Patrick T.", 
+    "state": "NC", 
+    "thomas_id": "01792", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2016-06-16", 
+  "subjects": [
+    "Finance and financial sector"
+  ], 
+  "subjects_top_term": "Finance and financial sector", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2016-03-23", 
+    "text": "Fix Crowdfunding Act\n\nThis bill amends the Securities Act of 1933 (Act) to increase from $1 million to $5 million the aggregate amount of securities sold to all investors by an issuer that qualify for the crowdfunding exemption from certain prohibitions relating to interstate commerce and the mails.\n\n(Crowdfunding is a method of capital formation where groups of people pool money, typically composed of small individual contributions, and often via Internet platforms, either to invest in a company or to support an effort by others to accomplish a specific goal.)\n\nThe bill amends the Jumpstart Our Business Startups Act (JOBS Act) to declare that a crowdfunding portal shall have a reasonable basis for disqualifying issuers from offering securities through the portal if through a background check it has found that an issuer has made an untrue statement of a material fact, omitted to state a material fact necessary to avoid making misleading statements, or engaged in fraud or deceit. No intermediary (crowdfunding portal) shall be liable for an issuer's material misstatements and omissions unless, in connection with the offer or sale of a security, it knowingly made or omitted such statements or engaged in fraud or deceit.\n\nThe bill amends the Securities Exchange Act of 1934 to exempt crowdfunding securities transactions from its registration requirements.\n\nThe Investment Company Act of 1940 is amended to exempt from the definition of investment company, and so exclude from coverage by that Act, any issuer that, for the purpose of making a crowdfunding offering, holds the securities of not more than one issuer eligible to offer securities (a single-purpose fund).\n\nThe bill allows single-purpose funds to sell and offer for sale securities according to crowdfunding requirements, and considers them venture capital funds.\n\nThe Act is further amended to permit an issuer, before commencing a crowdfunding offering, to solicit non-binding indications of interest from potential investors in the prospective offering if:\n\n no investor funds are accepted by the issuer, and any material change in the information furnished during the actual offering from the information furnished during the solicitation of interest is highlighted to potential investors in the information filed with the Securities and Exchange Commission. No enforcement action may be brought before May 16, 2021, against crowdfunding portals established under the JOBS Act."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Fix Crowdfunding Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend provisions in the securities laws relating to regulation crowdfunding to raise the dollar amount limit and to clarify certain requirements and exclusions for funding portals established by such Act.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:04:16-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4855:@@@L&summ2=m&"
+}

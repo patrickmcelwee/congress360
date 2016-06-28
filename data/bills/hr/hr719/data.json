@@ -1,0 +1,731 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-02-04", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Homeland Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-02-09", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Transportation Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-02-10T17:08:00-05:00", 
+      "references": [], 
+      "text": "Mr. Katko moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-02-10T17:08:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H892-894", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-02-10T17:08:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 719.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-02-10T17:18:00-05:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-02-10T18:32:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H898", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-02-10T18:58:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H892-893", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "69", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 414 - 0 (Roll no. 69).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2015-02-10T18:58:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-02-11", 
+      "references": [], 
+      "text": "Received in the Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-02-24", 
+      "committees": [
+        "SSCM"
+      ], 
+      "references": [], 
+      "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-02-26", 
+      "committees": [
+        "SSCM"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2015-08-04", 
+      "committee": "Commerce, Science, and Transportation", 
+      "committees": [
+        "SSCM"
+      ], 
+      "references": [], 
+      "text": "Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 114-111.", 
+      "type": "reported"
+    }, 
+    {
+      "acted_at": "2015-08-04", 
+      "calendar": "Senate Legislative", 
+      "number": "191", 
+      "references": [], 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 191.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }, 
+    {
+      "acted_at": "2015-09-17", 
+      "references": [
+        {
+          "reference": "CR S6819-6820", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Measure laid before Senate by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-17", 
+      "references": [
+        {
+          "reference": "CR S6819-6820", 
+          "type": "text of committee substitute as amended"
+        }
+      ], 
+      "text": "The committee substitute as amended agreed to by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-17", 
+      "how": "by Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_BACK:SENATE", 
+      "text": "Passed Senate with an amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2015-09-17", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-24T13:15:00-04:00", 
+      "bill_ids": [
+        "hres434-114"
+      ], 
+      "how": "by special rule", 
+      "references": [
+        {
+          "reference": "CR H6195-6197", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6195-6196", 
+          "type": "text as House agreed to Senate amendment with an amendment"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_BACK:HOUSE", 
+      "text": "House agreed to Senate amendment with amendment pursuant to H. Res. 434.", 
+      "type": "vote", 
+      "vote_type": "pingpong", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2015-09-24", 
+      "references": [], 
+      "text": "Message on House action received in Senate and at desk: House amendment to Senate amendment.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-24", 
+      "references": [
+        {
+          "reference": "CR S6931-6932", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Measure laid before Senate by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-24", 
+      "references": [
+        {
+          "reference": "CR S6931", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Motion by Senator McConnell to concur in the House amendment to the Senate amendment with an amendment (SA 2689) made in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-24", 
+      "committees": [
+        "SSAP"
+      ], 
+      "references": [
+        {
+          "reference": "CR S6932", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Motion by Senator McConnell to refer to Senate Committee on Appropriations the House message on H.R. 719 with instructions to report back forthwith with the following amendment (SA 2691) made in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-24", 
+      "references": [
+        {
+          "reference": "CR S6932", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S6932", 
+          "type": "text"
+        }
+      ], 
+      "text": "Cloture motion on the motion to concur in the House amendment to the Senate amendment to H.R. 719 with amendment SA 2689 presented in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-28", 
+      "references": [
+        {
+          "reference": "CR S6963-6966", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate (Message from the House considered).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-28", 
+      "references": [
+        {
+          "reference": "CR S6966", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S6966", 
+          "type": "text"
+        }
+      ], 
+      "text": "Cloture on the motion to concur in the House amendment to the Senate amendment to H.R. 719 with amendment SA 2689 invoked in Senate by Yea-Nay Vote. 77 - 19. Record Vote Number: 271.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-28", 
+      "committees": [
+        "SSAP"
+      ], 
+      "references": [
+        {
+          "reference": "CR S6966", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Motion by Senator McConnell to refer to Senate Committee on Appropriations the House message on H.R. 719 with instructions to report back forthwith with the following amendment (SA 2691) fell when cloture was invoked on the motion to concur in the House amendment to the Senate amendment to H.R. 719 with amendment SA 2689 in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-29", 
+      "references": [
+        {
+          "reference": "CR S6984-6987, S6987-6989, S6989-6999", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate (Message from the House considered).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-30", 
+      "references": [
+        {
+          "reference": "CR H7013-7014", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate (Message from the House considered).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-30", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR S7014", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "272", 
+      "status": "PASS_BACK:SENATE", 
+      "text": "Senate concurred in the House amendment to the Senate amendment to the bill (H.R. 719) with an amendment (SA 2689) Yea-Nay Vote. 78 - 20. Record Vote Number: 272.", 
+      "type": "vote", 
+      "vote_type": "pingpong", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2015-09-30", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-30T14:28:00-04:00", 
+      "bill_ids": [
+        "hres448-114", 
+        "hcres79-114"
+      ], 
+      "committees": [
+        "HSRU"
+      ], 
+      "references": [], 
+      "text": "Rules Committee Resolution H. Res. 448 Reported to House. Rule provides for consideration of H. Con. Res. 79 and H.R. 719. Rule provides for 20 minutes of debate on H. Con. Res. 79. Section 2 provides for one hour of debate on a motion for the House to agree to the Senate amendment to the House amendment to the Senate amendment to H.R. 719.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-30T15:01:00-04:00", 
+      "bill_ids": [
+        "hres448-114"
+      ], 
+      "references": [], 
+      "text": "Rule H. Res. 448 passed House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-30T15:09:00-04:00", 
+      "bill_ids": [
+        "hres448-114"
+      ], 
+      "references": [], 
+      "text": "ORDER OF PROCEDURE - Mr. Rogers (KY) asked unanimous consent that the question of adopting a motion to concur pursuant to H. Res. 448 may be subject to postponement as though under clause 8 rule XX. Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-30T15:13:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6731-6738, H6742-6743", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6733", 
+          "type": "text"
+        }
+      ], 
+      "text": "Mr. Rogers (KY) moved that the House concur in the Senate amendment to the House amendment to the Senate amendment.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-30T15:15:00-04:00", 
+      "bill_ids": [
+        "hres448-114"
+      ], 
+      "references": [], 
+      "text": "DEBATE - Pursuant to the provisions of H. Res. 448, the House proceeded with one hour of debate on the Rogers (KY) motion that the House concur in the Senate amendment to the House amendment to the Senate amendment to H.R. 719.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-30T15:54:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6738", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "The previous question was ordered pursuant to the rule.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-30T15:55:00-04:00", 
+      "references": [], 
+      "text": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Rogers (KY) motion that the House agree to the Senate amendment to the House amendment to the Senate amendment to H.R. 719, the Chair put the question on adoption of the motion and by voice vote, announced that the ayes had prevailed. Mr. Rogers (KY) demanded the yeas and nays which were ordered and pursuant to a previous order of the House, further proceedings on the question of adoption of the motion were postponed until a time to be announced.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-30T16:58:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H6731-6733", 
+          "type": "text as House agreed to Senate amendment to House amendment to Senate amendment"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "528", 
+      "status": "PASSED:BILL", 
+      "suspension": null, 
+      "text": "On motion that the House agree to the Senate amendment to the House amendment to the Senate amendment Agreed to by the Yeas and Nays: 277 - 151 (Roll no. 528).", 
+      "type": "vote", 
+      "vote_type": "pingpong", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2015-09-30T16:58:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-30", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2015-09-30", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2015-09-30", 
+      "congress": "114", 
+      "law": "public", 
+      "number": "53", 
+      "references": [], 
+      "text": "Became Public Law No: 114-53.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "samdt2666-114", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2666"
+    }, 
+    {
+      "amendment_id": "samdt2689-114", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2689"
+    }, 
+    {
+      "amendment_id": "samdt2690-114", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2690"
+    }, 
+    {
+      "amendment_id": "samdt2691-114", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2691"
+    }, 
+    {
+      "amendment_id": "samdt2692-114", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2692"
+    }, 
+    {
+      "amendment_id": "samdt2693-114", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2693"
+    }, 
+    {
+      "amendment_id": "samdt2695-114", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2695"
+    }, 
+    {
+      "amendment_id": "samdt2696-114", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2696"
+    }, 
+    {
+      "amendment_id": "samdt2697-114", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2697"
+    }, 
+    {
+      "amendment_id": "samdt2698-114", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2698"
+    }, 
+    {
+      "amendment_id": "samdt2699-114", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2699"
+    }, 
+    {
+      "amendment_id": "samdt2701-114", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2701"
+    }, 
+    {
+      "amendment_id": "samdt2702-114", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2702"
+    }, 
+    {
+      "amendment_id": "samdt2703-114", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2703"
+    }
+  ], 
+  "bill_id": "hr719-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM", 
+      "subcommittee": "Subcommittee on Transportation Security", 
+      "subcommittee_id": "07"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "Senate Commerce, Science, and Transportation", 
+      "committee_id": "SSCM"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "10", 
+      "name": "McCaul, Michael T.", 
+      "sponsored_at": "2015-02-04", 
+      "state": "TX", 
+      "thomas_id": "01804", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Rice, Kathleen M.", 
+      "sponsored_at": "2015-02-04", 
+      "state": "NY", 
+      "thomas_id": "02262", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Sanford, Mark", 
+      "sponsored_at": "2015-02-04", 
+      "state": "SC", 
+      "thomas_id": "01012", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Thompson, Bennie G.", 
+      "sponsored_at": "2015-02-04", 
+      "state": "MS", 
+      "thomas_id": "01151", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "114", 
+    "law_type": "public", 
+    "number": "53"
+  }, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-02-10T17:08:00-05:00", 
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2015-09-30", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2015-09-30T16:58:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2015-09-30", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-02-04", 
+  "number": "719", 
+  "official_title": "To require the Transportation Security Administration to conform to existing Federal law and regulations regarding criminal investigator positions, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hconres79-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hres434-114", 
+      "reason": "caused-action", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hres448-114", 
+      "reason": "rule", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hjres75-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hjres78-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr2250-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Continuing Appropriations Act, 2016", 
+  "sponsor": {
+    "district": "24", 
+    "name": "Katko, John", 
+    "state": "NY", 
+    "thomas_id": "02264", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2015-09-30", 
+  "subjects": [
+    "Appropriations", 
+    "Congressional oversight", 
+    "Criminal investigation, prosecution, interrogation", 
+    "Department of Homeland Security", 
+    "Economics and public finance", 
+    "Executive agency funding and structure", 
+    "Firearms and explosives", 
+    "Government employee pay, benefits, personnel management", 
+    "Government ethics and transparency, public corruption", 
+    "Government studies and investigations", 
+    "Law enforcement officers", 
+    "Licensing and registrations", 
+    "Transportation safety and security"
+  ], 
+  "subjects_top_term": "Economics and public finance", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2015-09-30", 
+    "text": "(This measure has not been amended since the Senate agreed to the House amendment with an amendment on September 30, 2015. The summary of that version is repeated here.)\n\nHighlights:\n\nThis bill provides continuing FY2016 appropriations to federal agencies until December 11, 2015, or the enactment of specified appropriations legislation. It is known as a continuing resolution (CR) and prevents a government shutdown that would otherwise occur when FY2016 begins on October 1, 2015, because none of the twelve FY2016 regular appropriations bills that fund the federal government have been enacted.\n\nThe bill funds most projects and activities at the FY2015 levels, with the inclusion of an across-the-board reduction of less than 1% to most programs. The bill also includes a number of exceptions which provide funding flexibility and additional appropriations to various programs.\n\nThe bill extends several programs and laws that are scheduled to expire at the end of FY2015, including the E-Verify program and the moratorium imposed by the Internet Tax Freedom Act. (Unless otherwise indicated, all extensions referenced in this summary are for the duration of the CR.)\n\nThe bill also provides $700 million in emergency appropriations for Forest Service wildland fire suppression activities. Emergency funds are exempt from limits on discretionary spending.\n\nThe bill requires the Transportation Security Administration to take a number of actions to ensure that Office of Inspection employees that are classified and paid as criminal investigators meet all of the legal and regulatory requirements for criminal investigator positions.\n\nFull Summary: \n\nTSA Office of Inspection Accountability Act of 2015 or the Continuing Appropriations Act, 2016 \n\n(Sec. 4) Requires the Department of Homeland Security Office of Inspector General (OIG) to: (1) analyze the data and methods used by the Transportation Security Administration (TSA) to classify Office of Inspection (OOI) employees as criminal investigators; and (2) report relevant findings, including whether the data and methods are adequate and valid.\n\nProhibits the TSA from hiring new OOI employees if the OIG finds that the data and methods are inadequate or invalid until: (1) the TSA certifies to Congress that only OOI employees who meet the minimum legal requirements are classified as criminal investigators and are receiving premium pay and other benefits associated with the classification, and (2) the OIG finds that the TSA's certification utilized adequate and valid data and methods.\n\n(Sec. 5) Requires the TSA to: (1) certify to Congress that only OOI employees who meet the minimum legal requirements are classified as criminal investigators and are receiving premium pay and other benefits associated with the classification, (2) reclassify OOI criminal investigator employees who do not, or are not expected to, spend an average of at least 50% of their time performing criminal investigative duties, and (3) report to Congress on the long-term cost savings from reclassified positions.\n\n(Sec. 6) Requires the TSA to report to Congress on the OOI's review of instances in which Federal Air Marshal Service officials obtained discounted or free firearms for personal use.\n\n(Sec. 7) Requires the OIG to submit to Congress a report: (1) reviewing the employee requirements, responsibilities, and benefits of criminal investigators in the OOI with criminal investigators employed at agencies adhering to the Office of Personnel Management employee classification system; and (2) identifying any inconsistencies and costs implications for differences between the varying employee requirements, responsibilities, and benefits.\n\n(Sec. 8) Requires the OIG to submit to Congress a study reviewing: (1) the Federal Air Marshal Service's existing personnel policies and procedures for identifying misuse of government resources; and (2) the administration of the Federal Air Marshal Service's existing code of conduct or integrity policies with respect to instances of misconduct.\n\nProvides continuing FY2016 appropriations to federal agencies until December 11, 2015, or enactment of specified appropriations legislation.\n\n(Sec. 101) Provides FY2016 appropriations to federal agencies for continuing projects or activities at the levels of, and under the terms and conditions of FY2015 appropriations Acts, reduced by 0.21% of both defense and non-defense discretionary programs.\n\n(Sec. 102) Prohibits funds provided by section 101 for the Department of Defense (DOD) from being used for: (1) new production of items not funded in FY2015 or prior years; (2) an increase in production rates above those sustained with FY2015 funds; or (3) the initiation, resumption, or continuation of any project, activity, operation, or organization for which funds or authority were not available during FY2015.\n\nProhibits funds provided by section 101 to DOD from being used to initiate certain multi-year procurements.\n\n(Sec. 103) Specifies that funds provided by section 101 shall be available to the extent and in the manner that would be provided in the pertinent appropriations Act.\n\n(Sec. 104) Prohibits any appropriations or funds made available by section 101 from being used to initiate or resume any project or activity which was not funded in FY2015.\n\n(Sec. 105) Continues all authorities, requirements, and limitations from FY2015 appropriations Acts through the date in section 106 and permits valid obligations and expenditures during the period of this continuing resolution (CR).\n\n(Sec. 106) Continues the appropriations provided by this bill through the earlier of December 11, 2015, or the enactment of the pertinent appropriations Act.\n\n(Sec. 107) Requires expenditures for activities funded in this bill to be charged to the relevant account when the applicable appropriations bill becomes law.\n\n(Sec. 108) Waives the normal time limitations for submission and approval of apportionments of accounts funded in annual appropriations Acts.\n\n(Sec. 109) Limits disbursements for programs that otherwise would have high initial rates of operation or would complete distribution of funding at the beginning of the fiscal year if those actions would impinge on final congressional funding prerogatives.\n\n(Sec. 110) Directs that this bill be implemented so that only the most limited funding action permitted by this bill is taken in order to provide for continuation of projects and activities.\n\n(Sec. 111) Provides that entitlements and other mandatory payments with budget authority provided in FY2015 appropriations Acts and activities under the Food and Nutrition Act of 2008 shall continue at the rate to maintain program levels under current law and under the authority and conditions provided in the applicable FY2015 appropriations Act for up to 30 days after the expiration of the CR.\n\n(Sec. 112) Provides that funding made available by this bill for civilian personnel compensation and benefits in each department and agency may be apportioned up to the rate of operations necessary to avoid furloughs. Requires all necessary actions to reduce or defer non-personnel-related administrative expenses to be taken prior to using this authority.\n\n (Sec. 113) Permits funds appropriated by this bill to be obligated and expended notwithstanding specified statutory provisions restricting appropriations for foreign assistance, the Department of State, international broadcasting, and intelligence activities in the absence of prior authorizations.\n\n(Sec. 114) Extends designations for Overseas Contingency Operations/ Global War on Terrorism and disaster relief to funds provided by this bill that previously carried those designations.\n\nExempts funds designated or otherwise provided as Overseas Contingency Operations/Global War on Terrorism, the Social Security Administration's continuing disability reviews and redeterminations, health care fraud and abuse control, disaster relief, and emergency requirements from the across-the-board reduction included in section 101.\n\nProvides that amounts designated for Overseas Contingency Operations/ Global War on Terrorism shall only be available if the President subsequently designates the amounts and transmits the designations to Congress.\n\n(Sec. 115) Applies the across-the-board reduction in section 101 to advance appropriations made in prior years that first become available in FY2016.\n\n(Sec. 116) Provides a higher rate of funding for the Department of Agriculture's (USDA's) Commodity Assistance Program, including the Commodity Supplemental Food Program, which is a domestic food assistance program that predominantly serves low-income elderly individuals.\n\n(Sec. 117) Provides USDA with funding flexibility to pay ongoing debt service for multi-family direct loan program rental assistance contracts under sections 514 and 515 of the Housing Act of 1949. Permits the renewal during the duration of the CR of rental assistance contracts entered into or renewed in 2015 that exhausted funds within the 12-month contract period.\n\n(Sec. 118) Provides the National Oceanic and Atmospheric Administration with funding flexibility to maintain launch schedules for the Joint Polar Satellite System. (Polar-orbiting satellites circle the earth in a north-south orbit and provide the primary inputs for weather prediction models.)\n\n(Sec. 119) Permits the transfer of certain unobligated balances from the Assets Forfeiture Fund to the U.S. Marshals Service's Federal Prisoner Detention account to fund federal prisoner detention operations for the duration of the CR.\n\n(Sec. 120) Extends the availability of previously appropriated funds to support closeout activities of the Space Shuttle Program.\n\n(Sec. 121) Permits uncompleted Broadband Technology Opportunities Program projects to continue to expend obligated funds through FY2020.\n\n(Sec. 122) Extends the authority for the Office of Security Cooperation in Iraq and the authority to pay cash rewards to persons assisting U.S. forces in counterterrorism operations.\n\n(Sec. 123) Permits funds provided by this bill to the Department of Energy for the Uranium Enrichment Decontamination and Decommissioning Fund to be apportioned up to the rate for operations necessary to avoid disruption of continuing projects and activities. (This account primarily funds the decommissioning and environmental remediation of three federal uranium enrichment facilities in Kentucky, Ohio, and Tennessee.)\n\n(Sec. 124) Permits the District of Columbia to spend funds collected through local taxes and other non-federal sources at the rate set forth in the DC FY2016 Budget Request Act of 2015.\n\n(Sec. 125) States that no funds are provided by this bill for the Recovery Accountability and Transparency Board, which was established to provide oversight and transparency in the expenditure of funds provided by the American Recovery and Reinvestment Act of 2009.\n\n(Sec. 126) Provides the Small Business Administration with funding flexibility to accommodate increased demand for general business loans authorized under section 7(a) of the Small Business Act.\n\n(Sec. 127) Extends the Internet Tax Freedom Act, which includes a moratorium preventing state and local governments from taxing Internet access or imposing multiple or discriminatory taxes on electronic commerce.\n\n(Sec. 128) Permits the Office of Management and Budget to make specified adjustments to discretionary spending limits to account for estimating differences with the Congressional Budget Office.\n\n(Sec. 129) Extends the authority of the Department of Homeland Security to use certain procurement agreements for research and development projects with non-traditional government contractors.\n\n(Sec. 130) Extends the E-Verify employment authorization program.\n\n(Sec. 131) Extends the EB-5 Immigrant Investor Visa Program.\n\n(Sec. 132) Extends the special immigrant status granted to religious workers other than ministers.\n\n(Sec. 133) Extends the authority for the visa waiver program for rural doctors.\n\n(Sec. 134) Amends the Federal Lands Recreation Enhancement Act to extend through September 30, 2017, the authority of federal agencies to establish, collect, and retain fees on federal recreational lands and waters.\n\n(Sec. 135) Appropriates $700 million in emergency funding, to remain available until expended, for urgent Forest Service wildland fire suppression activities if: (1) funds previously provided for fire suppression will be exhausted imminently, and (2) the appropriations committees are notified.\n\nPermits the funds to be transferred to other appropriations accounts to repay amounts previously transferred for wildfire suppression. Designates the funds as an emergency requirement, which will only become available if the President also designates the amounts. (Emergency funds are exempt from discretionary spending limits and other budget enforcement rules.)\n\n(Sec. 136) Extends the authority of the Department of the Interior to establish higher rates of pay for certain employees in the petroleum engineering and geoscience fields working on both offshore and onshore oil and gas development.\n\n(Sec. 137) Extends the authority for the Eisenhower Memorial Commission and continues the construction limitation for the Memorial imposed in 2015 and prior years.\n\n(Sec. 138) Amends the Carl Levin and Howard P. ''Buck'' McKeon National Defense Authorization Act for Fiscal Year 2015 to provide that certain funding for the Department of the Interior's Payments In Lieu of Taxes (PILT) program is available for FY2015. (PILT compensates local governments for the presence of federally owned land.)\n\n(Sec. 139) Permits funds made available in prior appropriations bills for construction and renovation of facilities for the Centers for Disease Control and Prevention to be used for construction of a replacement freezer building on leased land.\n\n(Sec. 140) Extends through the 2016-2017 school year the authority of the Department of Education to include teachers pursuing alternative routes to certification in the definition of a highly qualified teacher under the No Child Left Behind Act of 2001.\n\n(Sec. 141) Incorporates and continues a rescission of Children's Health Insurance Program funds.\n\n(Sec. 142) Extends the authority for the Department of Education's National Advisory Committee on Institutional Quality and Integrity. (The committee is responsible for assessing the process of accreditation in higher education and the institutional eligibility and certification of institutions of higher education to participate in federal student aid programs authorized under Title IV of the Higher Education Act.)\n\n(Sec. 143) Appropriates a $174,000 death gratuity to the widow of Representative Alan Nunnelee. (A gratuity equal to one year's salary has long been given to the heirs of Members of Congress who die in office.)\n\n(Sec. 144) Permits specified unobligated Department of Veterans Affairs (VA) funds to be transferred to the Construction--Major Projects account to cover costs for completion of the Denver Replacement Medical Center, subject to the approval of Congress.\n\n(Sec. 145) Provides additional funding for Veterans Benefits Administration general operating expenses to continue progress on the disability claims backlog.\n\n(Sec. 146) Continues a rescission of VA Medical Services, Medical Support and Compliance, and Medical Facilities funds that routinely accompanies a reappropriation of the funds to extend the availability of the funds from one to two years.\n\n(Sec. 147) Extends the authority for the U.S. Commission on International Religious Freedom.\n\n(Sec. 148) Provides funding flexibility for specified international activities to sustain assistance for Ukraine to counter external, regional aggression and influence, including for the costs of authorized loan guarantees.\n\n(Sec. 149) Extends the authority for the U.S. Advisory Commission on Public Diplomacy.\n\n(Sec. 150) Provides the Department of Housing and Urban Development (HUD) with funding flexibility to maintain the schedule for the New Core Shared Services Project. (The project is a transition of HUD's financial management systems to a federal shared services provider.)"
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "TSA Office of Inspection Accountability Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "TSA Office of Inspection Accountability Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "is_for_portion": false, 
+      "title": "TSA Office of Inspection Accountability Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": false, 
+      "title": "Continuing Appropriations Act, 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": false, 
+      "title": "TSA Office of Inspection Accountability Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require the Transportation Security Administration to conform to existing Federal law and regulations regarding criminal investigator positions, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:29:17-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR719:@@@L&summ2=m&"
+}

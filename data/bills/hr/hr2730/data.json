@@ -1,0 +1,232 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-06-11", 
+      "references": [
+        {
+          "reference": "CR H4388", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-06-11", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-06-12", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2730-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "3", 
+      "name": "Beatty, Joyce", 
+      "sponsored_at": "2015-09-29", 
+      "state": "OH", 
+      "thomas_id": "02153", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Bilirakis, Gus M.", 
+      "sponsored_at": "2016-02-01", 
+      "state": "FL", 
+      "thomas_id": "01838", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Cummings, Elijah E.", 
+      "sponsored_at": "2015-06-11", 
+      "state": "MD", 
+      "thomas_id": "00256", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Ellmers, Renee L.", 
+      "sponsored_at": "2015-09-08", 
+      "state": "NC", 
+      "thomas_id": "02036", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Frelinghuysen, Rodney P.", 
+      "sponsored_at": "2016-02-08", 
+      "state": "NJ", 
+      "thomas_id": "00414", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Hastings, Alcee L.", 
+      "sponsored_at": "2015-10-08", 
+      "state": "FL", 
+      "thomas_id": "00511", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Jones, Walter B., Jr.", 
+      "sponsored_at": "2015-06-11", 
+      "state": "NC", 
+      "thomas_id": "00612", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Kelly, Robin L.", 
+      "sponsored_at": "2015-06-15", 
+      "state": "IL", 
+      "thomas_id": "02190", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "McCaul, Michael T.", 
+      "sponsored_at": "2015-06-11", 
+      "state": "TX", 
+      "thomas_id": "01804", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Payne, Donald M., Jr.", 
+      "sponsored_at": "2015-07-13", 
+      "state": "NJ", 
+      "thomas_id": "02097", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "25", 
+      "name": "Slaughter, Louise McIntosh", 
+      "sponsored_at": "2016-01-06", 
+      "state": "NY", 
+      "thomas_id": "01069", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Whitfield, Ed", 
+      "sponsored_at": "2015-07-22", 
+      "state": "KY", 
+      "thomas_id": "01222", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-06-11", 
+  "number": "2730", 
+  "official_title": "To establish the National Prostate Cancer Council for improved screening, early detection, assessment, and monitoring of prostate cancer, and to direct the development and implementation of a national strategic plan to expedite advancement of diagnostic tools and the transfer of such tools to patients.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s216-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s222-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "National Prostate Cancer Plan Act", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Butterfield, G. K.", 
+    "state": "NC", 
+    "thomas_id": "01761", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-06-11", 
+  "subjects": [
+    "Cancer", 
+    "Department of Health and Human Services", 
+    "Executive agency funding and structure", 
+    "Health", 
+    "Health promotion and preventive care", 
+    "Medical research", 
+    "Medical tests and diagnostic methods", 
+    "Minority health", 
+    "Research administration and funding"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-06-11", 
+    "text": "National Prostate Cancer Plan Act\n\nEstablishes in the Department of Health and Human Services (HHS) the National Prostate Cancer Council on Screening, Early Detection, Assessment, and Monitoring of Prostate Cancer to: (1) develop and implement a strategic plan for the accelerated development of diagnostic tools for prostate cancer, (2) review the effectiveness of diagnostic tools for prostate cancer, (3) coordinate prostate cancer research and services across federal agencies, (4) evaluate all active federal prostate cancer programs, and (5) ensure the inclusion of men at high risk for prostate cancer in clinical, research, and service efforts.\n\nDirects the Council to submit annual reports. Requires the first report to include recommendations based on an evaluation of prostate cancer research and gaps in the development and validation of diagnostic tools for prostate cancer. Requires subsequent reports to include an outline for a national research plan, roles for specified agencies, an analysis of the disparities in the incidence and mortality of prostate cancer in high-risk men, and a review of the progress towards the realization of the strategic plan.\n\nTerminates the Council on December 31, 2020."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "National Prostate Cancer Plan Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To establish the National Prostate Cancer Council for improved screening, early detection, assessment, and monitoring of prostate cancer, and to direct the development and implementation of a national strategic plan to expedite advancement of diagnostic tools and the transfer of such tools to patients.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:46:30-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2730:@@@L&summ2=m&"
+}

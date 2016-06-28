@@ -1,0 +1,155 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-07-23", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-08-31", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-03-15", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-03-15", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Subcommittee on Indian, Insular and Alaska Native Affairs Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-03-16", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-03-16", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Unanimous Consent.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2016-05-11T16:55:00-04:00", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on Natural Resources. H. Rept. 114-563.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-11T16:55:00-04:00", 
+      "calendar": "Union", 
+      "number": "437", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 437.", 
+      "type": "calendar", 
+      "under": null
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3211-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Indian, Insular and Alaska Native Affairs", 
+      "subcommittee_id": "24"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2016-03-15", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-07-23", 
+  "number": "3211", 
+  "official_title": "To provide for the addition of certain real property to the reservation of the Siletz Tribe in the State of Oregon.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s817-114", 
+      "reason": "identical", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s817-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "5", 
+    "name": "Schrader, Kurt", 
+    "state": "OR", 
+    "thomas_id": "01950", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2016-03-16", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Department of the Interior", 
+    "Gambling", 
+    "Indian lands and resources rights", 
+    "Land transfers", 
+    "Native Americans", 
+    "Oregon"
+  ], 
+  "subjects_top_term": "Native Americans", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-07-23", 
+    "text": "Amends the Siletz Tribe Indian Restoration Act to authorize the Department of the Interior to take into trust for the Siletz Tribe additional lands that lie within the original 1855 Siletz Coast Reservation and are located in Benton, Douglas, Lane, Lincoln, Tillamook, or Yamhill County in Oregon.\n\nRequires such land to be considered and evaluated as an on-reservation acquisition and become part of the Tribe's reservation. (Off-reservation land acquisition requests require Interior to give greater scrutiny to the tribe's justification of the anticipated benefits from the acquisition.)\n\nProhibits gaming on lands taken into trust pursuant to this Act."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide for the addition of certain real property to the reservation of the Siletz Tribe in the State of Oregon.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:50:31-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3211:@@@L&summ2=m&"
+}

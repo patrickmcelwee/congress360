@@ -1,0 +1,88 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-03-14", 
+      "committees": [
+        "HSHA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on House Administration.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-05-17", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-17", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4733-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup"
+      ], 
+      "committee": "House Administration", 
+      "committee_id": "HSHA"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2016-05-17", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-03-14", 
+  "number": "4733", 
+  "official_title": "To permit the United States Capitol Police to accept certain property from other Federal agencies and to dispose of certain property in its possession.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "1", 
+    "name": "Brady, Robert A.", 
+    "state": "PA", 
+    "thomas_id": "01469", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2016-05-17", 
+  "subjects": [
+    "Congress"
+  ], 
+  "subjects_top_term": "Congress", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2016-03-14", 
+    "text": "This bill amends the Legislative Branch Appropriations Act, 2003 to authorize the U.S. Capitol Police, by interagency transfer, donation, sale, trade-in, or other appropriate method, to dispose of any property in their possession because it has been disposed of, forfeited, voluntarily abandoned, or unclaimed. (Currently the U.S. Capitol Police are authorized to use these methods to dispose of only their own surplus or obsolete property.)\n\nUpon notifying specified congressional committees, the U.S. Capitol Police may accept surplus or obsolete property offered by another federal department, agency, or office."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To permit the United States Capitol Police to accept certain property from other Federal agencies and to dispose of certain property in its possession.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:03:14-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4733:@@@L&summ2=m&"
+}

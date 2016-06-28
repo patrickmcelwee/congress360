@@ -1,0 +1,148 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-05-21", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-05-22", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Energy and Power.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2557-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Energy and Power", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "McKinley, David B.", 
+      "sponsored_at": "2015-07-08", 
+      "state": "WV", 
+      "thomas_id": "02074", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "Olson, Pete", 
+      "sponsored_at": "2015-06-25", 
+      "state": "TX", 
+      "thomas_id": "01955", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Pompeo, Mike", 
+      "sponsored_at": "2015-06-25", 
+      "state": "KS", 
+      "thomas_id": "02022", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "23", 
+      "name": "Reed, Tom", 
+      "sponsored_at": "2015-07-27", 
+      "state": "NY", 
+      "thomas_id": "01982", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-05-21", 
+  "number": "2557", 
+  "official_title": "To promote new manufacturing in the United States by providing for greater transparency and timeliness in obtaining necessary permits, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1425-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Promoting New Manufacturing Act", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Scalise, Steve", 
+    "state": "LA", 
+    "thomas_id": "01892", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-05-21", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Administrative remedies", 
+    "Air quality", 
+    "Building construction", 
+    "Congressional oversight", 
+    "Electric power generation and transmission", 
+    "Environmental Protection Agency (EPA)", 
+    "Environmental protection", 
+    "Environmental regulatory procedures", 
+    "Government information and archives", 
+    "Industrial facilities", 
+    "Licensing and registrations", 
+    "Manufacturing"
+  ], 
+  "subjects_top_term": "Environmental protection", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-05-21", 
+    "text": "Promoting New Manufacturing Act\n\n This bill requires the Environmental Protection Agency (EPA) to publish on its website:\n\n the total number of preconstruction permits issued annually under the Clean Air Act's New Source Review Program for the construction or modification of a major stationary source (any stationary facility or source of air pollutants which directly emits, or has the potential to emit, 100 tons per year or more of any regulated air pollutant); the percentage of permits issued within one year of the application; and the average length of time for the EPA's Environmental Appeals Board to decide appeals of decisions to grant or deny a permit. The EPA must publish this information for FY2008 and each subsequent fiscal year.\n\nA new or revised national ambient air quality standard (NAAQS) cannot apply to the review and disposition of a preconstruction permit application unless the EPA publishes implementation guidance with the NAAQS.\n\nThe EPA has to submit annually a report on actions to expedite the process for review of preconstruction permits."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Promoting New Manufacturing Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To promote new manufacturing in the United States by providing for greater transparency and timeliness in obtaining necessary permits, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:44:55-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2557:@@@L&summ2=m&"
+}

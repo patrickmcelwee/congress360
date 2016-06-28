@@ -1,0 +1,148 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-12-02", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-12-03", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Economic Opportunity.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4161-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR", 
+      "subcommittee": "Subcommittee on Economic Opportunity", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "9", 
+      "name": "Collins, Doug", 
+      "sponsored_at": "2015-12-09", 
+      "state": "GA", 
+      "thomas_id": "02121", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Gabbard, Tulsi", 
+      "sponsored_at": "2015-12-02", 
+      "state": "HI", 
+      "thomas_id": "02122", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Griffith, H. Morgan", 
+      "sponsored_at": "2015-12-02", 
+      "state": "VA", 
+      "thomas_id": "02070", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Massie, Thomas", 
+      "sponsored_at": "2015-12-02", 
+      "state": "KY", 
+      "thomas_id": "02094", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "27", 
+      "name": "Ros-Lehtinen, Ileana", 
+      "sponsored_at": "2016-05-25", 
+      "state": "FL", 
+      "thomas_id": "00985", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-12-02", 
+  "number": "4161", 
+  "official_title": "To amend the Servicemembers Civil Relief Act to require the consent of parties to contracts for the use of arbitration to resolve controversies arising under the contracts and subject to provisions of such Act and to preserve the rights of servicemembers to bring class actions under such Act, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2331-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "SCRA Rights Protection Act of 2015", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Jones, Walter B., Jr.", 
+    "state": "NC", 
+    "thomas_id": "00612", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-12-02", 
+  "subjects": [
+    "Alternative dispute resolution, mediation, arbitration", 
+    "Armed forces and national security", 
+    "Civil actions and liability", 
+    "Veterans' loans, housing, homeless programs"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-12-02", 
+    "text": "SCRA Rights Protection Act of 2015\n\nThis bill amends the Servicemembers Civil Relief Act (SCRA) to allow the use of arbitration to resolve a controversy that arises under a contract with a servicemember (or with a servicemember and spouse jointly) that provides for arbitration, only if all parties to the controversy consent in writing to arbitration after the controversy arises.\n\nA servicemember's waiver of any SCRA rights and protections shall be effective only if it is made after a specific dispute has arisen and is identified in the waiver.\n\nA representative of members of an aggrieved class, or a member of the class, may bring a private civil action for a violation of any SCRA rights or protections."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "SCRA Rights Protection Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Servicemembers Civil Relief Act to require the consent of parties to contracts for the use of arbitration to resolve controversies arising under the contracts and subject to provisions of such Act and to preserve the rights of servicemembers to bring class actions under such Act, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:58:27-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4161:@@@L&summ2=m&"
+}

@@ -1,0 +1,105 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-04-22", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Transportation and Infrastructure.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-04-23", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Aviation.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1939-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Aviation", 
+      "subcommittee_id": "05"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-04-22", 
+  "number": "1939", 
+  "official_title": "To amend the FAA Modernization and Reform Act of 2012 to establish prohibitions to prevent the use of an unmanned aircraft system as a weapon while operating in the national airspace system, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "NADA Act of 2015", 
+  "sponsor": {
+    "district": "26", 
+    "name": "Burgess, Michael C.", 
+    "state": "TX", 
+    "thomas_id": "01751", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-04-22", 
+  "subjects": [
+    "Arms control and nonproliferation", 
+    "Aviation and airports", 
+    "Border security and unlawful immigration", 
+    "Hunting and fishing", 
+    "Military operations and strategy", 
+    "Transportation and public works", 
+    "Transportation safety and security"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-04-22", 
+    "text": "No Armed Drones Act of 2015 or the NADA Act of 2015 \n\n Amends the FAA Modernization and Reform Act of 2012 to prohibit the Department of Transportation (DOT) from authorizing any person to operate an unmanned aircraft system (drone) in the national airspace system as a weapon or to deliver a weapon against a person or property.\n\nPermits DOT to establish exceptions to the prohibition for:\n\n private drones for recreational hunting and animal control, and public drones for operations conducted by U.S. Customs and Border Protection, the Department of Defense, and certain governmental entities for national defense or in response to terrorism."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "NADA Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "No Armed Drones Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the FAA Modernization and Reform Act of 2012 to establish prohibitions to prevent the use of an unmanned aircraft system as a weapon while operating in the national airspace system, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:39:42-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR1939:@@@L&summ2=m&"
+}

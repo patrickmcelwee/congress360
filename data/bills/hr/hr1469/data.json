@@ -1,0 +1,112 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-03-19", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-03-20", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1469-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-03-19", 
+  "number": "1469", 
+  "official_title": "To improve, coordinate, and enhance rehabilitation research at the National Institutes of Health.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr1631-114", 
+      "reason": "identical", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s800-114", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Enhancing the Stature and Visibility of Medical Rehabilitation Research at NIH Act", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Langevin, James R.", 
+    "state": "RI", 
+    "thomas_id": "01668", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-03-19", 
+  "subjects": [
+    "Congressional oversight", 
+    "Department of Health and Human Services", 
+    "Disability and paralysis", 
+    "Health", 
+    "Health promotion and preventive care", 
+    "Long-term, rehabilitative, and terminal care", 
+    "Medical research", 
+    "National Institutes of Health (NIH)", 
+    "Research administration and funding"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-03-19", 
+    "text": "Enhancing the Stature and Visibility of Medical Rehabilitation Research at NIH Act\n\nThis bill amends the Public Health Service Act to revise requirements for medical rehabilitation research.\n\nThe purpose of the National Center for Medical Rehabilitation Research (NCMRR) is revised to include coordination of research and research training.\n\nThe NCMRR must develop and periodically update a comprehensive research plan for medical rehabilitation research. Currently, this research plan is developed and updated by the Eunice Kennedy Shriver National Institute of Child Health and Human Development.\n\nThe NCMRR must: (1) annually report on progress in achieving the objectives, benchmarks, and guiding principles described in the research plan; and (2) develop guidelines governing the funding for medical rehabilitation research by the National Institutes of Health.\n\nThe Medical Rehabilitation Coordinating Committee must periodically host a scientific conference or workshop on medical rehabilitation research.\n\nThe Department of Health and Human Services must enter into interagency agreements to coordinate medical rehabilitation research."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Enhancing the Stature and Visibility of Medical Rehabilitation Research at NIH Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To improve, coordinate, and enhance rehabilitation research at the National Institutes of Health.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:35:43-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR1469:@@@L&summ2=m&"
+}

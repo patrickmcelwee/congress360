@@ -1,0 +1,131 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-12-01", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-01-15", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on the Constitution and Civil Justice.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4147-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Constitution and Civil Justice", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "7", 
+      "name": "Capuano, Michael E.", 
+      "sponsored_at": "2016-05-11", 
+      "state": "MA", 
+      "thomas_id": "01564", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Pascrell, Bill, Jr.", 
+      "sponsored_at": "2016-05-11", 
+      "state": "NJ", 
+      "thomas_id": "01510", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "52", 
+      "name": "Peters, Scott H.", 
+      "sponsored_at": "2016-02-08", 
+      "state": "CA", 
+      "thomas_id": "02113", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Ryan, Tim", 
+      "sponsored_at": "2016-02-02", 
+      "state": "OH", 
+      "thomas_id": "01756", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-12-01", 
+  "number": "4147", 
+  "official_title": "To apologize for the treatment of Italian Americans during World War II.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "19", 
+    "name": "Lofgren, Zoe", 
+    "state": "CA", 
+    "thomas_id": "00701", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-12-01", 
+  "subjects": [
+    "Civil rights and liberties, minority issues", 
+    "Conflicts and wars", 
+    "Constitution and constitutional amendments", 
+    "Europe", 
+    "First Amendment rights", 
+    "Italy", 
+    "Racial and ethnic relations", 
+    "U.S. history"
+  ], 
+  "subjects_top_term": "Civil rights and liberties, minority issues", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-12-01", 
+    "text": "This bill declares that Congress apologizes on behalf of the nation for violations of the civil liberties and constitutional rights of Italian Americans during World War II."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To apologize for the treatment of Italian Americans during World War II.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:58:20-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4147:@@@L&summ2=m&"
+}

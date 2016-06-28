@@ -1,0 +1,121 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-03-25", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-03-26", 
+      "references": [
+        {
+          "reference": "CR E438", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1609-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "12", 
+      "name": "Maloney, Carolyn B.", 
+      "sponsored_at": "2015-03-25", 
+      "state": "NY", 
+      "thomas_id": "00729", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Norton, Eleanor Holmes", 
+      "sponsored_at": "2015-03-25", 
+      "state": "DC", 
+      "thomas_id": "00868", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Scott, Robert C. \"Bobby\"", 
+      "sponsored_at": "2015-03-25", 
+      "state": "VA", 
+      "thomas_id": "01037", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-03-25", 
+  "number": "1609", 
+  "official_title": "To amend title 31, United States Code, to direct the Secretary of the Treasury to regulate tax return preparers.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Tax Return Preparer Accountability Act of 2015", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Cohen, Steve", 
+    "state": "TN", 
+    "thomas_id": "01878", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-03-25", 
+  "subjects": [
+    "Accounting and auditing", 
+    "Administrative law and regulatory procedures", 
+    "Department of the Treasury", 
+    "Licensing and registrations", 
+    "Tax administration and collection, taxpayers", 
+    "Taxation"
+  ], 
+  "subjects_top_term": "Taxation", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-03-25", 
+    "text": "Tax Return Preparer Accountability Act of 2015\n\nAmends the Internal Revenue Code to require the Secretary of the Treasury to regulate tax return preparers who are not otherwise subject to regulation. Authorizes the Secretary to impose a $1,000 penalty for each federal tax return or other document prepared by a tax return preparer during a period in which\u00a0such preparer: (1) is not in compliance with applicable Treasury regulations, or (2) is suspended or disbarred from acting as a tax return preparer under such regulations."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Tax Return Preparer Accountability Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 31, United States Code, to direct the Secretary of the Treasury to regulate tax return preparers.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:36:53-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR1609:@@@L&summ2=m&"
+}

@@ -1,0 +1,279 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-04-22", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-05-19", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Federal Lands.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-07-08", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-09", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-09", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Unanimous Consent.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2015-07-09", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Subcommittee on Federal Lands Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-08T19:53:00-04:00", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on Natural Resources. H. Rept. 114-252.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-08T19:53:00-04:00", 
+      "calendar": "Union", 
+      "number": "191", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 191.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2015-09-16T16:00:00-04:00", 
+      "references": [], 
+      "text": "Mr. McClintock moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-16T16:00:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5998-6000", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-16T16:00:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1949.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-16T16:07:00-04:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-16T19:16:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6004-6005", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-16T19:22:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H5998", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "496", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 402 - 0 (Roll no. 496).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2015-09-16T19:22:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-17", 
+      "committees": [
+        "SSEG"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-03-17", 
+      "committee": "Committee on Energy and Natural Resources Subcommittee on National Parks", 
+      "committees": [
+        "SSEG"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.", 
+      "type": "hearings"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1949-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Federal Lands", 
+      "subcommittee_id": "10"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Energy and Natural Resources", 
+      "committee_id": "SSEG"
+    }, 
+    {
+      "activity": [
+        "hearings"
+      ], 
+      "committee": "Senate Energy and Natural Resources", 
+      "committee_id": "SSEG", 
+      "subcommittee": "Subcommittee on National Parks", 
+      "subcommittee_id": "04"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "4", 
+      "name": "McClintock, Tom", 
+      "sponsored_at": "2015-04-22", 
+      "state": "CA", 
+      "thomas_id": "01908", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-07-08", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2015-09-16T19:22:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-04-22", 
+  "number": "1949", 
+  "official_title": "To provide for the consideration and submission of site and design proposals for the National Liberty Memorial approved for establishment in the District of Columbia.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2012-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "National Liberty Memorial Clarification Act of 2015", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Butterfield, G. K.", 
+    "state": "NC", 
+    "thomas_id": "01761", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2015-09-16T19:22:00-04:00", 
+  "subjects": [
+    "Military history", 
+    "Military personnel and dependents", 
+    "Monuments and memorials", 
+    "Public lands and natural resources", 
+    "Racial and ethnic relations", 
+    "U.S. history"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2015-09-16", 
+    "text": "National Liberty Memorial Clarification Act of 2015\n\n(Sec. 2) This bill amends the Military Construction Authorization Act for Fiscal Year 2013 with respect to submission of site and design proposals by the National Mall Liberty Fund D.C. (sponsor) for the National Liberty Memorial to honor the slaves and free black persons who served as soldiers and sailors or provided civilian assistance during the American Revolution.\n\nThe site and design approval process is revised to make the Department of Agriculture, rather than the Department of the Interior or the General Services Administration, responsible for consideration of these site and design proposals and their submission, on behalf of the sponsor, to the Commission of Fine Arts and National Capital Planning Commission."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "National Liberty Memorial Clarification Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "National Liberty Memorial Clarification Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "National Liberty Memorial Clarification Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide for the consideration and submission of site and design proposals for the National Liberty Memorial approved for establishment in the District of Columbia.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:39:47-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR1949:@@@L&summ2=m&"
+}

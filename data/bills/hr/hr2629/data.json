@@ -1,0 +1,115 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-06-03", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-06-05", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2629-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "29", 
+      "name": "Green, Gene", 
+      "sponsored_at": "2015-06-03", 
+      "state": "TX", 
+      "thomas_id": "00462", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-06-03", 
+  "number": "2629", 
+  "official_title": "To amend the Federal Food, Drug, and Cosmetic Act with respect to the approval of certain antibacterial and antifungal drugs, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr6-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Antibiotic Development to Advance Patient Treatment Act", 
+  "sponsor": {
+    "district": "15", 
+    "name": "Shimkus, John", 
+    "state": "IL", 
+    "thomas_id": "01527", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-06-03", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Congressional oversight", 
+    "Department of Health and Human Services", 
+    "Drug safety, medical device, and laboratory regulation", 
+    "Drug therapy", 
+    "Food and Drug Administration (FDA)", 
+    "Health"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-06-03", 
+    "text": "Antibiotic Development to Advance Patient Treatment Act\n\nThis bill amends the Federal Food, Drug, and Cosmetic Act to allow the Food and Drug Administration (FDA) to agree with the sponsor of an applicable medication on a process for approving the medication for use in a limited population of patients. Applicable medications are antibacterial or antifungal drugs or biological products for the treatment of a serious infection. The FDA may rely on alternate study endpoints, limited data sets, and additional data, including preclinical evidence, in approving such a medication.\n\nA medication approved for use in a limited population must be labeled accordingly.\n\nThe Public Health Service Act is amended to require the Department of Health and Human Services to monitor the use of antibacterial and antifungal medications and monitor antibacterial and antifungal resistance. (An individual infected by a strain of bacteria or fungi that is resistant to a medication cannot be treated with that medication. Resistance can develop naturally with the use of a medication.)\n\nThe FDA must identify and publish susceptibility test interpretive criteria for antimicrobial medications. (These criteria are used to characterize the resistance of microbes to antimicrobial medications. \"Microbes\" or \"microorganisms\" include bacteria, some fungi, and other organisms.)\n\nEvery six months, the FDA must evaluate any new or updated susceptibility test interpretive criteria established by a standard development organization and recognize new criteria or withdraw recognition of criteria, as appropriate.\n\nThe FDA may allow marketing of medical devices that use these criteria without premarket approval."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Antibiotic Development to Advance Patient Treatment Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Federal Food, Drug, and Cosmetic Act with respect to the approval of certain antibacterial and antifungal drugs, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:45:39-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2629:@@@L&summ2=m&"
+}

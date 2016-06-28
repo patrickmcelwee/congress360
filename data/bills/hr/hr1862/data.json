@@ -1,0 +1,152 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-04-16", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-05-01", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-07-14", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-22", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-22", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee by Voice Vote .", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1862-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "5", 
+      "name": "Abraham, Ralph Lee", 
+      "sponsored_at": "2015-04-16", 
+      "state": "LA", 
+      "thomas_id": "02244", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Richmond, Cedric L.", 
+      "sponsored_at": "2015-04-21", 
+      "state": "LA", 
+      "thomas_id": "02023", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-07-14", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-04-16", 
+  "number": "1862", 
+  "official_title": "To direct the Secretary of Veterans Affairs to conduct outreach to veterans regarding the effect of delayed payments of claims for emergency medical care furnished by non-Department of Veterans Affairs medical providers by the Chief Business Office and to direct the Secretary to submit to Congress an annual report regarding such delayed payments.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr3016-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Veterans' Credit Protection Act", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Boustany, Charles W., Jr.", 
+    "state": "LA", 
+    "thomas_id": "01787", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-04-16", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Congressional oversight", 
+    "Consumer credit", 
+    "Emergency medical services and trauma care", 
+    "Hospital care", 
+    "Interest, dividends, interest rates", 
+    "Veterans' medical care"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-04-16", 
+    "text": "Veterans' Credit Protection Act\n\n Directs the Department of Veterans Affairs (VA) to: (1) conduct outreach to inform veterans of how to resolve credit issues caused by a delayed payment of a claim for emergency hospital care, medical services, or other emergency health care furnished through a non-VA provider; and (2) establish a toll-free telephone number for veterans to report such issues to the Chief Business Office of the VA.\n\nRequires the VA to report annually on the effectiveness of such Office in providing timely payment of proper invoices for emergency hospital care, medical services, or other emergency health care furnished through non-VA providers by the required payment date during both the preceding five-year period and the preceding one-year period. Requires the report, for any part of the period covered by such a report that occurred before October 1, 2014, to evaluate the provision of such payments by the Veterans Integrated Service Networks.\n\n Requires such report to include:\n\n the number of veterans who contacted the VA regarding delayed payments that could negatively affect their credit; the total amount of interest penalties paid by the VA by reason of delayed payments; the number of proper invoices submitted, the amount owed for and the payment status of such invoices, and the periods that elapsed before such invoices were paid; any comments regarding delayed payments made by medical providers; and a description of the best practices to provide timely payment of a proper invoice, including a plan to improve such timely payments. Directs: (1) the Office to submit to Congress quarterly reports on the number of pending claims for reimbursement for emergency hospital care, medical services, and other emergency health care furnished through non-VA providers; and (2) the Comptroller General to conduct a study that evaluates the effectiveness of the Office in providing timely payment of a proper invoice for such care by the required payment date."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Veterans' Credit Protection Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To direct the Secretary of Veterans Affairs to conduct outreach to veterans regarding the effect of delayed payments of claims for emergency medical care furnished by non-Department of Veterans Affairs medical providers by the Chief Business Office and to direct the Secretary to submit to Congress an annual report regarding such delayed payments.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:39:04-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR1862:@@@L&summ2=m&"
+}

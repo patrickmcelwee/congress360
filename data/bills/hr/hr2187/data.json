@@ -1,0 +1,245 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-04-30", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Financial Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-06-16", 
+      "references": [], 
+      "text": "Hearings Held by the Subcommittee on Capital Markets and Government Sponsored Enterprises Prior to Referral.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-12-08", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-12-09", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-12-09", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 54 - 2.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2016-02-01T14:34:00-05:00", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Financial Services. H. Rept. 114-406.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-01T14:34:00-05:00", 
+      "calendar": "Union", 
+      "number": "309", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 309.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2016-02-01T15:15:00-05:00", 
+      "references": [], 
+      "text": "Mr. Garrett moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-01T15:15:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H378-379", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-01T15:15:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 2187.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-01T15:28:00-05:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-01T18:31:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H401", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-01T18:48:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-01T18:48:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H378", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "46", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 347 - 8 (Roll no. 46).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2016-02-02", 
+      "committees": [
+        "SSBK"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2187-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }, 
+    {
+      "activity": [
+        "hearings"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA", 
+      "subcommittee": "Subcommittee on Capital Markets and Government Sponsored Enterprises", 
+      "subcommittee_id": "16"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Banking, Housing, and Urban Affairs", 
+      "committee_id": "SSBK"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "9", 
+      "name": "Sinema, Kyrsten", 
+      "sponsored_at": "2015-12-10", 
+      "state": "AZ", 
+      "thomas_id": "02099", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-06-16", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2016-02-01T18:48:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-04-30", 
+  "number": "2187", 
+  "official_title": "To direct the Securities and Exchange Commission to revise its regulations regarding the qualifications of natural persons as accredited investors.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Fair Investment Opportunities for Professional Experts Act", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Schweikert, David", 
+    "state": "AZ", 
+    "thomas_id": "01994", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2016-02-01T18:48:00-05:00", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Banking and financial institutions regulation", 
+    "Finance and financial sector", 
+    "Financial services and investments", 
+    "Licensing and registrations", 
+    "Securities", 
+    "Securities and Exchange Commission (SEC)"
+  ], 
+  "subjects_top_term": "Finance and financial sector", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2016-02-01", 
+    "text": "Fair Investment Opportunities for Professional Experts Act\n\n(Sec. 2) This bill amends the Securities Act of 1933 to add to the definition of accredited investor any natural person whose individual net worth, or joint net worth with his or her spouse, exceeds $1 million (adjusted every five years for inflation).\n\nThe person's net worth shall exclude:\n\n the person's primary residence; and as a liability any indebtedness secured by the primary residence, up to the estimated fair market value of the residence at the time of the sale of securities. Indebtedness secured by the person's primary residence in excess of the residence's estimated fair market value at the time of the sale of securities, however, shall be included in net worth as a liability.\n\nAn accredited investor shall also include any natural person:\n\n whose individual income exceeded $200,000 in each of the two most recent years, or whose joint income with spouse exceeded $300,000 in each of those years, and has a reasonable expectation of reaching the same income level in the current year; currently licensed or registered as a broker or investment adviser by the Securities and Exchange Commission, the Financial Industry Regulatory Authority (FINRA) (or an equivalent self-regulatory organization), or a state division responsible for licensing or registration of individuals in connection with securities activities; or whose demonstrable education or job experience qualifies as professional knowledge of a subject related to a particular investment, and whose education or job experience is verified by the FINRA or an equivalent self-regulatory organization."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Fair Investment Opportunities for Professional Experts Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Fair Investment Opportunities for Professional Experts Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Fair Investment Opportunities for Professional Experts Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To direct the Securities and Exchange Commission to revise its regulations regarding the qualifications of natural persons as accredited investors.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:41:49-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2187:@@@L&summ2=m&"
+}

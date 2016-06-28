@@ -1,0 +1,162 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-05-12", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-06-04", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Water, Power and Oceans.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-06-25", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-02", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-02", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Subcommittee on Water, Power and Oceans Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-03", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-03", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Unanimous Consent.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2016-03-14T14:25:00-04:00", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-450.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-03-14T14:25:00-04:00", 
+      "calendar": "Union", 
+      "number": "345", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 345.", 
+      "type": "calendar", 
+      "under": null
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2273-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "discharged"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Water, Power and Oceans", 
+      "subcommittee_id": "13"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-06-25", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-05-12", 
+  "number": "2273", 
+  "official_title": "To amend the Colorado River Storage Project Act to authorize the use of the active capacity of the Fontenelle Reservoir.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1305-114", 
+      "reason": "identical", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s2902-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Lummis, Cynthia M.", 
+    "state": "WY", 
+    "thomas_id": "01960", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2016-02-03", 
+  "subjects": [
+    "Dams and canals", 
+    "Water resources development", 
+    "Water storage", 
+    "Water use and supply", 
+    "Wyoming"
+  ], 
+  "subjects_top_term": "Water resources development", 
+  "summary": {
+    "as": "Reported to House amended", 
+    "date": "2016-03-14", 
+    "text": "(Sec. 1) This bill authorizes the Department of the Interior, in cooperation with the state of Wyoming, to amend the Definite Plan Report for the Seedskadee Project authorized under the Colorado River Storage Project Act to provide for the study, design, planning, and construction activities that will enable the use of all active storage capacity of Fontenelle Dam and Reservoir, including the placement of sufficient riprap on the upstream face of the Dam to allow such storage capacity to be used for authorized Project purposes.\n\nInterior may enter into: (1) any contract, grant, cooperative agreement, or other agreement that is necessary to carry out this Act; and (2) contracts with Wyoming for division of any additional active capacity made available under this Act.\n\nInterior shall enter into a cooperative agreement with Wyoming for planning, design, related preconstruction activities, and construction of any modification of the Fontenelle Dam under this Act, which shall specify the responsibilities of Interior and Wyoming regarding: (1) completing the planning and final design of such modification, (2) any environmental and cultural resource compliance activities required for such modification, and (3) the construction of such modification. As a condition of providing additional storage, Wyoming shall provide to Interior funds for any work carried out to do so."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Colorado River Storage Project Act to authorize the use of the active capacity of the Fontenelle Reservoir.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:42:32-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2273:@@@L&summ2=m&"
+}

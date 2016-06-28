@@ -1,0 +1,101 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-04-28", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-05-01", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2069-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-04-28", 
+  "number": "2069", 
+  "official_title": "To amend the Public Health Service Act to create a National Neuromyelitis Optica Consortium to provide grants and coordinate research with respect to the causes of, and risk factors associated with, neuromyelitis optica, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Neuromyelitis Optica Consortium Act", 
+  "sponsor": {
+    "district": "13", 
+    "name": "Lee, Barbara", 
+    "state": "CA", 
+    "thomas_id": "01501", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-04-28", 
+  "subjects": [
+    "Department of Health and Human Services", 
+    "Executive agency funding and structure", 
+    "Health", 
+    "Health programs administration and funding", 
+    "Hearing, speech, and vision care", 
+    "Medical research", 
+    "National Institutes of Health (NIH)", 
+    "Neurological disorders", 
+    "Research administration and funding"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-04-28", 
+    "text": "Neuromyelitis Optica Consortium Act\n\nThis bill amends the Public Health Service Act to require the National Institutes of Health to establish, administer, and coordinate a National Neuromyelitis Optica (NMO) Consortium to:\n\n award grants for research on the causes of, and the risk factors and biomarkers associated with, NMO (a neurological disease leading to blindness and paralysis); assemble a panel of experts to provide ongoing guidance and recommendations on research design and protocols; and designate a central laboratory to collect, analyze, and aggregate data from this research and to make the data and analysis available to researchers."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Neuromyelitis Optica Consortium Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Public Health Service Act to create a National Neuromyelitis Optica Consortium to provide grants and coordinate research with respect to the causes of, and risk factors associated with, neuromyelitis optica, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:40:50-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2069:@@@L&summ2=m&"
+}

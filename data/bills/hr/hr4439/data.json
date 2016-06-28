@@ -1,0 +1,122 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-02-02", 
+      "references": [
+        {
+          "reference": "CR E98", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-02", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Transportation and Infrastructure.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-02-03", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4439-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Economic Development, Public Buildings and Emergency Management", 
+      "subcommittee_id": "13"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Welch, Peter", 
+      "sponsored_at": "2016-04-12", 
+      "state": "VT", 
+      "thomas_id": "01879", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-02-02", 
+  "number": "4439", 
+  "official_title": "To amend title 40, United States Code, to require that certain public buildings contain a lactation room for public use, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Fairness for Breastfeeding Mothers Act of 2016", 
+  "sponsor": {
+    "district": null, 
+    "name": "Norton, Eleanor Holmes", 
+    "state": "DC", 
+    "thomas_id": "00868", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-02-02", 
+  "subjects": [
+    "Child health", 
+    "Government buildings, facilities, and property", 
+    "Government operations and politics", 
+    "Museums, exhibitions, cultural centers", 
+    "Nutrition and diet", 
+    "Right of privacy", 
+    "Smithsonian Institution", 
+    "U.S. Capitol", 
+    "Women's health"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2016-02-02", 
+    "text": "Fairness for Breastfeeding Mothers Act of 2016\n\nThis bill requires that certain public buildings that are open to the public and contain a public restroom\u00a0provide a lactation room, other than a bathroom, that is hygienic and is available for use by a member of the public to express milk. The lactation room must be shielded from public view, be free from intrusion, and contain a chair, a working surface, and (if the building is\u00a0supplied with electricity)\u00a0an electrical outlet."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Fairness for Breastfeeding Mothers Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 40, United States Code, to require that certain public buildings contain a lactation room for public use, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:00:47-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4439:@@@L&summ2=m&"
+}

@@ -1,0 +1,99 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-11-17", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Transportation and Infrastructure.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-11-18", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4050-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Railroads, Pipelines, and Hazardous Materials", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-11-17", 
+  "number": "4050", 
+  "official_title": "To provide for the identification of certain dangerous railroad locations, and for the safety of passenger operations at such locations.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Passenger Train Derailment Prevention Act", 
+  "sponsor": {
+    "district": "18", 
+    "name": "Maloney, Sean Patrick", 
+    "state": "NY", 
+    "thomas_id": "02150", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-11-17", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Congressional oversight", 
+    "Department of Transportation", 
+    "Government information and archives", 
+    "Railroads", 
+    "Transportation and public works", 
+    "Transportation safety and security"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-11-17", 
+    "text": "Passenger Train Derailment Prevention Act\n\nThis bill requires each railroad carrier on whose tracks an entity provides regularly scheduled intercity rail passenger transportation or commuter rail passenger transportation to submit to the Department of Transportation (DOT) a list identifying each curve, bridge, tunnel, or other location where the maximum authorized operating speed for such a passenger train is at least 20 miles per hour less than the maximum approach speed. DOT must provide such information, along with a list of any additional track locations that DOT identifies as dangerous, to specified congressional committees.\n\nDOT shall exercise its emergency authority to require:\n\n each such entity using a train equipped with an automatic train control system to modify such system to automatically slow down the train if it fails to comply with applicable maximum authorized speed limits at such locations, each such entity using a train not equipped with such system to provide that the train movement through such locations be made with a second qualified crew member in the cab of the controlling locomotive or with constant communication between the locomotive engineer and an additional crew member in the body of the train, and each such railroad carrier to install additional wayside signage along the carrier's tracks alerting engineers and conductors of the maximum authorized passenger train speed. DOT may exempt from these requirements any segment of track for which operations are governed by a certified positive train control system or equivalent safety technology."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Passenger Train Derailment Prevention Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide for the identification of certain dangerous railroad locations, and for the safety of passenger operations at such locations.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:57:31-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4050:@@@L&summ2=m&"
+}

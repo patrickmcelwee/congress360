@@ -1,0 +1,109 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-02-25", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-03-16", 
+      "committees": [
+        "HSHM"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1065-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Crime, Terrorism, Homeland Security, and Investigations", 
+      "subcommittee_id": "08"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-02-25", 
+  "number": "1065", 
+  "official_title": "To require that States receiving Byrne JAG funds to require sensitivity training for law enforcement officers of that State.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr2302-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "POST Act of 2015", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Clay, Wm. Lacy", 
+    "state": "MO", 
+    "thomas_id": "01654", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-02-25", 
+  "subjects": [
+    "Crime and law enforcement", 
+    "Disability and health-based discrimination", 
+    "Disability and paralysis", 
+    "Government employee pay, benefits, personnel management", 
+    "Law enforcement administration and funding", 
+    "Law enforcement officers", 
+    "Mental health", 
+    "Racial and ethnic relations"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-02-25", 
+    "text": "POST Act of 2015\n\nDirects states receiving funds under specified Bureau of Justice Assistance grant programs (whether characterized as the Edward Byrne Memorial State and Local Law Enforcement Assistance Programs, the Local Government Law Enforcement Block Grants Program, the Edward Byrne Memorial Justice Assistance Grant Program, or otherwise), after a specified compliance period, to require all individuals enrolled in an academy of a law enforcement agency of the state and all law enforcement officers of the state to fulfill a training session on sensitivity each fiscal year, including training on ethnic and racial bias, cultural diversity, and police interaction with the disabled, mentally ill, and new immigrants. Requires an eight-hour session for individuals attending an academy and a four-hour session for all other law enforcement officers.\n\nSubjects any state that fails to comply with such requirement to a reduction of up to 20% of the funds that would otherwise be allocated to such state for a fiscal year for such grant programs, at the discretion of the Attorney General."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "POST Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require that States receiving Byrne JAG funds to require sensitivity training for law enforcement officers of that State.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:32:10-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR1065:@@@L&summ2=m&"
+}

@@ -1,0 +1,110 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-04-21", 
+      "references": [
+        {
+          "reference": "CR E572", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-21", 
+      "committees": [
+        "HSAS"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Armed Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-05-05", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Readiness.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5017-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS", 
+      "subcommittee": "Subcommittee on Readiness", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-04-21", 
+  "number": "5017", 
+  "official_title": "To direct the Secretary of Transportation, acting through the Maritime Administrator, to release all remaining right, title, and interest of the United States in and to a parcel of real property in Richland, Washington, to the Port of Benton.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr4909-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Port of Benton Restriction Release Act of 2016", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Newhouse, Dan", 
+    "state": "WA", 
+    "thomas_id": "02275", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-04-21", 
+  "subjects": [
+    "Transportation and public works"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2016-04-21", 
+    "text": "Port of Benton Restriction Release Act of 2016\n\nThis bill authorizes the Department of Transportation, acting through the Maritime Administration, to release all remaining right, title, and interest of the United States in and to a certain parcel of real property (including any improvements thereon) in Richland, Washington, to the Port of Benton, Washington."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Port of Benton Restriction Release Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To direct the Secretary of Transportation, acting through the Maritime Administrator, to release all remaining right, title, and interest of the United States in and to a parcel of real property in Richland, Washington, to the Port of Benton.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:05:38-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR5017:@@@L&summ2=m&"
+}

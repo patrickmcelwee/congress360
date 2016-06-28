@@ -1,0 +1,152 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-02-10", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-02-20", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Economic Opportunity.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-06-02", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-06-25", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-06-25", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee by Voice Vote .", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr832-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR", 
+      "subcommittee": "Subcommittee on Economic Opportunity", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "6", 
+      "name": "Costello, Ryan A.", 
+      "sponsored_at": "2015-04-16", 
+      "state": "PA", 
+      "thomas_id": "02266", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Titus, Dina", 
+      "sponsored_at": "2015-02-10", 
+      "state": "NV", 
+      "thomas_id": "01940", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-06-02", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-02-10", 
+  "number": "832", 
+  "official_title": "To amend title 38, United States Code, to direct the Secretary of Labor to enter into a contract for the conduct of a longitudinal study of the job counseling, training, and placement services for veterans provided by the Secretary, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2921-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Veterans Employment and Training Service Longitudinal Study Act of 2015", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Cook, Paul", 
+    "state": "CA", 
+    "thomas_id": "02103", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-02-10", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Congressional oversight", 
+    "Employee hiring", 
+    "Employment and training programs", 
+    "Government studies and investigations", 
+    "Performance measurement", 
+    "Veterans' education, employment, rehabilitation"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-02-10", 
+    "text": "Veterans Employment and Training Service Longitudinal Study Act of 2015\n\nDirects the Secretary of Labor to enter into a contract with a non-governmental entity to conduct a longitudinal study of a statistically valid sample of each of the following groups of individuals over a period of at least five years: (1) veterans who have received intensive job counseling, training, and placement services; (2) veterans who did not receive intensive services but who otherwise received services; and (3) veterans who did not seek or receive services.\n\nRequires the study to include the collection of specified information for each individual who participates in the study, including:\n\n the average number of months served on active duty, the distribution of disability ratings, unemployment benefits received, the average number of months employed and average individual and household annual income, employment status, whether the individual believes that any service received helped the individual to become employed, use of educational assistance, participation in a vocational rehabilitation program, conditions of discharge or release from the Armed Forces, and demographic information. Directs the Secretary to submit annual reports on the outcomes of the study that include any information the Secretary determines is necessary to determine long-term outcomes of the individuals in such groups."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Veterans Employment and Training Service Longitudinal Study Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 38, United States Code, to direct the Secretary of Labor to enter into a contract for the conduct of a longitudinal study of the job counseling, training, and placement services for veterans provided by the Secretary, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:30:13-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR832:@@@L&summ2=m&"
+}

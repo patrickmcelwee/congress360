@@ -1,0 +1,317 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-04-30", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-05-15", 
+      "committees": [
+        "HSHM"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-04-22", 
+      "committees": [
+        "HSHM"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Subcommittee on Crime, Terrorism, Homeland Security, and Investigations Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-27", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-27", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2016-05-10T13:33:00-04:00", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on Judiciary. H. Rept. 114-543.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-10T13:34:00-04:00", 
+      "calendar": "Union", 
+      "number": "419", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 419.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2016-05-10T17:47:00-04:00", 
+      "references": [], 
+      "text": "Mr. Goodlatte moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-10T17:47:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2186-2189", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-10T17:47:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 2137.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-10T18:05:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR  H2186-2187", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2016-05-10T18:05:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-11", 
+      "references": [], 
+      "text": "Received in the Senate, read twice.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-10", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S3811-3812", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2016-06-10", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-17", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2016-06-22", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2016-06-22", 
+      "congress": "114", 
+      "law": "public", 
+      "number": "180", 
+      "references": [], 
+      "text": "Became Public Law No: 114-180.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2137-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Crime, Terrorism, Homeland Security, and Investigations", 
+      "subcommittee_id": "08"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "8", 
+      "name": "Bishop, Mike", 
+      "sponsored_at": "2015-05-14", 
+      "state": "MI", 
+      "thomas_id": "02249", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Fitzpatrick, Michael G.", 
+      "sponsored_at": "2016-03-21", 
+      "state": "PA", 
+      "thomas_id": "01797", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Gabbard, Tulsi", 
+      "sponsored_at": "2015-04-30", 
+      "state": "HI", 
+      "thomas_id": "02122", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Pascrell, Bill, Jr.", 
+      "sponsored_at": "2015-04-30", 
+      "state": "NJ", 
+      "thomas_id": "01510", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Reichert, David G.", 
+      "sponsored_at": "2015-04-30", 
+      "state": "WA", 
+      "thomas_id": "01810", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "114", 
+    "law_type": "public", 
+    "number": "180"
+  }, 
+  "history": {
+    "active": true, 
+    "active_at": "2016-04-22", 
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2016-06-22", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2016-05-10T18:05:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2016-06-10", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-04-30", 
+  "number": "2137", 
+  "official_title": "To ensure Federal law enforcement officers remain able to ensure their own safety, and the safety of their families, during a covered furlough.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1162-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Federal Law Enforcement Self-Defense and Protection Act of 2015", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Collins, Doug", 
+    "state": "GA", 
+    "thomas_id": "02121", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2016-06-22", 
+  "subjects": [
+    "Appropriations", 
+    "Crime and law enforcement", 
+    "Executive agency funding and structure", 
+    "Firearms and explosives", 
+    "Government employee pay, benefits, personnel management", 
+    "Law enforcement officers"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": {
+    "as": "Passed Senate without amendment", 
+    "date": "2016-06-10", 
+    "text": "(This measure has not been amended since it was introduced. The expanded summary of the House passed version is repeated here.)\n\nFederal Law Enforcement Self-Defense and Protection Act of 2015\n\n(Sec. 4) This bill authorizes a federal law enforcement officer to carry a government-issued firearm during a covered furlough (i.e., a planned event during which an agency involuntarily furloughs employees due to downsizing, reduced funding, lack of work, or budget constraints including a lapse in appropriations)."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Federal Law Enforcement Self-Defense and Protection Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Federal Law Enforcement Self-Defense and Protection Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "is_for_portion": false, 
+      "title": "Federal Law Enforcement Self-Defense and Protection Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To ensure Federal law enforcement officers remain able to ensure their own safety, and the safety of their families, during a covered furlough.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:41:24-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2137:@@@L&summ2=m&"
+}

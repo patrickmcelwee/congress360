@@ -1,0 +1,125 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-03-14", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-03-15", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Water, Power and Oceans.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4738-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Water, Power and Oceans", 
+      "subcommittee_id": "13"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Takai, Mark", 
+      "sponsored_at": "2016-04-12", 
+      "state": "HI", 
+      "thomas_id": "02240", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Young, Don", 
+      "sponsored_at": "2016-03-14", 
+      "state": "AK", 
+      "thomas_id": "01256", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-03-14", 
+  "number": "4738", 
+  "official_title": "To require the Secretary of Commerce, acting through the Administrator of the National Oceanic and Atmospheric Administration, to establish a constituent-driven program to provide a digital information platform capable of efficiently integrating coastal data with decision-support tools, training, and best practices and to support collection of priority coastal geospatial data to inform and improve local, State, regional, and Federal capacities to manage the coastal region, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2325-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Digital Coast Act of 2016", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Ruppersberger, C. A. Dutch", 
+    "state": "MD", 
+    "thomas_id": "01728", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-03-14", 
+  "subjects": [
+    "Broadcasting, cable, digital technologies", 
+    "Department of Commerce", 
+    "Earth sciences", 
+    "Executive agency funding and structure", 
+    "Geography", 
+    "Government information and archives", 
+    "Intergovernmental relations", 
+    "Internet and video services", 
+    "Marine and coastal resources, fisheries", 
+    "Public lands and natural resources", 
+    "State and local government operations", 
+    "U.S. territories and protectorates"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Digital Coast Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require the Secretary of Commerce, acting through the Administrator of the National Oceanic and Atmospheric Administration, to establish a constituent-driven program to provide a digital information platform capable of efficiently integrating coastal data with decision-support tools, training, and best practices and to support collection of priority coastal geospatial data to inform and improve local, State, regional, and Federal capacities to manage the coastal region, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:03:17-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4738:@@@L&summ2=m&"
+}

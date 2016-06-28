@@ -1,0 +1,130 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-01-14", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Transportation and Infrastructure.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-01-15", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr385-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Economic Development, Public Buildings and Emergency Management", 
+      "subcommittee_id": "13"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "11", 
+      "name": "Connolly, Gerald E.", 
+      "sponsored_at": "2015-01-14", 
+      "state": "VA", 
+      "thomas_id": "01959", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Israel, Steve", 
+      "sponsored_at": "2015-01-14", 
+      "state": "NY", 
+      "thomas_id": "01663", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Tonko, Paul", 
+      "sponsored_at": "2015-01-14", 
+      "state": "NY", 
+      "thomas_id": "01942", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-01-14", 
+  "number": "385", 
+  "official_title": "To amend chapter 11 of title 31, United States Code, to require the Director of the Office of Management and Budget to annually submit to Congress a report on all disaster-related assistance provided by the Federal Government.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "DISASTER Act", 
+  "sponsor": {
+    "district": "52", 
+    "name": "Peters, Scott H.", 
+    "state": "CA", 
+    "thomas_id": "02113", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-01-14", 
+  "subjects": [
+    "Congressional oversight", 
+    "Disaster relief and insurance", 
+    "Emergency management", 
+    "Government information and archives"
+  ], 
+  "subjects_top_term": "Emergency management", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-01-14", 
+    "text": "Disclosing Aid Spent to Ensure Relief Act or the DISASTER Act \n\nRequires the Office of Management and Budget to submit an annual report to Congress on all disaster-related assistance provided by the federal government. Requires the report to include all federal obligations related to disaster response, recovery, mitigation efforts, and administrative costs associated with these activities for specified agencies and programs."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "DISASTER Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Disclosing Aid Spent to Ensure Relief Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend chapter 11 of title 31, United States Code, to require the Director of the Office of Management and Budget to annually submit to Congress a report on all disaster-related assistance provided by the Federal Government.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:26:26-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR385:@@@L&summ2=m&"
+}

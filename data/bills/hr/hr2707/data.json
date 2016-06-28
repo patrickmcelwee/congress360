@@ -1,0 +1,98 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-06-09", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-06-12", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2707-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-06-09", 
+  "number": "2707", 
+  "official_title": "To ensure a legislative solution for those individuals who may be affected by ObamaCare's unlawful implementation, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Prevention of Bureaucratic Workarounds Act", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Walker, Mark", 
+    "state": "NC", 
+    "thomas_id": "02255", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-06-09", 
+  "subjects": [
+    "Health", 
+    "Health care costs and insurance", 
+    "Health care coverage and access", 
+    "Health programs administration and funding", 
+    "Health technology, devices, supplies", 
+    "State and local government operations"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-06-09", 
+    "text": "Prevention of Bureaucratic Workarounds Act\n\nThis bill prohibits the Department of Health and Human Services from entering into a contract with a state or awarding assistance to a state to provide the state with technology from the federal health insurance exchange."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Prevention of Bureaucratic Workarounds Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To ensure a legislative solution for those individuals who may be affected by ObamaCare's unlawful implementation, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:46:19-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2707:@@@L&summ2=m&"
+}

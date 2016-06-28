@@ -1,0 +1,139 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-04-12", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-04-28", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4899-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Regulatory Reform, Commercial And Antitrust Law", 
+      "subcommittee_id": "05"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "27", 
+      "name": "Chu, Judy", 
+      "sponsored_at": "2016-04-12", 
+      "state": "CA", 
+      "thomas_id": "01970", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Cicilline, David N.", 
+      "sponsored_at": "2016-04-12", 
+      "state": "RI", 
+      "thomas_id": "02055", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Conyers, John, Jr.", 
+      "sponsored_at": "2016-04-12", 
+      "state": "MI", 
+      "thomas_id": "00229", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Jackson Lee, Sheila", 
+      "sponsored_at": "2016-04-12", 
+      "state": "TX", 
+      "thomas_id": "00588", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-04-12", 
+  "number": "4899", 
+  "official_title": "To restore statutory rights to the people of the United States from forced arbitration.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2506-114", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Restoring Statutory Rights and Interests of the States Act of 2016", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Johnson, Henry C. \"Hank,\" Jr.", 
+    "state": "GA", 
+    "thomas_id": "01843", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-04-12", 
+  "subjects": [
+    "Alternative dispute resolution, mediation, arbitration", 
+    "Civil actions and liability", 
+    "Contracts and agency", 
+    "Law"
+  ], 
+  "subjects_top_term": "Law", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2016-04-12", 
+    "text": "Restoring Statutory Rights and Interests of the States Act of 2016\n\nThis bill amends the Federal Arbitration Act to invalidate arbitration agreements between parties in certain commercial contracts or transactions if they require arbitration of a claim for damages or injunctive relief brought by an individual or small business arising from the alleged violation of a federal or state statute, the U.S. Constitution, or a state constitution, unless the written agreement to arbitrate is entered into by both parties after the claim has arisen and pertains solely to an existing claim.\n\nThe grounds upon which a contract with an arbitration agreement is revocable shall include federal or state statutes or court findings that prohibit an agreement to arbitrate if the agreement is unconscionable, invalid because there was no meeting of the minds, or otherwise unenforceable as a matter of contract law or public policy.\n\nA court, rather than an arbitrator, shall determine whether an arbitration agreement is enforceable."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Restoring Statutory Rights and Interests of the States Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To restore statutory rights to the people of the United States from forced arbitration.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:04:38-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4899:@@@L&summ2=m&"
+}

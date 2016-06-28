@@ -1,0 +1,120 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-03-18", 
+      "references": [
+        {
+          "reference": "CR H1728-1729", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-03-18", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-03-27", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1417-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "02"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "26", 
+      "name": "Curbelo, Carlos", 
+      "sponsored_at": "2015-09-29", 
+      "state": "FL", 
+      "thomas_id": "02235", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-03-18", 
+  "number": "1417", 
+  "official_title": "To amend title XVIII of the Social Security Act to provide parity to Puerto Rico hospitals with respect to inpatient hospital payments under the Medicare program.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Puerto Rico Hospital Medicare Reimbursement Equity Act of 2015", 
+  "sponsor": {
+    "district": null, 
+    "name": "Pierluisi, Pedro R.", 
+    "state": "PR", 
+    "thomas_id": "01953", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-03-18", 
+  "subjects": [
+    "Caribbean area", 
+    "Health", 
+    "Health facilities and institutions", 
+    "Hospital care", 
+    "Medicare", 
+    "Puerto Rico", 
+    "U.S. territories and protectorates"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-03-18", 
+    "text": "Puerto Rico Hospital Medicare Reimbursement Equity Act of 2015\n\n Amends title XVIII (Medicare) of the Social Security Act to revise the formula for the Medicare inpatient hospital services payment rate for Puerto Rico hospitals to: (1) reduce the applicable Puerto Rico percentage from 25% to zero, and (2) increase the applicable federal percentage from 75% to 100%."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Puerto Rico Hospital Medicare Reimbursement Equity Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title XVIII of the Social Security Act to provide parity to Puerto Rico hospitals with respect to inpatient hospital payments under the Medicare program.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:35:16-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR1417:@@@L&summ2=m&"
+}

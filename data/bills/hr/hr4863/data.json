@@ -1,0 +1,103 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-03-23", 
+      "committees": [
+        "HSAS"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Armed Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-04-05", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Military Personnel.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4863-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS", 
+      "subcommittee": "Subcommittee on Military Personnel", 
+      "subcommittee_id": "02"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "9", 
+      "name": "Cohen, Steve", 
+      "sponsored_at": "2016-03-23", 
+      "state": "TN", 
+      "thomas_id": "01878", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-03-23", 
+  "number": "4863", 
+  "official_title": "To authorize the President to award the Medal of Honor to Master Sergeant Roddie Edmonds of the United States Army for acts of valor during World War II.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Roddie Edmonds Congressional Gold Medal Act", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Duncan, John J., Jr.", 
+    "state": "TN", 
+    "thomas_id": "00322", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-03-23", 
+  "subjects": [
+    "Armed forces and national security"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2016-03-23", 
+    "text": "Roddie Edmonds Congressional Gold Medal Act\n\nThis bill authorizes the President to award the Medal of Honor to Master Sergeant Roddie Edmonds for acts of valor in World War II to save the lives of more than 200 Jewish members of the Armed Forces."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Roddie Edmonds Congressional Gold Medal Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To authorize the President to award the Medal of Honor to Master Sergeant Roddie Edmonds of the United States Army for acts of valor during World War II.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:04:20-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4863:@@@L&summ2=m&"
+}

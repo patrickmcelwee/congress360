@@ -1,0 +1,124 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-06-12", 
+      "references": [
+        {
+          "reference": "CR H4336", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-06-18", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-07-14", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Federal Lands.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2833-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Federal Lands", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "10", 
+      "name": "Heck, Denny", 
+      "sponsored_at": "2015-06-18", 
+      "state": "WA", 
+      "thomas_id": "02170", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-06-18", 
+  "number": "2833", 
+  "official_title": "To establish the Maritime Washington National Heritage Area in the State of Washington, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1623-114", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Maritime Washington National Heritage Area Act", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Kilmer, Derek", 
+    "state": "WA", 
+    "thomas_id": "02169", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-06-18", 
+  "subjects": [
+    "Historic sites and heritage areas", 
+    "Historical and cultural resources", 
+    "Parks, recreation areas, trails", 
+    "Public lands and natural resources", 
+    "Washington State"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-06-18", 
+    "text": "Maritime Washington National Heritage Area Act\n\nThis bill establishes the Maritime Washington National Heritage Area in the state of Washington.\n\nThe Washington Trust for Historic Preservation shall be the local coordinating entity for the Heritage Area, and shall prepare and submit a management plan for it."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Maritime Washington National Heritage Area Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To establish the Maritime Washington National Heritage Area in the State of Washington, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:47:22-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2833:@@@L&summ2=m&"
+}

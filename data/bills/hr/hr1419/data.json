@@ -1,0 +1,319 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-03-18", 
+      "references": [
+        {
+          "reference": "CR E356-357", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-03-18", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Ways and Means, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-03-18", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "text": "Referred to House Ways and Means", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-03-18", 
+      "committees": [
+        "HSBU"
+      ], 
+      "references": [], 
+      "text": "Referred to House Budget", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-03-27", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Social Security.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1419-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM", 
+      "subcommittee": "Subcommittee on Social Security", 
+      "subcommittee_id": "01"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Budget", 
+      "committee_id": "HSBU"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "3", 
+      "name": "Blumenauer, Earl", 
+      "sponsored_at": "2015-03-18", 
+      "state": "OR", 
+      "thomas_id": "00099", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Cartwright, Matt", 
+      "sponsored_at": "2015-03-18", 
+      "state": "PA", 
+      "thomas_id": "02159", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Crowley, Joseph", 
+      "sponsored_at": "2015-03-18", 
+      "state": "NY", 
+      "thomas_id": "01604", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Cummings, Elijah E.", 
+      "sponsored_at": "2015-03-18", 
+      "state": "MD", 
+      "thomas_id": "00256", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Davis, Danny K.", 
+      "sponsored_at": "2015-03-18", 
+      "state": "IL", 
+      "thomas_id": "01477", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "35", 
+      "name": "Doggett, Lloyd", 
+      "sponsored_at": "2015-03-18", 
+      "state": "TX", 
+      "thomas_id": "00303", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Kind, Ron", 
+      "sponsored_at": "2015-07-13", 
+      "state": "WI", 
+      "thomas_id": "01498", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Larson, John B.", 
+      "sponsored_at": "2015-03-18", 
+      "state": "CT", 
+      "thomas_id": "01583", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Levin, Sander M.", 
+      "sponsored_at": "2015-03-18", 
+      "state": "MI", 
+      "thomas_id": "00683", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Lewis, John", 
+      "sponsored_at": "2015-03-18", 
+      "state": "GA", 
+      "thomas_id": "00688", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Matsui, Doris O.", 
+      "sponsored_at": "2015-03-18", 
+      "state": "CA", 
+      "thomas_id": "01814", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "McDermott, Jim", 
+      "sponsored_at": "2015-07-13", 
+      "state": "WA", 
+      "thomas_id": "00766", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "McGovern, James P.", 
+      "sponsored_at": "2015-04-28", 
+      "state": "MA", 
+      "thomas_id": "01504", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Pierluisi, Pedro R.", 
+      "sponsored_at": "2015-03-18", 
+      "state": "PR", 
+      "thomas_id": "01953", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Pocan, Mark", 
+      "sponsored_at": "2015-07-22", 
+      "state": "WI", 
+      "thomas_id": "02171", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Rangel, Charles B.", 
+      "sponsored_at": "2015-03-18", 
+      "state": "NY", 
+      "thomas_id": "00944", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "38", 
+      "name": "Sanchez, Linda T.", 
+      "sponsored_at": "2015-03-18", 
+      "state": "CA", 
+      "thomas_id": "01757", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Schakowsky, Janice D.", 
+      "sponsored_at": "2015-03-18", 
+      "state": "IL", 
+      "thomas_id": "01588", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Thompson, Mike", 
+      "sponsored_at": "2015-03-18", 
+      "state": "CA", 
+      "thomas_id": "01593", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-03-18", 
+  "number": "1419", 
+  "official_title": "To amend title II of the Social Security Act to improve the Social Security Administration's ability to fight fraud, prevent errors, and protect the Social Security Trust Fund, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Social Security Fraud and Error Prevention Act of 2015", 
+  "sponsor": {
+    "district": "34", 
+    "name": "Becerra, Xavier", 
+    "state": "CA", 
+    "thomas_id": "00070", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-03-18", 
+  "subjects": [
+    "Budget deficits and national debt", 
+    "Civil actions and liability", 
+    "Crime prevention", 
+    "Criminal investigation, prosecution, interrogation", 
+    "Criminal procedure and sentencing", 
+    "Disability and paralysis", 
+    "Evidence and witnesses", 
+    "Executive agency funding and structure", 
+    "Fraud offenses and financial crimes", 
+    "Government studies and investigations", 
+    "Government trust funds", 
+    "Health personnel", 
+    "Inflation and prices", 
+    "Internet and video services", 
+    "Performance measurement", 
+    "Poverty and welfare assistance", 
+    "Social Security Administration", 
+    "Social security and elderly assistance", 
+    "Social welfare"
+  ], 
+  "subjects_top_term": "Social welfare", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-03-18", 
+    "text": "Social Security Fraud and Error Prevention Act of 2015 \n\n Amends title II (Old Age, Survivors and Disability Insurance) of the Social Security Act (SSAct) to appropriate from the Social Security Trust Funds to the Social Security Administration for each fiscal year beginning FY2016 amounts for specified fraud and error prevention activities. Prescribes a formula for the calculation of such amounts, which include fines and civil monetary penalties recovered.\n\nDirects the Commissioner of Social Security to: (1) report to Congress and the Office of Management and Budget (OMB) a plan for conducting fraud and error prevention activities; (2) take any necessary actions to ensure that cooperative disability investigations (CDI) units have been established for each of the 50 states, the District of Columbia, and the territories; (3) conduct quality reviews in certain cases with respect to decisions in connection with the application for benefits under this title and SSAct title XVI (Supplemental Security Income) (SSI), in a sufficient number to ensure compliance with laws, regulations, and other guidance issued by the Commissioner; (4) report annually to Congress the total number of cases selected for such quality review, the number of such cases in which a decision is remanded, and the number of such cases in which a decision is modified or reversed; and (5) report annually to Congress on the number of work-related continuing disability reviews conducted.\n\nAllows the Commissioner to submit a combined annual report to specified congressional committees of certain information relating to disability benefits.\n\nIncreases civil and criminal penalties for specified persons in positions of trust in certain cases of fraud, and requires inflation adjustments every four years for certain civil penalties.\n\nProhibits the Commissioner, in making any determination with respect to whether an individual is or continues to be under a disability, from considering (except for good cause) any evidence furnished by a physician or other health care provider who has been barred from practice, has been assessed a penalty for the submission of false evidence, or is excluded from participation in any federal health care program..\n\nAmends the Balanced Budget and Emergency Deficit Control Act of 1985 (Gramm-Rudman-Hollings Act) to repeal program integrity adjustments after FY2014 to budget authority for continuing disability reviews and redeterminations."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Social Security Fraud and Error Prevention Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title II of the Social Security Act to improve the Social Security Administration's ability to fight fraud, prevent errors, and protect the Social Security Trust Fund, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:35:17-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR1419:@@@L&summ2=m&"
+}

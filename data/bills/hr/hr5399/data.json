@@ -1,0 +1,89 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-06-07", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-06-13", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5399-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-06-07", 
+  "number": "5399", 
+  "official_title": "To amend title 38, United States Code, to ensure that physicians of the Department of Veterans Affairs fulfill the ethical duty to report to State licensing authorities impaired, incompetent, and unethical health care activities.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Ethical Patient Care for Veterans Act of 2016", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Roe, David P.", 
+    "state": "TN", 
+    "thomas_id": "01954", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-06-07", 
+  "subjects": [
+    "Armed forces and national security"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Ethical Patient Care for Veterans Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 38, United States Code, to ensure that physicians of the Department of Veterans Affairs fulfill the ethical duty to report to State licensing authorities impaired, incompetent, and unethical health care activities.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:08:49-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR5399:@@@L&summ2=m&"
+}

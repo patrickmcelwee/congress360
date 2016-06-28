@@ -1,0 +1,133 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-03-19", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-04-07", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Federal Lands.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-04-07", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Energy and Mineral Resources.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1484-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Federal Lands", 
+      "subcommittee_id": "10"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Energy and Mineral Resources", 
+      "subcommittee_id": "06"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "4", 
+      "name": "Hardy, Cresent", 
+      "sponsored_at": "2015-03-25", 
+      "state": "NV", 
+      "thomas_id": "02260", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Heck, Joseph J.", 
+      "sponsored_at": "2016-01-06", 
+      "state": "NV", 
+      "thomas_id": "02040", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-03-19", 
+  "number": "1484", 
+  "official_title": "To direct the Secretary of Agriculture and the Secretary of the Interior to convey certain Federal lands to the State of Nevada in fulfillment of the Nevada Statehood Enabling Act, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Honor the Nevada Enabling Act of 1864 Act", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Amodei, Mark E.", 
+    "state": "NV", 
+    "thomas_id": "02090", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-03-19", 
+  "subjects": [
+    "Energy revenues and royalties", 
+    "Land transfers", 
+    "Land use and conservation", 
+    "Nevada", 
+    "Public lands and natural resources", 
+    "State and local finance"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-03-19", 
+    "text": "Honor the Nevada Enabling Act of 1864 Act\n\nDirects the Department of Agriculture (USDA) and the Department of the Interior to convey, in phases and without consideration, to the state of Nevada all interest of the United States in federal lands owned, managed, or controlled by the federal government through the USDA or Interior for the purpose of permitting the state to use them to support select beneficiaries. Specifies exceptions, including components of the National Wilderness Preservation System, National Park System, and National Wildlife System, and federally recognized Indian reservations and lands.\n\nDefines \"select beneficiaries\" as\n\n public elementary and secondary education; public higher education; public specialized education; public mental and medical health services; social, senior, and veterans services; public programs for recovery plan development and implementation for candidate and threatened or endangered species; and political subdivisions of the state, but only with respect to payment for services and infrastructure on conveyed identified federal lands that would otherwise be financed through property taxes or other revenues available to a political subdivision of the state."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Honor the Nevada Enabling Act of 1864 Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To direct the Secretary of Agriculture and the Secretary of the Interior to convey certain Federal lands to the State of Nevada in fulfillment of the Nevada Statehood Enabling Act, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:35:50-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR1484:@@@L&summ2=m&"
+}

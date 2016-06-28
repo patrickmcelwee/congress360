@@ -1,0 +1,108 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-01-28", 
+      "committees": [
+        "HSAS"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Armed Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-03-04", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Strategic Forces.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4395-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS", 
+      "subcommittee": "Subcommittee on Strategic Forces", 
+      "subcommittee_id": "29"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "50", 
+      "name": "Hunter, Duncan D.", 
+      "sponsored_at": "2016-01-28", 
+      "state": "CA", 
+      "thomas_id": "01909", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-01-28", 
+  "number": "4395", 
+  "official_title": "To repeal the provision permitting the use of rocket engines from the Russian Federation for the evolved expendable launch vehicle program.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2470-114", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "23", 
+    "name": "McCarthy, Kevin", 
+    "state": "CA", 
+    "thomas_id": "01833", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-01-28", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Military procurement, research, weapons development", 
+    "Public contracts and procurement", 
+    "Russia", 
+    "Spacecraft and satellites", 
+    "Trade restrictions"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2016-01-28", 
+    "text": "This bill amends the Department of Defense Appropriations Act, 2016 to repeal, and deem never to have been enacted, the requirement that the Evolved Expendable Launch Vehicle service competitive procurements be open for award to all certified providers of such systems offering the best value to the government, regardless of the rocket engine's country of origin (including the Russian Federation), for the evolved expendable launch vehicle program."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To repeal the provision permitting the use of rocket engines from the Russian Federation for the evolved expendable launch vehicle program.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:00:25-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4395:@@@L&summ2=m&"
+}

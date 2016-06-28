@@ -1,0 +1,96 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-09-11", 
+      "committees": [
+        "HSED"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Education and the Workforce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-03-23", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health, Employment, Labor, and Pensions.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3500-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED", 
+      "subcommittee": "Subcommittee on Health, Employment, Labor, and Pensions", 
+      "subcommittee_id": "02"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-09-11", 
+  "number": "3500", 
+  "official_title": "To require the Bureau of Labor Statistics, Department of Labor, to report the Consumer Price Index (CPI-W) using methodology employed in 1980.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Honesty in Consumer Price Index Reporting Act", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Jones, Walter B., Jr.", 
+    "state": "NC", 
+    "thomas_id": "00612", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-09-11", 
+  "subjects": [
+    "Census and government statistics", 
+    "Inflation and prices", 
+    "Labor and employment", 
+    "Wages and earnings"
+  ], 
+  "subjects_top_term": "Labor and employment", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-09-11", 
+    "text": "Honesty in Consumer Price Index Reporting Act\n\nThis bill directs the Bureau of Labor Statistics of the Department of Labor to report regularly and routinely an additional data set designed to replicate the Consumer Price Index for Urban Wage Earners and Clerical Workers (or CPI-W set) reflecting a fixed market basket of goods and services, omitting consideration of substitution of goods and services due to changes in individual consumption patterns caused by price increases, utilizing the methodology that was employed by the Bureau in 1980."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Honesty in Consumer Price Index Reporting Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require the Bureau of Labor Statistics, Department of Labor, to report the Consumer Price Index (CPI-W) using methodology employed in 1980.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:52:56-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3500:@@@L&summ2=m&"
+}

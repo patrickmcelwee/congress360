@@ -1,0 +1,118 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-06-15", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-07-01", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Immigration and Border Security.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2785-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Immigration and Border Security", 
+      "subcommittee_id": "01"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "5", 
+      "name": "Brooks, Mo", 
+      "sponsored_at": "2015-09-29", 
+      "state": "AL", 
+      "thomas_id": "01987", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Johnson, Bill", 
+      "sponsored_at": "2015-06-15", 
+      "state": "OH", 
+      "thomas_id": "02046", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-06-15", 
+  "number": "2785", 
+  "official_title": "To suspend the issuance of visas to nationals of Brazil until such time as Brazil amends its laws to remove the prohibition on extradition of nationals of Brazil to other countries.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "End Immuity for Brazilian Criminals Act", 
+  "sponsor": {
+    "district": "13", 
+    "name": "Ryan, Tim", 
+    "state": "OH", 
+    "thomas_id": "01756", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-06-15", 
+  "subjects": [
+    "Brazil", 
+    "Congressional oversight", 
+    "Criminal procedure and sentencing", 
+    "Immigration", 
+    "Latin America", 
+    "Sanctions", 
+    "Visas and passports"
+  ], 
+  "subjects_top_term": "Immigration", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-06-15", 
+    "text": "End Immuity for Brazilian Criminals Act \n\nProhibits the issuance of a visa to a citizen, subject, national, or resident of Brazil until the President certifies to Congress that the government of Brazil has removed the prohibition on extradition of Brazilian nationals to other countries.\n\nAuthorizes the President to waive such prohibition on a case-by-case basis if in the U.S. national interest."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "End Immuity for Brazilian Criminals Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To suspend the issuance of visas to nationals of Brazil until such time as Brazil amends its laws to remove the prohibition on extradition of nationals of Brazil to other countries.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:46:58-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2785:@@@L&summ2=m&"
+}

@@ -1,0 +1,165 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-06-03", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-06-16", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-11-03", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2631-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Regulatory Reform, Commercial And Antitrust Law", 
+      "subcommittee_id": "05"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "7", 
+      "name": "Brat, Dave", 
+      "sponsored_at": "2016-02-10", 
+      "state": "VA", 
+      "thomas_id": "02203", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Bridenstine, Jim", 
+      "sponsored_at": "2016-05-24", 
+      "state": "OK", 
+      "thomas_id": "02155", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Gosar, Paul A.", 
+      "sponsored_at": "2015-09-28", 
+      "state": "AZ", 
+      "thomas_id": "01992", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Graves, Sam", 
+      "sponsored_at": "2015-06-25", 
+      "state": "MO", 
+      "thomas_id": "01656", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "MacArthur, Thomas", 
+      "sponsored_at": "2015-10-26", 
+      "state": "NJ", 
+      "thomas_id": "02258", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Posey, Bill", 
+      "sponsored_at": "2015-10-26", 
+      "state": "FL", 
+      "thomas_id": "01915", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-11-03", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-06-03", 
+  "number": "2631", 
+  "official_title": "To require notice and comment for certain interpretive rules.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1487-114", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Regulatory Predictability for Business Growth Act of 2015", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Russell, Steve", 
+    "state": "OK", 
+    "thomas_id": "02265", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-06-03", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Government operations and politics"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-06-03", 
+    "text": "Regulatory Predictability for Business Growth Act of 2015\n\nThis bill adds the definitions of \"longstanding interpretive rule\" and \"revise\" to the Administrative Procedure Act (APA). A longstanding interpretive rule is distinguished from an \"interpretive rule\" if it has been in effect for at least one\u00a0year. If a rule is a longstanding interpretive rule, it remains subject to the general notice of proposed rulemaking and comment and publication provisions of the APA."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Regulatory Predictability for Business Growth Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require notice and comment for certain interpretive rules.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:45:40-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2631:@@@L&summ2=m&"
+}

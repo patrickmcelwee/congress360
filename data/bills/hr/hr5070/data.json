@@ -1,0 +1,109 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-04-26", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-04-29", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Environment and the Economy.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5070-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Environment and the Economy", 
+      "subcommittee_id": "18"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-04-26", 
+  "number": "5070", 
+  "official_title": "To amend the Safe Drinking Water Act to provide for a school and child care lead testing grant program.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2821-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s2830-114", 
+      "reason": "identical", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s2848-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Lead Testing in School and Child Care Drinking Water Act of 2016", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Pascrell, Bill, Jr.", 
+    "state": "NJ", 
+    "thomas_id": "01510", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-04-26", 
+  "subjects": [
+    "Families"
+  ], 
+  "subjects_top_term": "Families", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2016-04-26", 
+    "text": "Lead Testing in School and Child Care Drinking Water Act of 2016\n\nThis bill amends the Safe Drinking Water Act to direct the Environmental Protection Agency to establish a voluntary school and child care lead testing program of grants to states to assist local educational agencies in voluntary testing for lead contamination in drinking water at schools and child care programs.\n\nThe bill repeals the current program of federal assistance for state programs regarding lead contamination in school drinking water."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Lead Testing in School and Child Care Drinking Water Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Safe Drinking Water Act to provide for a school and child care lead testing grant program.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:06:04-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR5070:@@@L&summ2=m&"
+}

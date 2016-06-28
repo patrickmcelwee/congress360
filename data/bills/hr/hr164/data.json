@@ -1,0 +1,96 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-01-06", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-03-27", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Social Security.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr164-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM", 
+      "subcommittee": "Subcommittee on Social Security", 
+      "subcommittee_id": "01"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-01-06", 
+  "number": "164", 
+  "official_title": "To require that the United States Government prioritize all obligations on the debt held by the public, Social Security benefits, and military pay in the event that the debt limit is reached, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Ensuring the Full Faith and Credit of the United States and Protecting America's Soldiers and Seniors Act", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Schweikert, David", 
+    "state": "AZ", 
+    "thomas_id": "01994", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-01-06", 
+  "subjects": [
+    "Budget deficits and national debt", 
+    "Economics and public finance", 
+    "Military personnel and dependents", 
+    "Social security and elderly assistance"
+  ], 
+  "subjects_top_term": "Economics and public finance", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-01-06", 
+    "text": "Ensuring the Full Faith and Credit of the United States and Protecting America's Soldiers and Seniors Act\n\n Requires the following to take equal priority over all other federally incurred obligations in the event that the public debt reaches the statutory limit: (1) the authority of the Department of the Treasury to pay with legal tender the principal and interest on debt held by the public; (2) the authority of the Commissioner of Social Security to pay monthly Old Age, Survivors and Disability Insurance benefits under title II of the Social Security Act; and (3) the payment of pay and allowances for members of the Armed Forces on active duty."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Ensuring the Full Faith and Credit of the United States and Protecting America's Soldiers and Seniors Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require that the United States Government prioritize all obligations on the debt held by the public, Social Security benefits, and military pay in the event that the debt limit is reached, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:24:35-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR164:@@@L&summ2=m&"
+}

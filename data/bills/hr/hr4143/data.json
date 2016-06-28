@@ -1,0 +1,149 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-12-01", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on the Judiciary, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-12-01", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Referred to House Judiciary", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-12-01", 
+      "committees": [
+        "HSFA"
+      ], 
+      "references": [], 
+      "text": "Referred to House Foreign Affairs", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-01-15", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Immigration and Border Security.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4143-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Immigration and Border Security", 
+      "subcommittee_id": "01"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Foreign Affairs", 
+      "committee_id": "HSFA"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Miller, Jeff", 
+      "sponsored_at": "2015-12-09", 
+      "state": "FL", 
+      "thomas_id": "01685", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-12-01", 
+  "number": "4143", 
+  "official_title": "To temporarily restrict the admission to the United States of refugees from countries containing terrorist-controlled territory.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2302-114", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Terrorist Refugee Infiltration Prevention Act of 2015", 
+  "sponsor": {
+    "district": "6", 
+    "name": "DeSantis, Ron", 
+    "state": "FL", 
+    "thomas_id": "02116", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-12-01", 
+  "subjects": [
+    "Africa", 
+    "Border security and unlawful immigration", 
+    "Congressional oversight", 
+    "Crime victims", 
+    "Criminal investigation, prosecution, interrogation", 
+    "Immigration", 
+    "Immigration status and procedures", 
+    "Iraq", 
+    "Libya", 
+    "Middle East", 
+    "Refugees, asylum, displaced persons", 
+    "Somalia", 
+    "Syria", 
+    "Terrorism", 
+    "War crimes, genocide, crimes against humanity", 
+    "Yemen"
+  ], 
+  "subjects_top_term": "Immigration", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-12-01", 
+    "text": "Terrorist Refugee Infiltration Prevention Act of 2015\n\nThis bill prohibits the U.S. refugee admission of an alien who is a national of, has habitually resided in, or is claiming refugee status due to events in any country containing terrorist-controlled territory (Iraq, Libya, Somalia, Syria, Yemen, and any other Department of State-designated country).\n\nSuch an alien may be admitted to the United States as a refugee if the alien:\n\n satisfies refugee admission requirements; is a member of a group designated by the State Department or by an Act of Congress as a victim of genocide (and the group does not pose a risk to U.S. security); has undergone the highest level of security screening of any category of traveler to the United States, including full multi-modal biometrics; and the State Department, the Department of Defense (DOD), the Department of Homeland Security (DHS), the Federal Bureau of Investigation (FBI), and the Director of National Intelligence (DNI) certify that such alien is not a threat to U.S. national security. These requirements shall not apply to the U.S. refugee admission of an alien who: (1) provided substantial assistance to the United States, and (2) would face a substantial risk of death or serious bodily injury because of that assistance if not admitted to the United States.\n\nThe State Department may designate as a country containing terrorist-controlled territory any country containing territory controlled, in substantial part, by a foreign terrorist organization to the exclusion of that country's recognized government.\n\nThe State Department shall maintain and continually update a list of: (1) the countries containing terrorist-controlled territory, and (2) groups identified as victims of genocide.\n\nAn alien may not be admitted into the United States under this Act solely based on his or her assertions, and DHS must substantiate any such assertions with the State Department, DOD, the FBI, and the DNI."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Terrorist Refugee Infiltration Prevention Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To temporarily restrict the admission to the United States of refugees from countries containing terrorist-controlled territory.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:58:18-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4143:@@@L&summ2=m&"
+}

@@ -1,0 +1,297 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-02-01", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Homeland Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-02-02", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-02", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2016-02-23T14:46:00-05:00", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-423.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-23T14:46:00-05:00", 
+      "calendar": "Union", 
+      "number": "322", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 322.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2016-02-23T16:33:00-05:00", 
+      "references": [], 
+      "text": "Mr. Hurd (TX) moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-23T16:33:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H833-834", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-23T16:33:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 4402.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-23T16:41:00-05:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-23T18:55:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H836", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-23T19:02:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H833", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "84", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 397 - 0 (Roll no. 84).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2016-02-23T19:02:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-24", 
+      "committees": [
+        "SSGA"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4402-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Homeland Security and Governmental Affairs", 
+      "committee_id": "SSGA"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "24", 
+      "name": "Katko, John", 
+      "sponsored_at": "2016-02-01", 
+      "state": "NY", 
+      "thomas_id": "02264", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Loudermilk, Barry", 
+      "sponsored_at": "2016-02-01", 
+      "state": "GA", 
+      "thomas_id": "02238", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "McCaul, Michael T.", 
+      "sponsored_at": "2016-02-01", 
+      "state": "TX", 
+      "thomas_id": "01804", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "McSally, Martha", 
+      "sponsored_at": "2016-02-01", 
+      "state": "AZ", 
+      "thomas_id": "02225", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Payne, Donald M., Jr.", 
+      "sponsored_at": "2016-02-01", 
+      "state": "NJ", 
+      "thomas_id": "02097", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Ratcliffe, John", 
+      "sponsored_at": "2016-02-01", 
+      "state": "TX", 
+      "thomas_id": "02268", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "46", 
+      "name": "Sanchez, Loretta", 
+      "sponsored_at": "2016-02-01", 
+      "state": "CA", 
+      "thomas_id": "01522", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Sinema, Kyrsten", 
+      "sponsored_at": "2016-02-23", 
+      "state": "AZ", 
+      "thomas_id": "02099", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "34", 
+      "name": "Vela, Filemon", 
+      "sponsored_at": "2016-02-01", 
+      "state": "TX", 
+      "thomas_id": "02167", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2016-02-02", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2016-02-23T19:02:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-02-01", 
+  "number": "4402", 
+  "official_title": "To require a review of information regarding persons who have traveled or attempted to travel from the United States to support terrorist organizations in Syria and Iraq, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Foreign Fighter Review Act of 2016", 
+  "sponsor": {
+    "district": "23", 
+    "name": "Hurd, Will", 
+    "state": "TX", 
+    "thomas_id": "02269", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2016-02-23T19:02:00-05:00", 
+  "subjects": [
+    "Conflicts and wars", 
+    "Congressional oversight", 
+    "Government studies and investigations", 
+    "International affairs", 
+    "Iraq", 
+    "Middle East", 
+    "Syria", 
+    "Terrorism", 
+    "Travel and tourism"
+  ], 
+  "subjects_top_term": "International affairs", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2016-02-23", 
+    "text": "Foreign Fighter Review Act of 2016 \n\n(Sec. 2) This bill directs the President, through the Department of Homeland Security (DHS), to initiate a review of known instances since 2011 in which a person has traveled or attempted to travel to a conflict zone in Iraq or Syria from the United States to join or provide material support or resources to a terrorist organization.\n\n Such review shall:\n\n include relevant information held by the U.S. government related to each instance; ascertain factors that may have undermined efforts to prevent such travel, including the timely identification of suspects, information sharing, intervention, and interdiction; and identify lessons learned and areas for improvement to prevent additional travel by such persons to a conflict zone in Iraq or Syria, or other terrorist safe havens abroad, to join or provide material support or resources to a terrorist organization. DHS shall submit to Congress the results of such review, which may include information on travel routes of greatest concern.\n\nNo additional funds are authorized to be appropriated to carry out this Act."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Foreign Fighter Review Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Foreign Fighter Review Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Foreign Fighter Review Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require a review of information regarding persons who have traveled or attempted to travel from the United States to support terrorist organizations in Syria and Iraq, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:00:28-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4402:@@@L&summ2=m&"
+}

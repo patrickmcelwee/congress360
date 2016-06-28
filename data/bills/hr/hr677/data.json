@@ -1,0 +1,288 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-02-03", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-02-13", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Disability Assistance and Memorial Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-04-14", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-05-14", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-05-14", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee by Voice Vote .", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-17", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-17", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported in the Nature of a Substitute (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2016-02-01T14:11:00-05:00", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 114-405.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-01T14:12:00-05:00", 
+      "calendar": "Union", 
+      "number": "308", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 308.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2016-02-09T16:00:00-05:00", 
+      "references": [], 
+      "text": "Mr. Abraham moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-09T16:00:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H617-628", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-09T16:00:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 677.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-09T16:21:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H617-625", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2016-02-09T16:21:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-09T16:21:00-05:00", 
+      "references": [], 
+      "text": "The title of the measure was amended. Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-10", 
+      "committees": [
+        "SSVA"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr677-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR", 
+      "subcommittee": "Subcommittee on Disability Assistance and Memorial Affairs", 
+      "subcommittee_id": "09"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Veterans' Affairs", 
+      "committee_id": "SSVA"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Titus, Dina", 
+      "sponsored_at": "2015-02-03", 
+      "state": "NV", 
+      "thomas_id": "01940", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-04-14", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2016-02-09T16:21:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-02-03", 
+  "number": "677", 
+  "official_title": "To amend title 38, United States Code, to provide for annual cost-of-living adjustments to be made automatically by law each year in the rates of disability compensation for veterans with service-connected disabilities and the rates of dependency and indemnity compensation for survivors of certain service-connected disabled veterans, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr732-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr1512-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr2605-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr2691-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s1451-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s2473-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "American Heroes COLA Act of 2015", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Abraham, Ralph Lee", 
+    "state": "LA", 
+    "thomas_id": "02244", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2016-02-09T16:21:00-05:00", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Disability assistance", 
+    "Inflation and prices", 
+    "Veterans' pensions and compensation"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2016-02-09", 
+    "text": "American Heroes COLA Act of 2015\n\n(Sec. 2) This bill authorizes the Department of Veterans Affairs (VA), in lieu of furnishing a headstone or marker to a deceased individual, to furnish a medallion or other device to signify the deceased individual's veteran status, to be attached to a headstone or marker furnished at private expense. A deceased individual, for the purposes of such provision, is an individual who: (1) served in the Armed Forces on or after April 6, 1917; and (2) is eligible for a headstone or marker, or who would be eligible but for his or her date of death.\n\n(Sec. 3) \"Claim\" and \"formal claim\" (a claim submitted on a DOD- prescribed form) are defined for purposes of provisions relating to claims for benefits under laws administered by the VA.\n\n(Sec. 4) The VA shall report quarterly to Congress for five years regarding submitted VA claims. Each report shall include the total number of:\n\n claims submitted, including the total number of informal and formal claims; forms indicating an intent to file a benefits claim; claim notification letters that included an invitation to submit an additional formal claim and the total number of claimants who submitted such additional formal claim; electronically filed claims submitted; and fully-developed claims submitted. It is the sense of Congress that the VA should develop a form for increasing or reopening a claim that does not require resubmittal of information previously submitted on a formal claim form.\n\n(Sec. 5) The VA may pay burial and funeral expenses, accrued benefits, dependency and indemnity compensation, and non-service connected disability or death pension amounts to a survivor of a veteran who has not filed a formal claim if the record contains sufficient evidence to establish the survivor's entitlement to such benefits.\n\nThe date of receipt of such benefits application shall be the earlier of:\n\n the date on which the survivor notifies the VA of the veteran's death through a death certificate or other relevant medical evidence indicating that the death was due to a service-connected or compensable disability, or the date on which any other federal agency notifies the VA of the veteran's death. The bill requires the VA to report to Congress on benefits paid pursuant to covered claims.\n\n(Sec. 6) The VA shall provide the following claimants priority when processing veterans benefits claims:\n\n veterans who have attained the age of 70; veterans who are terminally ill; veterans with life-threatening illnesses; homeless veterans; veterans who were awarded the Medal of Honor; veterans who are former prisoners of war; veterans whose claims are being reviewed again in relation to a previously denied claim relating to military sexual trauma; veterans who the VA determines, on a case-by-case basis, are seriously or very seriously injured; and veterans whom the VA determinesshould otherwise be given priority for good cause. (Sec. 7) If a veteran has submitted a medical opinion or report from a private physician in support of a disability compensation claim, the VA may not order a medical examination by a VA physician unless the VA provides the veteran with an explanation of why: (1) the submitted medical opinion or report was not sufficiently complete, and (2) additional medical evidence is necessary.\n\nThis provision shall apply to medical evidence submitted one year after enactment of this Act by veterans who have not submitted any prior VA disability compensation claims.\n\n(Sec. 8) During the nine-year period beginning on December 1, 2016, whenever there is an increase in benefit amounts payable under title II (Old Age, Survivors and Disability Insurance) of the Social Security Act, the VA shall increase by the same percentage the amounts payable as veterans' disability compensation, additional compensation for dependents, the clothing allowance for certain disabled adult children, and dependency and indemnity compensation for surviving spouses and children.\n\n(Sec. 9) The process for appointment of fiduciaries for veterans is revised.\n\nIf the VA determines a beneficiary to be mentally incompetent for purposes of appointing a fiduciary, the VA shall provide the beneficiary with a written statement detailing the reasons for such determination. A beneficiary may appeal such determination.\n\nA beneficiary for whom the VA appoints a fiduciary may, at any time, request the VA to remove such fiduciary and appoint a new one. The VA shall comply with a good faith request if the fiduciary: (1) has received a fee from the beneficiary and a volunteer fiduciary is available to assist the beneficiary, or (2) is not acting in the beneficiary's best interests.\n\nThe VA shall ensure that any removal or new appointment shall not delay or interrupt the beneficiary's receipt of benefits.\n\nA VA-appointed fiduciary shall act independently of the VA and in the interest of the beneficiary.\n\n A veteran may predesignate a fiduciary. If a beneficiary does not designate a fiduciary the VA shall appoint a fiduciary who is: (1) a relative, (2) a guardian, or (3) authorized to act on the beneficiary's behalf under a durable power of attorney.\n\n The VA, if it determines that a commission is necessary to obtain the services of a fiduciary in the best interests of a beneficiary, may authorize a fiduciary appointed by the VA to obtain from the monthly benefits provided to the beneficiary a reasonable commission for fiduciary services rendered. Such commission shall not exceed the lesser of: (1) 3% of the monthly monetary benefits paid on behalf of the beneficiary to the fiduciary, or (2) $35. A commission may not be authorized for a fiduciary who receives any other form of remuneration or payment in connection with rendering fiduciary services for the beneficiary.\n\nTemporary benefit payments to a person having custody and control of an incompetent or minor beneficiary are permitted.\n\n Specified state and local agencies and nonprofit social service agencies may act as fiduciaries. The VA shall maintain a list of state and local agencies and nonprofit social service agencies that are qualified to act as a fiduciary.\n\nThe bill requires the investigation for the certification of a fiduciary to include criminal and credit background checks. A background check shall be performed each time a person is proposed as a fiduciary.\n\nA person convicted of a federal or state offense may serve as a fiduciary only if the VA finds such person to be appropriate under the circumstances.\n\nA fiduciary shall disclose the number of beneficiaries on whose behalf the fiduciary acts.\n\nThe VA shall: (1) maintain records of any person whose fiduciary status has been revoked, and (2) notify a beneficiary within 14 days after learning that the fiduciary has been convicted of a specified crime.\n\n The VA shall investigate alleged misuse of benefits, and if substantiated, transmit such information to the Department of Justice and each federal agency that pays benefits to fiduciaries or beneficiaries.\n\nThe VA shall, when determining whether a proposed fiduciary must furnish a bond, consider: (1) the existence of any familial or other personal relationship between the proposed fiduciary and the beneficiary, and (2) the care the proposed fiduciary has taken to protect the beneficiary's interests.\n\nEach Veterans Benefits Administration regional office shall maintain specified fiduciary information.\n\nA fiduciary must (currently, may) file an annual accounting of the administration of beneficiary benefits.\n\nThe VA shall conduct annual random audits of fiduciaries who receive a commission for such service.\n\n(Sec. 10) The Board of Veterans' Appeals shall, for purposes of scheduling a veteran's appeal hearing at the earliest possible date, determine whether to provide such hearing: (1) at its principal location or at another VA facility or other federal facility within the regional VA's area, and (2) through the use of video conferencing or by an appellant's personal appearance. (Current law merely permits an appellant to request that a hearing be at the Board's principal location or at a VA facility located within the regional VA's area.)\n\nThe Board shall notify the appellant of such decisions. Upon notification, the appellant may request a different location or type of hearing, and the Board shall grant such request while ensuring that the hearing is scheduled at the earliest possible date.\n\n(Sec. 11) The Veterans Benefits Act of 2003 is amended to extend until December 31, 2017, the VA's authority to provide for persons other than VA employees (i.e., contract physicians) to conduct medical disability examinations of applicants for VA benefits.\n\nA VA-contracted physicians may conduct such examinations at any location in any state, the District of Columbia, or a Commonwealth, territory, or possession of the United States so long as the examination is within the scope of the contract and the physician:\n\n has a current unrestricted license to practice his or her health care profession; is not barred from practicing such health care profession in any state, the District of Columbia, or a U.S. commonwealth, territory, or possession; and is performing authorized duties for the VA pursuant to a contract. The Veterans' Benefits Improvement Act of 1996 is amended to provide similar authorities for examination locations under the pilot program authorizing the VA to use contract physicians to perform medical disability examinations of applicants for benefits carried out through the Under Secretary for Benefits.\n\n(Sec. 12) The VA shall: (1) carry out a five-year pilot program to provide a faster disability compensation appeals process, and (2) inform claimants about such program.\n\nAppeals filed under the pilot program are described as \"fully developed appeals.\"\n\nA claimant may elect to file a fully developed appeal by filing with the VA: (1) a notice of disagreement along with the claimant's written election to have the appeal determined under the pilot program, (2) all necessary evidence, and (3) a statement of the claim's supporting argument.\n\nA claimant who elects to file a claim under the pilot program may elect to revert to the standard appeals process at any time. Such reversion shall be final.\n\nSuch a claimant or an electing claimant who is later determined to be ineligible for the pilot program shall revert to the standard appeals process without any penalty other than the loss of docket number.\n\nThe VA shall transfer jurisdiction over a fully developed appeal directly to the Board of Veterans' Appeals.\n\nThe Board shall:\n\n maintain fully developed appeals on a separate docket; hear fully developed appeals in the order received; decide not more than one fully developed appeal for each four traditional appeals decided, though this ratio may be adjusted for fairness purposes after one year; and decide each fully developed appeal within one year of a claimant's filing the notice of disagreement. A claimant may not submit or identify to the Board any new evidence relating to a fully developed appeal after filing such appeal unless the claimant reverts to the standard appeals process.\n\nThe Board shall establish an office to develop necessary federal records, independent medical opinions, and new medical exams that the Board determines are necessary to decide a fully developed appeal.\n\nThe Board may not provide hearings for fully developed appeals.\n\n(Sec. 13) The VA shall take steps to ensure that regional offices certify VA Form 9, Appeal to Board of Veterans' Appeals forms within one year of receipt.\n\n(Sec. 14) A commission or task force is established to evaluate the backlog of VA disability claims and appeals. The commission or task force shall: (1) carry out a comprehensive evaluation of the claims backlog and the appeals process and provide Congress and the President with initial, interim, and final reports; and (2) terminate 60 days after submission of the final report.\n\n(Sec. 15) The Department of Defense (DOD) shall accept additional documentation for verifying active duty service as a coastwise merchant seaman between December 7, 1941-December 31, 1946, for purposes of veterans' burial benefits and medal and decorations eligibility, including:\n\n in the case of an individual who served on a coastwise merchant vessel seeking such recognition for whom no applicable Coast Guard shipping or discharge form, ship logbook, merchant mariner's document or Z-card, or other official employment record is available, applicable Social Security Administration records, together with validated testimony given by the individual or the primary next of kin that the individual performed such service between December 7, 1941- December 31, 1946; and in the case of such an individual for whom such employment record has been destroyed or is otherwise unavailable, other official documentation demonstrating that the individual performed such service between December 7, 1941- December 31, 1946. (These individuals shall not be entitled to other benefits based upon such service.)\n\n DOD, when determining whether to recognize service performed during such period, shall recognize masters of seagoing vessels or other command officers who were authorized to document an individual for purposes of hiring for, or discharging from, the merchant marine.\n\nDOD shall verify that an individual performed such qualifying service under honorable conditions without regard to an individual's sex, age, or disability.\n\n(Sec. 16) The VA shall designate at least one U.S. city each year as an \"American World War II City\" based on the city's: (1) contributions to the war effort during World War II; and (2) efforts to preserve the history of such contributions, including through establishment of preservation organizations or museums, restoration of World War II facilities, and recognition of World War II veterans. Wilmington, North Carolina, is designated as the first such city.\n\n(Sec. 17) Congress: (1) expresses its appreciation to the men and women left permanently wounded, ill, or injured as a result of their service in the Armed Forces; and (2) supports the annual recognition of permanently disabled American veterans.\n\n(Sec. 18) The Caregivers and Veterans Omnibus Health Services Act of 2010 is amended to extend through December 31, 2021, the pilot program of providing reintegration and readjustment services in group retreat settings to certain women veterans recently separated from military service."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "American Heroes COLA Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "American Heroes COLA Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "American Heroes COLA Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 38, United States Code, to provide for annual cost-of-living adjustments to be made automatically by law each year in the rates of disability compensation for veterans with service-connected disabilities and the rates of dependency and indemnity compensation for survivors of certain service-connected disabled veterans.", 
+      "type": "official"
+    }, 
+    {
+      "as": "amended by house", 
+      "is_for_portion": false, 
+      "title": "To amend title 38, United States Code, to provide for annual cost-of-living adjustments to be made automatically by law each year in the rates of disability compensation for veterans with service-connected disabilities and the rates of dependency and indemnity compensation for survivors of certain service-connected disabled veterans, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:28:56-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR677:@@@L&summ2=m&"
+}

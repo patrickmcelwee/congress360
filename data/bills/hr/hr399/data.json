@@ -1,0 +1,524 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-01-16", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Homeland Security, and in addition to the Committees on Armed Services, Natural Resources, and Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-01-16", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "text": "Referred to House Homeland Security", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-01-16", 
+      "committees": [
+        "HSAS"
+      ], 
+      "references": [], 
+      "text": "Referred to House Armed Services", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-01-16", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Referred to House Natural Resources", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-01-16", 
+      "committees": [
+        "HSAG"
+      ], 
+      "references": [], 
+      "text": "Referred to House Agriculture", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-01-21", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-21", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 18 - 12.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2015-01-27T17:11:00-05:00", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-10, Part I.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-27T17:11:00-05:00", 
+      "committees": [
+        "HSAS"
+      ], 
+      "references": [], 
+      "text": "Committee on Armed Services discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-27T17:11:00-05:00", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Committee on Natural Resources discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-27T17:11:00-05:00", 
+      "committees": [
+        "HSAG"
+      ], 
+      "references": [], 
+      "text": "Committee on Agriculture discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-27T17:11:00-05:00", 
+      "calendar": "Union", 
+      "number": "6", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 6.", 
+      "type": "calendar", 
+      "under": null
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr399-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Agriculture", 
+      "committee_id": "HSAG"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "6", 
+      "name": "Barton, Joe", 
+      "sponsored_at": "2015-01-22", 
+      "state": "TX", 
+      "thomas_id": "00062", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Bishop, Rob", 
+      "sponsored_at": "2015-01-16", 
+      "state": "UT", 
+      "thomas_id": "01753", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Brady, Kevin", 
+      "sponsored_at": "2015-01-22", 
+      "state": "TX", 
+      "thomas_id": "01468", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Bucshon, Larry", 
+      "sponsored_at": "2015-01-16", 
+      "state": "IN", 
+      "thomas_id": "02018", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Carter, Earl L. \"Buddy\"", 
+      "sponsored_at": "2015-01-21", 
+      "state": "GA", 
+      "thomas_id": "02236", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "31", 
+      "name": "Carter, John R.", 
+      "sponsored_at": "2015-01-16", 
+      "state": "TX", 
+      "thomas_id": "01752", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Clawson, Curt", 
+      "sponsored_at": "2015-01-20", 
+      "state": "FL", 
+      "thomas_id": "02200", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Coffman, Mike", 
+      "sponsored_at": "2015-01-20", 
+      "state": "CO", 
+      "thomas_id": "01912", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Culberson, John Abney", 
+      "sponsored_at": "2015-01-16", 
+      "state": "TX", 
+      "thomas_id": "01670", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "27", 
+      "name": "Farenthold, Blake", 
+      "sponsored_at": "2015-01-16", 
+      "state": "TX", 
+      "thomas_id": "02067", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Flores, Bill", 
+      "sponsored_at": "2015-01-16", 
+      "state": "TX", 
+      "thomas_id": "02065", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Goodlatte, Bob", 
+      "sponsored_at": "2015-01-22", 
+      "state": "VA", 
+      "thomas_id": "00446", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Granger, Kay", 
+      "sponsored_at": "2015-01-21", 
+      "state": "TX", 
+      "thomas_id": "01487", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Hardy, Cresent", 
+      "sponsored_at": "2015-01-20", 
+      "state": "NV", 
+      "thomas_id": "02260", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "23", 
+      "name": "Hurd, Will", 
+      "sponsored_at": "2015-01-16", 
+      "state": "TX", 
+      "thomas_id": "02269", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Jolly, David W.", 
+      "sponsored_at": "2015-01-21", 
+      "state": "FL", 
+      "thomas_id": "02199", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "24", 
+      "name": "Katko, John", 
+      "sponsored_at": "2015-01-20", 
+      "state": "NY", 
+      "thomas_id": "02264", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "King, Peter T.", 
+      "sponsored_at": "2015-01-20", 
+      "state": "NY", 
+      "thomas_id": "00635", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Long, Billy", 
+      "sponsored_at": "2015-01-21", 
+      "state": "MO", 
+      "thomas_id": "02033", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "McSally, Martha", 
+      "sponsored_at": "2015-01-16", 
+      "state": "AZ", 
+      "thomas_id": "02225", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Miller, Candice S.", 
+      "sponsored_at": "2015-01-16", 
+      "state": "MI", 
+      "thomas_id": "01731", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Neugebauer, Randy", 
+      "sponsored_at": "2015-01-20", 
+      "state": "TX", 
+      "thomas_id": "01758", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "Olson, Pete", 
+      "sponsored_at": "2015-01-16", 
+      "state": "TX", 
+      "thomas_id": "01955", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Palazzo, Steven M.", 
+      "sponsored_at": "2015-01-20", 
+      "state": "MS", 
+      "thomas_id": "02035", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Perry, Scott", 
+      "sponsored_at": "2015-01-20", 
+      "state": "PA", 
+      "thomas_id": "02157", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Poe, Ted", 
+      "sponsored_at": "2015-01-16", 
+      "state": "TX", 
+      "thomas_id": "01802", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Ratcliffe, John", 
+      "sponsored_at": "2015-01-16", 
+      "state": "TX", 
+      "thomas_id": "02268", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "32", 
+      "name": "Sessions, Pete", 
+      "sponsored_at": "2015-01-16", 
+      "state": "TX", 
+      "thomas_id": "01525", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "25", 
+      "name": "Williams, Roger", 
+      "sponsored_at": "2015-01-16", 
+      "state": "TX", 
+      "thomas_id": "02165", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-01-21", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-01-16", 
+  "number": "399", 
+  "official_title": "To require the Secretary of Homeland Security to gain and maintain operational control of the international borders of the United States, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr229-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr455-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s208-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Secure Our Borders First Act of 2015", 
+  "sponsor": {
+    "district": "10", 
+    "name": "McCaul, Michael T.", 
+    "state": "TX", 
+    "thomas_id": "01804", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2015-01-21", 
+  "subjects": [
+    "Advanced technology and technological innovations", 
+    "Advisory bodies", 
+    "Arizona", 
+    "Aviation and airports", 
+    "Border security and unlawful immigration", 
+    "California", 
+    "Canada", 
+    "Congressional operations and organization", 
+    "Congressional oversight", 
+    "Customs enforcement", 
+    "Department of Homeland Security", 
+    "Drug trafficking and controlled substances", 
+    "Firearms and explosives", 
+    "General public lands matters", 
+    "Government buildings, facilities, and property", 
+    "Government employee pay, benefits, personnel management", 
+    "Government studies and investigations", 
+    "Great Lakes", 
+    "Human trafficking", 
+    "Immigration", 
+    "Intelligence activities, surveillance, classified information", 
+    "Intergovernmental relations", 
+    "International organizations and cooperation", 
+    "Lakes and rivers", 
+    "Land use and conservation", 
+    "Law enforcement administration and funding", 
+    "Law enforcement officers", 
+    "Marine and inland water transportation", 
+    "Mexico", 
+    "Military civil functions", 
+    "Motor vehicles", 
+    "National Guard and reserves", 
+    "New Mexico", 
+    "Performance measurement", 
+    "Roads and highways", 
+    "Smuggling and trafficking", 
+    "State and local government operations", 
+    "Terrorism", 
+    "Texas", 
+    "Travel and tourism", 
+    "Visas and passports"
+  ], 
+  "subjects_top_term": "Immigration", 
+  "summary": {
+    "as": "Reported to House amended, Part I", 
+    "date": "2015-01-27", 
+    "text": "Secure Our Borders First Act of 2015\n\n (Sec. 2) Directs the Department of Homeland Security (DHS) to submit Border Security Verification Commission (BSVC) and Government Accountability Office reports, at specified intervals, that assess the state of situational awareness and operational control along the northern and southern U.S. land borders, including an identification of the high traffic areas and the unlawful border crossing effectiveness rate for each sector along such borders that are within the responsibility of the Border Patrol.\n\nRequires the Comptroller General to report to Congress and the BSVC regarding the verification of the data and methodology used to determine high traffic areas and the unlawful border crossing effectiveness rate.\n\n(Sec. 3) Directs DHS to: (1) submit and implement an operational plan to gain and maintain situational awareness and operational control of high traffic areas within two years after enactment of this Act and operational control and situational awareness along the southern border within five years; and (2) notify Congress that such objectives have been obtained and maintained, which notification shall be certified by the BSVC.\n\nSpecifies: (1) additional capabilities to be deployed within one year after enactment of this Act to the San Diego, El Centro, Yuma, Tucson, El Paso, Big Bend, Del Rio, Laredo, and Rio Grande Valley sectors and the Eastern Pacific and Caribbean and Gulf Maritime regions to achieve situational awareness and operational control of the southern border; (2) fencing to be constructed or replaced within 18 months after enactment of this Act in the Border Patrol's San Diego, El Centro, Yuma, Tucson, Rio Grande Valley, Del Rio, El Centro, Yuma, El Paso, and Big Bend sectors; (3) road construction or maintenance projects to be completed within 18 months after enactment of this Act in the San Diego, El Centro, Yuma, Tucson, Big Bend, El Paso, Del Rio, Laredo, and Rio Grande Valley sectors; (4) boat ramps to be constructed in the Del Rio, Laredo, and Rio Grande Valley sectors; (5) access gates to be constructed in the Rio Grande Valley sector; and (6) forward operating bases to be constructed in the El Paso, Tucson, Big Bend, Del Rio, Laredo, and Rio Grande sectors.\n\nDirects the Border Patrol to coordinate with the heads of each relevant federal and state agency to eradicate the Carrizo cane plant along the Rio Grande River.\n\nRequires: (1) the Border Patrol to develop metrics to measure the effectiveness of security between ports of entry, (2) U.S. Customs and Border Protection (CBP) to develop metrics to measure the effectiveness of security at ports of entry, (3) the Coast Guard and the CBP to jointly implement metrics to measure the effectiveness of security in the maritime environment, and (4) the CBP to implement metrics to measure the effectiveness of security in the aviation environment. Requires the BSVC to assess and the Comptroller General to report on the statistical validity of the data and methodology used to develop such metrics.\n\n(Sec. 4) Establishes the BSVC and a special congressional commission on border security to determine the criteria for recommending the three presidential appointees to the BSVC. Terminates the BSVC after determining the accuracy of the tenth annual metrics submission required under this Act.\n\n(Sec. 5) Directs the Border Patrol to impose a consequence for each alien apprehended pursuant to the Border Patrol's Consequence Delivery System.\n\n(Sec. 6) Requires the Border Patrol to: (1) direct its agents to patrol as close to the physical land border as possible, consistent with the accessibility to such areas; and (2) deploy the maximum practicable number of agents to forward operating bases along the U.S. southern land border to meet this Act's requirements.\n\n(Sec. 7) Authorizes the Border Patrol to alter the capability deployment requirements of this Act: (1) for the southern border upon determining that the principal border security threats require alteration, and (2) for the northern border upon determining that the threat analysis required under this Act requires such alteration.\n\n(Sec. 8) Authorizes the Department of Defense (DOD) to allocate additional DOD aviation assets to the southern border to assist DHS in achieving situational awareness and operational control.\n\n(Sec. 9) Sets personnel levels for Border Patrol active duty agents, CBP's Office of Field Operations officers, and CBP's Office of Air and Marine agents.\n\n(Sec. 10) Requires: (1) DHS to ensure not fewer than 130,000 annual flight hours of the Office of Air and Marine, and (2) the Office of Air and Marine to operate unmanned aerial systems not less than 16 hours per day, seven days per week. Directs such Office to report annually, describing the number of hours the Office operated unmanned aerial systems in a transit zone, on a land border, or on a maritime border or to assist other law enforcement agencies.\n\n(Sec. 11) Requires the Office of Air and Marine to assign the greatest prioritization to support Border Patrol requests to gain and maintain situational awareness and operational control of high traffic areas and operational control and situational awareness along the southern border.\n\n(Sec. 12) Authorizes the Border Patrol to transfer its agents, on a voluntary basis, to high traffic areas and to provide an incentive bonus for any such transfer.\n\n(Sec. 13) Prohibits the Departments of the Interior or Agriculture from impeding, prohibiting, or restricting CBP activities on federal land located within 100 miles of the U.S. border with Mexico and the U.S. border with Canada to execute search and rescue operations and to prevent all unlawful entries into the United States.\n\nMakes DHS's waiver on April 1, 2008, under the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 of specified environmental and other laws applicable to all such federal land.\n\n(Sec. 14) Directs DHS: (1) to submit an implementation plan to establish a biometric exit data system to complete the integrated biometric entry and exit data system; (2) within two years after enactment of this Act, to establish a biometric exit data system at the 15 U.S. airports and the 15 U.S. seaports that support the highest volume of international air and sea travel and at the 15 U.S. land ports of entry that support the highest volume of pedestrian crossings; and (3) within five years, to expand such system to all land, air, and sea ports of entry. Requires DHS to ensure that the collection of biometric data causes the least possible disruption to the movement of people or cargo in air, sea, or land transportation, while fulfilling the goals of improving counterterrorism efforts and identifying visa holders who violate the terms of their visas. Prohibits DHS from requiring any non-federal person to collect biometric data pursuant to the biometric exit data system, except through a contractual agreement.\n\nRequires DHS to: (1) terminate the proceeding entitled \"Collection of Alien Biometric Data Upon Exit From the United States at Air and Sea Ports of Departure,\" and (2) submit reports and recommendations of DHS's Science and Technology Directorate's Air Entry and Exit Re-Engineering Program and of CBP's entry and exit mobility program demonstrations.\n\nProhibits travel, training, bonuses, or salary increases for DHS political appointees if the metrics requirements, the objectives relating to the achievement of situational awareness and operational control, or the biometric exit data system requirements are not met.\n\n(Sec. 15) Directs DHS to submit a northern border threat analysis, which shall include an analysis of:\n\n current and potential terrorism threats posed by individuals seeking to enter the United States through the northern border; improvements needed at ports of entry along the northern border to prevent terrorists and instruments of terror from entering the United States; gaps in law, policy, international agreements, or tribal agreements that hinder the border security and counter-terrorism efforts along the northern border; and unlawful cross border activity between ports of entry, including the maritime borders of the Great Lakes. Specifies additional capabilities to be deployed within 18 months after enactment of this Act to the Blaine, Spokane, Havre, Grand Forks, Detroit, Buffalo, Swanton, and Houlton sectors of the northern border.\n\n(Sec. 16) Amends the Homeland Security Act of 2002 to establish in DHS a program known as Operation Stonegarden, under which DHS shall make grants to law enforcement agencies in a state bordering Canada or Mexico or a state or territory with a maritime border to enhance border security. Requires an eligible law enforcement agency to be involved in an active ongoing CBP operation coordinated through a sector office. Permits a recipient to use a grant for equipment, personnel (including overtime and backfill) in support of enhanced border law enforcement activities, and any activity permitted under DHS's FY2014 Funding Opportunity Announcement for Operation Stonegarden. Authorizes appropriations for such grants for FY2015-FY2019.\n\n(Sec. 17) Authorizes the sale or donation of certain excess personal property of DOD for border security activities.\n\n(Sec. 18) Directs DOD to reimburse states for the cost of the deployment of any National Guard units or personnel to perform operations and missions under State Active Duty status in support of a southern border mission, subject to a specified cap.\n\n(Sec. 19) Directs the Border Patrol to: (1) operate using intelligence-based operations to combat terrorist and transnational criminal threats along the international borders of the United States; and (2) coordinate with international, federal, state, local, and tribal law enforcement partners.\n\n(Sec. 20) Defines terms used in this Act, including defining \"situational awareness\" as knowledge and an understanding of current unlawful cross-border activity, the ability to forecast future shifts in such threats and trends, and the operational capability to conduct continuous and integrated surveillance of such borders.\n\n(Sec. 21) Authorizes appropriations for FY2016-FY2025 to carry out this Act."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Secure Our Borders First Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Secure Our Borders First Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require the Secretary of Homeland Security to gain and maintain operational control of the international borders of the United States, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:26:33-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR399:@@@L&summ2=m&"
+}

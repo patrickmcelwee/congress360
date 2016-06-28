@@ -1,0 +1,109 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-02-09", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-02-16", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Federal Lands.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4507-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Federal Lands", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "4", 
+      "name": "McCollum, Betty", 
+      "sponsored_at": "2016-02-09", 
+      "state": "MN", 
+      "thomas_id": "01653", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-02-09", 
+  "number": "4507", 
+  "official_title": "To establish the Bureau of Land Management Foundation as a charitable, nonprofit corporation, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Bureau of Land Management Foundation Act", 
+  "sponsor": {
+    "district": "47", 
+    "name": "Lowenthal, Alan S.", 
+    "state": "CA", 
+    "thomas_id": "02111", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-02-09", 
+  "subjects": [
+    "Charitable contributions", 
+    "Department of the Interior", 
+    "Executive agency funding and structure", 
+    "General public lands matters", 
+    "Land use and conservation", 
+    "Public lands and natural resources", 
+    "Social work, volunteer service, charitable organizations"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2016-02-09", 
+    "text": "Bureau of Land Management Foundation Act\n\nThis bill establishes a Bureau of Land Management Foundation as a charitable, nonprofit corporation to:\n\n encourage, accept, and administer private gifts of money and of real and personal property for the benefit of, or in connection with the activities and services of, the Bureau of Land Management (BLM); conduct activities that further the purposes for which public lands are administered; and conduct and encourage educational, technical, scientific, and other assistance or activities that support the BLM's mission."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Bureau of Land Management Foundation Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To establish the Bureau of Land Management Foundation as a charitable, nonprofit corporation, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:01:21-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4507:@@@L&summ2=m&"
+}

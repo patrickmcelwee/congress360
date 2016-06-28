@@ -1,0 +1,332 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-01-28", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Oversight and Government Reform.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-02-04", 
+      "references": [
+        {
+          "reference": "CR H765", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-22", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-22", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2015-10-20T19:20:00-04:00", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 114-298.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-10-20T19:20:00-04:00", 
+      "calendar": "Union", 
+      "number": "227", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 227.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2016-01-11T17:03:00-05:00", 
+      "references": [], 
+      "text": "Mr. Chaffetz moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-01-11T17:04:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H246-247", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-01-11T17:04:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 598.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-01-11T17:10:00-05:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-01-11T18:31:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H257-258", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-01-11T18:54:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-01-11T18:54:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H246-247", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "34", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 413 - 0 (Roll no. 34).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2016-01-12", 
+      "references": [], 
+      "text": "Received in the Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-01-19", 
+      "calendar": "Senate Legislative", 
+      "number": "350", 
+      "references": [], 
+      "text": "Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 350.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr598-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Oversight and Government Reform", 
+      "committee_id": "HSGO"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "12", 
+      "name": "Bost, Mike", 
+      "sponsored_at": "2015-01-28", 
+      "state": "IL", 
+      "thomas_id": "02243", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Cooper, Jim", 
+      "sponsored_at": "2015-01-28", 
+      "state": "TN", 
+      "thomas_id": "00231", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Costa, Jim", 
+      "sponsored_at": "2015-03-16", 
+      "state": "CA", 
+      "thomas_id": "01774", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Kelly, Mike", 
+      "sponsored_at": "2015-01-28", 
+      "state": "PA", 
+      "thomas_id": "02051", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Long, Billy", 
+      "sponsored_at": "2015-01-28", 
+      "state": "MO", 
+      "thomas_id": "02033", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "McSally, Martha", 
+      "sponsored_at": "2015-02-02", 
+      "state": "AZ", 
+      "thomas_id": "02225", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "Olson, Pete", 
+      "sponsored_at": "2015-02-05", 
+      "state": "TX", 
+      "thomas_id": "01955", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Pittenger, Robert", 
+      "sponsored_at": "2015-02-04", 
+      "state": "NC", 
+      "thomas_id": "02141", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Roskam, Peter J.", 
+      "sponsored_at": "2015-02-04", 
+      "state": "IL", 
+      "thomas_id": "01848", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Ryan, Paul D.", 
+      "sponsored_at": "2015-02-11", 
+      "state": "WI", 
+      "thomas_id": "01560", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-07-22", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2016-01-11T18:54:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-01-28", 
+  "number": "598", 
+  "official_title": "To provide taxpayers with an annual report disclosing the cost and performance of Government programs and areas of duplication among them, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s282-114", 
+      "reason": "identical", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s282-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s3011-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Taxpayers Right-To-Know Act", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Walberg, Tim", 
+    "state": "MI", 
+    "thomas_id": "01855", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2016-01-11T18:54:00-05:00", 
+  "subjects": [
+    "Accounting and auditing", 
+    "Census and government statistics", 
+    "Congressional oversight", 
+    "Executive agency funding and structure", 
+    "Government employee pay, benefits, personnel management", 
+    "Government information and archives", 
+    "Government operations and politics", 
+    "Government studies and investigations", 
+    "Performance measurement"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2016-01-11", 
+    "text": "Taxpayers Right-To-Know Act\n\n(Sec. 2) This bill requires that the website of the Office of Management and Budget (OMB) include a program inventory that identifies each program of the federal government for which there is more than $1 million in annual budget authority. Such inventory shall include: (1) any activity that is commonly referred to as a program by a federal agency, and (2) any activity that is referenced in law as a program after June 30, 2019. For each program identified in such inventory, the bill requires:\n\n an identification of the program activities that are aggregated, disaggregated, or consolidated as part of identifying programs; for each such program activity, the amount of funding for the current fiscal year and the previous two fiscal years; an estimate of the amount of funding for the program; an identification of the statutes that authorize the program and any major regulations specific to the program; a description and estimate of the number of individuals served by a program and beneficiaries who received financial assistance under a program; a description of the federal employees who administer the program and other individuals whose salary is paid in part or full by the federal government through a grant, contract, cooperative agreement, or another form of financial award or assistance; links to any evaluation, assessment, or program performance reviews by the agency, an Inspector General, or the Government Accountability Office released during the preceding five years; and financial and other information for each program required to be reported under the Federal Funding Accountability and Transparency Act of 2006. Similar information is required for each program identified in the program inventory for which there is more than $1 million and not more than $10 million in annual budget authority (smaller programs).\n\nThe OMB shall: (1) archive and preserve the information included in the program inventory; and (2) not later than February 1 of each fiscal year, publish on a public website the total amount of undisbursed grant funding remaining in grant accounts for which the period of availability to the grantee has expired.\n\n(Sec. 3) The bill requires the OMB, not later than June 30, 2018, to: (1) prescribe guidance to implement this Act, and (2) issue guidance to assist agencies in identifying how the program activities used in budget or appropriations accounts correspond with programs identified in the program inventory required by this Act. The OMB may: (1) issue guidance to agencies to ensure that programs are presented at a similar level of detail across agencies and are not duplicative or overlapping; (2) exempt from the requirements of this Act, based on an analysis of the costs of implementation, agencies that are not required to have a chief financial officer and that have less than $10 million in budget authority; and (3) extend the Act's implementation deadline by not more than one year.\n\nImplementation of the requirements in this bill must be completed not later than June 30, 2019.\n\n(Sec. 4)\u00a0 No additional funds may be authorized to carry out the requirements in this bill."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Taxpayers Right-To-Know Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Taxpayers Right-To-Know Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Taxpayers Right-To-Know Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide taxpayers with an annual report disclosing the cost and performance of Government programs and areas of duplication among them, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:28:13-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR598:@@@L&summ2=m&"
+}

@@ -1,0 +1,95 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-03-26", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-03-27", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Communications and Technology.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1712-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Communications and Technology", 
+      "subcommittee_id": "16"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-03-26", 
+  "number": "1712", 
+  "official_title": "To amend the Communications Act of 1934 to exempt providers of broadband Internet access service from Federal universal service contributions.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Freedom from Internet Tax Act", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Mooney, Alexander X.", 
+    "state": "WV", 
+    "thomas_id": "02277", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-03-26", 
+  "subjects": [
+    "Internet and video services", 
+    "Science, technology, communications", 
+    "Telecommunication rates and fees"
+  ], 
+  "subjects_top_term": "Science, technology, communications", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-03-26", 
+    "text": "Freedom from Internet Tax Act\n\nAmends the Communications Act of 1934 to exempt providers of broadband Internet access service (as defined in rules adopted by the Federal Communications Commission on February 26, 2015) from requirements to make contributions to the federal universal service fund."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Freedom from Internet Tax Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Communications Act of 1934 to exempt providers of broadband Internet access service from Federal universal service contributions.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:37:44-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR1712:@@@L&summ2=m&"
+}

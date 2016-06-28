@@ -1,0 +1,101 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-05-19", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-05-22", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2421-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-05-19", 
+  "number": "2421", 
+  "official_title": "To amend the Public Health Service Act to increase accountability at the National Institutes of Health.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr6-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "6", 
+    "name": "Barton, Joe", 
+    "state": "TX", 
+    "thomas_id": "00062", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-05-19", 
+  "subjects": [
+    "Congressional oversight", 
+    "Department of Health and Human Services", 
+    "Executive agency funding and structure", 
+    "Federal officials", 
+    "Government studies and investigations", 
+    "Health", 
+    "Medical research", 
+    "National Institutes of Health (NIH)", 
+    "Research administration and funding"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-05-19", 
+    "text": "This bill amends the Public Health Service Act to require the Director of the National Institutes of Health (NIH) to appoint the directors of the national research institutes and national centers (excluding the National Cancer Institute) instead of the Secretary of Health and Human Services (HHS). Directors appointed by the Director of NIH have five-year terms.\n\nThis bill amends the Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 1993 to remove a provision that makes appropriations available for compensation of consultants or individual scientists appointed for limited periods of time to the Public Health Service.\n\nBefore a national research institute or national center awards a grant for a research project (R-series grant) the director of the institute or center must review and approve the award, taking into consideration the mission and priorities of the institute or center and whether other agencies are funding projects to accomplish the same goal.\n\nHHS must enter an arrangement with the National Academy of Medicine (formerly known as the Institute of Medicine) under which a study is completed on the extent to which federally funded biomedical research is duplicative and recommendations are made on preventing such duplication."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Public Health Service Act to increase accountability at the National Institutes of Health.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:43:47-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2421:@@@L&summ2=m&"
+}

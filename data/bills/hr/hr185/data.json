@@ -1,0 +1,557 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-01-07", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-01-12", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-01-12T21:44:00-05:00", 
+      "bill_ids": [
+        "hres27-114", 
+        "hr37-114", 
+        "hr240-114"
+      ], 
+      "committees": [
+        "HSRU"
+      ], 
+      "references": [], 
+      "text": "Rules Committee Resolution H. Res. 27 Reported to House. All points of order against consideration of the bills are waived. H.R. 37 H.R. 185 shall be debatable for 1 hour, and H.R. 240 shall be debatable for 2 hours the previous question considered ordered without intervening motions except one motion to recommit. For H.R. 185, only those amendments printed in Part A of the report shall be in order. For H.R. 240, only those amendments printed in Part B of the report shall be in order. in Part B of the report shall be in order.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-13T14:38:00-05:00", 
+      "bill_ids": [
+        "hres27-114"
+      ], 
+      "references": [
+        {
+          "reference": "CR H249-272", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H256-260", 
+          "type": "text of measure as introduced"
+        }
+      ], 
+      "text": "Considered under the provisions of rule H. Res. 27.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-13T14:39:00-05:00", 
+      "bill_ids": [
+        "hr37-114", 
+        "hr240-114"
+      ], 
+      "references": [], 
+      "text": "All points of order against consideration of the bills are waived. H.R. 37 H.R. 185 shall be debatable for 1 hour, and H.R. 240 shall be debatable for 2 hours the previous question considered orderedwithout intervening motions except one motion to recommit. For H.R. 185, only those amendments printed in Part A of the report shall be in order. For H.R. 240, only those amendments printed in Part B of the report shall be in order.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-13T14:39:00-05:00", 
+      "bill_ids": [
+        "hres27-114"
+      ], 
+      "references": [], 
+      "text": "House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 27 and Rule XVIII.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-13T14:39:00-05:00", 
+      "references": [], 
+      "text": "The Speaker designated the Honorable Lynn A. Westmoreland to act as Chairman of the Committee.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-13T14:39:00-05:00", 
+      "references": [], 
+      "text": "GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 185.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-13T15:46:00-05:00", 
+      "bill_ids": [
+        "hres27-114"
+      ], 
+      "references": [], 
+      "text": "DEBATE - Pursuant to the provisions of H. Res. 27, the Committee of the Whole proceeded with 10 minutes of debate on the McKinley Part A amendment No. 1.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-13T15:57:00-05:00", 
+      "references": [], 
+      "text": "POSTPONED PROCEEDINGS - At the conclusion of debate on the McKinley amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. McKinely demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until later in the legislative day.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-13T15:58:00-05:00", 
+      "bill_ids": [
+        "hres27-114"
+      ], 
+      "references": [], 
+      "text": "DEBATE - Pursuant to the provisions of H. Res. 27, the Committee of the Whole proceeded with 10 minutes of debate on the Johnson (GA) Part A amendment No. 2.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-13T16:06:00-05:00", 
+      "references": [], 
+      "text": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Johnson (GA) amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Johnson (GA) demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until later in the legislative day.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-13T16:06:00-05:00", 
+      "bill_ids": [
+        "hres27-114"
+      ], 
+      "references": [], 
+      "text": "DEBATE - Pursuant to the provisions of H. Res. 27, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson Lee Part A amendment No. 3.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-13T16:14:00-05:00", 
+      "references": [], 
+      "text": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Jackson Lee amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Ms. Jackson Lee demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until later in the legislative day.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-13T16:14:00-05:00", 
+      "bill_ids": [
+        "hres27-114"
+      ], 
+      "references": [], 
+      "text": "DEBATE - Pursuant to the provisions of H. Res. 27, the Committee of the Whole proceeded with 10 minutes of debate on the Connolly Part A amendment No. 4.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-13T16:22:00-05:00", 
+      "references": [], 
+      "text": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Connolly amendment, the Chair put t he question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Connolly demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until later in the legislative day.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-13T16:22:00-05:00", 
+      "references": [], 
+      "text": "UNFINISHED BUSINESS - The Chair announced that the unfinished business was on adoption of amendments, which had been debated earlier, and on which further proceedings had been postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-13T17:07:00-05:00", 
+      "references": [], 
+      "text": "The House rose from the Committee of the Whole House on the state of the Union to report H.R. 185.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-13T17:08:00-05:00", 
+      "references": [], 
+      "text": "The House adopted the amendment as agreed to by the Committee of the Whole House on the state of the Union.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-13T17:08:00-05:00", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [
+        {
+          "reference": "CR H270-271", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H270", 
+          "type": "text"
+        }
+      ], 
+      "text": "Miss Rice (NY) moved to recommit with instructions to the Committee on the Judiciary.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-13T17:09:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with 10 minutes of debate on the Rice (NY) motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to add a section to the bill prohibiting the application of any rules or guidance by the Act or amendments that prevent terrorism and crime; protect wages of workers; save tax dollars; provide assistance to small business; or prevent discrimination.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-13T17:15:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H271", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "The previous question on the motion to recommit with instructions was ordered without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-13T17:22:00-05:00", 
+      "references": [], 
+      "text": "On motion to recommit with instructions Failed by recorded vote: 180 - 245 (Roll no. 27).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-13T17:30:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": "28", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On passage Passed by recorded vote: 250 - 175 (Roll no. 28).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2015-01-13T17:30:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-16", 
+      "committees": [
+        "SSGA"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "hamdt2-114", 
+      "amendment_type": "hamdt", 
+      "chamber": "h", 
+      "number": "2"
+    }, 
+    {
+      "amendment_id": "hamdt3-114", 
+      "amendment_type": "hamdt", 
+      "chamber": "h", 
+      "number": "3"
+    }, 
+    {
+      "amendment_id": "hamdt4-114", 
+      "amendment_type": "hamdt", 
+      "chamber": "h", 
+      "number": "4"
+    }, 
+    {
+      "amendment_id": "hamdt5-114", 
+      "amendment_type": "hamdt", 
+      "chamber": "h", 
+      "number": "5"
+    }
+  ], 
+  "bill_id": "hr185-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Regulatory Reform, Commercial And Antitrust Law", 
+      "subcommittee_id": "05"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Homeland Security and Governmental Affairs", 
+      "committee_id": "SSGA"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "9", 
+      "name": "Collins, Doug", 
+      "sponsored_at": "2015-01-09", 
+      "state": "GA", 
+      "thomas_id": "02121", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Cramer, Kevin", 
+      "sponsored_at": "2015-01-12", 
+      "state": "ND", 
+      "thomas_id": "02144", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Crawford, Eric A. \"Rick\"", 
+      "sponsored_at": "2015-01-12", 
+      "state": "AR", 
+      "thomas_id": "01989", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Culberson, John Abney", 
+      "sponsored_at": "2015-01-13", 
+      "state": "TX", 
+      "thomas_id": "01670", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Davis, Rodney", 
+      "sponsored_at": "2015-01-12", 
+      "state": "IL", 
+      "thomas_id": "02126", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Emmer, Tom", 
+      "sponsored_at": "2015-01-12", 
+      "state": "MN", 
+      "thomas_id": "02253", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Forbes, J. Randy", 
+      "sponsored_at": "2015-01-12", 
+      "state": "VA", 
+      "thomas_id": "01683", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Franks, Trent", 
+      "sponsored_at": "2015-01-07", 
+      "state": "AZ", 
+      "thomas_id": "01707", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Holding, George", 
+      "sponsored_at": "2015-01-12", 
+      "state": "NC", 
+      "thomas_id": "02143", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Hultgren, Randy", 
+      "sponsored_at": "2015-01-09", 
+      "state": "IL", 
+      "thomas_id": "02015", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Kline, John", 
+      "sponsored_at": "2015-01-12", 
+      "state": "MN", 
+      "thomas_id": "01733", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Marino, Tom", 
+      "sponsored_at": "2015-01-07", 
+      "state": "PA", 
+      "thomas_id": "02053", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Noem, Kristi L.", 
+      "sponsored_at": "2015-01-12", 
+      "state": "SD", 
+      "thomas_id": "02060", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Pearce, Stevan", 
+      "sponsored_at": "2015-01-12", 
+      "state": "NM", 
+      "thomas_id": "01738", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Peterson, Collin C.", 
+      "sponsored_at": "2015-01-07", 
+      "state": "MN", 
+      "thomas_id": "00910", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Rice, Tom", 
+      "sponsored_at": "2015-01-12", 
+      "state": "SC", 
+      "thomas_id": "02160", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Rouzer, David", 
+      "sponsored_at": "2015-01-12", 
+      "state": "NC", 
+      "thomas_id": "02256", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "32", 
+      "name": "Sessions, Pete", 
+      "sponsored_at": "2015-01-07", 
+      "state": "TX", 
+      "thomas_id": "01525", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Smith, Jason", 
+      "sponsored_at": "2015-01-09", 
+      "state": "MO", 
+      "thomas_id": "02191", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "Smith, Lamar", 
+      "sponsored_at": "2015-01-07", 
+      "state": "TX", 
+      "thomas_id": "01075", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Trott, David A.", 
+      "sponsored_at": "2015-01-09", 
+      "state": "MI", 
+      "thomas_id": "02250", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-01-12T21:44:00-05:00", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2015-01-13T17:30:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-01-07", 
+  "number": "185", 
+  "official_title": "To reform the process by which Federal agencies analyze and formulate new regulations and guidance documents.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hres27-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hres27-114", 
+      "reason": "rule", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s1820-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Regulatory Accountability Act of 2015", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Goodlatte, Bob", 
+    "state": "VA", 
+    "thomas_id": "00446", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2015-01-13T17:30:00-05:00", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Administrative remedies", 
+    "Economic performance and conditions", 
+    "Evidence and witnesses", 
+    "Government information and archives", 
+    "Government operations and politics", 
+    "Judicial review and appeals", 
+    "Office of Management and Budget (OMB)"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2015-01-13", 
+    "text": "Regulatory Accountability Act of 2015\n\n (Sec. 2) Defines \"major rule\" and \"major guidance\" for purposes of this Act as a rule or guidance that the Administrator of the Office of Information and Regulatory Affairs of the Office of Management and Budget (OMB) determines is likely to impose: (1)\u00a0an annual cost on the economy of $100 million or more, adjusted annually for inflation; (2)\u00a0a major increase in costs or prices; (3)\u00a0significant adverse effects on competition, employment, investment, productivity, innovation, or the ability of U.S. enterprises to compete with foreign-based enterprises; or (4) significant impacts on multiple sectors of the economy.\u00a0\n\nDefines: (1) \"high-impact rule\" as a rule that the Administrator determines is likely to have an annual cost on the economy of $1 billion or more, adjusted annually for inflation; and (2) \"negative-impact on jobs and wages rule\" as any rule likely to reduce employment or wages in certain economic sectors or industry areas by specified amounts over specified periods.\n\n(Sec. 3) Revises procedures for rule making under the Administrative Procedure Act (APA) to require a federal agency, in the rule making process, to make all preliminary and final factual determinations based on evidence and to consider: (1) the legal authority under which a rule may be proposed; (2) the specific nature and significance of the problem the agency may address with a rule; (3) whether existing rules have created or contributed to the problem the agency may address with a rule and whether such rules may be amended or rescinded; (4) any reasonable alternatives for a new rule; and (5) the potential costs and benefits associated with potential alternative rules, including impacts on low-income populations.\n\nRevises rule making notice requirements to require an agency to:\n\n publish in the Federal Register\u00a0advance notice of proposed rule making involving a major or high-impact rule, a negative impact on jobs and wages rule,\u00a0or a rule that involves a novel legal or policy issue arising out of statutory mandates; consult with the Administrator before issuing a proposed rule and after the issuance of an advance notice of proposed rule making; provide interested persons an opportunity to participate in the rule making process; hold a hearing before the adoption of any high-impact rule; expand requirements for the adoption of a final rule, including requiring that the agency adopt a rule only on the basis of the best evidence and at the least cost; and grant any interested person the right to petition for the issuance, amendment, or repeal of a rule.\u00a0 Specifies the minimum amount of information that must be included in an advance notice of a proposed rule making.\n\nRequires the Administrator to issue guidelines to promote coordination, simplification, and harmonization of agency rules during the rule making process.\n\nExempts from such revised procedures rule makings that concern monetary policy proposed or implemented by the Board of Governors of the Federal Reserve System or the Federal Open Market Committee.\n\n(Sec. 4) Imposes new requirements for issuing any major guidance or guidance that involves a novel legal or policy issue arising out of statutory mandates. Authorizes the Administrator to issue guidelines for agencies in issuing major guidance or other guidance.\n\n(Sec. 5) Provides for electronic access to transcripts of testimony and exhibits and other papers filed in a rule making proceeding.\n\nRequires the record of decision in a rule making proceeding to include information from a hearing under the Information Quality Act or on a high-impact rule.\n\nRequires an agency to grant a petition for a hearing in the case of a major rule, unless the agency reasonably determines that a hearing would not advance consideration of the rule or would unreasonably delay completion of the rule making. Exempts from this requirement rule makings that concern monetary policy proposed or implemented by the Board of Governors of the Federal Reserve System or the Federal Open Market Committee.\n\n(Sec. 6) Provides that an agency's denial of an Information Quality Act petition, or a failure\u00a0to grant or deny\u00a0such petition within 90 days, is reviewable by a court as a final action.\u00a0 Allows immediate judicial review of interim rules, other than in cases involving national security interests, issued without compliance with the notice requirements of this Act.\n\n(Sec. 7) Revises standards for the scope of judicial review of agency rule making to prohibit a court from deferring to an agency's: (1) interpretation of a rule if the agency did not comply with APA requirements, (2) determination of the costs and benefits or other economic or risk assessment if the agency failed to conform to guidelines on such determinations and assessments established by the Administrator, (3) determinations made in the adoption of an interim rule, or (4) guidance.\n\n(Sec. 8) Defines \"substantial evidence\" for purposes of evaluating agency adjudications and for rule making under APA as such relevant evidence as a reasonable mind might accept as adequate to support a conclusion in light of the record considered as a whole, taking into account whatever in the record fairly detracts from the weight of the evidence relied upon by the agency to support its decision.\n\n(Sec. 9) Provides that the amendments made by this Act to specified provisions of federal law shall not apply to any rule makings pending or completed on the enactment date of this Act."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Regulatory Accountability Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Regulatory Accountability Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To reform the process by which Federal agencies analyze and formulate new regulations and guidance documents.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:24:45-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR185:@@@L&summ2=m&"
+}

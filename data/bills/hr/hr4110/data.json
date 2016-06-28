@@ -1,0 +1,91 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-11-19", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-11-19", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Social Security.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4110-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM", 
+      "subcommittee": "Subcommittee on Social Security", 
+      "subcommittee_id": "01"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-11-19", 
+  "number": "4110", 
+  "official_title": "To require the Comptroller General of the United States to study the feasibility of modifying the 5-month waiting period for certain individuals entitled to disability insurance benefits under section 223 of the Social Security Act, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "2", 
+    "name": "Kelly, Robin L.", 
+    "state": "IL", 
+    "thomas_id": "02190", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-11-19", 
+  "subjects": [
+    "Congressional oversight", 
+    "Disability assistance", 
+    "Government studies and investigations", 
+    "Long-term, rehabilitative, and terminal care", 
+    "Social welfare"
+  ], 
+  "subjects_top_term": "Social welfare", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-11-19", 
+    "text": "This bill requires the Government Accountability Office to evaluate the feasibility of modifying the five-month waiting period for certain individuals entitled to disability insurance benefits by:\n\n shortening the waiting period for individuals with more severe disabilities or lower annual household income, and shortening or eliminating the waiting period for individuals with a terminal illness."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require the Comptroller General of the United States to study the feasibility of modifying the 5-month waiting period for certain individuals entitled to disability insurance benefits under section 223 of the Social Security Act, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:58:02-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4110:@@@L&summ2=m&"
+}

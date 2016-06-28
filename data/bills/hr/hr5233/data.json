@@ -1,0 +1,265 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-05-13", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Oversight and Government Reform.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-05-17", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-17", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by the Yeas and Nays: 22 - 14.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2016-05-23T15:27:00-04:00", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on Oversight and Government Reform. H. Rept. 114-586.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-23T15:28:00-04:00", 
+      "calendar": "Union", 
+      "number": "456", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 456.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2016-05-24T17:26:00-04:00", 
+      "bill_ids": [
+        "hres744-114", 
+        "s2012-114"
+      ], 
+      "committees": [
+        "HSRU"
+      ], 
+      "references": [], 
+      "text": "Rules Committee Resolution H. Res. 744 Reported to House. The resolution provides for consideration of S. 2012 and H.R. 5233.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-25T13:43:00-04:00", 
+      "bill_ids": [
+        "hres744-114"
+      ], 
+      "references": [], 
+      "text": "Rule H. Res. 744 passed House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-25T15:46:00-04:00", 
+      "bill_ids": [
+        "hres744-114"
+      ], 
+      "references": [
+        {
+          "reference": "CR H3208-3217", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under the provisions of rule H. Res. 744.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-25T15:46:00-04:00", 
+      "bill_ids": [
+        "s2012-114"
+      ], 
+      "references": [], 
+      "text": "The resolution provides for consideration of S. 2012 and H.R. 5233.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-25T15:47:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with one hour of debate on H.R. 5233.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-25T16:39:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3215", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3215", 
+          "type": "text"
+        }
+      ], 
+      "text": "Mr. Connolly moved to recommit with instructions to the Committee on Oversight and Government.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-25T16:40:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with 10 minutes of debate on the Connolly motion to recommit with instructions, pending reservation of a point of order. The instructions contained in the motion seek to report the same back to the House forthwith with an amendment to allow the District of Columbia government to use local funds to prevent and treat the Zika virus. Subsequently, the reservation of a point of order was withdrawn.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-25T16:50:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3216", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "The previous question on the motion to recommit with instructions was ordered without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-25T17:11:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3216", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "On motion to recommit with instructions Failed by the Yeas and Nays: 179 - 239 (Roll no. 247).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-25T17:18:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3208", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "248", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On passage Passed by recorded vote: 240 - 179 (Roll no. 248).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2016-05-25T17:18:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-26", 
+      "committees": [
+        "SSGA"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5233-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Oversight and Government Reform", 
+      "committee_id": "HSGO"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Homeland Security and Governmental Affairs", 
+      "committee_id": "SSGA"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Harris, Andy", 
+      "sponsored_at": "2016-05-18", 
+      "state": "MD", 
+      "thomas_id": "02026", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2016-05-17", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2016-05-25T17:18:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-05-13", 
+  "number": "5233", 
+  "official_title": "To repeal the Local Budget Autonomy Amendment Act of 2012, to amend the District of Columbia Home Rule Act to clarify the respective roles of the District government and Congress in the local budget process of the District government, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hres744-114", 
+      "reason": "rule", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Clarifying Congressional Intent in Providing for DC Home Rule Act of 2016", 
+  "sponsor": {
+    "district": "11", 
+    "name": "Meadows, Mark", 
+    "state": "NC", 
+    "thomas_id": "02142", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2016-05-25T17:18:00-04:00", 
+  "subjects": [
+    "Congress"
+  ], 
+  "subjects_top_term": "Congress", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2016-05-25", 
+    "text": "(This measure has not been amended since it was introduced. The expanded summary of the House reported version is repeated here.)\n\nClarifying Congressional Intent in Providing for DC Home Rule Act of 2016\n\n(Sec. 2) This bill repeals the Local Budget Autonomy Amendment Act of 2012 (D.C. Law 19-321), and restores previous law as though the Act had never been enacted.\n\n(Sec. 3) The District of Columbia Home Rule Act is amended to declare that nothing in it shall be construed as creating a continuing appropriation of the General Fund of the District.\n\nAll funds provided for the District of Columbia shall be appropriated on an annual fiscal year basis through the federal appropriations process.\n\nThe District of Columbia Code is amended to declare that nothing in it shall be construed as authorizing the District of Columbia to make any change in law, regulation, or basic procedure and practice relating to the respective roles of the Congress, the President, the federal Office of Management and Budget, and the Government Accountability Office in the preparation, review, submission, examination, authorization, and appropriation of the total budget of the District of Columbia government."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Clarifying Congressional Intent in Providing for DC Home Rule Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To repeal the Local Budget Autonomy Amendment Act of 2012, to amend the District of Columbia Home Rule Act to clarify the respective roles of the District government and Congress in the local budget process of the District government, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:07:26-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR5233:@@@L&summ2=m&"
+}

@@ -1,0 +1,99 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-02-13", 
+      "committees": [
+        "HSAS"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Armed Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-08-13", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Military Personnel.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1010-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS", 
+      "subcommittee": "Subcommittee on Military Personnel", 
+      "subcommittee_id": "02"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "9", 
+      "name": "Green, Al", 
+      "sponsored_at": "2015-02-13", 
+      "state": "TX", 
+      "thomas_id": "01803", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-02-13", 
+  "number": "1010", 
+  "official_title": "To provide for the posthumous commission as a captain in the regular Army of Milton Holland, who, while sergeant major of the 5th Regiment, United States Colored Infantry, was awarded the Medal of Honor for gallantry during the Civil War.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "15", 
+    "name": "Stivers, Steve", 
+    "state": "OH", 
+    "thomas_id": "02047", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-02-13", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Military personnel and dependents", 
+    "Veterans' organizations and recognition"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-02-13", 
+    "text": "Deems Milton Holland (who, while a sergeant major of the 5th Regiment, United States Colored Infantry, was awarded the Medal of Honor for gallantry during the Civil War) to have held the grade of captain in the regular Army, effective as of September 29, 1864, and continuing until his separation from the Army.\n\nProhibits any entitlement\u00a0to bonuses, gratuity, pay, or allowances because of\u00a0 such posthumous commission."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide for the posthumous commission as a captain in the regular Army of Milton Holland, who, while sergeant major of the 5th Regiment, United States Colored Infantry, was awarded the Medal of Honor for gallantry during the Civil War.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:31:42-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR1010:@@@L&summ2=m&"
+}

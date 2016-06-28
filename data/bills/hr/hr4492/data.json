@@ -1,0 +1,116 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-02-08", 
+      "committees": [
+        "HSAS"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Armed Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-03-04", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Readiness.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4492-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS", 
+      "subcommittee": "Subcommittee on Readiness", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Walz, Timothy J.", 
+      "sponsored_at": "2016-02-08", 
+      "state": "MN", 
+      "thomas_id": "01856", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-02-08", 
+  "number": "4492", 
+  "official_title": "To provide for the approval authority for National Guard flyovers, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr4909-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Sound of Freedom Act", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Duffy, Sean P.", 
+    "state": "WI", 
+    "thomas_id": "02072", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-02-08", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Aviation and airports", 
+    "Congressional oversight", 
+    "Government information and archives", 
+    "Government studies and investigations", 
+    "Military education and training", 
+    "Military readiness", 
+    "National Guard and reserves"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2016-02-08", 
+    "text": "Sound of Freedom Act\n\nThis bill states that it shall be Department of Defense (DOD) policy that flyovers of public events in support of community relations activities may only be flown as part of an approved training mission at no additional expense to the federal government.\n\nThe Adjutant General of a state in which an Army National Guard or Air National Guard unit is based shall be the approval authority for all Air National Guard and Army National Guard flyovers in that state, including any flyover request in any civilian domain at a non-aviation related event.\n\nDOD shall maintain records of flyover requests and approvals in a publicly accessible database updated annually.\n\n\"Flyover\" means aviation support:\n\n in which a straight and level flight limited to one pass by a single military aircraft, or by a single formation of four or fewer military aircraft of the same type, from the same military department over a predetermined point on the ground at a specific time; that does not involve aerobatics or demonstrations; and that uses bank angles of up to 90 degrees if required to improve spectator visibility of the aircraft."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Sound of Freedom Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide for the approval authority for National Guard flyovers, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:01:14-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4492:@@@L&summ2=m&"
+}

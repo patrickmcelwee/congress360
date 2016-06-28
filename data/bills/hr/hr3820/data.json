@@ -1,0 +1,149 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-10-23", 
+      "references": [
+        {
+          "reference": "CR H7142-7143", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-10-23", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-11-05", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Federal Lands.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3820-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Federal Lands", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "29", 
+      "name": "Cardenas, Tony", 
+      "sponsored_at": "2015-10-23", 
+      "state": "CA", 
+      "thomas_id": "02107", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "32", 
+      "name": "Napolitano, Grace F.", 
+      "sponsored_at": "2015-10-23", 
+      "state": "CA", 
+      "thomas_id": "01602", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "38", 
+      "name": "Sanchez, Linda T.", 
+      "sponsored_at": "2015-10-23", 
+      "state": "CA", 
+      "thomas_id": "01757", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "28", 
+      "name": "Schiff, Adam B.", 
+      "sponsored_at": "2015-10-23", 
+      "state": "CA", 
+      "thomas_id": "01635", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-10-23", 
+  "number": "3820", 
+  "official_title": "To establish the San Gabriel National Recreation Area as a unit of the National Park System in the State of California, to modify the boundaries of the San Gabriel Mountains National Monument in the State of California to include additional National Forest System land, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "San Gabriel Mountains Foothills and Rivers Protection Act", 
+  "sponsor": {
+    "district": "27", 
+    "name": "Chu, Judy", 
+    "state": "CA", 
+    "thomas_id": "01970", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-10-23", 
+  "subjects": [
+    "Advisory bodies", 
+    "California", 
+    "Forests, forestry, trees", 
+    "Land transfers", 
+    "Land use and conservation", 
+    "Military facilities and property", 
+    "Monuments and memorials", 
+    "Parks, recreation areas, trails", 
+    "Public lands and natural resources"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-10-23", 
+    "text": "San Gabriel Mountains Foothills and Rivers Protection Act\n\nThis bill establishes the San Gabriel National Recreation Area in California as a unit of the National Park System, consisting of approximately 51,107 acres of identified federal lands and interests.\n\nThe Department of the Interior must coordinate with the Department of Defense (DOD) to develop opportunities for the management of the federal lands under DOD jurisdiction that are included within the Recreation Area.\n\nThe bill establishes the San Gabriel National Recreation Area Public Advisory Council and the San Gabriel National Recreation Area Partnership. Interior and the San Gabriel National Recreation Area Public Advisory Council shall create a comprehensive management plan for the Recreation Area. Interior shall develop an integrated visitor services plan for the Recreation Area and is authorized to construct visitor use facilities. The Department of Agriculture must modify the boundaries of the San Gabriel Mountains National Monument in California to include approximately 109,143 acres of additional, identified National Forest System lands and administer them as part of the Monument."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "San Gabriel Mountains Foothills and Rivers Protection Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To establish the San Gabriel National Recreation Area as a unit of the National Park System in the State of California, to modify the boundaries of the San Gabriel Mountains National Monument in the State of California to include additional National Forest System land, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:55:36-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3820:@@@L&summ2=m&"
+}

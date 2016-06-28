@@ -1,0 +1,100 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-11-02", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Transportation and Infrastructure.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-11-03", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Highways and Transit.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3876-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Highways and Transit", 
+      "subcommittee_id": "12"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-11-02", 
+  "number": "3876", 
+  "official_title": "To protect consumer privacy during the development and use of autonomous vehicle technologies.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Autonomous Vehicle Privacy Protection Act of 2015", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Meng, Grace", 
+    "state": "NY", 
+    "thomas_id": "02148", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-11-02", 
+  "subjects": [
+    "Congressional oversight", 
+    "Consumer affairs", 
+    "Government information and archives", 
+    "Government studies and investigations", 
+    "Motor vehicles", 
+    "Right of privacy", 
+    "Technology assessment", 
+    "Transportation and public works"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-11-02", 
+    "text": "Autonomous Vehicle Privacy Protection Act of 2015\n\nThis bill requires the Government Accountability Office to make publicly available a report that assesses the organizational readiness of the Department of Transportation to address autonomous vehicle technology challenges, including consumer privacy protections."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Autonomous Vehicle Privacy Protection Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To protect consumer privacy during the development and use of autonomous vehicle technologies.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:56:04-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3876:@@@L&summ2=m&"
+}

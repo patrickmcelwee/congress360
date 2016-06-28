@@ -1,0 +1,99 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-02-04", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-03-16", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Federal Lands.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr743-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Federal Lands", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-02-04", 
+  "number": "743", 
+  "official_title": "To improve rangeland conditions and restore grazing levels within the Grand Staircase-Escalante National Monument, Utah.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s365-114", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "2", 
+    "name": "Stewart, Chris", 
+    "state": "UT", 
+    "thomas_id": "02168", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-02-04", 
+  "subjects": [
+    "Land use and conservation", 
+    "Licensing and registrations", 
+    "Livestock", 
+    "Monuments and memorials", 
+    "Parks, recreation areas, trails", 
+    "Public lands and natural resources", 
+    "Utah"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-02-04", 
+    "text": "Directs the Department of the Interior to implement a management program within the areas of the Grand Staircase-Escalante National Monument in Utah that are administered by the Bureau of Land Management (BLM) to: (1) improve rangeland conditions for wildlife and livestock carrying capacity in those areas, and (2) restore livestock grazing to the level of usage in those areas that existed as of September 17, 1996.\n\nRequires Interior, in issuing or renewing grazing permits and in issuing or modifying allotment management plans for livestock grazing in those areas, to incorporate standards and guidelines that are consistent with: (1) the \"Utah Standards for Rangeland Health and Guidelines for Grazing Management for BLM Lands in Utah\", approved by the Secretary on May 20, 1997; and (2) the applicable BLM regulations contained in regulations relating to livestock grazing on public land."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To improve rangeland conditions and restore grazing levels within the Grand Staircase-Escalante National Monument, Utah.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:29:29-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR743:@@@L&summ2=m&"
+}

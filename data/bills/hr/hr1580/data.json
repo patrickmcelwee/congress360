@@ -1,0 +1,96 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-03-24", 
+      "committees": [
+        "HSAG"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Agriculture.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-04-08", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on General Farm Commodities and Risk Management.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1580-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Agriculture", 
+      "committee_id": "HSAG"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Agriculture", 
+      "committee_id": "HSAG", 
+      "subcommittee": "Subcommittee on General Farm Commodities and Risk Management", 
+      "subcommittee_id": "16"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-03-24", 
+  "number": "1580", 
+  "official_title": "To extend the final planting date for grain sorghum under Federal crop insurance policies because of extreme weather conditions that have adversely affected field conditions for planting, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Farmer Flexibility Act", 
+  "sponsor": {
+    "district": "27", 
+    "name": "Farenthold, Blake", 
+    "state": "TX", 
+    "thomas_id": "02067", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-03-24", 
+  "subjects": [
+    "Agricultural insurance", 
+    "Agriculture and food", 
+    "Atmospheric science and weather", 
+    "Grain"
+  ], 
+  "subjects_top_term": "Agriculture and food", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-03-24", 
+    "text": "Farmer Flexibility Act \n\nThis bill extends the final planting date established by the Risk Management Agency for certain federal crop insurance policies covering grain sorghum. To account for extreme weather conditions, the final planting date for policies with an existing date of April 5, 2015, is extended to April 26, 2015."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Farmer Flexibility Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To extend the final planting date for grain sorghum under Federal crop insurance policies because of extreme weather conditions that have adversely affected field conditions for planting, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:36:38-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR1580:@@@L&summ2=m&"
+}

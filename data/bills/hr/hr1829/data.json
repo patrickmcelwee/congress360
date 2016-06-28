@@ -1,0 +1,117 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-04-15", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Homeland Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-04-29", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Oversight and Management Efficiency.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1829-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM", 
+      "subcommittee": "Subcommittee on Oversight and Management Efficiency", 
+      "subcommittee_id": "09"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "2", 
+      "name": "Thompson, Bennie G.", 
+      "sponsored_at": "2015-04-15", 
+      "state": "MS", 
+      "thomas_id": "01151", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Watson Coleman, Bonnie", 
+      "sponsored_at": "2015-04-15", 
+      "state": "NJ", 
+      "thomas_id": "02259", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-04-15", 
+  "number": "1829", 
+  "official_title": "To require the Secretary of Homeland Security to assess and submit to Congress a report on the ability of the Department of Homeland Security to convey information to, collect information from, and serve individuals with limited English proficiency.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "DHS Communication Enhancement Act of 2015", 
+  "sponsor": {
+    "district": "35", 
+    "name": "Torres, Norma J.", 
+    "state": "CA", 
+    "thomas_id": "02231", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-04-15", 
+  "subjects": [
+    "Congressional oversight", 
+    "Department of Homeland Security", 
+    "Foreign language and bilingual programs", 
+    "Government information and archives", 
+    "Government operations and politics", 
+    "Immigration status and procedures"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-04-15", 
+    "text": "DHS Communication Enhancement Act of 2015\n\nDirects the Department of Homeland Security to: (1) assess the ability of each of its components to convey information to, collect information from, and serve individuals with limited English proficiency; and (2) report a plan to improve such ability.\n\nRequires such assessment to:\n\n identify the languages spoken fluently and read by individuals with limited English proficiency commonly encountered by personnel of the component, assess the extent to which the public materials of the component are available in such languages, and assess the ability of personnel of the component to communicate with and serve individuals with limited English proficiency."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "DHS Communication Enhancement Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require the Secretary of Homeland Security to assess and submit to Congress a report on the ability of the Department of Homeland Security to convey information to, collect information from, and serve individuals with limited English proficiency.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:38:47-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR1829:@@@L&summ2=m&"
+}

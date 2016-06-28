@@ -1,0 +1,145 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-01-27", 
+      "committees": [
+        "HSED"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Education and the Workforce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-03-24", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Workforce Protections.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-03-24", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr548-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED", 
+      "subcommittee": "Subcommittee on Workforce Protections", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "8", 
+      "name": "Hudson, Richard", 
+      "sponsored_at": "2015-01-27", 
+      "state": "NC", 
+      "thomas_id": "02140", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "50", 
+      "name": "Hunter, Duncan D.", 
+      "sponsored_at": "2015-02-02", 
+      "state": "CA", 
+      "thomas_id": "01909", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Rokita, Todd", 
+      "sponsored_at": "2015-01-27", 
+      "state": "IN", 
+      "thomas_id": "02017", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Trott, David A.", 
+      "sponsored_at": "2015-07-13", 
+      "state": "MI", 
+      "thomas_id": "02250", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-03-24", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-01-27", 
+  "number": "548", 
+  "official_title": "To amend title VII of the Civil Rights Act of 1964 to exclude the application of such title to employment practices that are in compliance with Federal regulations, and State laws, in certain areas.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Certainty in Enforcement Act of 2015", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Walberg, Tim", 
+    "state": "MI", 
+    "thomas_id": "01855", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-01-27", 
+  "subjects": [
+    "Civil actions and liability", 
+    "Civil rights and liberties, minority issues", 
+    "Consumer credit", 
+    "Criminal justice information and records", 
+    "Employment discrimination and employee rights", 
+    "Equal Employment Opportunity Commission (EEOC)"
+  ], 
+  "subjects_top_term": "Civil rights and liberties, minority issues", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-01-27", 
+    "text": "Certainty in Enforcement Act of 2015\n\nAmends equal employment opportunity requirements under the Civil Rights Act of 1964 to deem an employer's, labor organization's, employment agency's, or joint labor management committee's consideration or use of credit or criminal records or information, as mandated by federal, state, or local law, to be job related and consistent with business necessity.\n\nDeclares that such use of credit or criminal records shall not be the basis of liability under any theory of disparate impact. (Currently, an unlawful employment practice based on disparate impact is established if a complaining party demonstrates that a respondent uses a particular employment practice that causes a disparate impact on the basis of race, color, religion, sex, or national origin and the respondent fails to demonstrate that the challenged practice is job related for the position in question and consistent with business necessity.)"
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Certainty in Enforcement Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title VII of the Civil Rights Act of 1964 to exclude the application of such title to employment practices that are in compliance with Federal regulations, and State laws, in certain areas.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:27:48-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR548:@@@L&summ2=m&"
+}

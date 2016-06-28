@@ -1,0 +1,103 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-03-17", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-03-18", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4778-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "7", 
+      "name": "Long, Billy", 
+      "sponsored_at": "2016-03-22", 
+      "state": "MO", 
+      "thomas_id": "02033", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-03-17", 
+  "number": "4778", 
+  "official_title": "To direct the Comptroller General to submit to Congress a report on medical items and services being offered in the facilities of recipients of assistance under title X of the Public Health Service Act (42 U.S.C. 300 et seq.) or of their affiliates, subsidiaries, successors, or clinics.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Title X Transparency Act", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Ellmers, Renee L.", 
+    "state": "NC", 
+    "thomas_id": "02036", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-03-17", 
+  "subjects": [
+    "Health"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2016-03-17", 
+    "text": "Title X Transparency Act\n\nThis bill requires the Government Accountability Office to evaluate the medical items and services offered by recipients of federal family planning assistance or their affiliates, subsidiaries, successors, or clinics."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Title X Transparency Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To direct the Comptroller General to submit to Congress a report on medical items and services being offered in the facilities of recipients of assistance under title X of the Public Health Service Act (42 U.S.C. 300 et seq.) or of their affiliates, subsidiaries, successors, or clinics.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:03:37-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4778:@@@L&summ2=m&"
+}

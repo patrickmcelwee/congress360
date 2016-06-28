@@ -1,0 +1,96 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-03-18", 
+      "committees": [
+        "HSAS"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Armed Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-08-13", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Readiness.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1451-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS", 
+      "subcommittee": "Subcommittee on Readiness", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-03-18", 
+  "number": "1451", 
+  "official_title": "To provide for the land exchange involving Navy Outlying Landing Field Site 8 in Escambia County, Florida.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr1735-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "1", 
+    "name": "Miller, Jeff", 
+    "state": "FL", 
+    "thomas_id": "01685", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-03-18", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Florida", 
+    "Land transfers", 
+    "Military facilities and property"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-03-18", 
+    "text": "Authorizes the Navy to convey to Escambia County, Florida, a parcel of real property containing Navy Outlying Landing Field Site 8 associated with Naval Air Station, Whiting Field, Milton, Florida, in exchange for land in Santa Rosa County, Florida, that is suitable for use as a Navy outlying landing field to replace Field Site 8.\n\nRequires Escambia County to reimburse the Navy for surveys, environmental documentation, and other administrative costs related to the land exchange, as well as for costs associated with relocation of activities and facilities to the replacement location."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide for the land exchange involving Navy Outlying Landing Field Site 8 in Escambia County, Florida.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:35:33-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR1451:@@@L&summ2=m&"
+}

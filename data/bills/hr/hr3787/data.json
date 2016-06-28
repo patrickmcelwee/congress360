@@ -1,0 +1,117 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-10-21", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Transportation and Infrastructure.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-10-22", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Highways and Transit.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3787-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Highways and Transit", 
+      "subcommittee_id": "12"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "17", 
+      "name": "Bustos, Cheri", 
+      "sponsored_at": "2015-10-21", 
+      "state": "IL", 
+      "thomas_id": "02127", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Crawford, Eric A. \"Rick\"", 
+      "sponsored_at": "2015-10-21", 
+      "state": "AR", 
+      "thomas_id": "01989", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-10-21", 
+  "number": "3787", 
+  "official_title": "To amend title 23, United States Code, to improve public understanding of how transportation investments are made by public agencies through establishing greater transparency and accountability processes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Metropolitan Planning Enhancement Act", 
+  "sponsor": {
+    "district": "11", 
+    "name": "DeSaulnier, Mark", 
+    "state": "CA", 
+    "thomas_id": "02227", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-10-21", 
+  "subjects": [
+    "Performance measurement", 
+    "Public transit", 
+    "Regional and metropolitan planning", 
+    "Roads and highways", 
+    "Transportation and public works", 
+    "Transportation programs funding"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-10-21", 
+    "text": "The Metropolitan Planning Enhancement Act\n\nThis bill requires that projects, especially the highest performing projects, included in an adopted metropolitan area transportation plan be selected through a publicly available transparent process using criteria that directly support specified factors, national transportation goals, and applicable state transportation goals.\n\nProjects included in the priority list for a metropolitan transportation improvement program (TIP) shall come from the highest performing category of projects identified in the transportation plan; and if a lower-categorized project is prioritized before a higher-categorized project, a public description explaining why must be included in the list.\n\nThese same requirements shall apply to a long-range statewide transportation plan as well as a statewide TIP."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Metropolitan Planning Enhancement Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 23, United States Code, to improve public understanding of how transportation investments are made by public agencies through establishing greater transparency and accountability processes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:55:20-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3787:@@@L&summ2=m&"
+}

@@ -1,0 +1,107 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-12-01", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-12-01", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Trade.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-12-02", 
+      "references": [
+        {
+          "reference": "CR H8870", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4142-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM", 
+      "subcommittee": "Subcommittee on Trade", 
+      "subcommittee_id": "04"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-12-01", 
+  "number": "4142", 
+  "official_title": "To amend the Trade Act of 1974 to increase the authorization of funds for trade adjustment assistance for firms.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Displaced Jobs Relief Act of 2015", 
+  "sponsor": {
+    "district": "31", 
+    "name": "Aguilar, Pete", 
+    "state": "CA", 
+    "thomas_id": "02229", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-12-01", 
+  "subjects": [
+    "Department of Commerce", 
+    "Executive agency funding and structure", 
+    "Foreign trade and international finance", 
+    "Trade adjustment assistance"
+  ], 
+  "subjects_top_term": "Foreign trade and international finance", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-12-01", 
+    "text": "Displaced Jobs Relief Act of 2015\n\nThis bill amends the Trade Act of 1974 to increase from $16 million to $50 million the authorization of appropriations for each of FY2016 through FY2021 to the Department of Commerce for trade adjustment assistance for firms."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Displaced Jobs Relief Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Trade Act of 1974 to increase the authorization of funds for trade adjustment assistance for firms.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:58:18-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4142:@@@L&summ2=m&"
+}

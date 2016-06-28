@@ -1,0 +1,102 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-07-09", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-07-17", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Human Resources.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3010-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM", 
+      "subcommittee": "Subcommittee on Human Resources", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-07-09", 
+  "number": "3010", 
+  "official_title": "To prohibit assistance provided under the program of block grants to States for temporary assistance for needy families from being accessed through the use of an electronic benefit transfer card at any store that offers marijuana for sale.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr2331-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Preserving Welfare for Needs Not Weed Act", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Reichert, David G.", 
+    "state": "WA", 
+    "thomas_id": "01810", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-07-09", 
+  "subjects": [
+    "Drug trafficking and controlled substances", 
+    "Drug, alcohol, tobacco use", 
+    "Poverty and welfare assistance", 
+    "Social welfare"
+  ], 
+  "subjects_top_term": "Social welfare", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-07-09", 
+    "text": "Preserving Welfare for Needs Not Weed Act \n\nThis bill amends part A (Temporary Assistance for Needy Families) (TANF) of title IV of the Social Security Act to require a state receiving a TANF grant to maintain policies and practices necessary to prevent assistance under the TANF program from being used in any electronic benefit transfer (via a card) at any establishment that offers marijuana for sale."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Preserving Welfare for Needs Not Weed Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To prohibit assistance provided under the program of block grants to States for temporary assistance for needy families from being accessed through the use of an electronic benefit transfer card at any store that offers marijuana for sale.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:48:51-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3010:@@@L&summ2=m&"
+}

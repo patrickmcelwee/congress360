@@ -1,0 +1,128 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-02-03", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-03-16", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Federal Lands.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr693-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Federal Lands", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "6", 
+      "name": "Delaney, John K.", 
+      "sponsored_at": "2015-02-03", 
+      "state": "MD", 
+      "thomas_id": "02133", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Jenkins, Evan H.", 
+      "sponsored_at": "2015-02-03", 
+      "state": "WV", 
+      "thomas_id": "02278", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Mooney, Alexander X.", 
+      "sponsored_at": "2015-02-03", 
+      "state": "WV", 
+      "thomas_id": "02277", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-02-03", 
+  "number": "693", 
+  "official_title": "To establish the Appalachian Forest National Heritage Area, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Appalachian Forest National Heritage Area Act of 2015", 
+  "sponsor": {
+    "district": "1", 
+    "name": "McKinley, David B.", 
+    "state": "WV", 
+    "thomas_id": "02074", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-02-03", 
+  "subjects": [
+    "Coal", 
+    "Economic development", 
+    "Forests, forestry, trees", 
+    "Historic sites and heritage areas", 
+    "Land use and conservation", 
+    "Mining", 
+    "Public lands and natural resources", 
+    "West Virginia"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-02-03", 
+    "text": "Appalachian Forest National Heritage Area Act of 2015\n\n Establishes the Appalachian Forest National Heritage Area to include specified counties in the states of Maryland and West Virginia.\n\nDesignates the Appalachian Forest Heritage Area, Inc., as the local coordinating entity for the Area.\n\nRequires the Appalachian Forest Heritage Area, Inc., to submit a management plan that provides for the conservation, enhancement, and interpretation of cultural, natural, historical, educational, scenic, and recreational resources of the Area."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Appalachian Forest National Heritage Area Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To establish the Appalachian Forest National Heritage Area, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:29:04-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR693:@@@L&summ2=m&"
+}

@@ -1,0 +1,120 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-02-01", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-02-05", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Environment and the Economy.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4414-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Environment and the Economy", 
+      "subcommittee_id": "18"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-02-01", 
+  "number": "4414", 
+  "official_title": "To amend the Safe Drinking Water Act to authorize the Administrator of the Environmental Protection Agency to notify the public if a State agency and public water system are not taking action to address a public health risk associated with drinking water requirements.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2466-114", 
+      "reason": "identical", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s2535-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s2579-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s2848-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Improving Notification for Clean and Safe Drinking Water Act of 2016", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Kildee, Daniel T.", 
+    "state": "MI", 
+    "thomas_id": "02134", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-02-01", 
+  "subjects": [
+    "Environmental assessment, monitoring, research", 
+    "Environmental health", 
+    "Environmental protection", 
+    "Government information and archives", 
+    "Hazardous wastes and toxic substances", 
+    "Water quality", 
+    "Water use and supply"
+  ], 
+  "subjects_top_term": "Environmental protection", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2016-02-01", 
+    "text": "Improving Notification for Clean and Safe Drinking Water Act of 2016\n\nThis bill amends the Safe Drinking Water Act to require public water systems to notify their customers of lead concentration levels in drinking water that exceed lead limits under national primary drinking water regulations.\n\nThe Environmental Protection Agency (EPA) must notify the public within 15 days of the lead levels exceeding those limits if the public water system or the state does not notify the public.\n\nThe EPA may notify the public or the local or state health department of the result of lead monitoring conducted by a public water system."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Improving Notification for Clean and Safe Drinking Water Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Safe Drinking Water Act to authorize the Administrator of the Environmental Protection Agency to notify the public if a State agency and public water system are not taking action to address a public health risk associated with drinking water requirements.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:00:35-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4414:@@@L&summ2=m&"
+}

@@ -1,0 +1,201 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-02-03", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Transportation and Infrastructure.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-02-04", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Aviation.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-02-11", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-11", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 34 - 25.", 
+      "type": "calendar"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4441-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Aviation", 
+      "subcommittee_id": "05"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "10", 
+      "name": "Denham, Jeff", 
+      "sponsored_at": "2016-02-12", 
+      "state": "CA", 
+      "thomas_id": "01995", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "Hanna, Richard L.", 
+      "sponsored_at": "2016-02-12", 
+      "state": "NY", 
+      "thomas_id": "02044", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "LoBiondo, Frank A.", 
+      "sponsored_at": "2016-02-03", 
+      "state": "NJ", 
+      "thomas_id": "00699", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "32", 
+      "name": "Sessions, Pete", 
+      "sponsored_at": "2016-02-12", 
+      "state": "TX", 
+      "thomas_id": "01525", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "45", 
+      "name": "Walters, Mimi", 
+      "sponsored_at": "2016-02-12", 
+      "state": "CA", 
+      "thomas_id": "02232", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2016-02-11", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-02-03", 
+  "number": "4441", 
+  "official_title": "To transfer operation of air traffic services currently provided by the Federal Aviation Administration to a separate not-for-profit corporate entity, to reauthorize and streamline programs of the Federal Aviation Administration, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2406-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Aviation Innovation, Reform, and Reauthorization Act of 2016", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Shuster, Bill", 
+    "state": "PA", 
+    "thomas_id": "01681", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2016-02-11", 
+  "subjects": [
+    "Accounting and auditing", 
+    "Administrative law and regulatory procedures", 
+    "Advisory bodies", 
+    "Aviation and airports", 
+    "Computer security and identity theft", 
+    "Congressional oversight", 
+    "Consumer affairs", 
+    "Department of Transportation", 
+    "Disability and health-based discrimination", 
+    "Drug, alcohol, tobacco use", 
+    "Employee hiring", 
+    "Executive agency funding and structure", 
+    "Federally chartered organizations", 
+    "Fires", 
+    "Government employee pay, benefits, personnel management", 
+    "Government information and archives", 
+    "Government studies and investigations", 
+    "Hazardous wastes and toxic substances", 
+    "International organizations and cooperation", 
+    "Licensing and registrations", 
+    "Medical education", 
+    "Medical tests and diagnostic methods", 
+    "Motor fuels", 
+    "Museums, exhibitions, cultural centers", 
+    "Noise pollution", 
+    "Performance measurement", 
+    "Personnel records", 
+    "Pest management", 
+    "Regional and metropolitan planning", 
+    "Right of privacy", 
+    "Rural conditions and development", 
+    "Small towns", 
+    "Teaching, teachers, curricula", 
+    "Telephone and wireless communication", 
+    "Transportation and public works", 
+    "Transportation employees", 
+    "Transportation programs funding", 
+    "Transportation safety and security", 
+    "Virginia", 
+    "Worker safety and health"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2016-02-03", 
+    "text": "Aviation Innovation, Reform, and Reauthorization Act of 2016\n\nThis bill reauthorizes the Federal Aviation Administration (FAA) through FY2019 and specified FAA programs for FY2016-FY2022.\n\nThe bill revises requirements for the pilot program for passenger facility charges at nonhub airports and airport improvement program.\n\nThe bill establishes:\n\n the ATC Corporation as a federally-chartered, not-for-profit corporation; and an Advisory Board of the Corporation. The Department of Transportation (DOT) shall transfer to the Corporation:\n\n by a certain deadline FAA employees, property, and facilities; and on October 1, 2019, operational control of FAA air traffic services. DOT shall establish a Safety Oversight and Certification Advisory Committee.\n\nThe FAA shall issue a notice of a proposed rule reorganizing the certification of, and streamlining the approval of safety advancements for, small airplanes.\n\nThe FAA shall establish:\n\n the FAA Task Force on Flight Standards Reform, and a Regional Consistency Communications Board. The FAA shall establish a safety workforce training strategy.\n\nDOT shall take appropriate actions to promote U.S. aerospace standards, products, and services abroad.\n\nThe FAA shall appoint a Designated Agency Safety and Health Officer.\n\nDOT shall develop a comprehensive plan to accelerate the integration of civil unmanned aircraft systems (drones) into the national airspace system.\n\nThe bill establishes in the FAA an Unmanned Aircraft Systems (UAS) Integration Office.\n\nDOT shall establish a UAS detection systems pilot program.\n\nThe bill prescribes certain requirements with respect to improving passenger air service.\n\nThe bill also reauthorizes for FY2016-FY2022 the essential air service program and the small community air service development program.\n\nThe FAA shall submit to Congress a strategic cybersecurity plan.\n\nDOT shall establish a remote air traffic control tower pilot program for rural or small communities."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Aviation Innovation, Reform, and Reauthorization Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To transfer operation of air traffic services currently provided by the Federal Aviation Administration to a separate not-for-profit corporate entity, to reauthorize and streamline programs of the Federal Aviation Administration, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:00:48-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4441:@@@L&summ2=m&"
+}

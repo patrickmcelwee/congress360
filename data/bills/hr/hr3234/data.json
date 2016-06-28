@@ -1,0 +1,209 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-07-28", 
+      "references": [
+        {
+          "reference": "CR H5531-5532", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-28", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-08-06", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-11-17", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-09T16:22:00-05:00", 
+      "references": [], 
+      "text": "Mr. Abraham moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-09T16:22:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H628-630", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-09T16:22:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3234.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-09T16:31:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H628-629", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2016-02-09T16:31:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-09T16:31:00-05:00", 
+      "references": [], 
+      "text": "The title of the measure was amended. Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-10", 
+      "committees": [
+        "SSVA"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3234-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "03"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Veterans' Affairs", 
+      "committee_id": "SSVA"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-11-17", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2016-02-09T16:31:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-07-28", 
+  "number": "3234", 
+  "official_title": "To amend title 38, United States Code, to direct the Secretary of Veterans Affairs to evaluate the ability of each medical center of the Department to provide quality health care to veterans, to ensure that the Secretary improves such medical centers that are underperforming, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "VA Medical Center Recovery Act", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Roby, Martha", 
+    "state": "AL", 
+    "thomas_id": "01986", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2016-02-09T16:31:00-05:00", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Congressional oversight", 
+    "Department of Veterans Affairs", 
+    "Executive agency funding and structure", 
+    "Government information and archives", 
+    "Government studies and investigations", 
+    "Health care quality", 
+    "Health facilities and institutions", 
+    "Health personnel", 
+    "Medical education", 
+    "Nursing", 
+    "Performance measurement", 
+    "Student aid and college costs", 
+    "Veterans' medical care"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2016-02-09", 
+    "text": "VA Medical Center Recovery Act\n\n(Sec. 2) This bill directs the Department of Veterans Affairs (VA) to publish in the Federal Register and on a publicly available VA Internet website a compilation of key health metrics for each VA medical center.\n\nThe VA shall: (1) determine on a semiannual basis whether each medical center is satisfactory or underperforming; and (2) upon a determination of underperformance, send a rapid deployment team to the center to ensure that it achieves satisfactory performance as quickly as practicable.\n\nA rapid deployment team shall:\n\n identify the areas of the medical center that require improvement and whether the center follows directives and best practices; establish a performance remediation plan; review the status of any disciplinary actions taken at the center, any recommendations made by the VA Inspector General, and any Government Accountability Office findings; and provide appropriate training to the director and staff. The Inspector General of the VA shall prioritize investigations regarding underperforming medical centers.\n\nThe Office of Accountability Review shall prioritize investigations of whistleblower retaliation regarding underperforming medical centers.\n\n(Sec. 3) The VA shall seek to enter into partnerships with recognized schools of nursing to provide undergraduate nursing students enrolled in such schools with standardized training with respect to:\n\n the culture of the military and veterans; post-traumatic stress disorder; traumatic brain injury; amputation and assistive devices; environmental, chemical, and toxic exposure; substance use disorders; military sexual trauma; suicide; homelessness; serious illness at the end of life; and federal benefits, services, and resources for veterans."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Failing VA Medical Center Recovery Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "VA Medical Center Recovery Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 38, United States Code, to establish within the Department of Veterans Affairs an Office of Failing Medical Center Recovery, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "amended by house", 
+      "is_for_portion": false, 
+      "title": "To amend title 38, United States Code, to direct the Secretary of Veterans Affairs to evaluate the ability of each medical center of the Department to provide quality health care to veterans, to ensure that the Secretary improves such medical centers that are underperforming, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:50:43-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3234:@@@L&summ2=m&"
+}

@@ -1,0 +1,170 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-05-18", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Ways and Means, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-05-18", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "text": "Referred to House Ways and Means", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-05-18", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Referred to House Judiciary", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-06-16", 
+      "committees": [
+        "HSHM"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2398-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Crime, Terrorism, Homeland Security, and Investigations", 
+      "subcommittee_id": "08"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "5", 
+      "name": "Brooks, Susan W.", 
+      "sponsored_at": "2015-05-21", 
+      "state": "IN", 
+      "thomas_id": "02129", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "Olson, Pete", 
+      "sponsored_at": "2015-07-15", 
+      "state": "TX", 
+      "thomas_id": "01955", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Schweikert, David", 
+      "sponsored_at": "2015-06-10", 
+      "state": "AZ", 
+      "thomas_id": "01994", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Sensenbrenner, F. James, Jr.", 
+      "sponsored_at": "2015-07-08", 
+      "state": "WI", 
+      "thomas_id": "01041", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-05-18", 
+  "number": "2398", 
+  "official_title": "To amend the Internal Revenue Code of 1986 to permit the Secretary of the Treasury and the Commissioner of the Social Security Administration to disclose certain return information related to identity theft, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1323-114", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Social Security Identity Defense Act of 2015", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Grothman, Glenn", 
+    "state": "WI", 
+    "thomas_id": "02276", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-05-18", 
+  "subjects": [
+    "Computer security and identity theft", 
+    "Crime prevention", 
+    "Criminal justice information and records", 
+    "Fraud offenses and financial crimes", 
+    "Government information and archives", 
+    "Tax administration and collection, taxpayers", 
+    "Taxation"
+  ], 
+  "subjects_top_term": "Taxation", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-05-18", 
+    "text": "Social Security Identity Defense Act of 2015\n\nThis bill amends the Internal Revenue Code, with respect to the disclosure of tax return information in cases of identity theft, to require the Department of the Treasury to: (1) disclose to the holder of a valid social security account number that there is reason to believe that there has been a\u00a0fraudulent use of such account number; and\u00a0(2) disclose to the Federal Bureau of Investigation (FBI)\u00a0and the Department of Justice (DOJ)\u00a0such social security account number, that there is reason to believe that such account number has been fraudulently used in the employment context, and the taxpayer identity information of the individual who was assigned such account number.\n\nThe bill authorizes the FBI and DOJ to disclose taxpayer information to appropriate federal, state, and local law enforcement officials solely for purposes of carrying out criminal investigations or prosecutions.\n\nThe bill also imposes new criminal and civil penalties for tax-related identity theft and misappropriation of tax identification numbers."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Social Security Identity Defense Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Internal Revenue Code of 1986 to permit the Secretary of the Treasury and the Commissioner of the Social Security Administration to disclose certain return information related to identity theft, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:43:35-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2398:@@@L&summ2=m&"
+}

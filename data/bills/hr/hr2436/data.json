@@ -1,0 +1,110 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-05-19", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-05-22", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2436-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "24", 
+      "name": "Capps, Lois", 
+      "sponsored_at": "2015-05-19", 
+      "state": "CA", 
+      "thomas_id": "01471", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-05-19", 
+  "number": "2436", 
+  "official_title": "To amend the Public Health Service Act with respect to appropriate age groupings to be included in research studies involving human subjects.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr6-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "7", 
+    "name": "Blackburn, Marsha", 
+    "state": "TN", 
+    "thomas_id": "01748", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-05-19", 
+  "subjects": [
+    "Aging", 
+    "Child health", 
+    "Department of Health and Human Services", 
+    "Government information and archives", 
+    "Health", 
+    "Medical research", 
+    "National Institutes of Health (NIH)", 
+    "Research administration and funding"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-05-19", 
+    "text": "This bill requires the National Institutes of Health (NIH) to convene a workshop within 180 days of enactment of this Act on appropriate age groupings and age exclusions in human research. Not later than 180 days after the conclusion of the workshop, the NIH must publish guidelines addressing consideration of age in human research.\n\nThe NIH must publish the number of children included in NIH research disaggregated by age group, race, and gender."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Public Health Service Act with respect to appropriate age groupings to be included in research studies involving human subjects.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:43:54-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2436:@@@L&summ2=m&"
+}

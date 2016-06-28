@@ -1,0 +1,193 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-05-01", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-05-26", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Disability Assistance and Memorial Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-06-24", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-09", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-09", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2214-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR", 
+      "subcommittee": "Subcommittee on Disability Assistance and Memorial Affairs", 
+      "subcommittee_id": "09"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Bordallo, Madeleine Z.", 
+      "sponsored_at": "2015-05-18", 
+      "state": "GU", 
+      "thomas_id": "01723", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Boustany, Charles W., Jr.", 
+      "sponsored_at": "2015-05-01", 
+      "state": "LA", 
+      "thomas_id": "01787", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Jones, Walter B., Jr.", 
+      "sponsored_at": "2015-05-18", 
+      "state": "NC", 
+      "thomas_id": "00612", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Lawrence, Brenda L.", 
+      "sponsored_at": "2015-05-18", 
+      "state": "MI", 
+      "thomas_id": "02252", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Rouzer, David", 
+      "sponsored_at": "2015-05-18", 
+      "state": "NC", 
+      "thomas_id": "02256", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Walorski, Jackie", 
+      "sponsored_at": "2015-05-01", 
+      "state": "IN", 
+      "thomas_id": "02128", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Walz, Timothy J.", 
+      "sponsored_at": "2015-05-18", 
+      "state": "MN", 
+      "thomas_id": "01856", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-06-24", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-05-01", 
+  "number": "2214", 
+  "official_title": "To improve the authority of the Secretary of Veterans Affairs to enter into contracts with private physicians to conduct medical disability examinations.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Disabled Veterans' Access to Medical Exams Improvement Act", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Abraham, Ralph Lee", 
+    "state": "LA", 
+    "thomas_id": "02244", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-05-01", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Disability and paralysis", 
+    "Disability assistance", 
+    "Health personnel", 
+    "Licensing and registrations", 
+    "Medical tests and diagnostic methods", 
+    "Public contracts and procurement", 
+    "Veterans' medical care", 
+    "Veterans' pensions and compensation"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-05-01", 
+    "text": "Disabled Veterans' Access to Medical Exams Improvement Act\n\nAmends the Veterans Benefits Act of 2003 to extend until December 31, 2017, the authority of the Department of Veterans Affairs (VA) to provide for persons other than VA employees (i.e., contract physicians) to conduct medical disability examinations of applicants for benefits under laws administered by the Secretary of Veterans Affairs.\n\nPermits licensed, VA-contracted physicians to conduct such examinations at any location in any state, the District of Columbia, or a Commonwealth, territory, or possession of the United States, so long as the examination is authorized under the contract and the physician is not barred from conducting such an examination in the location in which it occurs.\n\nAmends the Veterans' Benefits Improvement Act of 1996 to provide similar authorities with respect to permissible examination locations to licensed physicians under the pilot program authorizing the VA to use contract physicians to perform medical disability examinations of applicants for benefits under laws carried out through the Under Secretary for Benefits. Expands from 10 to 15 the maximum number of VA regional offices through which the Secretary is authorized to carry out such pilot program.\n\nDirects the Secretary to conduct an annual data analysis (including an analysis of backlogged claims, pending workloads, and the timeliness of completed cases) to determine the regional offices requiring support."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Disabled Veterans' Access to Medical Exams Improvement Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To improve the authority of the Secretary of Veterans Affairs to enter into contracts with private physicians to conduct medical disability examinations.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:42:03-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2214:@@@L&summ2=m&"
+}

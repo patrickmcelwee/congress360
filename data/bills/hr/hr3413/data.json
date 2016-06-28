@@ -1,0 +1,123 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-07-29", 
+      "committees": [
+        "HSSY"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Science, Space, and Technology.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-08-18", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Space.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3413-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Science, Space, and Technology", 
+      "committee_id": "HSSY"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Science, Space, and Technology", 
+      "committee_id": "HSSY", 
+      "subcommittee": "Subcommittee on Space", 
+      "subcommittee_id": "16"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "11", 
+      "name": "Fudge, Marcia L.", 
+      "sponsored_at": "2015-07-29", 
+      "state": "OH", 
+      "thomas_id": "01895", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Johnson, Bill", 
+      "sponsored_at": "2015-07-29", 
+      "state": "OH", 
+      "thomas_id": "02046", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-07-29", 
+  "number": "3413", 
+  "official_title": "To require a report on requirements and risks in connection with the use of radioisotopic power systems for space exploration beyond low-Earth orbit.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1829-114", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Efficient Space Exploration Act", 
+  "sponsor": {
+    "district": "15", 
+    "name": "Stivers, Steve", 
+    "state": "OH", 
+    "thomas_id": "02047", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-07-29", 
+  "subjects": [
+    "Government studies and investigations", 
+    "Nuclear power", 
+    "Science, technology, communications", 
+    "Space flight and exploration", 
+    "Spacecraft and satellites", 
+    "Technology assessment"
+  ], 
+  "subjects_top_term": "Science, technology, communications", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-07-29", 
+    "text": "Efficient Space Exploration Act\n\n The Office of Science and Technology Policy and the National Aeronautics and Space Administration (NASA) shall analyze NASA's requirements for radioisotope power system material necessary for planned, high priority robotic missions in the solar system and other surface exploration activities beyond low-Earth orbit, as well as the risk to missions because of a lack of adequate material."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Efficient Space Exploration Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require a report on requirements and risks in connection with the use of radioisotopic power systems for space exploration beyond low-Earth orbit.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:52:13-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3413:@@@L&summ2=m&"
+}

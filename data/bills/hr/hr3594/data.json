@@ -1,0 +1,404 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-09-24", 
+      "committees": [
+        "HSED"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Education and the Workforce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-09-28T16:30:00-04:00", 
+      "references": [], 
+      "text": "Mr. Bishop (MI) moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-28T16:30:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6279-6281", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-28T16:30:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3594.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-28T16:45:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H6279", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2015-09-28T16:45:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-29", 
+      "references": [], 
+      "text": "Received in the Senate, read twice.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-12-16", 
+      "references": [
+        {
+          "reference": "CR S8708-8709", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Measure laid before Senate by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-12-16", 
+      "how": "by Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_BACK:SENATE", 
+      "text": "Passed Senate with an amendment by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2015-12-16", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-12-17T14:36:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H9676", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Mr. Bishop (MI) asked unanimous consent that the House agree to the Senate amendment.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-12-17T14:37:00-05:00", 
+      "how": "without objection", 
+      "references": [
+        {
+          "reference": "CR H9676", 
+          "type": "text as House agreed to Senate amendment"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "suspension": null, 
+      "text": "On motion that the House agree to the Senate amendment Agreed to without objection.", 
+      "type": "vote", 
+      "vote_type": "pingpong", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2015-12-17T14:37:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-12-18", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2015-12-18", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2015-12-18", 
+      "congress": "114", 
+      "law": "public", 
+      "number": "105", 
+      "references": [], 
+      "text": "Became Public Law No: 114-105.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "samdt2929-114", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2929"
+    }
+  ], 
+  "bill_id": "hr3594-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "11", 
+      "name": "Barletta, Lou", 
+      "sponsored_at": "2015-09-28", 
+      "state": "PA", 
+      "thomas_id": "02054", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Byrne, Bradley", 
+      "sponsored_at": "2015-09-28", 
+      "state": "AL", 
+      "thomas_id": "02197", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Clark, Katherine M.", 
+      "sponsored_at": "2015-09-28", 
+      "state": "MA", 
+      "thomas_id": "02196", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Conyers, John, Jr.", 
+      "sponsored_at": "2015-09-28", 
+      "state": "MI", 
+      "thomas_id": "00229", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "DeSaulnier, Mark", 
+      "sponsored_at": "2015-09-28", 
+      "state": "CA", 
+      "thomas_id": "02227", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Foxx, Virginia", 
+      "sponsored_at": "2015-09-28", 
+      "state": "NC", 
+      "thomas_id": "01791", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Grothman, Glenn", 
+      "sponsored_at": "2015-09-28", 
+      "state": "WI", 
+      "thomas_id": "02276", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Herrera Beutler, Jaime", 
+      "sponsored_at": "2015-09-28", 
+      "state": "WA", 
+      "thomas_id": "02071", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Hinojosa, Ruben", 
+      "sponsored_at": "2015-09-28", 
+      "state": "TX", 
+      "thomas_id": "01490", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Kline, John", 
+      "sponsored_at": "2015-09-28", 
+      "state": "MN", 
+      "thomas_id": "01733", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Messer, Luke", 
+      "sponsored_at": "2015-09-28", 
+      "state": "IN", 
+      "thomas_id": "02130", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Pocan, Mark", 
+      "sponsored_at": "2015-09-24", 
+      "state": "WI", 
+      "thomas_id": "02171", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Schakowsky, Janice D.", 
+      "sponsored_at": "2015-09-28", 
+      "state": "IL", 
+      "thomas_id": "01588", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Scott, Robert C. \"Bobby\"", 
+      "sponsored_at": "2015-09-28", 
+      "state": "VA", 
+      "thomas_id": "01037", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "25", 
+      "name": "Slaughter, Louise McIntosh", 
+      "sponsored_at": "2015-09-28", 
+      "state": "NY", 
+      "thomas_id": "01069", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "Stefanik, Elise M.", 
+      "sponsored_at": "2015-09-28", 
+      "state": "NY", 
+      "thomas_id": "02263", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Thompson, Glenn", 
+      "sponsored_at": "2015-09-28", 
+      "state": "PA", 
+      "thomas_id": "01952", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "114", 
+    "law_type": "public", 
+    "number": "105"
+  }, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-09-28T16:30:00-04:00", 
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2015-12-18", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2015-12-17T14:37:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2015-12-16", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-09-24", 
+  "number": "3594", 
+  "official_title": "To extend temporarily the Federal Perkins Loan program, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Federal Perkins Loan Program Extension Act of 2015", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Bishop, Mike", 
+    "state": "MI", 
+    "thomas_id": "02249", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2015-12-18", 
+  "subjects": [
+    "Education", 
+    "Higher education", 
+    "Student aid and college costs"
+  ], 
+  "subjects_top_term": "Education", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2015-12-18", 
+    "text": "(This measure has not been amended since it was passed by the Senate on December 16, 2015. The summary of that version is repeated here.)\n\nFederal Perkins Loan Program Extension Act of 2015\n\n(Sec. 2) This bill amends title IV (Student Assistance) of the Higher Education Act of 1965 to extend the authority of institutions of higher education (IHEs) to disburse Federal Perkins Loans to new undergraduate borrowers through September 30, 2017. A student must first exhaust Federal Direct Subsidized and Unsubsidized Stafford Loan eligibility.\n\nIHEs may continue to disburse Perkins Loans to current undergraduate borrowers through September 30, 2017. A student must first exhaust all Federal Direct Subsidized Stafford Loan eligibility.\n\nIHEs may continue to disburse Perkins Loans to certain graduate borrowers through September 30, 2016, to enable students to continue or complete an academic program. A student must have received a Perkins loan prior to October 1, 2015.\n\nThe bill prohibits Perkins Loan disbursement beyond September 30, 2017.\n\nIt also prohibits authorization of additional appropriations for the Federal Perkins Loan program beyond September 30, 2016.\n\nBeginning October 1, 2017, each participating IHE must pay to the Department of Education: (1) a portion of the federal share of the balance of its Perkins Loan funds; (2) a portion of the Perkins student loan payments, including principal and interest, received by the institution; and (3) a capital distribution from its Perkins Loan fund.\n\n(Sec. 3) The bill also expands disclosure requirements for IHEs that participate in the Federal Perkins Loan program.\n\nSpecifically, prior to Perkins Loan disbursement, an IHE must provide notice and explanation to all borrowers regarding unavailability of future Perkins loans, limited Perkins loan repayment and forgiveness options, and Direct Loan consolidation options. Also, an IHE must provide notice and explanation to new and current undergraduate borrowers regarding a comparison of Perkins and Direct loan interest rates."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Higher Education Extension Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Higher Education Extension Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "is_for_portion": false, 
+      "title": "Federal Perkins Loan Program Extension Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": false, 
+      "title": "Federal Perkins Loan Program Extension Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To extend temporarily the Federal Perkins Loan program, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:53:43-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3594:@@@L&summ2=m&"
+}

@@ -1,0 +1,105 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-02-12", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-02-19", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4569-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "7", 
+      "name": "Lance, Leonard", 
+      "sponsored_at": "2016-02-12", 
+      "state": "NJ", 
+      "thomas_id": "01936", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-02-12", 
+  "number": "4569", 
+  "official_title": "To amend the Protecting Access to Medicare Act of 2014 (PAMA) to extend and expand the Medicaid community mental health services demonstration program.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Extend Excellence in Mental Health Act of 2016", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Matsui, Doris O.", 
+    "state": "CA", 
+    "thomas_id": "01814", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-02-12", 
+  "subjects": [
+    "Correctional facilities and imprisonment", 
+    "Health", 
+    "Health care coverage and access", 
+    "Health programs administration and funding", 
+    "Homelessness and emergency shelter", 
+    "Medicaid", 
+    "Mental health"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Extend Excellence in Mental Health Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Protecting Access to Medicare Act of 2014 (PAMA) to extend and expand the Medicaid community mental health services demonstration program.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:01:52-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4569:@@@L&summ2=m&"
+}

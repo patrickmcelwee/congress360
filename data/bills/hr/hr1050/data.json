@@ -1,0 +1,97 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-02-24", 
+      "committees": [
+        "HSBU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Budget.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1050-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Budget", 
+      "committee_id": "HSBU"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "4", 
+      "name": "Himes, James A.", 
+      "sponsored_at": "2015-02-24", 
+      "state": "CT", 
+      "thomas_id": "01913", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-02-24", 
+  "number": "1050", 
+  "official_title": "To clarify that funding for the Public Company Accounting Oversight Board is not subject to the sequester.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr1048-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s548-114", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "16", 
+    "name": "Renacci, James B.", 
+    "state": "OH", 
+    "thomas_id": "02048", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-02-24", 
+  "subjects": [
+    "Accounting and auditing", 
+    "Appropriations", 
+    "Budget deficits and national debt", 
+    "Corporate finance and management", 
+    "Finance and financial sector", 
+    "Financial services and investments"
+  ], 
+  "subjects_top_term": "Finance and financial sector", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-02-24", 
+    "text": "Makes any sequestration ordered by the President under the Balanced Budget and Emergency Deficit Control Act of 1985 (Gramm-Rudman-Hollings Act) inapplicable to funding of the Public Company Accounting Oversight Board."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To clarify that funding for the Public Company Accounting Oversight Board is not subject to the sequester.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:32:02-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR1050:@@@L&summ2=m&"
+}

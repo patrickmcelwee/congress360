@@ -1,0 +1,281 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-04-17", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Ways and Means, and in addition to the Committees on Rules, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-04-17", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "text": "Referred to House Ways and Means", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-04-17", 
+      "committees": [
+        "HSRU"
+      ], 
+      "references": [], 
+      "text": "Referred to House Rules", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-04-17", 
+      "committees": [
+        "HSBU"
+      ], 
+      "references": [], 
+      "text": "Referred to House Budget", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-04-21", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Trade.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-04-23", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-04-23", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended).", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2015-05-01T11:57:00-04:00", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-100, Part I.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-05-01T11:58:00-04:00", 
+      "committees": [
+        "HSRU"
+      ], 
+      "references": [], 
+      "text": "Committee on Rules discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-05-01T11:58:00-04:00", 
+      "committees": [
+        "HSBU"
+      ], 
+      "references": [], 
+      "text": "Committee on the Budget discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-05-01T11:58:00-04:00", 
+      "calendar": "Union", 
+      "number": "69", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 69.", 
+      "type": "calendar", 
+      "under": null
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1890-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM", 
+      "subcommittee": "Subcommittee on Trade", 
+      "subcommittee_id": "04"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Rules", 
+      "committee_id": "HSRU"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Budget", 
+      "committee_id": "HSBU"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "28", 
+      "name": "Cuellar, Henry", 
+      "sponsored_at": "2015-04-17", 
+      "state": "TX", 
+      "thomas_id": "01807", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "32", 
+      "name": "Sessions, Pete", 
+      "sponsored_at": "2015-04-17", 
+      "state": "TX", 
+      "thomas_id": "01525", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Tiberi, Patrick J.", 
+      "sponsored_at": "2015-04-17", 
+      "state": "OH", 
+      "thomas_id": "01664", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-04-23", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-04-17", 
+  "number": "1890", 
+  "official_title": "To establish congressional trade negotiating objectives and enhanced consultation requirements for trade negotiations, to provide for consideration of trade agreements, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr1314-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s995-114", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Bipartisan Congressional Trade Priorities and Accountability Act of 2015", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Ryan, Paul D.", 
+    "state": "WI", 
+    "thomas_id": "01560", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2015-04-23", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Advisory bodies", 
+    "Agricultural practices and innovations", 
+    "Agricultural prices, subsidies, credit", 
+    "Agricultural trade", 
+    "Child safety and welfare", 
+    "Competitiveness, trade promotion, trade deficits", 
+    "Congressional operations and organization", 
+    "Congressional oversight", 
+    "Digital media", 
+    "Economic development", 
+    "Economic performance and conditions", 
+    "Employment discrimination and employee rights", 
+    "Environmental health", 
+    "Environmental regulatory procedures", 
+    "Food assistance and relief", 
+    "Food supply, safety, and labeling", 
+    "Foreign trade and international finance", 
+    "Free trade and trade barriers", 
+    "Government ethics and transparency, public corruption", 
+    "Government information and archives", 
+    "Human rights", 
+    "Intellectual property", 
+    "International law and treaties", 
+    "International monetary system and foreign exchange", 
+    "International organizations and cooperation", 
+    "Internet and video services", 
+    "Labor standards", 
+    "Legislative rules and procedure", 
+    "Marine pollution", 
+    "Members of Congress", 
+    "Office of the U.S. Trade Representative", 
+    "Presidents and presidential powers, Vice Presidents", 
+    "Rule of law and government transparency", 
+    "Rural conditions and development", 
+    "Service industries", 
+    "Small business", 
+    "Sovereignty, recognition, national governance and status", 
+    "Tariffs", 
+    "Tax administration and collection, taxpayers", 
+    "Trade agreements and negotiations", 
+    "Trade restrictions", 
+    "U.S. and foreign investments", 
+    "Unemployment", 
+    "Wetlands", 
+    "Worker safety and health", 
+    "Youth employment and child labor"
+  ], 
+  "subjects_top_term": "Foreign trade and international finance", 
+  "summary": {
+    "as": "Reported to House amended, Part I", 
+    "date": "2015-05-01", 
+    "text": "Bipartisan Congressional Trade Priorities and Accountability Act of 2015\n\n (Sec. 2) Declares the overall trade negotiating objectives of the United States with respect to any agreement with a foreign country to reduce or eliminate existing tariffs or nontariff barriers of that country or the United States that are unduly burdening and restricting U.S. trade. Includes among such objectives:\n\n more open, equitable, and reciprocal market access; the reduction or elimination of trade barriers and distortions that are directly related to trade and investment and that decrease market opportunities for U.S. exports or otherwise distort U.S. trade; stronger international trade and investment disciplines and procedures, including dispute settlement; enhanced U.S. competitiveness; protection of the environment; respect for worker and children rights consistent with International Labor Organization core labor standards; and equal access of small businesses to international markets. Declares the principal trade negotiating objectives of the United States with respect to:\n\n goods and services; agriculture; foreign investment; intellectual property; digital goods and services, as well as cross-border data flows; regulatory practices; state-owned and state-controlled enterprises; localization barriers to trade; labor and the environment; currency; the World Trade Organization (WTO) and multilateral trade agreements; trade institution transparency; anti-corruption; dispute settlement and enforcement; trade remedy laws; border taxes; textile negotiations; commercial partnerships, especially with Israel; and good governance, transparency, operation of legal regimes, and the rule of law of U.S. trading partners. Directs the President, in order to maintain U.S. competitiveness in the global economy, to engage in specified capacity building activities with respect to foreign countries that seek to enter into trade agreements with the United States.\n\n(Sec. 3) Authorizes the President to enter into trade agreements with foreign countries for the reduction or elimination of tariff or nontariff barriers before July 1, 2018, or before July 1, 2021, if trade authorities procedures are extended to implementing bills (congressional approval) with respect to such agreements.\n\nAuthorizes the President to proclaim necessary or appropriate modifications or continuation of any existing duty, continuation of existing duty-free or excise treatment, or additional duties to carry out any such agreement.\n\n(Sec. 4) Subjects trade agreements to congressional oversight and approval, consultations, and access to information requirements.\n\nRequires the convening each Congress of the House and the Senate Advisory Groups on Negotiations to consult with and advise the United States Trade Representative (USTR) regarding the formulation of specific objectives, negotiating strategies and positions, the development of the applicable trade agreement, and compliance and enforcement of the negotiated commitments under the trade agreement.\n\nAmends the Trade Act of 1974 to establish within the Office of the USTR the position of Chief Transparency Officer to consult with Congress on transparency policy, coordinate transparency in trade negotiations, engage and assist the public, and advise the USTR on transparency policy.\n\n(Sec. 5) Specifies presidential notifications, consultations, reports, and other actions and their deadlines that must take place for any trade agreement to enter into force.\n\nSpecifies requirements for negotiations regarding agriculture, the fishing industry, and textiles.\n\n(Sec. 6) Prescribes procedures for resolutions of disapproval in the House and the Senate before the President enters into any trade agreement.\n\nDeclares that trade authorities procedures shall not apply to any implementing bill submitted with respect to a trade agreement entered into if both chambers of Congress agree by a certain deadline to a procedural disapproval resolution for lack of notice or consultations.\n\n(Sec. 7) Prescribes requirements for the treatment of trade agreements entered into under the auspices of the WTO or with the Trans-Pacific Partnership countries or the European Union which result from negotiations commenced before enactment of this Act.\n\n(Sec. 8) Declares that any provision of a trade agreement that is inconsistent with any U.S. laws shall be null and void.\n\n(Sec. 9) Expresses the sense of Congress that the USTR should facilitate participation of small businesses in the trade negotiation process."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Bipartisan Congressional Trade Priorities and Accountability Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Bipartisan Congressional Trade Priorities and Accountability Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To establish congressional trade negotiating objectives and enhanced consultation requirements for trade negotiations, to provide for consideration of trade agreements, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:39:18-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR1890:@@@L&summ2=m&"
+}

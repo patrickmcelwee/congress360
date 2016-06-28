@@ -1,0 +1,112 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-05-21", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-06-16", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Water, Power and Oceans.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2541-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Water, Power and Oceans", 
+      "subcommittee_id": "13"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Cicilline, David N.", 
+      "sponsored_at": "2015-05-21", 
+      "state": "RI", 
+      "thomas_id": "02055", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-05-21", 
+  "number": "2541", 
+  "official_title": "To amend the Magnuson-Stevens Fishery Conservation and Management Act to add Rhode Island to the Mid-Atlantic Fishery Management Council.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1414-114", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Rhode Island Fishermen's Fairness Act", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Langevin, James R.", 
+    "state": "RI", 
+    "thomas_id": "01668", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-05-21", 
+  "subjects": [
+    "Atlantic Ocean", 
+    "Marine and coastal resources, fisheries", 
+    "Public lands and natural resources", 
+    "Rhode Island"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-05-21", 
+    "text": "Rhode Island Fishermen's Fairness Act \n\nThis bill amends the Magnuson-Stevens Fishery Conservation and Management Act to add Rhode Island to the Mid-Atlantic Fishery Management Council and increase Council membership from 21 to 23 members. The Council is not given authority over the fisheries in the Atlantic Ocean seaward of Rhode Island."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Rhode Island Fishermen's Fairness Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Magnuson-Stevens Fishery Conservation and Management Act to add Rhode Island to the Mid-Atlantic Fishery Management Council.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:44:47-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2541:@@@L&summ2=m&"
+}

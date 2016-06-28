@@ -1,0 +1,139 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-10-20", 
+      "references": [
+        {
+          "reference": "CR E1487", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-10-20", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Transportation and Infrastructure.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-10-21", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Highways and Transit.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3773-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Highways and Transit", 
+      "subcommittee_id": "12"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "10", 
+      "name": "Comstock, Barbara", 
+      "sponsored_at": "2015-10-20", 
+      "state": "VA", 
+      "thomas_id": "02273", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Edwards, Donna F.", 
+      "sponsored_at": "2015-10-20", 
+      "state": "MD", 
+      "thomas_id": "01894", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-10-20", 
+  "number": "3773", 
+  "official_title": "To amend title 49, United States Code, relating to the authority of the Secretary of Transportation under the public transportation safety program.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr22-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr3763-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Protect Riders of Metrorail Public Transportation Act of 2015", 
+  "sponsor": {
+    "district": null, 
+    "name": "Norton, Eleanor Holmes", 
+    "state": "DC", 
+    "thomas_id": "00868", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-10-20", 
+  "subjects": [
+    "Intergovernmental relations", 
+    "Public transit", 
+    "State and local government operations", 
+    "Transportation and public works", 
+    "Transportation programs funding", 
+    "Transportation safety and security"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-10-20", 
+    "text": "Protect Riders of Metrorail Public Transportation Act of 2015\n\nThis bill authorizes the Department of Transportation (DOT), in carrying out the public transportation safety program, to:\n\n conduct inspections, investigations, audits, examinations, and testing of the equipment, facilities, rolling stock, and operations of the public transportation system of a recipient of financial assistance; make reports and issue directives with respect to the safety of a recipient's system; subpoena and depose any employee of a recipient or of a state safety oversight agency, subject to certain administrative requirements, in conjunction with an accident investigation or an investigation into a pattern or practice of conduct negatively affecting public safety; and investigate public transportation accidents and incidents and provide guidance to recipients regarding their prevention. DOT may also administer state safety oversight activities for a rail fixed guideway system operating in more than two states, if the state safety oversight agency overseeing the system has become incapable of providing adequate safety oversight, until the states involved develop a state safety oversight program that DOT certifies as meeting specified criteria."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Protect Riders of Metrorail Public Transportation Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 49, United States Code, relating to the authority of the Secretary of Transportation under the public transportation safety program.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:55:13-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3773:@@@L&summ2=m&"
+}

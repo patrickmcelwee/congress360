@@ -1,0 +1,93 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-06-09", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-06-13", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Water, Power and Oceans.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5433-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Water, Power and Oceans", 
+      "subcommittee_id": "13"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-06-09", 
+  "number": "5433", 
+  "official_title": "To amend the Claims Resolution Act of 2010 to clarify the use of the WMAT Settlement Fund.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2959-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "1", 
+    "name": "Kirkpatrick, Ann", 
+    "state": "AZ", 
+    "thomas_id": "01907", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-06-09", 
+  "subjects": [
+    "Native Americans"
+  ], 
+  "subjects_top_term": "Native Americans", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2016-06-09", 
+    "text": "This bill amends the Claims Resolution Act of 2010 to specify that White Mountain Apache Tribe settlement funds may be used for the completion of the tribe's rural water system."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Claims Resolution Act of 2010 to clarify the use of the WMAT Settlement Fund.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:09:10-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR5433:@@@L&summ2=m&"
+}

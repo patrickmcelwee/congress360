@@ -1,0 +1,99 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-05-17", 
+      "committees": [
+        "HSAS"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Armed Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-06-07", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Military Personnel.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5266-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS", 
+      "subcommittee": "Subcommittee on Military Personnel", 
+      "subcommittee_id": "02"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "3", 
+      "name": "Jones, Walter B., Jr.", 
+      "sponsored_at": "2016-05-17", 
+      "state": "NC", 
+      "thomas_id": "00612", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-05-17", 
+  "number": "5266", 
+  "official_title": "To amend title 10, United States Code, to ensure that information regarding the deduction of amounts of disability compensation by reason of voluntary separation pay is provided to members of the Armed Forces separating from the Armed Forces.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Servicemember and Veteran Financial Transparency Act", 
+  "sponsor": {
+    "district": "11", 
+    "name": "DeSaulnier, Mark", 
+    "state": "CA", 
+    "thomas_id": "02227", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-05-17", 
+  "subjects": [
+    "Armed forces and national security"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Servicemember and Veteran Financial Transparency Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 10, United States Code, to ensure that information regarding the deduction of amounts of disability compensation by reason of voluntary separation pay is provided to members of the Armed Forces separating from the Armed Forces.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:07:42-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR5266:@@@L&summ2=m&"
+}

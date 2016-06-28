@@ -1,0 +1,99 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-04-29", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-05-01", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2107-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "5", 
+      "name": "Schrader, Kurt", 
+      "sponsored_at": "2015-04-29", 
+      "state": "OR", 
+      "thomas_id": "01950", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-04-29", 
+  "number": "2107", 
+  "official_title": "To amend title XIX of the Social Security Act to clarify the treatment of certain Medicaid enrollment brokers.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "2", 
+    "name": "Guthrie, Brett", 
+    "state": "KY", 
+    "thomas_id": "01922", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-04-29", 
+  "subjects": [
+    "Health", 
+    "Marketing and advertising", 
+    "Medicaid"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-04-29", 
+    "text": "This bill amends title XIX (Medicaid) of the Social Security Act to revise the conditions for state use of an independent enrollment broker in marketing Medicaid managed care organizations and other managed care entities to eligible individuals.\n\nThe Secretary of Health and Human Services must find that the broker has also established and maintains policies and procedures to ensure the independence of its enrollment activities from the interests of any managed care entity or provider."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title XIX of the Social Security Act to clarify the treatment of certain Medicaid enrollment brokers.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:41:09-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2107:@@@L&summ2=m&"
+}

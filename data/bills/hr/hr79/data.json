@@ -1,0 +1,108 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-01-06", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Transportation.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-01-07", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Aviation.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr79-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Aviation", 
+      "subcommittee_id": "05"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "14", 
+      "name": "Lawrence, Brenda L.", 
+      "sponsored_at": "2015-05-08", 
+      "state": "MI", 
+      "thomas_id": "02252", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-01-06", 
+  "number": "79", 
+  "official_title": "To conduct a study to ensure that enhanced communication is provided between commercial aircraft and air traffic control towers, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "No Missing Planes Act", 
+  "sponsor": {
+    "district": "18", 
+    "name": "Jackson Lee, Sheila", 
+    "state": "TX", 
+    "thomas_id": "00588", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-01-06", 
+  "subjects": [
+    "Aviation and airports", 
+    "Computers and information technology", 
+    "Congressional oversight", 
+    "Government studies and investigations", 
+    "Technology assessment", 
+    "Telephone and wireless communication", 
+    "Transportation and public works", 
+    "Transportation programs funding", 
+    "Transportation safety and security"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-01-06", 
+    "text": "No Missing Planes Act \n\nDirects the Administrator of the Federal Aviation Administration (FAA) to study the feasibility of technology to: (1) improve communications between commercial aircraft and air traffic control towers when an aircraft leaves its flight plan or experiences dangerous conditions, (2) pinpoint the location of missing aircraft within 30 minutes by disseminating the information globally in less than hour to rescue and recovery agencies, and (3) accomplish specified related tasks."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "No Missing Planes Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To conduct a study to ensure that enhanced communication is provided between commercial aircraft and air traffic control towers, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:23:52-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR79:@@@L&summ2=m&"
+}

@@ -1,0 +1,102 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-11-19", 
+      "references": [
+        {
+          "reference": "CR E1660", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-11-19", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-11-30", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4091-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Indian, Insular and Alaska Native Affairs", 
+      "subcommittee_id": "24"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-11-19", 
+  "number": "4091", 
+  "official_title": "To provide reforms through the Organic Act of Guam.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Bordallo, Madeleine Z.", 
+    "state": "GU", 
+    "thomas_id": "01723", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-11-19", 
+  "subjects": [
+    "Elections, voting, political campaign regulation", 
+    "Government employee pay, benefits, personnel management", 
+    "Government operations and politics", 
+    "Guam", 
+    "U.S. territories and protectorates"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-11-19", 
+    "text": "This bill amends the Organic Act of Guam to: (1) prohibit any law varying the compensation of the Governor, Lieutenant Governor, or Senators in the Guam Legislature from taking effect until a general election of the legislature shall have intervened; and (2) modify residency requirements for the offices of Governor and Lieutenant Governor and for members of the Guam Legislature."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide reforms through the Organic Act of Guam.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:57:52-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4091:@@@L&summ2=m&"
+}

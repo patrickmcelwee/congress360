@@ -1,0 +1,123 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-01-22", 
+      "committees": [
+        "HSAS"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Intelligence (Permanent Select), and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-01-22", 
+      "references": [
+        {
+          "reference": "Permanent Select", 
+          "type": null
+        }
+      ], 
+      "text": "Referred to House Intelligence", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-01-22", 
+      "committees": [
+        "HSAS"
+      ], 
+      "references": [], 
+      "text": "Referred to House Armed Services", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr466-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Intelligence (Permanent Select)", 
+      "committee_id": "HLIG"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "3", 
+      "name": "Amash, Justin", 
+      "sponsored_at": "2015-01-22", 
+      "state": "MI", 
+      "thomas_id": "02029", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "McCollum, Betty", 
+      "sponsored_at": "2015-05-01", 
+      "state": "MN", 
+      "thomas_id": "01653", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-01-22", 
+  "number": "466", 
+  "official_title": "To prohibit the Central Intelligence Agency from using an unmanned aerial vehicle to carry out a weapons strike or other deliberately lethal action and to transfer the authority to conduct such strikes or lethal action to the Department of Defense.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "26", 
+    "name": "Burgess, Michael C.", 
+    "state": "TX", 
+    "thomas_id": "01751", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-01-22", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Aviation and airports", 
+    "Central Intelligence Agency (CIA)", 
+    "Department of Defense", 
+    "Executive agency funding and structure", 
+    "Intelligence activities, surveillance, classified information", 
+    "Military operations and strategy"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-01-22", 
+    "text": "Prohibits any officer or employee of, or contractor or detailee to, the Central Intelligence Agency from using an unmanned aerial vehicle to carry out a weapons strike or other lethal action.\n\nRequires the President to transfer all authority to use such a vehicle to conduct such strikes or lethal action to the Department of Defense."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To prohibit the Central Intelligence Agency from using an unmanned aerial vehicle to carry out a weapons strike or other deliberately lethal action and to transfer the authority to conduct such strikes or lethal action to the Department of Defense.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:27:07-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR466:@@@L&summ2=m&"
+}

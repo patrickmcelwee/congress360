@@ -1,0 +1,112 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-03-23", 
+      "committees": [
+        "HSAG"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Agriculture.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-03-31", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Nutrition.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4849-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Agriculture", 
+      "committee_id": "HSAG"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Agriculture", 
+      "committee_id": "HSAG", 
+      "subcommittee": "Subcommittee on Nutrition", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "7", 
+      "name": "Gibbs, Bob", 
+      "sponsored_at": "2016-05-31", 
+      "state": "OH", 
+      "thomas_id": "02049", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "McClintock, Tom", 
+      "sponsored_at": "2016-05-13", 
+      "state": "CA", 
+      "thomas_id": "01908", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-03-23", 
+  "number": "4849", 
+  "official_title": "To amend the Food and Nutrition Act of 2008 to reform the work requirements for able-bodied adults without dependents; and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Food and Nutrition Reform, Responsibility, and Accountability Act of 2016", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Chabot, Steve", 
+    "state": "OH", 
+    "thomas_id": "00186", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-03-23", 
+  "subjects": [
+    "Agriculture and food"
+  ], 
+  "subjects_top_term": "Agriculture and food", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2016-03-23", 
+    "text": "Food and Nutrition Reform, Responsibility, and Accountability Act of 2016 \n\nThis bill amends the Food and Nutrition Act of 2008 to change the work requirements for the Department of Agriculture's (USDA's) Supplemental Nutrition Assistance Program (SNAP, formerly known as the food stamp program).\n\nThe bill reduces, from three months to one month, the time period for which able-bodied adults without dependents may receive SNAP benefits over a three-year period without meeting work requirements.\n\nThe bill modifies the exemption from work requirements for individuals who are under 18 or over 50 years of age to apply the exemption to those who are:\n\n under 18, over 50 in a household that includes an individual that is under 18, or over 63. The bill eliminates USDA's authority to waive work requirements for individuals in areas with an unemployment rate above 10% or an insufficient number of jobs.\n\nStates may provide exemptions from the work requirements for up to 5% (currently 15%) of the covered individuals who either receive SNAP benefits or were denied benefits due to work requirements.\n\nStates must expunge benefits from a SNAP electronic benefit transfer account if: (1) the benefits are not used within 90 days of being posted to the account, or (2) the account has not been accessed for a 3-month period.\n\nState workfare programs for SNAP participants must require at least six hours of work per week."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Food and Nutrition Reform, Responsibility, and Accountability Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Food and Nutrition Act of 2008 to reform the work requirements for able-bodied adults without dependents; and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:04:13-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4849:@@@L&summ2=m&"
+}

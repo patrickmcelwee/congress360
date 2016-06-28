@@ -1,0 +1,155 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-04-14", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-04-14", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-04-15", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-04-15", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 29 - 20.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2015-04-17", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Commerce, Manufacturing, and Trade.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1770-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Commerce, Manufacturing, and Trade", 
+      "subcommittee_id": "17"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "26", 
+      "name": "Burgess, Michael C.", 
+      "sponsored_at": "2015-04-14", 
+      "state": "TX", 
+      "thomas_id": "01751", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Upton, Fred", 
+      "sponsored_at": "2015-04-14", 
+      "state": "MI", 
+      "thomas_id": "01177", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Welch, Peter", 
+      "sponsored_at": "2015-04-14", 
+      "state": "VT", 
+      "thomas_id": "01879", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-04-14", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-04-14", 
+  "number": "1770", 
+  "official_title": "To require certain entities who collect and maintain personal information of individuals to secure such information and to provide notice to such individuals in the case of a breach of security involving such information, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Data Security and Breach Notification Act of 2015", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Blackburn, Marsha", 
+    "state": "TN", 
+    "thomas_id": "01748", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2015-04-15", 
+  "subjects": [
+    "Bank accounts, deposits, capital", 
+    "Business education", 
+    "Civil actions and liability", 
+    "Commerce", 
+    "Computer security and identity theft", 
+    "Consumer credit", 
+    "Criminal investigation, prosecution, interrogation", 
+    "Federal preemption", 
+    "Fraud offenses and financial crimes", 
+    "Small business", 
+    "State and local government operations"
+  ], 
+  "subjects_top_term": "Commerce", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-04-14", 
+    "text": "Data Security and Breach Notification Act of 2015\n\nRequires certain commercial entities and non-profit organizations that use, access, transmit, store, dispose of, or collect unencrypted nonpublic personal information to restore the integrity, security, and confidentiality of their data systems following the discovery of a security breach.\n\nRequires notification to: (1) affected U.S. residents when there is a reasonable risk that such a breach has resulted in, or will result in, identity theft, economic harm, or financial fraud; (2) the Federal Trade Commission (FTC) and the U.S. Secret Service or the Federal Bureau of Investigation if an unauthorized person accesses or acquires the personal information of more than 10,000 individuals; and (3) consumer reporting agencies if notice must be provided to more than 10,000 individuals.\n\nEstablishes special procedures to coordinate the notices that must be provided when: (1) a breached entity processes personal data on behalf of a non-breached entity; or (2) a provider of electronic data transmission, storage, or network connection services becomes aware of a breach.\n\nProvides authority to the FTC and states to enforce against violations of this Act.\n\nDirects the FTC to educate small businesses about data security and establish an Internet website containing non-binding best practices.\n\nPreempts state information security and notification laws, but does not exempt an entity from liability under common law. Provides for the requirements of this Act to apply to certain entities in place of security practices and notification standards currently enforced by the Federal Communications Commission (FCC), except for FCC regulations that pertain solely to 9-1-1 calls."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Data Security and Breach Notification Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require certain entities who collect and maintain personal information of individuals to secure such information and to provide notice to such individuals in the case of a breach of security involving such information, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:38:17-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR1770:@@@L&summ2=m&"
+}

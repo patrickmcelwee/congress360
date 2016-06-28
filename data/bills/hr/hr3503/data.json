@@ -1,0 +1,270 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-09-11", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Homeland Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-09-14", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Counterterrorism and Intelligence.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-09-17", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-17", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee by Voice Vote .", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-30", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-30", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2015-11-02T15:15:00-05:00", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-322.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-11-02T15:16:00-05:00", 
+      "calendar": "Union", 
+      "number": "245", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 245.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2015-11-02T16:36:00-05:00", 
+      "references": [], 
+      "text": "Ms. McSally moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-11-02T16:36:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H7357-7360", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-11-02T16:36:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3503.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-11-02T16:46:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H7357-7358", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2015-11-02T16:46:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-11-03", 
+      "committees": [
+        "SSGA"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3503-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM", 
+      "subcommittee": "Subcommittee on Counterterrorism and Intelligence", 
+      "subcommittee_id": "05"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Homeland Security and Governmental Affairs", 
+      "committee_id": "SSGA"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "11", 
+      "name": "Barletta, Lou", 
+      "sponsored_at": "2015-09-11", 
+      "state": "PA", 
+      "thomas_id": "02054", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "King, Peter T.", 
+      "sponsored_at": "2015-09-11", 
+      "state": "NY", 
+      "thomas_id": "00635", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Loudermilk, Barry", 
+      "sponsored_at": "2015-09-11", 
+      "state": "GA", 
+      "thomas_id": "02238", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "McCaul, Michael T.", 
+      "sponsored_at": "2015-09-11", 
+      "state": "TX", 
+      "thomas_id": "01804", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-09-17", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2015-11-02T16:46:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-09-11", 
+  "number": "3503", 
+  "official_title": "To require an assessment of fusion center personnel needs, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Department of Homeland Security Support to Fusion Centers Act of 2015", 
+  "sponsor": {
+    "district": "2", 
+    "name": "McSally, Martha", 
+    "state": "AZ", 
+    "thomas_id": "02225", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2015-11-02T16:46:00-05:00", 
+  "subjects": [
+    "Aviation and airports", 
+    "Border security and unlawful immigration", 
+    "Computers and information technology", 
+    "Congressional oversight", 
+    "Customs enforcement", 
+    "Emergency management", 
+    "Government employee pay, benefits, personnel management", 
+    "Government studies and investigations", 
+    "Homeland security", 
+    "Intelligence activities, surveillance, classified information", 
+    "Intergovernmental relations", 
+    "Law enforcement administration and funding", 
+    "Law enforcement officers", 
+    "State and local government operations", 
+    "Technology assessment", 
+    "Terrorism", 
+    "Transportation safety and security"
+  ], 
+  "subjects_top_term": "Emergency management", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2015-11-02", 
+    "text": "Department of Homeland Security Support to Fusion Centers Act of 2015\n\n(Sec. 2) This bill directs the Comptroller General to conduct an assessment of Department of Homeland Security (DHS) personnel assigned to fusion centers established under the Homeland Security Act of 2002. (A fusion center serves as a focal point within the state and local environment for the receipt, analysis, gathering, and sharing of threat-related information between the federal government and state, local, tribal, territorial, and private sector partners.)\n\nThe assessment must include information on:\n\n the current deployment of such personnel to each fusion center; the roles and responsibilities of DHS's Office of Intelligence and Analysis intelligence officers and analysts, reports officers, and regional directors deployed to such centers; federal resources, in addition to personnel, provided to each center; an analysis of the optimal number of personnel the Office of Intelligence and Analysis should deploy to such centers, including a cost-benefit analysis comparing deployed personnel with technological solutions to support information sharing; fusion centers located in jurisdictions along land and maritime borders of the United States and the degree to which deploying personnel from the U.S. Customs and Border Protection, U.S. Immigration and Customs Enforcement, and the Coast Guard to such centers would enhance the integrity and security at such borders; and fusion centers located in jurisdictions with large and medium hub airports and the degree to which deploying personnel from the Transportation Security Administration to such centers would enhance aviation security. (Sec. 3) The bill expresses the sense of Congress that any program established by DHS's Under Secretary for Intelligence and Analysis to provide eligibility for access to information classified as Top Secret for state and local analysts located in fusion centers shall be consistent with the need-to-know requirements pursuant to Executive Order No. 13526.\n\nThe Under Secretary must submit to specified congressional committees a report on:\n\n the process by which the Under Secretary determines a need to know to sponsor Top Secret clearances for appropriate state and local analysts located in fusion centers; the effects of such Top Secret clearances on enhancing information sharing with state, local, tribal, and territorial partners; the cost for providing such Top Secret clearances for such analysts, including training and background investigations; and the operational security protocols, training, management, and risks associated with providing such Top Secret clearances. (Sec. 4) The Under Secretary, in collaboration with the Chief Information Officer of DHS and representatives from the National Network of Fusion Centers, shall conduct an assessment of information systems used to share homeland security information between DHS and fusion centers in the Network and make appropriate upgrades to such systems. Such assessment shall include:\n\n an evaluation of the accessibility and ease of use of such systems by Network fusion centers; a review to determine how to establish improved interoperability of departmental information systems with existing information systems used by Network fusion centers; and an evaluation of participation levels of departmental components and offices of information systems used to share homeland security information with Network fusion centers. (Sec. 5) The Under Secretary shall enter into a memorandum of understanding with each Network fusion centers regarding the type of information fusion centers will provide to DHS and whether such information may be subject to public disclosure."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Department of Homeland Security Support to Fusion Centers Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Department of Homeland Security Support to Fusion Centers Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require an assessment of fusion center personnel needs, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:52:58-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3503:@@@L&summ2=m&"
+}

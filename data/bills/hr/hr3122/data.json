@@ -1,0 +1,136 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-07-21", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-08-05", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3122-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "2", 
+      "name": "Hill, J. French", 
+      "sponsored_at": "2015-07-31", 
+      "state": "AR", 
+      "thomas_id": "02223", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Roe, David P.", 
+      "sponsored_at": "2015-07-21", 
+      "state": "TN", 
+      "thomas_id": "01954", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Walz, Timothy J.", 
+      "sponsored_at": "2015-07-21", 
+      "state": "MN", 
+      "thomas_id": "01856", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-07-21", 
+  "number": "3122", 
+  "official_title": "To amend title 38, United States Code, to direct the Secretary of Veterans Affairs to enter into a contract with a non-government entity for the conduct of biannual audits of Department of Veterans Affairs health care functions, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "VALOR Act of 2015", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Hurt, Robert", 
+    "state": "VA", 
+    "thomas_id": "02069", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-07-21", 
+  "subjects": [
+    "Accounting and auditing", 
+    "Armed forces and national security", 
+    "Department of Veterans Affairs", 
+    "Government studies and investigations", 
+    "Health care quality", 
+    "Health facilities and institutions", 
+    "Health information and medical records", 
+    "Health technology, devices, supplies", 
+    "Hospital care", 
+    "Veterans' medical care"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-07-21", 
+    "text": "Veterans Administration Legislative and Objective Review Act of 2015 or the VALOR Act of 2015\n\nThis bill requires the Department of Veterans Affairs (VA) to contract with a non-government entity to conduct a biannual audit of VA health care functions, the results of which shall be made publicly available on a VA website."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "VALOR Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Veterans Administration Legislative and Objective Review Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 38, United States Code, to direct the Secretary of Veterans Affairs to enter into a contract with a non-government entity for the conduct of biannual audits of Department of Veterans Affairs health care functions, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:49:47-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3122:@@@L&summ2=m&"
+}

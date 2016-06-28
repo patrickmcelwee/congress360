@@ -1,0 +1,147 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-10-01", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-10-02", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3676-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "4", 
+      "name": "Edwards, Donna F.", 
+      "sponsored_at": "2015-10-01", 
+      "state": "MD", 
+      "thomas_id": "01894", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Esty, Elizabeth H.", 
+      "sponsored_at": "2015-10-01", 
+      "state": "CT", 
+      "thomas_id": "02114", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Larsen, Rick", 
+      "sponsored_at": "2016-05-16", 
+      "state": "WA", 
+      "thomas_id": "01675", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Maloney, Sean Patrick", 
+      "sponsored_at": "2015-10-01", 
+      "state": "NY", 
+      "thomas_id": "02150", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Norcross, Donald", 
+      "sponsored_at": "2016-01-12", 
+      "state": "NJ", 
+      "thomas_id": "02202", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-10-01", 
+  "number": "3676", 
+  "official_title": "To authorize the Administrator of the Substance Abuse and Mental Health Services Administration, acting through the Director of the Center for Substance Abuse Treatment, to award grants to States to expand access to clinically appropriate services for opioid abuse, dependence, or addiction.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Expanding Opportunities for Recovery Act of 2015", 
+  "sponsor": {
+    "district": "11", 
+    "name": "Foster, Bill", 
+    "state": "IL", 
+    "thomas_id": "01888", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-10-01", 
+  "subjects": [
+    "Drug trafficking and controlled substances", 
+    "Drug, alcohol, tobacco use", 
+    "Government information and archives", 
+    "Government studies and investigations", 
+    "Health", 
+    "Health care coverage and access", 
+    "Health information and medical records", 
+    "Health programs administration and funding", 
+    "Performance measurement"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-10-01", 
+    "text": "Expanding Opportunities for Recovery Act of 2015\n\nThis bill requires the Center for Substance Abuse Treatment in the Substance Abuse and Mental Health Services Administration to award grants to states to expand access to clinically appropriate services for opioid abuse or addiction. States must use these grants to provide up to 60 consecutive days of services to individuals who otherwise would not have access to substance abuse services."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Expanding Opportunities for Recovery Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To authorize the Administrator of the Substance Abuse and Mental Health Services Administration, acting through the Director of the Center for Substance Abuse Treatment, to award grants to States to expand access to clinically appropriate services for opioid abuse, dependence, or addiction.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:54:24-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3676:@@@L&summ2=m&"
+}

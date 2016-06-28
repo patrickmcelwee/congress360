@@ -1,0 +1,98 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-03-01", 
+      "references": [
+        {
+          "reference": "E254", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-03-01", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-04-01", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Immigration and Border Security.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4659-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Immigration and Border Security", 
+      "subcommittee_id": "01"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-03-01", 
+  "number": "4659", 
+  "official_title": "For the relief of Myung Mok Bae and Kei Za Ryu Bae.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Bordallo, Madeleine Z.", 
+    "state": "GU", 
+    "thomas_id": "01723", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-03-01", 
+  "subjects": [
+    "Private legislation"
+  ], 
+  "subjects_top_term": "Private legislation", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2016-03-01", 
+    "text": "Provides for the relief of Myung Mok Bae and Kei Za Ryu Bae."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "For the relief of Myung Mok Bae and Kei Za Ryu Bae.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:02:37-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4659:@@@L&summ2=m&"
+}

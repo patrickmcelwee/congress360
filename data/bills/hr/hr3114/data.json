@@ -1,0 +1,330 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-07-20", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Transportation and Infrastructure.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-07-21", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Water Resources and Environment.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-07-23", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Subcommittee on Water Resources and Environment Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-23", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-23", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2015-09-08T19:09:00-04:00", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 114-249.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-08T19:10:00-04:00", 
+      "calendar": "Union", 
+      "number": "188", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 188.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2015-11-16T16:21:00-05:00", 
+      "references": [], 
+      "text": "Mr. Gibbs moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-11-16T16:21:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H8169-8170", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-11-16T16:21:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3114.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-11-16T16:27:00-05:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-11-17T13:45:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H8260", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-11-17T13:52:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR 11/16/2015 H8169", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "632", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 422 - 3 (Roll no. 632).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2015-11-17T13:52:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-11-18", 
+      "committees": [
+        "SSEV"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-05-18", 
+      "committees": [
+        "SSEV"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee on Environment and Public Works. Ordered to be reported without amendment favorably.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2016-05-18", 
+      "committee": "Environment and Public Works", 
+      "committees": [
+        "SSEV"
+      ], 
+      "references": [], 
+      "text": "Committee on Environment and Public Works. Reported by Senator Inhofe without amendment. Without written report.", 
+      "type": "reported"
+    }, 
+    {
+      "acted_at": "2016-05-18", 
+      "calendar": "Senate Legislative", 
+      "number": "472", 
+      "references": [], 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 472.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }, 
+    {
+      "acted_at": "2016-06-23", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S4560", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2016-06-24", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3114-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Water Resources and Environment", 
+      "subcommittee_id": "02"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "Senate Environment and Public Works", 
+      "committee_id": "SSEV"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "13", 
+      "name": "Davis, Rodney", 
+      "sponsored_at": "2015-07-20", 
+      "state": "IL", 
+      "thomas_id": "02126", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Dingell, Debbie", 
+      "sponsored_at": "2015-07-29", 
+      "state": "MI", 
+      "thomas_id": "02251", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Honda, Michael M.", 
+      "sponsored_at": "2015-07-23", 
+      "state": "CA", 
+      "thomas_id": "01634", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Jones, Walter B., Jr.", 
+      "sponsored_at": "2015-07-27", 
+      "state": "NC", 
+      "thomas_id": "00612", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Kirkpatrick, Ann", 
+      "sponsored_at": "2015-07-27", 
+      "state": "AZ", 
+      "thomas_id": "01907", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Norton, Eleanor Holmes", 
+      "sponsored_at": "2015-07-23", 
+      "state": "DC", 
+      "thomas_id": "00868", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-07-23", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2015-11-17T13:52:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2016-06-23", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-07-20", 
+  "number": "3114", 
+  "official_title": "To provide funds to the Army Corps of Engineers to hire veterans and members of the Armed Forces to assist the Corps with curation and historic preservation activities, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "32", 
+    "name": "Napolitano, Grace F.", 
+    "state": "CA", 
+    "thomas_id": "01602", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:BILL", 
+  "status_at": "2016-06-23", 
+  "subjects": [
+    "Archaeology and anthropology", 
+    "Army Corps of Engineers", 
+    "Government employee pay, benefits, personnel management", 
+    "Historical and cultural resources", 
+    "Infrastructure development", 
+    "Military personnel and dependents", 
+    "Transportation and public works", 
+    "Veterans' education, employment, rehabilitation"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": {
+    "as": "Reported to Senate without amendment", 
+    "date": "2016-05-18", 
+    "text": "(This measure has not been amended since it was reported to the House on September 8, 2015. The summary of that version is repeated here.)\n\n(Sec. 2) Directs the U.S. Army Corps of Engineers, using available funds, to develop a Veterans' Curation Program to hire veterans and members of the Armed Forces to assist in carrying out curation and historic preservation activities."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide funds to the Army Corps of Engineers to hire veterans and members of the Armed Forces to assist the Corps with curation and historic preservation activities, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:49:43-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3114:@@@L&summ2=m&"
+}

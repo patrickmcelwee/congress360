@@ -1,0 +1,98 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-02-11", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Transportation.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-02-12", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Water Resources and Environment.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr896-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Water Resources and Environment", 
+      "subcommittee_id": "02"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-02-11", 
+  "number": "896", 
+  "official_title": "To amend the Federal Water Pollution Control Act to clarify when the Administrator of the Environmental Protection Agency has the authority to prohibit the specification of a defined area, or deny or restrict the use of a defined area for specification, as a disposal site under section 404 of such Act, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Regulatory Certainty Act of 2015", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Gibbs, Bob", 
+    "state": "OH", 
+    "thomas_id": "02049", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-02-11", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Department of Defense", 
+    "Environmental Protection Agency (EPA)", 
+    "Environmental protection", 
+    "Environmental regulatory procedures", 
+    "Licensing and registrations", 
+    "Navigation, waterways, harbors", 
+    "Solid waste and recycling", 
+    "Water quality"
+  ], 
+  "subjects_top_term": "Environmental protection", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-02-11", 
+    "text": "Regulatory Certainty Act of 2015 - This bill amends the Federal Water Pollution Control Act (commonly known as the Clean Water Act) to limit the period during which the Environmental Protection Agency (EPA) may prohibit the specification, or restrict the use, of an area as a disposal site for discharges of dredged or fill materials into waters of the United States to the period that:\n\n begins on the date that the U.S. Army Corps of Engineers provides notice to the EPA that the Corps has completed all procedures for processing an application for a permit for dredged or fill material and is ready to determine whether the permit should be issued; and ends on the date that the Corps issues the permit. The Corps must ensure that the period consists of at least 30 consecutive days.\n\nThe Corps may issue a permit for dredged or fill material only after the Corps provides notice to the EPA."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Regulatory Certainty Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Federal Water Pollution Control Act to clarify when the Administrator of the Environmental Protection Agency has the authority to prohibit the specification of a defined area, or deny or restrict the use of a defined area for specification, as a disposal site under section 404 of such Act, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:30:45-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR896:@@@L&summ2=m&"
+}

@@ -1,0 +1,121 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-01-06", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-01-22", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on the Constitution and Civil Justice.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr75-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Constitution and Civil Justice", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-01-06", 
+  "number": "75", 
+  "official_title": "To prohibit States from carrying out more than one Congressional redistricting after a decennial census and apportionment.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr219-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr1347-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr2173-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s2483-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Coretta Scott King Mid-Decade Redistricting Prohibition Act of 2015", 
+  "sponsor": {
+    "district": "18", 
+    "name": "Jackson Lee, Sheila", 
+    "state": "TX", 
+    "thomas_id": "00588", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-01-06", 
+  "subjects": [
+    "Census and government statistics", 
+    "Congress", 
+    "Congressional districts and representation", 
+    "Constitution and constitutional amendments", 
+    "House of Representatives", 
+    "Members of Congress", 
+    "State and local government operations", 
+    "Voting rights"
+  ], 
+  "subjects_top_term": "Congress", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-01-06", 
+    "text": "Coretta Scott King Mid-Decade Redistricting Prohibition Act of 2015\n\n Prohibits any state whose congressional districts have been redistricted after a decennial census from carrying out another redistricting until after the next apportionment of Representatives following a decennial census, unless a court requires such state to conduct a subsequent redistricting to comply with the Constitution or enforce the Voting Rights Act of 1965.\n\nMakes this Act applicable to any congressional redistricting which occurs after the regular decennial census conducted during 2020."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Coretta Scott King Mid-Decade Redistricting Prohibition Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To prohibit States from carrying out more than one Congressional redistricting after a decennial census and apportionment.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:23:50-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR75:@@@L&summ2=m&"
+}

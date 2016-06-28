@@ -1,0 +1,135 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-04-21", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-05-01", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1909-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "5", 
+      "name": "Hensarling, Jeb", 
+      "sponsored_at": "2015-04-21", 
+      "state": "TX", 
+      "thomas_id": "01749", 
+      "title": "Rep", 
+      "withdrawn_at": "2015-05-19"
+    }, 
+    {
+      "district": "1", 
+      "name": "Huelskamp, Tim", 
+      "sponsored_at": "2015-04-21", 
+      "state": "KS", 
+      "thomas_id": "02020", 
+      "title": "Rep", 
+      "withdrawn_at": "2015-05-19"
+    }, 
+    {
+      "district": "13", 
+      "name": "Thornberry, Mac", 
+      "sponsored_at": "2015-04-21", 
+      "state": "TX", 
+      "thomas_id": "01155", 
+      "title": "Rep", 
+      "withdrawn_at": "2015-05-19"
+    }, 
+    {
+      "district": "27", 
+      "name": "Farenthold, Blake", 
+      "sponsored_at": "2015-04-21", 
+      "state": "TX", 
+      "thomas_id": "02067", 
+      "title": "Rep", 
+      "withdrawn_at": "2015-05-19"
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-04-21", 
+  "number": "1909", 
+  "official_title": "To require the Secretary of Veterans Affairs to use existing authorities to furnish health care at non-Department of Veterans Affairs facilities to veterans who live more than 40 miles driving distance from the closest medical facility of the Department that furnishes the care sought by the veteran.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr577-114", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "7", 
+    "name": "Culberson, John Abney", 
+    "state": "TX", 
+    "thomas_id": "01670", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-04-21", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Health care coverage and access", 
+    "Health facilities and institutions", 
+    "Home and outpatient care", 
+    "Hospital care", 
+    "Veterans' medical care"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-04-21", 
+    "text": "Directs the Secretary of Veterans Affairs (VA) to use the Secretary's existing authority to furnish health care to veterans at non-VA facilities to provide health care at non-VA facilities to veterans who reside more than 40 miles driving distance from the closest VA medical facility providing the care they seek."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require the Secretary of Veterans Affairs to use existing authorities to furnish health care at non-Department of Veterans Affairs facilities to veterans who live more than 40 miles driving distance from the closest medical facility of the Department that furnishes the care sought by the veteran.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:39:27-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR1909:@@@L&summ2=m&"
+}

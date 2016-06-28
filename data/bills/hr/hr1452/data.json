@@ -1,0 +1,148 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-03-18", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-04-07", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Federal Lands.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-10-07", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-10-08", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Subcommittee on Federal Lands Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-10-08", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-10-08", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2015-12-08T15:42:00-05:00", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on Natural Resources. H. Rept. 114-374.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-12-08T15:42:00-05:00", 
+      "calendar": "Union", 
+      "number": "286", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 286.", 
+      "type": "calendar", 
+      "under": null
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1452-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Federal Lands", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-10-07", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-03-18", 
+  "number": "1452", 
+  "official_title": "To authorize Escambia County, Florida, to convey certain property that was formerly part of Santa Rosa Island National Monument and that was conveyed to Escambia County subject to restrictions on use and reconveyance.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s770-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "1", 
+    "name": "Miller, Jeff", 
+    "state": "FL", 
+    "thomas_id": "01685", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2015-10-08", 
+  "subjects": [
+    "Florida", 
+    "Land transfers", 
+    "Land use and conservation", 
+    "Outdoor recreation", 
+    "Public lands and natural resources"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Reported to House without amendment", 
+    "date": "2015-12-08", 
+    "text": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)\n\n(Sec. 1) This bill authorizes Escambia County, Florida, at its discretion, to convey or dispose of all of its interest in any part of the property on Santa Rosa Island that was conveyed to it by the federal government pursuant to a specified Act and deed to any person or entity, free from any restriction on conveyance or reconveyance in such Act or deed.\n\n No persons or entities holding a leasehold interest in such property shall be required to involuntarily accept a fee interest in lieu of their leasehold interest.\n\n Escambia County, within two years of enactment of this Act, shall convey to Santa Rosa County, Florida, all interest held in any part of the property that falls within the jurisdictional boundaries of such county. Santa Rosa County shall not be required to pay any sum for such property other than the actual costs associated with such conveyance.\n\n Santa Rosa County or any other person to which property is conveyed under this Act may reconvey such property or any part of it.\n\nAny proceeds from the conveyance of any such property by Escambia County or Santa Rosa County, other than direct and incidental costs associated with such conveyance, shall be considered windfall profits and shall revert to the United States.\n\n Escambia County and Santa Rosa County shall preserve in perpetuity those areas on Santa Rosa Island currently dedicated to conservation, preservation, the public, recreation, access, and public parking."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To authorize Escambia County, Florida, to convey certain property that was formerly part of Santa Rosa Island National Monument and that was conveyed to Escambia County subject to restrictions on use and reconveyance.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:35:34-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR1452:@@@L&summ2=m&"
+}

@@ -1,0 +1,160 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-09-30", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-10-02", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3658-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "26", 
+      "name": "Burgess, Michael C.", 
+      "sponsored_at": "2015-09-30", 
+      "state": "TX", 
+      "thomas_id": "01751", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Grijalva, Raul M.", 
+      "sponsored_at": "2015-10-05", 
+      "state": "AZ", 
+      "thomas_id": "01708", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Hastings, Alcee L.", 
+      "sponsored_at": "2015-10-16", 
+      "state": "FL", 
+      "thomas_id": "00511", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "McCollum, Betty", 
+      "sponsored_at": "2015-12-09", 
+      "state": "MN", 
+      "thomas_id": "01653", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Pocan, Mark", 
+      "sponsored_at": "2015-10-28", 
+      "state": "WI", 
+      "thomas_id": "02171", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-09-30", 
+  "number": "3658", 
+  "official_title": "To provide grants to better understand and reduce gestational diabetes, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s84-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "GEDI Act", 
+  "sponsor": {
+    "district": "16", 
+    "name": "Engel, Eliot L.", 
+    "state": "NY", 
+    "thomas_id": "00344", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-09-30", 
+  "subjects": [
+    "Advisory bodies", 
+    "Digestive and metabolic diseases", 
+    "Health", 
+    "Health information and medical records", 
+    "Health programs administration and funding", 
+    "Health promotion and preventive care", 
+    "Medical research", 
+    "Medical tests and diagnostic methods", 
+    "Sex and reproductive health", 
+    "Women's health"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-09-30", 
+    "text": "Gestational Diabetes Act of 2015 or the GEDI Act\n\nThis bill amends the Public Health Service Act to direct the Centers for Disease Control and Prevention (CDC) to develop a multisite gestational diabetes research project within the diabetes program of the CDC to expand and enhance surveillance data and public health research on gestational diabetes.\u00a0\n\nThe Department of Health and Human Services (HHS) must expand and intensify public health research on gestational diabetes, including; (1) developing and testing novel approaches for improving postpartum testing or screening and for preventing type 2 diabetes in women with a history of gestational diabetes, and (2) conducting research to\u00a0further understanding of the\u00a0factors and health systems that influence the risk\u00a0of gestational diabetes and the development of type 2 diabetes in women with a history of gestational diabetes.\n\nThe CDC must: (1) award grants for demonstration projects to reduce the incidence of gestational diabetes, the recurrence of such disease in subsequent pregnancies, and the development of type 2 diabetes in women with a history of gestational diabetes; and (2) work with state and Indian tribal-based diabetes prevention and control programs assisted by the CDC to encourage postpartum follow-up after gestational diabetes to reduce the incidence of gestational diabetes and its recurrence, the development of type 2 diabetes in at-risk women, and\u00a0related complications."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "GEDI Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Gestational Diabetes Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide grants to better understand and reduce gestational diabetes, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:54:15-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3658:@@@L&summ2=m&"
+}

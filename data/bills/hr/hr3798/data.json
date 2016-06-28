@@ -1,0 +1,123 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-10-22", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Financial Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-12-02", 
+      "references": [], 
+      "text": "Hearings Held by the Subcommittee on Capital Markets and Government Sponsored Enterprises Prior to Referral.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-03-02", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-03-02", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by the Yeas and Nays: 32 - 25.", 
+      "type": "calendar"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3798-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }, 
+    {
+      "activity": [
+        "hearings"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA", 
+      "subcommittee": "Subcommittee on Capital Markets and Government Sponsored Enterprises", 
+      "subcommittee_id": "16"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "6", 
+      "name": "Emmer, Tom", 
+      "sponsored_at": "2016-05-26", 
+      "state": "MN", 
+      "thomas_id": "02253", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-12-02", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-10-22", 
+  "number": "3798", 
+  "official_title": "To amend the Securities Exchange Act of 1934 to permit private persons to compel the Securities and Exchange Commission to seek legal or equitable remedies in a civil action, instead of an administrative proceeding, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Due Process Restoration Act of 2015", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Garrett, Scott", 
+    "state": "NJ", 
+    "thomas_id": "01737", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2016-03-02", 
+  "subjects": [
+    "Administrative remedies", 
+    "Civil actions and liability", 
+    "Evidence and witnesses", 
+    "Finance and financial sector", 
+    "Securities and Exchange Commission (SEC)"
+  ], 
+  "subjects_top_term": "Finance and financial sector", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-10-22", 
+    "text": "Due Process Restoration Act of 2015\n\nThis bill amends the Securities Exchange Act of 1934 to authorize a person who is a party to an administrative proceeding brought by the Securities and Exchange Commission (SEC) under a securities law, and against whom an order imposing a cease and desist order and a penalty may be issued at the conclusion of the proceeding, to require the SEC to terminate the proceeding. If a person requires the SEC to terminate a proceeding, the SEC may bring a civil action against that person for the same remedy that might have been imposed.\n\nA legal or equitable remedy may be imposed on a person against whom an administrative proceeding was brought only upon a showing by the SEC of clear and convincing evidence that the person has violated the relevant provision of law."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Due Process Restoration Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Securities Exchange Act of 1934 to permit private persons to compel the Securities and Exchange Commission to seek legal or equitable remedies in a civil action, instead of an administrative proceeding, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:55:25-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3798:@@@L&summ2=m&"
+}

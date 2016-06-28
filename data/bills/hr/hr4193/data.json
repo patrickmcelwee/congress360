@@ -1,0 +1,115 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-12-08", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-12-11", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Federal Lands.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-12-11", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Water, Power and Oceans.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4193-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Federal Lands", 
+      "subcommittee_id": "10"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Water, Power and Oceans", 
+      "subcommittee_id": "13"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-12-08", 
+  "number": "4193", 
+  "official_title": "To authorize the expansion of an existing hydroelectric project.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1583-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Young, Don", 
+    "state": "AK", 
+    "thomas_id": "01256", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-12-08", 
+  "subjects": [
+    "Alaska", 
+    "Alternative and renewable resources", 
+    "Dams and canals", 
+    "Energy", 
+    "Lakes and rivers", 
+    "Licensing and registrations", 
+    "Water use and supply"
+  ], 
+  "subjects_top_term": "Energy", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-12-08", 
+    "text": "This bill authorizes the licensee for the Terror Lake Hydroelectric Project (Federal Energy Regulatory Commission [FERC] project number 2743) to occupy up to 20 acres of federal land to construct, operate, and maintain the Upper Hidden Basin Diversion Expansion without further authorization of the Department of the Interior or under the Alaska National Interest Lands Conservation Act.\n\nThis is the expansion of the Terror Lake Hydroelectric Project described in the Upper Hidden Basin Grant Application dated July 2, 2014, as submitted by Kodiak Electric Association, Inc., to the Alaska Energy Authority Renewable Energy Fund Round VIII.\n\nThe Expansion must meet the terms and conditions contained in any amendment to a license which may be issued by FERC subsequent to its environmental review under the National Environmental Policy Act of 1969."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To authorize the expansion of an existing hydroelectric project.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:58:43-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4193:@@@L&summ2=m&"
+}

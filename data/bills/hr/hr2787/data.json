@@ -1,0 +1,102 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-06-15", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-07-01", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Federal Lands.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2787-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Federal Lands", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-06-15", 
+  "number": "2787", 
+  "official_title": "To amend the Wild and Scenic Rivers Act to designate certain segments of East Rosebud Creek in Carbon County, Montana, as components of the Wild and Scenic Rivers System.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1577-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "East Rosebud Wild and Scenic Rivers Act", 
+  "sponsor": {
+    "district": null, 
+    "name": "Zinke, Ryan K.", 
+    "state": "MT", 
+    "thomas_id": "02254", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-06-15", 
+  "subjects": [
+    "Forests, forestry, trees", 
+    "Montana", 
+    "Public lands and natural resources", 
+    "Wilderness and natural areas, wildlife refuges, wild rivers, habitats"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-06-15", 
+    "text": "East Rosebud Wild and Scenic Rivers Act\n\n Amends the Wild and Scenic Rivers Act to designate specified river segments of the East Rosebud Creek in Montana as components of the National Wild and Scenic Rivers System."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "East Rosebud Wild and Scenic Rivers Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Wild and Scenic Rivers Act to designate certain segments of East Rosebud Creek in Carbon County, Montana, as components of the Wild and Scenic Rivers System.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:46:59-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2787:@@@L&summ2=m&"
+}

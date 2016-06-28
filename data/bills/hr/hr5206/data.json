@@ -1,0 +1,101 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-05-12", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-05-19", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Federal Lands.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5206-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Federal Lands", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "2", 
+      "name": "Kuster, Ann M.", 
+      "sponsored_at": "2016-05-12", 
+      "state": "NH", 
+      "thomas_id": "02145", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-05-12", 
+  "number": "5206", 
+  "official_title": "To redesignate the Saint-Gaudens National Historic Site as the \"Saint-Gaudens National Park for the Arts\", and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Saint-Gaudens National Park for the Arts Redesignation Act", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Guinta, Frank C.", 
+    "state": "NH", 
+    "thomas_id": "02038", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-05-12", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2016-05-12", 
+    "text": "Saint-Gaudens National Park for the Arts Redesignation Act\n\nThis bill redesignates the Saint-Gaudens National Historic Site as the \"Saint-Gaudens National Park for the Arts.\""
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Saint-Gaudens National Park for the Arts Redesignation Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To redesignate the Saint-Gaudens National Historic Site as the \"Saint-Gaudens National Park for the Arts\", and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:07:12-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR5206:@@@L&summ2=m&"
+}

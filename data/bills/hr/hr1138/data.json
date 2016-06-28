@@ -1,0 +1,332 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-02-26", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-03-23", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Federal Lands.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-06-16", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-08", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-09", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-09", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Unanimous Consent.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2015-07-09", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Subcommittee on Federal Lands Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-27T14:30:00-04:00", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on Natural Resources. H. Rept. 114-229.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-27T14:30:00-04:00", 
+      "calendar": "Union", 
+      "number": "173", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 173.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2015-07-27T15:00:00-04:00", 
+      "references": [], 
+      "text": "Mrs. Radewagen moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-27T15:00:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5475-5478", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-27T15:00:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1138.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-27T15:09:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H5475-5477", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2015-07-27T15:09:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-27", 
+      "references": [], 
+      "text": "Received in the Senate, read twice.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-08-04", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S6270-6271", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2015-08-05", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-08-06", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2015-08-07", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2015-08-07", 
+      "congress": "114", 
+      "law": "public", 
+      "number": "46", 
+      "references": [], 
+      "text": "Became Public Law No: 114-46.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1138-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "discharged"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Federal Lands", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": {
+    "congress": "114", 
+    "law_type": "public", 
+    "number": "46"
+  }, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-06-16", 
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2015-08-07", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2015-07-27T15:09:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2015-08-04", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-02-26", 
+  "number": "1138", 
+  "official_title": "To establish certain wilderness areas in central Idaho and to authorize various land conveyances involving National Forest System land and Bureau of Land Management land in central Idaho, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s583-114", 
+      "reason": "identical", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s583-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Sawtooth National Recreation Area and Jerry Peak Wilderness Additions Act", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Simpson, Michael K.", 
+    "state": "ID", 
+    "thomas_id": "01590", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2015-08-07", 
+  "subjects": [
+    "Cemeteries and funerals", 
+    "Forests, forestry, trees", 
+    "Idaho", 
+    "Land transfers", 
+    "Land use and conservation", 
+    "Parks, recreation areas, trails", 
+    "Public lands and natural resources", 
+    "Solid waste and recycling", 
+    "Water use and supply", 
+    "Wilderness and natural areas, wildlife refuges, wild rivers, habitats"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2015-08-07", 
+    "text": "(This measure has not been amended since it was introduced. The expanded summary of the House passed version is repeated here.)\n\nSawtooth National Recreation Area and Jerry Peak Wilderness Additions Act \n\nTITLE I--WILDERNESS DESIGNATIONS\n\n(Sec. 101) Designates specified parcels of federal land in central Idaho as wilderness areas and components of the National Wilderness Preservation System.\n\n(Sec. 102) Directs the Department of Agriculture (USDA) and the Department of the Interior to seek to ensure that the wilderness areas are interpreted for the public as an overall complex linked by: (1) common location in the Boulder-White Cloud Mountains, and (2) common identity with the natural and cultural history of the state of Idaho and the Native American and pioneer heritage of Idaho.\n\nRequires the USDA and Interior collaboratively to develop wilderness management plans for the wilderness areas, take measures necessary for the control of fire, insects, and diseases, and allow the grazing of livestock, where it is already established, to continue.\n\nAuthorizes the USDA, with respect to National Forest System land, or Interior, with respect to land administered by the Bureau of Land Management, (the Department concerned) to accept the donation of any valid existing leases or permits authorizing grazing on System or public land, all or a part of which are within the area identified as the Boulder White Clouds Grazing Area on the map titled as the \"Boulder White Clouds Grazing Area Map,\" and dated January 27, 2010. Prescribes requirements for partial donations.\n\nAuthorizes commercial services (including authorized outfitting and guide activities) within the wilderness areas to the extent necessary for realizing the recreational or other wilderness purposes of such areas.\n\n(Sec. 106) Declares that nothing in this title diminishes the treaty rights of any Indian Tribe.\n\n(Sec. 107) Authorizes the Department concerned to acquire by donation, exchange, or purchase from a willing seller any land or interest within the boundaries of the wilderness areas.\n\nDirects the Department concerned to seek to complete an exchange for state land located within the boundaries of the wilderness areas designated by this title.\n\n(Sec. 108) Repeals existing law requiring review of portions of the Sawtooth National Recreation Area for possible inclusion in the NWPS.\n\nReleases specified portions of the Sawtooth National Recreation Area as wilderness study areas.\n\nTITLE II--LAND CONVEYANCES FOR PUBLIC PURPOSES\n\nCentral Idaho Economic Development and Recreation Act \n\n(Sec. 202) Directs the USDA to issue a special use permit or convey to Blaine County, Idaho, without consideration, up to one acre of land for use as a school bus turnaround, as depicted on the map titled \"Blaine County Conveyance--Eagle Creek Parcel--Proposed,\" and dated October 1, 2006.\n\n(Sec. 203) Directs Interior to convey to Custer County, Idaho, without consideration, approximately 114 acres of land depicted as Parcel A on the map titled \"Custer County and City of Mackay Conveyances,\" and dated April 6, 2010, for use as a public park and campground.\n\nRequires Interior to convey to the County, without consideration, approximately:\n\n 10 acres of land depicted as Parcel B on such map for use as a fire hall, and 80 acres of land depicted as Parcel C on such map to be used for a waste transfer site. Directs the USDA to convey to the County, without consideration, the Forest Service road that passes through the parcel of System land to be conveyed to the city of Stanley, Idaho, under section 206 of this title from the junction of the road with Highway 75 to the junction with Valley Creek Road at the city's boundary. Subjects such conveyance to the condition that the County agree to relocate the portion of the road that passes through the section 206 conveyance parcel to the southeast along the boundary of that parcel.\n\n(Sec. 204) Directs Interior to convey to the city of Challis, Idaho, without consideration, approximately 460 acres of land within the area depicted as Parcel B on the map titled \"Custer County and City of Challis Conveyances,\" and dated February 2, 2010, to be used for public purposes.\n\n(Sec. 205) Directs Interior to convey to the city of Clayton, Idaho, without consideration, approximately 23 acres of land depicted as Parcel A on the map \"City of Clayton Conveyances\", and dated April 6, 2010, for use as a public cemetery.\n\nDirects Interior also to convey to the city, without consideration, approximately:\n\n two acres of land depicted as Parcel B on such map for use as a public park or other public purpose, two acres of land depicted as Parcel C on such map for the location of a water tower, six acres of land depicted as Parcel D on such map (including any necessary right-of-way across the river) for use as a wastewater treatment facility, and two acres of land depicted as Parcel E on such map for use as a fire hall and related purposes. (Sec. 206) Directs the USDA to convey to the city of Stanley, Idaho, without consideration, a parcel of System land within the Sawtooth National Recreation Area, but outside the area managed by the Sawtooth Interpretive and Historical Association under a special use permit, that consists of approximately four acres as indicated on the map titled \"Custer County and City of Stanley Conveyance Parcel-Proposed,\" and dated February 24, 2015, for the purpose of permitting the city to develop the parcel to provide workforce housing for persons employed in the city or its environs.\n\nDeclares that the city will construct up to 20 apartment units on the conveyed parcel. Requires that the design and configuration of the units be determined by the city in consultation with the USDA and other interested parties, except that the units may not exceed two stories and must be located near or against the hillside to blend in with the terrain.\n\nMakes the private land use regulations of the Sawtooth National Recreation Area inapplicable to the parcel, including with regard to the number and type of apartments units to be constructed on it.\n\nMakes the USDA responsible for the removal of the barn located on the parcel, either before the conveyance of the parcel or at such later date as the city may request.\n\nPermits the city to contract for the development and management of the apartment units constructed on the parcel so long as the city retains ownership of the parcel in perpetuity.\n\n(Sec. 207) States that the issuance of a special use permit or the conveyance of land under this title shall be subject to any terms and conditions that the Department concerned determines to be appropriate.\n\nReserves a reversionary interest in the United States, for exercise at departmental discretion, if any parcel of land conveyed under this title ceases to be used for the public purpose for which it was conveyed."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Sawtooth National Recreation Area and Jerry Peak Wilderness Additions Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": true, 
+      "title": "Central Idaho Economic Development and Recreation Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Sawtooth National Recreation Area and Jerry Peak Wilderness Additions Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": true, 
+      "title": "Central Idaho Economic Development and Recreation Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Sawtooth National Recreation Area and Jerry Peak Wilderness Additions Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": true, 
+      "title": "Central Idaho Economic Development and Recreation Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "is_for_portion": false, 
+      "title": "Sawtooth National Recreation Area and Jerry Peak Wilderness Additions Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "is_for_portion": true, 
+      "title": "Central Idaho Economic Development and Recreation Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": false, 
+      "title": "Sawtooth National Recreation Area and Jerry Peak Wilderness Additions Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "Central Idaho Economic Development and Recreation Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To establish certain wilderness areas in central Idaho and to authorize various land conveyances involving National Forest System land and Bureau of Land Management land in central Idaho, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:32:49-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR1138:@@@L&summ2=m&"
+}

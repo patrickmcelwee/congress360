@@ -1,0 +1,115 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-05-14", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-06-04", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Federal Lands.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2346-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Federal Lands", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "21", 
+      "name": "Smith, Lamar", 
+      "sponsored_at": "2016-04-12", 
+      "state": "TX", 
+      "thomas_id": "01075", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Thompson, Mike", 
+      "sponsored_at": "2015-05-14", 
+      "state": "CA", 
+      "thomas_id": "01593", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-05-14", 
+  "number": "2346", 
+  "official_title": "To extend the authorization of appropriations for allocation to carry out approved wetlands conservation projects under the North American Wetlands Conservation Act through fiscal year 2020.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "North American Wetlands Conservation Extension Act", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Wittman, Robert J.", 
+    "state": "VA", 
+    "thomas_id": "01886", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-05-14", 
+  "subjects": [
+    "Water resources development", 
+    "Water resources funding", 
+    "Wetlands", 
+    "Wildlife conservation and habitat protection"
+  ], 
+  "subjects_top_term": "Water resources development", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-05-14", 
+    "text": "North American Wetlands Conservation Extension Act \n\nThis bill amends the North American Wetlands Conservation Act to extend the authorization for the Department of the Interior to carry out certain wetlands conservation projects through FY2020."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "North American Wetlands Conservation Extension Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To extend the authorization of appropriations for allocation to carry out approved wetlands conservation projects under the North American Wetlands Conservation Act through fiscal year 2020.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:43:09-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2346:@@@L&summ2=m&"
+}

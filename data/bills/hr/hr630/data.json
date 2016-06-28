@@ -1,0 +1,146 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-01-30", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-02-04", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 24 - 14.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2015-02-09T13:25:00-05:00", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-16.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-02-09T13:25:00-05:00", 
+      "calendar": "Union", 
+      "number": "10", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 10.", 
+      "type": "calendar", 
+      "under": null
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr630-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "reporting"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "6", 
+      "name": "Costello, Ryan A.", 
+      "sponsored_at": "2015-02-03", 
+      "state": "PA", 
+      "thomas_id": "02266", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Kind, Ron", 
+      "sponsored_at": "2015-01-30", 
+      "state": "WI", 
+      "thomas_id": "01498", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "23", 
+      "name": "Reed, Tom", 
+      "sponsored_at": "2015-02-02", 
+      "state": "NY", 
+      "thomas_id": "01982", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-02-09T13:25:00-05:00", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-01-30", 
+  "number": "630", 
+  "official_title": "To amend the Internal Revenue Code of 1986 to make permanent certain rules regarding basis adjustments to stock of S corporations making charitable contributions of property.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr2788-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Permanent S Corporation Charitable Contribution Act of 2015", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Reichert, David G.", 
+    "state": "WA", 
+    "thomas_id": "01810", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2015-02-04", 
+  "subjects": [
+    "Accounting and auditing", 
+    "Capital gains tax", 
+    "Charitable contributions", 
+    "Securities", 
+    "Small business", 
+    "Social work, volunteer service, charitable organizations", 
+    "Tax administration and collection, taxpayers", 
+    "Taxation"
+  ], 
+  "subjects_top_term": "Taxation", 
+  "summary": {
+    "as": "Reported to House amended", 
+    "date": "2015-02-09", 
+    "text": "Permanent S Corporation Charitable Contribution Act of 2015\n\n(Sec. 2) This bill amends the Internal Revenue Code to make permanent the tax rule\u00a0that reduces the basis of the stock of an S corporation shareholder by the\u00a0adjusted basis (rather than fair market value) of\u00a0any charitable contribution made by the S corporation."
+  }, 
+  "titles": [
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Permanent S Corporation Charitable Contribution Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Internal Revenue Code of 1986 to make permanent certain rules regarding basis adjustments to stock of S corporations making charitable contributions of property.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:28:29-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR630:@@@L&summ2=m&"
+}

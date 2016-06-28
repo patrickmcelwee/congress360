@@ -1,0 +1,176 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-03-10", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-03-16", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-03-16", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 22 - 15.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2016-03-23T12:23:00-04:00", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-475.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-03-23T12:24:00-04:00", 
+      "calendar": "Union", 
+      "number": "361", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 361.", 
+      "type": "calendar", 
+      "under": null
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4723-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "6", 
+      "name": "Black, Diane", 
+      "sponsored_at": "2016-03-10", 
+      "state": "TN", 
+      "thomas_id": "02063", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Johnson, Sam", 
+      "sponsored_at": "2016-03-10", 
+      "state": "TX", 
+      "thomas_id": "00603", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Meehan, Patrick", 
+      "sponsored_at": "2016-03-15", 
+      "state": "PA", 
+      "thomas_id": "02052", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Renacci, James B.", 
+      "sponsored_at": "2016-03-15", 
+      "state": "OH", 
+      "thomas_id": "02048", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Roskam, Peter J.", 
+      "sponsored_at": "2016-03-10", 
+      "state": "IL", 
+      "thomas_id": "01848", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Tiberi, Patrick J.", 
+      "sponsored_at": "2016-03-10", 
+      "state": "OH", 
+      "thomas_id": "01664", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2016-03-16", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-03-10", 
+  "number": "4723", 
+  "official_title": "To amend the Internal Revenue Code of 1986 to provide for the recovery of improper overpayments resulting from certain Federally subsidized health insurance.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Protecting Taxpayers by Recovering Improper Obamacare Subsidy Overpayments Act", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Jenkins, Lynn", 
+    "state": "KS", 
+    "thomas_id": "01921", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2016-03-16", 
+  "subjects": [
+    "Health care costs and insurance", 
+    "Income tax credits", 
+    "Taxation"
+  ], 
+  "subjects_top_term": "Taxation", 
+  "summary": {
+    "as": "Reported to House amended", 
+    "date": "2016-03-23", 
+    "text": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)\n\nProtecting Taxpayers by Recovering Improper Obamacare Subsidy Overpayments Act\n\n(Sec. 2) This bill amends the Internal Revenue Code to eliminate the limitation on the increase in tax\u00a0imposed upon certain low-income families for advance payments of the tax credit for health insurance premium assistance that exceed the allowable amount of such credit."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Protecting Taxpayers by Recovering Improper Obamacare Subsidy Overpayments Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Protecting Taxpayers by Recovering Improper Obamacare Subsidy Overpayments Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Internal Revenue Code of 1986 to provide for the recovery of improper overpayments resulting from certain Federally subsidized health insurance.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:03:09-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4723:@@@L&summ2=m&"
+}

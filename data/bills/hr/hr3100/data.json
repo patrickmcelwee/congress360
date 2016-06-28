@@ -1,0 +1,109 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-07-16", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-07-17", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3100-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Roe, David P.", 
+      "sponsored_at": "2015-07-23", 
+      "state": "TN", 
+      "thomas_id": "01954", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-07-16", 
+  "number": "3100", 
+  "official_title": "To prohibit conditioning health care provider licensure on participation in a health plan or the meaningful use of electronic health records.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Medical Practice Freedom Act of 2015", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Price, Tom", 
+    "state": "GA", 
+    "thomas_id": "01778", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-07-16", 
+  "subjects": [
+    "Health", 
+    "Health care costs and insurance", 
+    "Health information and medical records", 
+    "Health personnel", 
+    "Licensing and registrations", 
+    "Medicaid", 
+    "State and local government operations"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-07-16", 
+    "text": "Medical Practice Freedom Act of 2015\n\nThis bill prohibits the Department of Health and Human Services or any state from requiring a health care provider, as a condition of the provider's licensure, to participate in a health plan or comply with requirements for meaningful use of electronic health records."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Medical Practice Freedom Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To prohibit conditioning health care provider licensure on participation in a health plan or the meaningful use of electronic health records.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:49:36-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3100:@@@L&summ2=m&"
+}

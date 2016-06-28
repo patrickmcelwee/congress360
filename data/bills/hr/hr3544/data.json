@@ -1,0 +1,166 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-09-17", 
+      "references": [
+        {
+          "reference": "CR E1313", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-17", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on the Judiciary, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-09-17", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Referred to House Judiciary", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-09-17", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "text": "Referred to House Oversight and Government Reform", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-10-05", 
+      "committees": [
+        "HSHM"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3544-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Crime, Terrorism, Homeland Security, and Investigations", 
+      "subcommittee_id": "08"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Oversight and Government Reform", 
+      "committee_id": "HSGO"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "5", 
+      "name": "Esty, Elizabeth H.", 
+      "sponsored_at": "2015-09-17", 
+      "state": "CT", 
+      "thomas_id": "02114", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Foster, Bill", 
+      "sponsored_at": "2015-09-17", 
+      "state": "IL", 
+      "thomas_id": "01888", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-09-17", 
+  "number": "3544", 
+  "official_title": "To help keep law enforcement officers and communities safer by making grants to purchase body worn cameras for use by State, local, and tribal law enforcement officers.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1897-114", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Safer Officers and Safer Citizens Act of 2015", 
+  "sponsor": {
+    "district": "44", 
+    "name": "Hahn, Janice", 
+    "state": "CA", 
+    "thomas_id": "02089", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-09-17", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Crime and law enforcement", 
+    "Employee leave", 
+    "Government employee pay, benefits, personnel management", 
+    "Law enforcement administration and funding", 
+    "Law enforcement officers", 
+    "Office of Personnel Management (OPM)", 
+    "Performance measurement", 
+    "Photography and imaging", 
+    "Violent crime"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-09-17", 
+    "text": "Safer Officers and Safer Citizens Act of 2015\n\n This bill amends the Omnibus Crime Control and Safe Streets Act of 1968 to authorize the Department of Justice's Bureau of Justice Assistance to award matching grants to states, local governments, and Indian tribes to purchase body-worn cameras.\n\nThe Bureau of Justice Assistance must give preference to grant applications from jurisdictions that: (1) have comprehensive policies and procedures related to implementation of a body-worn camera program, (2) have high percentages of officers without access to body-worn cameras, (3) have violent crime rates above the national average, and (4) agree to submit metrics on the use of body-worn cameras.\n\nTo offset the cost, it requires the Office of Personnel Management to issue regulations to limit administrative leave for federal employees to 20 days per year, unless approved individually by the agency head. The Office of Management and Budget must ensure each agency adjusts the number of authorized full-time equivalent employees to reflect lower personnel requirements due to increased available work hours per employee."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Safer Officers and Safer Citizens Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To help keep law enforcement officers and communities safer by making grants to purchase body worn cameras for use by State, local, and tribal law enforcement officers.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:53:18-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3544:@@@L&summ2=m&"
+}

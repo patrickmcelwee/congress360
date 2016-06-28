@@ -1,0 +1,113 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-07-21", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-08-04", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Energy and Mineral Resources.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3140-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Energy and Mineral Resources", 
+      "subcommittee_id": "06"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "2", 
+      "name": "Pocan, Mark", 
+      "sponsored_at": "2015-07-31", 
+      "state": "WI", 
+      "thomas_id": "02171", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-07-21", 
+  "number": "3140", 
+  "official_title": "To require Federal oil and gas leases to report and pay royalties on oil and gas production based on the actual volume of oil and gas withdrawn under a lease, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Accounting for Methane in Production through Loophole Elimination with Oil and Gas Royalties", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Lipinski, Daniel", 
+    "state": "IL", 
+    "thomas_id": "01781", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-07-21", 
+  "subjects": [
+    "Energy", 
+    "Energy efficiency and conservation", 
+    "Energy revenues and royalties", 
+    "Government information and archives", 
+    "Oil and gas"
+  ], 
+  "subjects_top_term": "Energy", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-07-21", 
+    "text": "Accounting for Methane in Production through Loophole Elimination with Oil and Gas Royalties or the AMPLE Oil and Gas Royalties Act\n\nThis bill amends the Federal Oil and Gas Royalty Management Act of 1982 to require, with respect to federal oil and gas leases, a lessee or its designee of a lease in a unit or communitization agreement that contains only federal leases with the same royalty rate and funds distribution, or a lessee or its designee of a lease that is not contained in a unit or communitization agreement, to report and pay royalties on oil and gas production each month based on the actual volume of oil and gas withdrawn from the reservoir by or on behalf of that lessee, including all oil and gas not sold by or on behalf of that lessee. (Currently, such lessees pay royalties on oil and gas production based on only the actual volume of production sold by or on behalf of that lessee.)\n\n\"Oil and gas withdrawn from the reservoir\" is defined as any oil and gas that is produced, sold, vented, flared, used for beneficial purposes, leaked, or otherwise emitted during production."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Accounting for Methane in Production through Loophole Elimination with Oil and Gas Royalties", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "AMPLE Oil and Gas Royalties Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require Federal oil and gas leases to report and pay royalties on oil and gas production based on the actual volume of oil and gas withdrawn under a lease, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:49:56-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3140:@@@L&summ2=m&"
+}

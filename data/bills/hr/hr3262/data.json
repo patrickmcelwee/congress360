@@ -1,0 +1,235 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-07-28", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-08-06", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-12-08", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-09T16:45:00-05:00", 
+      "references": [], 
+      "text": "Mr. Abraham moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-09T16:45:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H633-634", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-09T16:45:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3262.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-09T16:51:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H633", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2016-02-09T16:51:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-10", 
+      "committees": [
+        "SSVA"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-02-22", 
+      "committees": [
+        "SSVA"
+      ], 
+      "references": [
+        {
+          "reference": "CR S914", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Senate Committee on Veterans' Affairs discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-22", 
+      "how": "by Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2016-02-23", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-25", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2016-02-29", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2016-02-29", 
+      "congress": "114", 
+      "law": "public", 
+      "number": "129", 
+      "references": [], 
+      "text": "Became Public Law No: 114-129.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3262-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "03"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Veterans' Affairs", 
+      "committee_id": "SSVA"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": {
+    "congress": "114", 
+    "law_type": "public", 
+    "number": "129"
+  }, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-12-08", 
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2016-02-29", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2016-02-09T16:51:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2016-02-22", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-07-28", 
+  "number": "3262", 
+  "official_title": "To provide for the conveyance of land of the Illiana Health Care System of the Department of Veterans Affairs in Danville, Illinois.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1967-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "15", 
+    "name": "Shimkus, John", 
+    "state": "IL", 
+    "thomas_id": "01527", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2016-02-29", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Department of Veterans Affairs", 
+    "Educational facilities and institutions", 
+    "Health facilities and institutions", 
+    "Higher education", 
+    "Illinois", 
+    "Land transfers", 
+    "Veterans' medical care"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2016-02-29", 
+    "text": "(This measure has not been amended since it was introduced. The expanded summary of the House passed version is repeated here.)\n\n(Sec. 1) This bill authorizes the Department of Veterans Affairs (VA) to convey to the Danville Area Community College of Danville, Illinois, all right, title, and interest of the United States in and to certain real property, including improvements, known as Building Number 48, which is part of the VA Illiana Health Care System.\n\nAs consideration for such conveyance the College shall convey to the United States all right, title, and interest in and to certain real property, including improvements, near the College Library Building."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide for the conveyance of land of the Illiana Health Care System of the Department of Veterans Affairs in Danville, Illinois.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:50:57-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3262:@@@L&summ2=m&"
+}

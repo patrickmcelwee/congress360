@@ -1,0 +1,259 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-11-02", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Homeland Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-11-04", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-11-04", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2015-12-03T13:38:00-05:00", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on Homeland Security. H. Rept. 114-363.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-12-03T13:38:00-05:00", 
+      "calendar": "Union", 
+      "number": "276", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 276.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2015-12-10T16:01:00-05:00", 
+      "references": [], 
+      "text": "Mr. Hurd (TX) moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-12-10T16:01:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H9255-9257", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-12-10T16:01:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3869.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-12-10T16:09:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H9255", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2015-12-10T16:09:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-12-10T16:09:00-05:00", 
+      "references": [], 
+      "text": "The title of the measure was amended. Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-12-14", 
+      "committees": [
+        "SSGA"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3869-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Homeland Security and Governmental Affairs", 
+      "committee_id": "SSGA"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "6", 
+      "name": "Messer, Luke", 
+      "sponsored_at": "2015-11-17", 
+      "state": "IN", 
+      "thomas_id": "02130", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Ratcliffe, John", 
+      "sponsored_at": "2015-11-02", 
+      "state": "TX", 
+      "thomas_id": "02268", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "32", 
+      "name": "Sessions, Pete", 
+      "sponsored_at": "2015-11-30", 
+      "state": "TX", 
+      "thomas_id": "01525", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Swalwell, Eric", 
+      "sponsored_at": "2015-12-02", 
+      "state": "CA", 
+      "thomas_id": "02104", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Thornberry, Mac", 
+      "sponsored_at": "2015-12-02", 
+      "state": "TX", 
+      "thomas_id": "01155", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-11-04", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2015-12-10T16:09:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-11-02", 
+  "number": "3869", 
+  "official_title": "To amend the Homeland Security Act of 2002 to assist State and local coordination on cybersecurity with the national cybersecurity and communications integration center, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2665-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "State and Local Cyber Protection Act of 2015", 
+  "sponsor": {
+    "district": "23", 
+    "name": "Hurd, Will", 
+    "state": "TX", 
+    "thomas_id": "02269", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2015-12-10T16:09:00-05:00", 
+  "subjects": [
+    "Computer security and identity theft", 
+    "Congressional oversight", 
+    "Government information and archives", 
+    "Government operations and politics", 
+    "Intergovernmental relations", 
+    "Right of privacy", 
+    "State and local government operations"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2015-12-10", 
+    "text": "State and Local Cyber Protection Act of 2015\n\n(Sec. 2) This bill amends the Homeland Security Act of 2002 to require the Department of Homeland Security's (DHS's) national cybersecurity and communications integration center (NCCIC) to assist state and local governments with cybersecurity by:\n\n upon request,\u00a0identifying system vulnerabilities and information security protections\u00a0to address unauthorized access, use, disclosure, disruption, modification, or destruction of information collected or maintained by, or information systems used or operated by, state or local governments or other organizations or contractors on their behalf; providing via a web portal updated resources and guidelines related to information security; coordinating through national associations to implement information security tools and policies to ensure the resiliency of state and local information systems; providing training on cybersecurity, privacy, and civil liberties; providing requested technical assistance to deploy technology that continuously diagnoses and mitigates cyber threats and to conduct threat and vulnerability assessments; coordinating vulnerability disclosures under standards developed by the National Institute of Standards and Technology; and ensuring that state and local governments are aware of DHS resources and other federal tools to ensure the security and resiliency of federal civilian information systems. The NCCIC's\u00a0privacy and civil liberties training must include:\u00a0(1) reasonable limits on the receipt, retention, use, and disclosure of information associated with specific persons that is not necessary for cybersecurity purposes; (2) data integrity standards requiring the prompt removal and destruction of obsolete or erroneous names and personal information that is unrelated to the risk or incident information; and (3) safeguards and confidentiality protections for\u00a0cyber threat indicators and defensive measures, including information that is proprietary or business-sensitive that may be used to identify specific persons from unauthorized access or acquisition.\n\nThe NCCIC must seek feedback from state and local governments on the effectiveness of such activities and provide such information to Congress."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "State and Local Cyber Protection Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "State and Local Cyber Protection Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "State and Local Cyber Protection Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Homeland Security Act of 2002 to require State and local coordination on cybersecurity with the national cybersecurity and communications integration center, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "amended by house", 
+      "is_for_portion": false, 
+      "title": "To amend the Homeland Security Act of 2002 to assist State and local coordination on cybersecurity with the national cybersecurity and communications integration center, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:56:01-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3869:@@@L&summ2=m&"
+}

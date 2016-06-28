@@ -1,0 +1,111 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-11-17", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-11-23", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Federal Lands.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4024-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Federal Lands", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "31", 
+      "name": "Aguilar, Pete", 
+      "sponsored_at": "2015-11-17", 
+      "state": "CA", 
+      "thomas_id": "02229", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-11-17", 
+  "number": "4024", 
+  "official_title": "To direct the Secretary of the Interior to convey certain public lands in San Bernardino County, California, to the San Bernardino Valley Water Conservation District, and to accept in return certain exchanged non-public lands, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s3080-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Santa Ana River Wash Plan Land Exchange Act", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Cook, Paul", 
+    "state": "CA", 
+    "thomas_id": "02103", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-11-17", 
+  "subjects": [
+    "California", 
+    "Land transfers", 
+    "Public lands and natural resources"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-11-17", 
+    "text": "Santa Ana River Wash Plan Land Exchange Act\n\nThis bill directs the Department of the Interior to: (1) quitclaim to the San Bernardino Valley Water Conservation District in California approximately 327 acres of identified federal land administered by the Bureau of Land Management, and (2) in exchange for such land accept from the Conservation District a conveyance of approximately 310 acres of its land."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Santa Ana River Wash Plan Land Exchange Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To direct the Secretary of the Interior to convey certain public lands in San Bernardino County, California, to the San Bernardino Valley Water Conservation District, and to accept in return certain exchanged non-public lands, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:57:18-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4024:@@@L&summ2=m&"
+}

@@ -1,0 +1,103 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-02-02", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-02-05", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Water, Power and Oceans.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4440-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Water, Power and Oceans", 
+      "subcommittee_id": "13"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-02-02", 
+  "number": "4440", 
+  "official_title": "To amend the Act entitled \"An Act to provide for the construction of the Cheney division, Wichita Federal reclamation project, Kansas, and for other purposes\" to extend the authority of the Secretary of the Interior to carry out the Equus Beds Division of the Wichita Project.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2012-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s2488-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "4", 
+    "name": "Pompeo, Mike", 
+    "state": "KS", 
+    "thomas_id": "02022", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-02-02", 
+  "subjects": [
+    "Kansas", 
+    "Lakes and rivers", 
+    "Water resources development", 
+    "Water resources funding", 
+    "Water storage", 
+    "Water use and supply"
+  ], 
+  "subjects_top_term": "Water resources development", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2016-02-02", 
+    "text": "This bill amends the Wichita Project Equus Beds Division Authorization Act of 2005 to extend for ten years the authority of the Department of the Interior to carry out the Equus Beds Aquifer Recharge and Recovery Project, Kansas."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Act entitled \"An Act to provide for the construction of the Cheney division, Wichita Federal reclamation project, Kansas, and for other purposes\" to extend the authority of the Secretary of the Interior to carry out the Equus Beds Division of the Wichita Project.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:00:47-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4440:@@@L&summ2=m&"
+}

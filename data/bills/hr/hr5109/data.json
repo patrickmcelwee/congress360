@@ -1,0 +1,120 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-04-28", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-04-29", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Commerce, Manufacturing, and Trade.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5109-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Commerce, Manufacturing, and Trade", 
+      "subcommittee_id": "17"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "26", 
+      "name": "Burgess, Michael C.", 
+      "sponsored_at": "2016-04-28", 
+      "state": "TX", 
+      "thomas_id": "01751", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-04-28", 
+  "number": "5109", 
+  "official_title": "To amend the Federal Trade Commission Act to require annual reports to Congress regarding the status of investigations of unfair or deceptive acts or practices in or affecting commerce.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr5315-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr5510-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Clarifying Legality and Enforcement Action Reasoning Act", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Guthrie, Brett", 
+    "state": "KY", 
+    "thomas_id": "01922", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-04-28", 
+  "subjects": [
+    "Commerce"
+  ], 
+  "subjects_top_term": "Commerce", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2016-04-28", 
+    "text": "Clarifying Legality and Enforcement Action Reasoning Act or the CLEAR Act\n\nThis bill amends the Federal Trade Commission Act to require the Federal Trade Commission (FTC) to submit an annual report to Congress about its investigations concerning unfair or deceptive acts or practices in or affecting commerce. The reports must detail:\n\n the number of such investigations the FTC has commenced and the disposition of investigations that concluded with official agency action; and the number of investigations the FTC has closed with no official agency action, along with a description that indicates the legal analysis supporting the FTC's decision not to continue such investigations, and the industry sectors of the entities subject to each such investigation. The bill prohibits the FTC from identifying a person who is the subject of an investigation in its description of an investigation that closed with no official agency action."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Clarifying Legality and Enforcement Action Reasoning Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "CLEAR Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Federal Trade Commission Act to require annual reports to Congress regarding the status of investigations of unfair or deceptive acts or practices in or affecting commerce.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:06:24-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR5109:@@@L&summ2=m&"
+}

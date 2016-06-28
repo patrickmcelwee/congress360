@@ -1,0 +1,117 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-02-03", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-02-06", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr691-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "11", 
+      "name": "Foster, Bill", 
+      "sponsored_at": "2015-09-10", 
+      "state": "IL", 
+      "thomas_id": "01888", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Johnson, Bill", 
+      "sponsored_at": "2015-02-03", 
+      "state": "OH", 
+      "thomas_id": "02046", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-02-03", 
+  "number": "691", 
+  "official_title": "To promote the provision of telehealth by establishing a Federal standard for telehealth, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Telehealth Modernization Act of 2015", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Matsui, Doris O.", 
+    "state": "CA", 
+    "thomas_id": "01814", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-02-03", 
+  "subjects": [
+    "Health", 
+    "Health care quality", 
+    "Health information and medical records", 
+    "Health personnel", 
+    "Health technology, devices, supplies", 
+    "Prescription drugs"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-02-03", 
+    "text": "Telehealth Modernization Act of 2015\n\nCalls for states to authorize health care professionals to deliver health care to individuals through telehealth and consider adopting conditions under which a health care professional delivering care through telehealth should:\n\n have access to the individual's medical history and should review it with the individual as if delivering the health care in person; attempt to identify any conditions underlying the symptoms reported by the individual before providing any diagnosis or treatment and, if recommending a treatment, should review with the individual the contraindications; have a conversation with the individual adequate to establish any diagnosis rendered; document any evaluation and treatment delivered to the individual to generate a medical record of the encounter; provide to the individual information regarding the professional's health care education, certification, and credentials; offer no assurance to the individual that any item or service will be issued or provided in exchange for the payment of the consultation fee or solely in response to the individual completing a form or questionnaire; and only issue a prescription if it is issued by a health care professional who has obtained a medical history and conducted an evaluation of the individual adequate to establish a diagnosis, not for certain controlled substances, and filled by a licensed dispensing entity."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Telehealth Modernization Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To promote the provision of telehealth by establishing a Federal standard for telehealth, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:29:03-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR691:@@@L&summ2=m&"
+}

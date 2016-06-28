@@ -1,0 +1,106 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-04-14", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-06-05", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Federal Lands.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1792-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Federal Lands", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-04-14", 
+  "number": "1792", 
+  "official_title": "To amend the Federal Land Policy and Management Act of 1976 to authorize the Secretary of the Interior to enter into cooperative agreements with States to provide for State management of grazing permits and leases.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s937-114", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "State Grazing Management Authority Act", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Stewart, Chris", 
+    "state": "UT", 
+    "thomas_id": "02168", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-04-14", 
+  "subjects": [
+    "Environmental assessment, monitoring, research", 
+    "Forests, forestry, trees", 
+    "Intergovernmental relations", 
+    "Land use and conservation", 
+    "Licensing and registrations", 
+    "Livestock", 
+    "Public lands and natural resources", 
+    "State and local government operations"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-04-14", 
+    "text": "State Grazing Management Authority Act\n\nAmends the Federal Land Policy and Management Act of 1976 to require the Bureau of Land Management, upon the request of a state governor, to enter into 20-year cooperative agreements providing for a state to manage grazing allotments on eligible federal land in that state. Defines \"eligible federal land\" as public land that is subject to a grazing permit or lease issued by the Bureau, excluding a unit of the National Wilderness Preservation System or an area of critical environmental concern.\n\nProhibits any state from managing more than two allotments at any one time unless waived by the Bureau.\n\nRequires such a cooperative agreement to assign to the state the Bureau's responsibilities with respect to the grazing allotments managed under the National Environmental Policy Act of 1969, including the responsibility for determining whether the following actions for those allotments qualify for a categorical exclusion under such Act:\n\n the conduct of vegetation projects; the conduct of pinyon or juniper treatments; and determinations with respect to the number of permitted animal unit months. Requires a cooperative agreement to provide for the state to develop a process to resolve disputes relating to a decision by the state with respect to management of an allotment."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "State Grazing Management Authority Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Federal Land Policy and Management Act of 1976 to authorize the Secretary of the Interior to enter into cooperative agreements with States to provide for State management of grazing permits and leases.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:38:28-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR1792:@@@L&summ2=m&"
+}

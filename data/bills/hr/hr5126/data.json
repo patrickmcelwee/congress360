@@ -1,0 +1,99 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-04-29", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-05-06", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Commerce, Manufacturing, and Trade.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5126-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Commerce, Manufacturing, and Trade", 
+      "subcommittee_id": "17"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-04-29", 
+  "number": "5126", 
+  "official_title": "To enhance the early warning reporting requirements for motor vehicle manufacturers.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1743-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Early Warning Reporting System Improvement Act of 2016", 
+  "sponsor": {
+    "district": "17", 
+    "name": "Cartwright, Matt", 
+    "state": "PA", 
+    "thomas_id": "02159", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-04-29", 
+  "subjects": [
+    "Transportation and public works"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2016-04-29", 
+    "text": "Early Warning Reporting System Improvement Act of 2016\n\n This bill revises early warning reporting requirements for manufacturers of motor vehicles regarding possible defects of motor vehicles and motor vehicle equipment.\n\nThe Department of Transportation (DOT) shall require a manufacturer in cases where the defect has caused a fatality to provide certain additional information as part of its report to DOT. That information shall be publicly disclosed and entered into the National Highway Traffic Safety Administration (NHTSA) early warning reporting database.\n\nDOT shall:\n\n take specified actions to improve public accessibility to information on NHTSA's public vehicle safety databases; and give public notice via the internet of all inspections or investigations conducted by DOT to enforce a motor vehicle safety requirement or order, or that are related to a motor vehicle accident due to a possible defect."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Early Warning Reporting System Improvement Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To enhance the early warning reporting requirements for motor vehicle manufacturers.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:06:32-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR5126:@@@L&summ2=m&"
+}

@@ -1,0 +1,97 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-06-16", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-06-19", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Energy and Power.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2792-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Energy and Power", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-06-16", 
+  "number": "2792", 
+  "official_title": "To require that any revision to, or establishment of, a national primary or secondary ambient air quality standard be made by statute, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Manufacturers First Act of 2015", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Grothman, Glenn", 
+    "state": "WI", 
+    "thomas_id": "02276", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-06-16", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Air quality", 
+    "Environmental Protection Agency (EPA)", 
+    "Environmental protection", 
+    "Environmental regulatory procedures"
+  ], 
+  "subjects_top_term": "Environmental protection", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-06-16", 
+    "text": "Manufacturers First Act of 2015\n\nThis bill requires the primary and secondary national ambient air quality standards (NAAQS) for air pollutants under the Clean Air Act that are in effect on this bill's enactment date to remain in effect. The Environmental Protection Agency may not issue, implement, or enforce revisions to those NAAQS or any new NAAQS. (Primary NAAQS provide public health protection and secondary NAAQS provide public welfare protection)."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Manufacturers First Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require that any revision to, or establishment of, a national primary or secondary ambient air quality standard be made by statute, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:47:01-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2792:@@@L&summ2=m&"
+}

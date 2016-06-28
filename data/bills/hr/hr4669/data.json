@@ -1,0 +1,111 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-03-02", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-03-04", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4669-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "13", 
+      "name": "Ryan, Tim", 
+      "sponsored_at": "2016-06-03", 
+      "state": "OH", 
+      "thomas_id": "01756", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-03-02", 
+  "number": "4669", 
+  "official_title": "To support the establishment of a Standards Coordinating Body in Regenerative Medicine and Advanced Therapies.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2443-114", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Advancing Standards in Regenerative Medicine Act", 
+  "sponsor": {
+    "district": "11", 
+    "name": "Foster, Bill", 
+    "state": "IL", 
+    "thomas_id": "01888", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-03-02", 
+  "subjects": [
+    "Cell biology and embryology", 
+    "Drug safety, medical device, and laboratory regulation", 
+    "Genetics", 
+    "Health", 
+    "Medical research", 
+    "Organ and tissue donation and transplantation", 
+    "Public-private cooperation"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Advancing Standards in Regenerative Medicine Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To support the establishment of a Standards Coordinating Body in Regenerative Medicine and Advanced Therapies.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:02:42-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4669:@@@L&summ2=m&"
+}

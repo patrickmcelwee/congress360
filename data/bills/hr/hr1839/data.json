@@ -1,0 +1,247 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-04-16", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Financial Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-04-29", 
+      "references": [], 
+      "text": "Hearings Held by the Subcommittee on Capital Markets and Government Sponsored Enterprises Prior to Referral.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-28", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-29", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-29", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 58 - 0.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2015-10-06T14:36:00-04:00", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Financial Services. H. Rept. 114-281.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-10-06T14:36:00-04:00", 
+      "calendar": "Union", 
+      "number": "213", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 213.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2015-10-06T16:39:00-04:00", 
+      "references": [], 
+      "text": "Mr. Garrett moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-10-06T16:39:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6805-6808", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-10-06T16:39:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1839.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-10-06T16:51:00-04:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-10-06T19:01:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6818-6819", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-10-06T19:10:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H6806", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "535", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 404 - 0 (Roll no. 535).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2015-10-06T19:10:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-10-07", 
+      "committees": [
+        "SSBK"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1839-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }, 
+    {
+      "activity": [
+        "hearings"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA", 
+      "subcommittee": "Subcommittee on Capital Markets and Government Sponsored Enterprises", 
+      "subcommittee_id": "16"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Banking, Housing, and Urban Affairs", 
+      "committee_id": "SSBK"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "6", 
+      "name": "Schweikert, David", 
+      "sponsored_at": "2015-07-27", 
+      "state": "AZ", 
+      "thomas_id": "01994", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-04-29", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2015-10-06T19:10:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-04-16", 
+  "number": "1839", 
+  "official_title": "To amend the Securities Act of 1933 to exempt certain transactions involving purchases by accredited investors, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr22-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Reforming Access for Investments in Startup Enterprises Act of 2015 or the RAISE Act of 2015", 
+  "sponsor": {
+    "district": "10", 
+    "name": "McHenry, Patrick T.", 
+    "state": "NC", 
+    "thomas_id": "01792", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2015-10-06T19:10:00-04:00", 
+  "subjects": [
+    "Finance and financial sector", 
+    "Financial services and investments", 
+    "Securities"
+  ], 
+  "subjects_top_term": "Finance and financial sector", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2015-10-06", 
+    "text": "Reforming Access for Investments in Startup Enterprises Act of 2015 or the RAISE Act of 2015\n\n (Sec. 2) The Securities Act of 1933 is amended to exempt from security registration requirements, and related prohibitions against using interstate commerce and the mails for the sale or delivery of securities after sale, any transaction where:\n\n each purchaser is an accredited investor; neither the seller, nor any person acting on the seller's behalf, offers or sells securities by general solicitation or advertising; the seller and prospective purchaser obtain from an issuer meeting certain criteria reasonably current specified information; the transaction is not for the sale of a security whose seller is neither an issuer nor a subsidiary of the issuer; neither the seller, nor any person receiving remuneration for participating in the offer or sale of the securities, is subject to certain legal disqualification (bad actor); the issuer is engaged in business, is not in the organizational stage or in bankruptcy or receivership, and is not a blank check, blind pool, or shell company with no specific business plan or purpose or has indicated that the issuer's primary business plan is to engage in a merger or combination of the business with, or an acquisition of, an unidentified person; the transaction does not involve a security that constitutes the whole or part of an unsold allotment to, or a subscription or participation by, a broker or dealer as an underwriter of the security or a redistribution; and the transaction does involve a security of a class authorized and outstanding for at least 90 days before the transaction. Securities acquired in such exempt transactions shall be deemed to: (1) have been acquired in a transaction not involving any public offering, (2) not be a distribution involving an underwriter, and (2) be restricted securities not subject to certain transaction requirements.\n\nAll transactions under this Act shall be exempt from state regulation of securities offerings."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "RAISE Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Reforming Access for Investments in Startup Enterprises Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Reforming Access for Investments in Startup Enterprises Act of 2015 or the RAISE Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Securities Act of 1933 to exempt certain transactions involving purchases by accredited investors, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:38:52-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR1839:@@@L&summ2=m&"
+}

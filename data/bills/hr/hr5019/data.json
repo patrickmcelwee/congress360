@@ -1,0 +1,180 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-04-21", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Financial Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-04-26T15:09:00-04:00", 
+      "references": [], 
+      "text": "Mr. Garrett moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-26T15:09:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H1950-1952", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-26T15:09:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 5019.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-26T15:21:00-04:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-28T13:32:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2081", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-28T13:39:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR 4/26/2016 H1950", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "175", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 411 - 6 (Roll no. 175).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2016-04-28T13:39:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-09", 
+      "committees": [
+        "SSBK"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5019-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Banking, Housing, and Urban Affairs", 
+      "committee_id": "SSBK"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Carney, John C., Jr.", 
+      "sponsored_at": "2016-04-21", 
+      "state": "DE", 
+      "thomas_id": "01999", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2016-04-26T15:09:00-04:00", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2016-04-28T13:39:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-04-21", 
+  "number": "5019", 
+  "official_title": "To direct the Securities and Exchange Commission to provide a safe harbor related to certain investment fund research reports, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr1675-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Fair Access to Investment Research Act of 2016", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Hill, J. French", 
+    "state": "AR", 
+    "thomas_id": "02223", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2016-04-28T13:39:00-04:00", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2016-04-28", 
+    "text": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)\n\nFair Access to Investment Research Act of 2016\n\n(Sec. 2) This bill directs the Securities and Exchange Commission (SEC) to revise a specified regulation to create a safe harbor for certain publications or distributions of research reports by brokers or dealers distributing securities.\n\nThe revised regulation shall declare that a published or distributed investment fund research report shall not be deemed to constitute an offer for sale or an offer to sell a security that is the subject of the offering pursuant to an effective registration statement, even if the broker or dealer is participating or will participate in the registered offering of the covered investment fund's securities.\n\nThe covered investment fund research report shall indeed be deemed to satisfy the regulation's requirements as well as those of any self-regulatory organization.\n\nThe SEC shall not impose specified conditions and requirements when implementing the safe harbor.\n\nUntil the SEC has adopted such safe harbor revisions, and the Financial Industry Regulatory Authority (FINRA) has revised a related rule, a covered investment fund shall be deemed to be a security listed on a national securities exchange that is not subject to a certain filing requirement of the Investment Company Act of 1940."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Fair Access to Investment Research Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Fair Access to Investment Research Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To direct the Securities and Exchange Commission to provide a safe harbor related to certain investment fund research reports, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:05:39-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR5019:@@@L&summ2=m&"
+}

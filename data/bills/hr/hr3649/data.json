@@ -1,0 +1,89 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-09-29", 
+      "committees": [
+        "HSAS"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Armed Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-11-23", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Readiness.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3649-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS", 
+      "subcommittee": "Subcommittee on Readiness", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-09-29", 
+  "number": "3649", 
+  "official_title": "To amend titles 10, 32, and 37 of the United States Code to authorize the establishment of units of the National Guard in the Commonwealth of the Northern Mariana Islands.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Sablan, Gregorio Kilili Camacho", 
+    "state": "MP", 
+    "thomas_id": "01962", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-09-29", 
+  "subjects": [
+    "Armed forces and national security", 
+    "National Guard and reserves", 
+    "Northern Mariana Islands"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-09-29", 
+    "text": "Authorizes the establishment of units of the National Guard in the Commonwealth of the Northern Mariana Islands."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend titles 10, 32, and 37 of the United States Code to authorize the establishment of units of the National Guard in the Commonwealth of the Northern Mariana Islands.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:54:11-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3649:@@@L&summ2=m&"
+}

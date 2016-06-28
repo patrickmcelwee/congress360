@@ -1,0 +1,290 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-04-15", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-04-30", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Federal Lands.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-11-04", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-02", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-02", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Subcommittee on Federal Lands Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-03", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-03", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Unanimous Consent.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2016-04-11T15:49:00-04:00", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-479.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-11T15:50:00-04:00", 
+      "calendar": "Union", 
+      "number": "365", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 365.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2016-06-07T17:19:00-04:00", 
+      "references": [], 
+      "text": "Mr. Hardy moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-07T17:19:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3482-3484", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-07T17:19:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1815.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-07T17:25:00-04:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-07T19:08:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3492-3493", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-07T19:14:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3482-3483", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "272", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 360 - 7 (Roll no. 272).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2016-06-07T19:14:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-08", 
+      "committees": [
+        "SSEG"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1815-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "discharged"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Federal Lands", 
+      "subcommittee_id": "10"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Energy and Natural Resources", 
+      "committee_id": "SSEG"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "2", 
+      "name": "Amodei, Mark E.", 
+      "sponsored_at": "2015-04-15", 
+      "state": "NV", 
+      "thomas_id": "02090", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Heck, Joseph J.", 
+      "sponsored_at": "2015-04-15", 
+      "state": "NV", 
+      "thomas_id": "02040", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Titus, Dina", 
+      "sponsored_at": "2015-04-15", 
+      "state": "NV", 
+      "thomas_id": "01940", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-11-04", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2016-06-07T19:14:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-04-15", 
+  "number": "1815", 
+  "official_title": "To facilitate certain pinyon-juniper related projects in Lincoln County, Nevada, to modify the boundaries of certain wilderness areas in the State of Nevada, and to provide for the implementation of a conservation plan for the Virgin River, Nevada.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s953-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Eastern Nevada Land Implementation Improvement Act", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Hardy, Cresent", 
+    "state": "NV", 
+    "thomas_id": "02260", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2016-06-07T19:14:00-04:00", 
+  "subjects": [
+    "Intergovernmental relations", 
+    "Land transfers", 
+    "Land use and conservation", 
+    "Law enforcement administration and funding", 
+    "Nevada", 
+    "Public lands and natural resources", 
+    "State and local government operations", 
+    "User charges and fees", 
+    "Wilderness and natural areas, wildlife refuges, wild rivers, habitats", 
+    "Wildlife conservation and habitat protection"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2016-06-07", 
+    "text": "(This measure has not been amended since it was reported to the House on April 25, 2016. The summary of that version is repeated here.)\n\nEastern Nevada Land Implementation Improvement Act\n\n (Sec. 2) This bill amends the Lincoln County Land Act of 2000 (LCLA) to require implementation of a multispecies habitat conservation plan in Lincoln County, Nevada.\n\nBoth the LCLA and the Lincoln County Conservation, Recreation, and Development Act of 2004 (LCCRDA) are amended to make certain amounts available for comprehensive, cost-effective, and multijurisdictional hazardous fuels reduction projects and wildfire prevention planning activities (particularly for pinyon-juniper dominated landscapes) and other rangeland and woodland restoration projects within the county, consistent with the Ely Resource Management Plan or a subsequent amendment to it.\n\n The bill requires cooperative agreements between the Bureau of Land Management (BLM) and Lincoln County for certain county-provided law enforcement and planning related activities approved by the Department of the Interior.\n\n Certain portions of land sale proceeds returned to the County under the LCLA and the LCCRDA shall be used in part for the Lincoln County Regional Development Authority.\n\nUnder the LCCRDA Interior shall realign a specified portion of a 2,640-foot wide utility corridor.\n\nThe bill:\n\n affirms and validates patent number 27-2005-0081 issued by the BLM on February 18, 2005, as having been issued pursuant to and in compliance with specified law for the benefit of the desert tortoise, other species, and their habitat to increase the likelihood of their recovery; and ratifies the processes used by the U.S. Fish and Wildlife Service and the BLM in reconfiguring the land covered by the patent. Interior may issue a corrective patent for 7,548 specified acres of land in Lincoln County.\n\n(Sec. 3) The bill amends the Pam White Wilderness Act to adjust the boundary of the Mt. Moriah Wilderness to include specified lands, and the boundary of the High Schells Wilderness to include and exclude specified lands.\n\nThe bill amends the Nevada Wilderness Protection Act of 1989 to adjust the boundary of the Arc Dome Wilderness to exclude specified land.\n\n(Sec. 4) The bill amends the Mesquite Lands Act of 1988 to require the proceeds of the sales of certain parcels of land by Interior to the city of Mesquite, Nevada, to be made available for use for the development and implementation of a conservation plan to benefit fish and wildlife species of the Virgin River in Clark County (rather than, as currently, for development of a multispecies habitat conservation plan)."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Eastern Nevada Land Implementation Improvement Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Eastern Nevada Land Implementation Improvement Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Eastern Nevada Land Implementation Improvement Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To facilitate certain pinyon-juniper related projects in Lincoln County, Nevada, to modify the boundaries of certain wilderness areas in the State of Nevada, and to provide for the implementation of a conservation plan for the Virgin River, Nevada.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:38:40-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR1815:@@@L&summ2=m&"
+}

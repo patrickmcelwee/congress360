@@ -1,0 +1,115 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-07-23", 
+      "committees": [
+        "HSSY"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Science, Space, and Technology.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-08-18", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Space.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3182-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Science, Space, and Technology", 
+      "committee_id": "HSSY"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Science, Space, and Technology", 
+      "committee_id": "HSSY", 
+      "subcommittee": "Subcommittee on Space", 
+      "subcommittee_id": "16"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "21", 
+      "name": "Smith, Lamar", 
+      "sponsored_at": "2015-07-23", 
+      "state": "TX", 
+      "thomas_id": "01075", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-07-23", 
+  "number": "3182", 
+  "official_title": "To advance United States leadership in planetary science and space exploration though education and outreach.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Planetary Leadership Utilizing Teaching and Observations Act", 
+  "sponsor": {
+    "district": "30", 
+    "name": "Johnson, Eddie Bernice", 
+    "state": "TX", 
+    "thomas_id": "00599", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-07-23", 
+  "subjects": [
+    "Astronomy", 
+    "Elementary and secondary education", 
+    "International scientific cooperation", 
+    "Science and engineering education", 
+    "Science, technology, communications", 
+    "Space flight and exploration", 
+    "Spacecraft and satellites"
+  ], 
+  "subjects_top_term": "Science, technology, communications", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-07-23", 
+    "text": "Planetary Leadership Utilizing Teaching and Observations Act or the PLUTO Act\n\nThis bill directs the National Aeronautics and Space Administration (NASA) to use observations, measurements, data, and discoveries derived from the New Horizons mission to:\n\n enhance public awareness and appreciation for space exploration and engage the public in the process of scientific discovery; communicate the importance of planetary science to students and teachers; advance domestic science, technology, engineering, and mathematics (STEM) education; promote mutually beneficial international scientific partnerships; and facilitate future progress in planetary science."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Planetary Leadership Utilizing Teaching and Observations Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "PLUTO Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To advance United States leadership in planetary science and space exploration though education and outreach.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:50:17-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3182:@@@L&summ2=m&"
+}

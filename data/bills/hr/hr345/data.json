@@ -1,0 +1,91 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-01-14", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-02-05", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Immigration and Border Security.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr345-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Immigration and Border Security", 
+      "subcommittee_id": "01"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-01-14", 
+  "number": "345", 
+  "official_title": "To make persons who conspire to commit, commit, or benefit from an act of human trafficking ineligible for admission to the United States of America.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "9", 
+    "name": "Grayson, Alan", 
+    "state": "FL", 
+    "thomas_id": "01914", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-01-14", 
+  "subjects": [
+    "Family relationships", 
+    "Human trafficking", 
+    "Immigration", 
+    "Immigration status and procedures", 
+    "Visas and passports"
+  ], 
+  "subjects_top_term": "Immigration", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-01-14", 
+    "text": "This bill amends the Immigration and Nationality Act to make an alien who commits or conspires to commit a single human trafficking offense (under current law, more than one offense), or assists a trafficker, ineligible for U.S. admission.\n\nMakes the spouse, son, or daughter of such an inadmissible alien also permanently inadmissible if he or she has obtained a financial or other benefit from that alien's illicit activity, regardless of when the benefit was obtained, and knew that the benefit was the product of such illicit activity."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To make persons who conspire to commit, commit, or benefit from an act of human trafficking ineligible for admission to the United States of America.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:26:06-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR345:@@@L&summ2=m&"
+}

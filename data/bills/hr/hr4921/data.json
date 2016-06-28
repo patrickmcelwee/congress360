@@ -1,0 +1,119 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-04-13", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Oversight and Government Reform.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-04-14", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-14", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2016-06-21T15:35:00-04:00", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on Oversight and Government Reform. H. Rept. 114-636.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-21T15:35:00-04:00", 
+      "calendar": "Union", 
+      "number": "494", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 494.", 
+      "type": "calendar", 
+      "under": null
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4921-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Oversight and Government Reform", 
+      "committee_id": "HSGO"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2016-04-14", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-04-13", 
+  "number": "4921", 
+  "official_title": "To amend chapter 31 of title 44, United States Code, to require the maintenance of certain records for 3 years, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Ditto Act of 2016", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Walker, Mark", 
+    "state": "NC", 
+    "thomas_id": "02255", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2016-04-14", 
+  "subjects": [
+    "Taxation"
+  ], 
+  "subjects_top_term": "Taxation", 
+  "summary": {
+    "as": "Reported to House without amendment", 
+    "date": "2016-06-21", 
+    "text": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)\n\nDitto Act of 2016 \n\n(Sec. 2) This bill requires the Internal Revenue Service (IRS) to maintain preserved records for at least three years after obtaining the record. A preserved record is any record maintained by a person other than the federal government pursuant to a rule, guidance, or other directive from the IRS recommending or requiring that the person maintain records for a particular period of time on a particular matter."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Ditto Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Ditto Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend chapter 31 of title 44, United States Code, to require the maintenance of certain records for 3 years, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:04:49-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4921:@@@L&summ2=m&"
+}

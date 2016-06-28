@@ -1,0 +1,315 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-03-23", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-04-08", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Federal Lands.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-06-16", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-08", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-09", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-09", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Unanimous Consent.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2015-07-09", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Subcommittee on Federal Lands Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-09T16:14:00-04:00", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on Natural Resources. H. Rept. 114-257.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-09T16:14:00-04:00", 
+      "calendar": "Union", 
+      "number": "195", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 195.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2015-09-16T15:54:00-04:00", 
+      "references": [], 
+      "text": "Mr. McClintock moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-16T15:54:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5997-5998", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-16T15:54:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1554.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-16T15:59:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H5997-5998", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2015-09-16T16:00:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-17", 
+      "committees": [
+        "SSEG"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-10-08", 
+      "committee": "Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining", 
+      "committees": [
+        "SSEG"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held.", 
+      "type": "hearings"
+    }, 
+    {
+      "acted_at": "2015-11-19", 
+      "committees": [
+        "SSEG"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2015-12-16", 
+      "committee": "Energy and Natural Resources", 
+      "committees": [
+        "SSEG"
+      ], 
+      "references": [], 
+      "text": "Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 114-195.", 
+      "type": "reported"
+    }, 
+    {
+      "acted_at": "2015-12-16", 
+      "calendar": "Senate Legislative", 
+      "number": "340", 
+      "references": [], 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 340.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1554-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "discharged"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Federal Lands", 
+      "subcommittee_id": "10"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "Senate Energy and Natural Resources", 
+      "committee_id": "SSEG"
+    }, 
+    {
+      "activity": [
+        "hearings"
+      ], 
+      "committee": "Senate Energy and Natural Resources", 
+      "committee_id": "SSEG", 
+      "subcommittee": "Subcommittee on Public Lands, Forests, and Mining", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "2", 
+      "name": "Polis, Jared", 
+      "sponsored_at": "2015-03-23", 
+      "state": "CO", 
+      "thomas_id": "01910", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-06-16", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2015-09-16T15:59:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-03-23", 
+  "number": "1554", 
+  "official_title": "To require a land conveyance involving the Elkhorn Ranch and the White River National Forest in the State of Colorado, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1942-114", 
+      "reason": "identical", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s1942-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s2012-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Elkhorn Ranch and White River National Forest Conveyance Act of 2015", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Tipton, Scott  R.", 
+    "state": "CO", 
+    "thomas_id": "01997", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2015-09-16T15:59:00-04:00", 
+  "subjects": [
+    "Colorado", 
+    "Forests, forestry, trees", 
+    "Land transfers", 
+    "Public lands and natural resources"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Reported to Senate without amendment", 
+    "date": "2015-12-16", 
+    "text": "(This measure has not been amended since it was introduced. The expanded summary of the House reported version is repeated here.)\n\nElkhorn Ranch and White River National Forest Conveyance Act of 2015\n\n (Sec. 2) This bill requires all interest of the United States in 148 acres of identified land shall be conveyed by patent to the Gordman-Leverich Partnership (GLP), a Colorado Limited Liability Partnership.\n\n The conveyance: (1) is subject to the valid existing rights of the lessee of federal oil and gas lease COC-75070 and any other valid existing rights, and (2) shall reserve to the United States the right to collect rent and royalty payments on such lease for its duration.\n\n The conveyance does not modify the exterior boundary of the White River National Forest in Colorado nor the boundaries of Sections 18 and 19 of a certain Township in Colorado, as such boundaries are in effect on the date of enactment of this Act.\n\n The conveyance shall: (1) be completed by no later than 180 days of enactment of this Act; and (2) be without consideration, except that all costs incurred by the Department of the Interior relating to any survey, platting, legal description, or other activities carried out to prepare and issue the patent shall be paid by GLP to Interior prior to the conveyance of such land."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Elkhorn Ranch and White River National Forest Conveyance Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Elkhorn Ranch and White River National Forest Conveyance Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Elkhorn Ranch and White River National Forest Conveyance Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to senate", 
+      "is_for_portion": false, 
+      "title": "Elkhorn Ranch and White River National Forest Conveyance Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require a land conveyance involving the Elkhorn Ranch and the White River National Forest in the State of Colorado, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:36:25-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR1554:@@@L&summ2=m&"
+}

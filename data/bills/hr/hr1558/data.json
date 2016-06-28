@@ -1,0 +1,139 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-03-24", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-03-27", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Energy and Power.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1558-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Energy and Power", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "14", 
+      "name": "Doyle, Michael F.", 
+      "sponsored_at": "2015-03-24", 
+      "state": "PA", 
+      "thomas_id": "00316", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "29", 
+      "name": "Green, Gene", 
+      "sponsored_at": "2015-03-24", 
+      "state": "TX", 
+      "thomas_id": "00462", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-03-24", 
+  "number": "1558", 
+  "official_title": "To clarify that compliance with an emergency order under section 202(c) of the Federal Power Act may not be considered a violation of any Federal, State, or local environmental law or regulation, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr8-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr22-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s848-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Resolving Environmental and Grid Reliability Conflicts Act of 2015", 
+  "sponsor": {
+    "district": "22", 
+    "name": "Olson, Pete", 
+    "state": "TX", 
+    "thomas_id": "01955", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-03-24", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Administrative remedies", 
+    "Civil actions and liability", 
+    "Electric power generation and transmission", 
+    "Emergency planning and evacuation", 
+    "Energy", 
+    "Energy storage, supplies, demand", 
+    "Environmental assessment, monitoring, research", 
+    "Environmental regulatory procedures", 
+    "Federal Energy Regulatory Commission (FERC)", 
+    "Pollution liability", 
+    "Public utilities and utility rates"
+  ], 
+  "subjects_top_term": "Energy", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-03-24", 
+    "text": "Resolving Environmental and Grid Reliability Conflicts Act of 2015\n\nThis bill amends the Federal Power Act to require the Federal Energy Regulatory Commission (FERC) to ensure that any emergency order that may result in conflict with federal, state, or local environmental law or regulations:\n\n requires generation, delivery, interchange, or transmission of electricity only during hours necessary to meet the emergency and serve the public interest; be consistent with applicable environmental law; and minimizes any adverse environmental impacts to the maximum extent practical. Any necessary action or omission in such an emergency that does not comply with federal, state, or local environmental law or regulation shall not be considered a violation of it, or subject the party involved to any related requirement, civil or criminal liability, or a citizen suit.\n\nSuch emergency orders must expire within 90 days. FERC may renew or reissue an order for subsequent periods of no more than 90 days each as necessary to meet the emergency and serve the public interest.\n\nDuring an emergency, a municipality engaged in the transmission or sale of electricity, and not otherwise subject to FERC jurisdiction, may make temporary connections with public utilities that are subject to FERC jurisdiction, and construct necessary or appropriate temporary electricity transmission facilities, without becoming subject to FERC jurisdiction by reason of that temporary connection or construction."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Resolving Environmental and Grid Reliability Conflicts Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To clarify that compliance with an emergency order under section 202(c) of the Federal Power Act may not be considered a violation of any Federal, State, or local environmental law or regulation, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:36:27-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR1558:@@@L&summ2=m&"
+}

@@ -1,0 +1,130 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-06-03", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-06-05", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Energy and Power.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2636-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Energy and Power", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "5", 
+      "name": "Quigley, Mike", 
+      "sponsored_at": "2015-07-14", 
+      "state": "IL", 
+      "thomas_id": "01967", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Schakowsky, Janice D.", 
+      "sponsored_at": "2015-06-24", 
+      "state": "IL", 
+      "thomas_id": "01588", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-06-03", 
+  "number": "2636", 
+  "official_title": "To require a study on the public health and environmental impacts of the production, transportation, storage, and use of petroleum coke, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1763-114", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Petroleum Coke Transparency and Public Health Protection Act", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Kelly, Robin L.", 
+    "state": "IL", 
+    "thomas_id": "02190", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-06-03", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Air quality", 
+    "Congressional oversight", 
+    "Environmental Protection Agency (EPA)", 
+    "Environmental assessment, monitoring, research", 
+    "Environmental health", 
+    "Environmental regulatory procedures", 
+    "Government information and archives", 
+    "Government studies and investigations", 
+    "Health", 
+    "Medical research", 
+    "Oil and gas", 
+    "Solid waste and recycling"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-06-03", 
+    "text": "Petroleum Coke Transparency and Public Health Protection Act\n\nThis bill directs the Department of Health and Human Services (HHS) to submit to Congress and publish on the HHS website a report containing the results of a study concerning petroleum coke that includes: (1) an analysis of the public health and environmental impacts of the production, transportation, storage, and use of petroleum coke; (2) an assessment of potential approaches and best practices for storing, transporting, and managing petroleum coke; and (3) a quantitative analysis of current and projected domestic petroleum coke production and utilization locations.\n\nThe Environmental Protection Agency is required to promulgate rules concerning the storage and transportation of petroleum coke that ensure the protection of public and ecological health based upon the findings of such study."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Petroleum Coke Transparency and Public Health Protection Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require a study on the public health and environmental impacts of the production, transportation, storage, and use of petroleum coke, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:45:43-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2636:@@@L&summ2=m&"
+}

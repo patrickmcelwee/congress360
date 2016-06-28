@@ -1,0 +1,93 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-05-12", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-05-13", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Commerce, Manufacturing, and Trade.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5205-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Commerce, Manufacturing, and Trade", 
+      "subcommittee_id": "17"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-05-12", 
+  "number": "5205", 
+  "official_title": "To require ingredient labeling of certain consumer cleaning products, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Cleaning Product Right to Know Act of 2016", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Israel, Steve", 
+    "state": "NY", 
+    "thomas_id": "01663", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-05-12", 
+  "subjects": [
+    "Commerce"
+  ], 
+  "subjects_top_term": "Commerce", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2016-05-12", 
+    "text": "Cleaning Product Right to Know Act of 2016\n\nThis bill requires cleaning products to bear a label with, and requires manufacturers to include on their websites, a list of all of the product's ingredients (including individual ingredients in dyes, fragrances, and preservatives) in descending order of predominance by weight, except that ingredients that constitute less than 1% of the product can be listed at the end in any order. Product websites must include: (1) the CAS Registry Number of each ingredient, and (2) an explanation of each ingredient's purpose.\n\nA product that is not in conformity with the labeling and website listing requirements shall be treated as a misbranded hazardous substance under the Federal Hazardous Substances Act.\n\nA person may petition the Consumer Product Safety Commission to investigate claims that a product does not satisfy these requirements."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Cleaning Product Right to Know Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require ingredient labeling of certain consumer cleaning products, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:07:12-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR5205:@@@L&summ2=m&"
+}

@@ -1,0 +1,131 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-03-13", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-03-20", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1362-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "27", 
+      "name": "Collins, Chris", 
+      "sponsored_at": "2016-06-14", 
+      "state": "NY", 
+      "thomas_id": "02151", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Mullin, Markwayne", 
+      "sponsored_at": "2016-06-22", 
+      "state": "OK", 
+      "thomas_id": "02156", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Renacci, James B.", 
+      "sponsored_at": "2016-06-14", 
+      "state": "OH", 
+      "thomas_id": "02048", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-03-13", 
+  "number": "1362", 
+  "official_title": "To amend title XIX of the Social Security Act to require States to submit an annual report on sources of funds used to finance the non-Federal share of expenditures under such title, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Medicaid REPORTS Act", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Guthrie, Brett", 
+    "state": "KY", 
+    "thomas_id": "01922", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-03-13", 
+  "subjects": [
+    "Government information and archives", 
+    "Health", 
+    "Intergovernmental relations", 
+    "Medicaid", 
+    "State and local finance"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-03-13", 
+    "text": "Medicaid Requiring Expenditures for Public Objectives to be Reflective of Total Spending Act or the Medicaid REPORTS Act \n\n This bill amends title XIX (Medicaid) of the Social Security Act to direct the Secretary of Health and Human Services to require each state to report each source of funds, each entity providing such funds, and the amount of funds from each source, used by the state to finance the non-federal share of expenditures under Medicaid.\n\nThe Secretary must make the information reported publicly available through publication on the Internet site of the Centers for Medicaid & Medicaid Services."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Medicaid REPORTS Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Medicaid Requiring Expenditures for Public Objectives to be Reflective of Total Spending Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title XIX of the Social Security Act to require States to submit an annual report on sources of funds used to finance the non-Federal share of expenditures under such title, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:34:47-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR1362:@@@L&summ2=m&"
+}

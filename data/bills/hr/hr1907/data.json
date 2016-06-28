@@ -1,0 +1,397 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-04-21", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Ways and Means, and in addition to the Committees on Homeland Security, Foreign Affairs, Financial Services, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-04-21", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "text": "Referred to House Ways and Means", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-04-21", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "text": "Referred to House Homeland Security", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-04-21", 
+      "committees": [
+        "HSFA"
+      ], 
+      "references": [], 
+      "text": "Referred to House Foreign Affairs", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-04-21", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "text": "Referred to House Financial Services", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-04-21", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Referred to House Judiciary", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-04-23", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-04-23", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended).", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2015-04-23", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Trade.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-04-27", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Border and Maritime Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-05-14T18:27:00-04:00", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-114, Part I.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-05-14T18:28:00-04:00", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "text": "Committee on Homeland Security discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-05-14T18:28:00-04:00", 
+      "committees": [
+        "HSFA"
+      ], 
+      "references": [], 
+      "text": "Committee on Foreign Affairs discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-05-14T18:28:00-04:00", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "text": "Committee on Financial Services discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-05-14T18:28:00-04:00", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Committee on the Judiciary discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-05-14T18:28:00-04:00", 
+      "calendar": "Union", 
+      "number": "80", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 80.", 
+      "type": "calendar", 
+      "under": null
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1907-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM", 
+      "subcommittee": "Subcommittee on Trade", 
+      "subcommittee_id": "04"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM", 
+      "subcommittee": "Subcommittee on Border and Maritime Security", 
+      "subcommittee_id": "11"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Foreign Affairs", 
+      "committee_id": "HSFA"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "3", 
+      "name": "Boustany, Charles W., Jr.", 
+      "sponsored_at": "2015-04-22", 
+      "state": "LA", 
+      "thomas_id": "01787", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Brady, Kevin", 
+      "sponsored_at": "2015-04-22", 
+      "state": "TX", 
+      "thomas_id": "01468", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-04-23", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-04-21", 
+  "number": "1907", 
+  "official_title": "To reauthorize trade facilitation and trade enforcement functions and activities, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr644-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr825-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr1773-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr1903-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr1916-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s989-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s1015-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s1269-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Trade Facilitation and Trade Enforcement Act of 2015", 
+  "sponsor": {
+    "district": "12", 
+    "name": "Tiberi, Patrick J.", 
+    "state": "OH", 
+    "thomas_id": "01664", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2015-04-23", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Advisory bodies", 
+    "Arab-Israeli relations", 
+    "Business records", 
+    "Canada", 
+    "Civil actions and liability", 
+    "Competitiveness, trade promotion, trade deficits", 
+    "Computers and information technology", 
+    "Congressional oversight", 
+    "Criminal investigation, prosecution, interrogation", 
+    "Customs enforcement", 
+    "Department of Homeland Security", 
+    "Department of the Treasury", 
+    "Employment discrimination and employee rights", 
+    "Executive agency funding and structure", 
+    "Foreign and international corporations", 
+    "Foreign trade and international finance", 
+    "Free trade and trade barriers", 
+    "Gaza Strip", 
+    "Government employee pay, benefits, personnel management", 
+    "Government information and archives", 
+    "Government studies and investigations", 
+    "Human rights", 
+    "Intellectual property", 
+    "Interest, dividends, interest rates", 
+    "International law and treaties", 
+    "International organizations and cooperation", 
+    "Israel", 
+    "Judicial procedure and administration", 
+    "Latin America", 
+    "Manufacturing", 
+    "Mexico", 
+    "Middle East", 
+    "Office of the U.S. Trade Representative", 
+    "Palestinians", 
+    "Performance measurement", 
+    "Product safety and quality", 
+    "Public contracts and procurement", 
+    "Public-private cooperation", 
+    "Sanctions", 
+    "Securities", 
+    "Small business", 
+    "State and local government operations", 
+    "Tariffs", 
+    "Trade agreements and negotiations", 
+    "Trade restrictions", 
+    "U.S. and foreign investments", 
+    "User charges and fees", 
+    "West Bank", 
+    "Worker safety and health"
+  ], 
+  "subjects_top_term": "Foreign trade and international finance", 
+  "summary": {
+    "as": "Reported to House amended, Part I", 
+    "date": "2015-05-14", 
+    "text": "Trade Facilitation and Trade Enforcement Act of 2015 \n\nTITLE I--TRADE FACILITATION AND TRADE ENFORCEMENT\n\n(Sec. 101) This bill directs the U.S. Customs and Border Protection (CBP) to ensure that CBP partnership programs, such as the Customs-Trade Partnership Against Terrorism, provide trade benefits to importers, exporters, and certain other private sector entities that meet program requirements.\n\n(Sec. 102) The Government Accountability Office (GAO) shall report to Congress on the effectiveness of CBP enforcement of U.S. customs and trade laws (trade enforcement).\n\n(Sec. 103) CBP shall establish priorities and performance standards to measure levels of achievement of customs modernization, the movement of merchandise into and out of the United States (trade facilitation), and trade enforcement functions and programs.\n\n(Sec. 104) CBP and U.S. Immigration and Customs Enforcement (ICE) shall:\n\n establish educational seminars to improve CBP classification and appraisal of imported articles, trade enforcement, and facilitation of international trade; and develop biennially a joint strategic plan for improving trade enforcement and trade facilitation. (Sec. 106) This bill amends the Consolidated Omnibus Budget Reconciliation Act of 1985 (COBRA) to authorize appropriations for FY2016-FY2018 from the Customs Commercial and Homeland Security Automation Account to complete the development and implementation of the Automated Commercial Environment computer system.\n\nThe Customs Border Security Act of 2002 is amended to require CBP to report to Congress on:\n\n its incorporation of all core trade processing capabilities into the Automated Commercial Environment computer system to conform with admissibility criteria of federal agencies participating in the International Trade Data System (ITDS); the components of the National Customs Automation Program that have not been implemented; and any additional Program components it has initiated to complete the development, establishment, and implementation of the computer system. The CBP must update the report as well as:\n\n evaluate the effectiveness of the implementation of the computer system, and detail monthly the percentage of trade processed in the Automated Commercial Environment since September 30, 2016. The GAO must report to Congress on:\n\n the progress of other federal agencies in accessing and utilizing the Automated Commercial Environment, and the potential cost savings to the government and importers and exporters and the potential benefits to trade enforcement if the identified elements are implemented. (Sec. 107) This bill amends the Tariff Act of 1930 to require the Department of the Treasury (Treasury) to work with the head of each agency participating in the ITDS and the Interagency Steering Committee to ensure that, among other duties, it:\n\n develops and maintains the necessary information technology infrastructure to support the operation of the ITDS, submits all data to the ITDS electronically, and arranges to share information between each agency and the CBP. (Sec. 108) It shall be a U.S. negotiating objective in any negotiation for a mutual recognition arrangement with a foreign country on partnership programs to seek to ensure the compatibility of that country's partnership programs with CBP partnership programs to enhance trade facilitation and trade enforcement.\n\nThe Department of Homeland Security (DHS) shall consult with specified congressional committees within 30 days before initiating negotiations and within 30 days before entering into an agreement. (Sec. 109) Treasury and DHS shall jointly establish a Commercial Customs Operations Advisory Committee.\n\n(Sec. 110) CBP shall develop and implement CBP-wide Centers of Excellence and Expertise to enhance the economic competitiveness of the United States.\n\n(Sec. 111) DHS shall establish within the CBP Office of International Trade a Commercial Targeting Division (including National Targeting and Analysis Groups) to conduct commercial risk assessment targeting and, when needed, issue trade alerts with respect to cargo destined for the United States.\n\n(Sec. 112) The Treasury Inspector General shall report biennially to Congress on oversight of revenue protection and enforcement measures.\n\n(Sec. 113) DHS and Treasury shall report jointly to Congress on security and revenue measures with respect to merchandise transported in bond.\n\n(Sec. 114) DHS shall establish a program to assign importer of record numbers.\n\n(Sec. 115) CBP shall establish a new importer program that adjusts bond amounts for new importers based on the level of risk assessed for protection of federal revenue.\n\n(Sec. 116) The Tariff Act of 1930 is amended to direct Treasury to prescribe minimum standards to require customs brokers to implement, and importers (including nonresident importers) to comply with, reasonable procedures for collecting information to identify U.S. and non-resident importers seeking to import merchandise into the United States.\n\nThe CBP Commissioner shall report to Congress recommendations for:\n\n determining the most effective way to require foreign nationals to provide customs brokers with accurate information, comparable to that required of U.S. nationals, on the identity of foreign nationals seeking to import merchandise into the United States; and establishing a system for such brokers and agencies to review information maintained by relevant federal agencies to verify the identity of importers, including nonresident importers, seeking to import merchandise into the United States. (Sec. 117) CBP shall require non-resident importers that are not validated Tier 2 or Tier 3 participants in the Customs-Trade Partnership Against Terrorism program to designate a resident agent in the United States with a power of attorney to accept service of process against the non-resident importer in connection with the importation of merchandise. Civil and criminal penalties are prescribed for failure to make this designation.\n\n TITLE II--IMPORT HEALTH AND SAFETY\n\n(Sec. 201) An interagency Import Safety Working Group is established.\n\n(Sec. 202) DHS shall develop, and appropriately update, a joint import safety rapid response plan that sets forth protocols for the U.S. Customs and Border Protection (CBP) to:\n\n coordinate federal responses to cargo entering the United States that poses a threat to the health or safety of U.S. consumers, and use in recovering from or mitigating the effects of actions and responses to such an incident. (Sec. 203) CBP shall ensure that CBP personnel assigned to U.S. ports of entry are effectively trained to ensure the safety and expeditious entry of merchandise into the United States.\n\nTITLE III--IMPORT-RELATED PROTECTION OF INTELLECTUAL PROPERTY RIGHTS\n\n(Sec. 302) The Tariff Act of 1930 is amended to declare that, upon suspicion that merchandise is being imported into the United States in violation of U.S. trademark or copyright infringement laws, the CBP shall provide the trademark or copyright owner any information appearing on the merchandise and its packaging and labels, including any unredacted images of them, if testing by the owner would assist in determining a violation. The CBP shall not provide such information if it would compromise an ongoing law enforcement investigation or national security.\n\n(Sec. 303) A technology, product, service, device, or its component that is imported into the United States to circumvent U.S. copyright laws may be seized and forfeited by the CBP.\n\n(Sec. 304) DHS shall authorize a process for the enforcement of a copyright of an owner who has applied for registration of merchandise with the U.S. Copyright Office to the same extent as if the copyright were registered with the Office, including by sharing information, images, samples of the suspected infringing merchandise.\n\n(Sec. 305) DHS shall establish within ICE a National Intellectual Property Rights Coordination Center to coordinate U.S. activities to prevent the import and export of goods that infringe intellectual property rights.\n\n(Sec. 306) The CBP and ICE shall:\n\n add specified information to the joint strategic plan for enforcement of intellectual property rights; and assign sufficient personnel throughout the CBP and ICE to prevent the importation of merchandise infringing intellectual property rights, including three full-time ICE employees to the National Intellectual Property Rights Coordination Center. (Sec. 308) The CBP shall ensure that CBP officers are trained effectively to detect and identify merchandise destined for the United States that infringes intellectual property rights, including through use of donated hardware, software, equipment, and similar technologies.\n\n(Sec. 309) DHS shall coordinate with competent law enforcement and customs authorities of foreign countries, particularly by information-sharing, to enhance their efforts and U.S. efforts to enforce intellectual property rights.\n\n(Sec. 310) The CBP and ICE shall report annually to Congress on intellectual property rights enforcement.\n\n(Sec. 311) DHS shall carry out an educational campaign to inform travelers entering or leaving the United States about the legal, economic, and public health and safety implications of acquiring merchandise that infringes intellectual property rights outside the United States and importing it into the United States in violation of U.S. law.\n\n TITLE IV--PREVENTION OF EVASION OF ANTIDUMPING AND COUNTERVAILING DUTY ORDERS\n\nPreventing Recurring Trade Evasion and Circumvention Act or the PROTECT Act\n\n(Sec. 403) This title applies to goods from Mexico and Canada as well as goods from elsewhere.\n\nSubtitle A--Actions Relating to Enforcement of Trade Remedy Laws\n\n(Sec. 411) DHS shall establish within the CBP Office of International Trade a Trade Remedy Law Enforcement Division (including a National Targeting and Analysis Group) to prevent and counter evasion of antidumping or countervailing duty orders with respect to covered merchandise entered into the United States.\n\nThe Group shall establish targeted risk assessment methodologies and standards for:\n\n evaluating the risk that cargo destined for the United States may constitute evading covered merchandise, and issuing Trade Alerts to U.S. ports of entry directing further inspection of specific merchandise to ensure compliance with U.S. trade remedy laws. (Sec. 412) Treasury, acting through the CBP, shall exercise all authorities to collect information needed to determine whether merchandise is entered into the United States through evasion.\n\nIn cases where a person who filed an allegation concerning covered merchandise, a person alleged to have entered covered merchandise into the United States through evasion, or a foreign producer or exporter of such merchandise has failed to comply with a request for information, Treasury shall make an inference adverse to the interests of that person when determining whether the merchandise has entered the United States through evasion.\n\n(Sec. 414) Treasury shall negotiate and enter into bilateral agreements with customs authorities of foreign countries to prevent evasion of U.S. and foreign trade remedy laws.\n\nSubtitle B--Investigation of Evasion of Trade Remedy Laws\n\n(Sec. 421) This bill amends the Tariff Act of 1930 to prescribe procedures for the administering authority (the Department of Commerce, or any other U.S. officer responsible for carrying out the duties of the administering authority) to initiate an antidumping duty or countervailing duty investigation with respect to merchandise imported into the United States upon:\n\n its own initiation, or the filing of a petition by interested parties or referral by the CBP. The administering authority, in cases of an affirmative preliminary determination, shall instruct the CBP to:\n\n suspend liquidation of each entry of the merchandise, and require the posting of a cash deposit. The administering authority, in cases of an affirmative final determination, shall instruct the CBP to:\n\n assess duties on the covered merchandise, reliquidate each entry of the merchandise, and reassess the importer's bond or other security. (Sec. 422) The GAO shall assess for Congress, after two years, the effectiveness of this Act and the actions taken and procedures developed to prevent evasion of antidumping and countervailing duty orders.\n\nSubtitle C--Other Matters\n\n(Sec. 431) The CBP shall employ sufficient personnel with expertise and adequate training in and responsibility for preventing and investigating the entry of covered merchandise into the United States through evasion.\n\n(Sec. 432) The CBP shall report annually to Congress on its efforts to prevent and investigate the evasion of antidumping duty and countervailing duty orders with respect to covered merchandise entered into the United States.\n\n(Sec. 433) The administering authority shall no longer be required to direct the CBP to allow an importer to opt to post a bond or security in lieu of a cash deposit for each entry of merchandise exported into the United States until completion of the administering authority's review as to whether antidumping or countervailing duties shall be imposed on the merchandise.\n\nThe weighted average dumping margin or individual countervailing duty rate determined for a new exporter (shipper) or producer of merchandise in a review shall be based solely on the bona fide U.S. sales made by the exporter or producer during the period of review.\n\nTITLE V--ADDITIONAL ENFORCEMENT PROVISIONS\n\n(Sec. 501) The Trade Act of 1974 is amended to revise requirements for the identification of U.S. trade expansion priorities.\n\nThe United States Trade Representative (USTR) shall consult with Congress to prioritize, investigate, and resolve acts, policies, or practices of foreign countries that raise concerns with respect to obligations under the World Trade Organization Agreements or any other trade agreement to which the United States is a party, or that otherwise creates barriers to U.S. goods, services, or investment.\n\n(Sec. 502) The USTR may take action to suspend concessions or other obligations under the Uruguay Round Agreements Act if:\n\n enforcement action has terminated that was taken by the USTR to protect U.S. rights under any trade agreement or to eliminate an act, policy, or practice of a foreign country that violates that agreement or burdens or restricts U.S. commerce; the petitioner or any representative of the domestic industry that would benefit from reinstatement of such action requests the USTR for reinstatement; and the USTR meets certain consultation requirements. (Sec. 503) The U.S. International Trade Commission shall make an import monitoring tool available on a website to allow public access to data on the volume and value of imported goods to assess whether such data has changed over time.\n\nTITLE VI--MISCELLANEOUS PROVISIONS\n\n (Sec. 601) The general de minimis aggregate fair retail value in the country of shipment of duty-free articles imported by one person on one day increases from $200 to $800.\n\n(Sec. 602) Deadlines are prescribed for mandatory DHS consultation on trade and customs revenue functions with representatives of the business community involved in international trade and with Congress.\n\n(Sec. 603) This bill also prescribes or revises requirements under the Tariff Act of 1930 and the Harmonized Tariff Schedules of the United States for:\n\n certain penalties for customs brokers convicted of an act of terrorism, duty-free treatment of certain federal property exported and reimported without having been advanced in value or improved in condition while abroad, duties on warranty repairs or alterations of articles exported from and then returned to the United States, exemption from duty treatment of the residue of bulk cargo contained in instruments of international traffic previously exported from the United States, drawback (refund of paid customs duties) on eligible merchandise imported into the United States and later exported or destroyed, and elimination of the consumptive demand exception to the prohibition on the importation of goods made with convict labor, forced labor, or indentured labor. (Sec. 607) The President's annual report to Congress on the trade agreements program and the national trade policy agenda shall address the operation of all USTR-led interagency programs during the preceding year and for the year in which the report is submitted as well as pertinent additional matters.\n\nDirects the USTR to develop annual and quadrennial resource management and staffing plans.\n\n(Sec. 608) Certain trade policies regarding Israel are declared.\n\n(Sec. 609) The \"consumptive demand\" exception to the prohibition against importing merchandise made by convict, forced, or indentured labor under penal sanctions is repealed. This \"consumptive demand\" exception covers all goods, wares, articles, or merchandise mined, produced, or manufactured by such labor which are not mined, produced, or manufactured in such quantities in the United States as to meet U.S. consumptive demands.\n\n(Sec. 610) Consolidated Omnibus Budget Reconciliation Act of 1985 is amended to allow, between July 8 and July 28, 2025, specified customs user fees for the processing of merchandise formally entered or released into the United States.\n\nThe United States-Korea Free Trade Agreement Implementation Act is also amended to increase from 0.21% ad valorem to 0.3464% ad valorem, for the period between July 1 and July 14, 2025, the customs user fees for the processing of merchandise formally entered or released into the United States. (Sec. 611) The CBP Commissioner shall report to Congress within one year after entering into any agreement under: \n \n the program for entering into reimbursable fee agreements for the provision of CBP services, upon the request of any persons, at existing CBP-serviced facilities, at new facilities, and at land border facilities; or \n the pilot program authorizing the CBP to enter into partnerships with private sector and government entities at ports of entry for certain services and to accept certain donations. \n \n (Sec. 612) The CBP shall include in specified distributions to affected domestic producers of collected antidumping and countervailing duties any interest earned on such duties which is, or was, realized through application of any payment received by the CBP on or after October 1, 2014, under, or in connection with, any customs bond pursuant to a court order or judgment, or any settlement for any such bond. The distributions specified are all those made on or after the date of enactment of this Act of collected duties assessed on or after October 1, 2000, on entries made through September 30, 2007."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Trade Facilitation and Trade Enforcement Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": true, 
+      "title": "Preventing Recurring Trade Evasion and Circumvention Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": true, 
+      "title": "PROTECT Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Trade Facilitation and Trade Enforcement Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": true, 
+      "title": "Preventing Recurring Trade Evasion and Circumvention Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": true, 
+      "title": "PROTECT Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To reauthorize trade facilitation and trade enforcement functions and activities, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:39:26-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR1907:@@@L&summ2=m&"
+}

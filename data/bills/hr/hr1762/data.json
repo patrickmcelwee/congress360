@@ -1,0 +1,275 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-04-13", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-05-01", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-05-23T16:10:00-04:00", 
+      "references": [], 
+      "text": "Mr. Miller (FL) moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-23T16:10:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2910-2911", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-23T16:10:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1762.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-23T16:18:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H2910", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2016-05-23T16:18:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-23T16:18:00-04:00", 
+      "references": [], 
+      "text": "The title of the measure was amended. Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-24", 
+      "committees": [
+        "SSVA"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-06-10", 
+      "committees": [
+        "SSVA"
+      ], 
+      "references": [], 
+      "text": "Senate Committee on Veterans' Affairs discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-10", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S3812", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2016-06-10", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-14", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2016-06-22", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2016-06-22", 
+      "congress": "114", 
+      "law": "public", 
+      "number": "179", 
+      "references": [], 
+      "text": "Became Public Law No: 114-179.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1762-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "03"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Veterans' Affairs", 
+      "committee_id": "SSVA"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "3", 
+      "name": "Blumenauer, Earl", 
+      "sponsored_at": "2015-04-13", 
+      "state": "OR", 
+      "thomas_id": "00099", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Bonamici, Suzanne", 
+      "sponsored_at": "2015-04-13", 
+      "state": "OR", 
+      "thomas_id": "02092", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "DeFazio, Peter A.", 
+      "sponsored_at": "2015-04-13", 
+      "state": "OR", 
+      "thomas_id": "00279", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Schrader, Kurt", 
+      "sponsored_at": "2015-04-16", 
+      "state": "OR", 
+      "thomas_id": "01950", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "114", 
+    "law_type": "public", 
+    "number": "179"
+  }, 
+  "history": {
+    "active": true, 
+    "active_at": "2016-05-23T16:10:00-04:00", 
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2016-06-22", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2016-05-23T16:18:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2016-06-10", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-04-13", 
+  "number": "1762", 
+  "official_title": "To name the Department of Veterans Affairs community-based outpatient clinic in The Dalles, Oregon, as the \"Loren R. Kaufman VA Clinic\".", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2828-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "2", 
+    "name": "Walden, Greg", 
+    "state": "OR", 
+    "thomas_id": "01596", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2016-06-22", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Congressional tributes", 
+    "Department of Veterans Affairs", 
+    "Government buildings, facilities, and property", 
+    "Health facilities and institutions", 
+    "Home and outpatient care", 
+    "Oregon", 
+    "Veterans' medical care"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Passed Senate without amendment", 
+    "date": "2016-06-10", 
+    "text": "(This measure has not been amended since it was passed by the House on May 23, 2016. The summary of that version is repeated here.)\n\nThe Department of Veterans Affairs community-based outpatient clinic located at 704 Veterans Drive, The Dalles, Oregon, shall be designated as the \"Loren R. Kaufman VA Clinic.\""
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To name the Department of Veterans Affairs community-based outpatient clinic in The Dalles, Oregon, as the \"Loren R. Kaufman Memorial Veterans' Clinic\".", 
+      "type": "official"
+    }, 
+    {
+      "as": "amended by house", 
+      "is_for_portion": false, 
+      "title": "To name the Department of Veterans Affairs community-based outpatient clinic in The Dalles, Oregon, as the \"Loren R. Kaufman VA Clinic\".", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:38:13-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR1762:@@@L&summ2=m&"
+}

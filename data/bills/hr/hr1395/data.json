@@ -1,0 +1,102 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-03-17", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-03-18", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Social Security.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1395-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM", 
+      "subcommittee": "Subcommittee on Social Security", 
+      "subcommittee_id": "01"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-03-17", 
+  "number": "1395", 
+  "official_title": "To eliminate the payroll tax for individuals who have attained retirement age, to amend title II of the Social Security Act to remove the limitation upon the amount of outside income which an individual may earn while receiving benefits under such title, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s767-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Let Seniors Work Act of 2015", 
+  "sponsor": {
+    "district": "6", 
+    "name": "DeSantis, Ron", 
+    "state": "FL", 
+    "thomas_id": "02116", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-03-17", 
+  "subjects": [
+    "Employment taxes", 
+    "Social security and elderly assistance", 
+    "Social welfare", 
+    "Wages and earnings"
+  ], 
+  "subjects_top_term": "Social welfare", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-03-17", 
+    "text": "Let Seniors Work Act of 2015 \n\n Amends title II (Old Age, Survivors and Disability Insurance) of the Social Security Act to: (1) eliminate the payroll tax for individuals who have attained retirement age, and (2) remove the limitation on the amount of outside income which a beneficiary may earn (earnings test) without incurring a reduction in benefits."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Let Seniors Work Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To eliminate the payroll tax for individuals who have attained retirement age, to amend title II of the Social Security Act to remove the limitation upon the amount of outside income which an individual may earn while receiving benefits under such title, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:35:04-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR1395:@@@L&summ2=m&"
+}

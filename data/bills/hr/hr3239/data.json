@@ -1,0 +1,116 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-07-28", 
+      "committees": [
+        "HSAS"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Armed Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-08-13", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Readiness.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3239-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS", 
+      "subcommittee": "Subcommittee on Readiness", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Fortenberry, Jeff", 
+      "sponsored_at": "2015-07-28", 
+      "state": "NE", 
+      "thomas_id": "01793", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Kline, John", 
+      "sponsored_at": "2015-07-28", 
+      "state": "MN", 
+      "thomas_id": "01733", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-07-28", 
+  "number": "3239", 
+  "official_title": "To provide enhanced security at Armed Forces recruitment centers through the installation of reinforced bullet-proof glass and entry doors.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Armed Forces Career Center Protection Act", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Emmer, Tom", 
+    "state": "MN", 
+    "thomas_id": "02253", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-07-28", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Coast guard", 
+    "Firearms and explosives", 
+    "Military facilities and property", 
+    "Military personnel and dependents"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-07-28", 
+    "text": "Armed Forces Career Center Protection Act\n\nThis bill directs each of the military departments, and the Department in which the Coast Guard is operating, to provide for the installation of reinforced bullet-proof glass and entry doors at Armed Forces recruitment centers, including leased recruitment facilities, as an additional security measure."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Armed Forces Career Center Protection Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide enhanced security at Armed Forces recruitment centers through the installation of reinforced bullet-proof glass and entry doors.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:50:45-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3239:@@@L&summ2=m&"
+}

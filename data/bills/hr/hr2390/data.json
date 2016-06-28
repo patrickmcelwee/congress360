@@ -1,0 +1,282 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-05-18", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Homeland Security, and in addition to the Committee on Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-05-18", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "text": "Referred to House Homeland Security", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-05-18", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Cybersecurity, Infrastructure Protection, and Security Technologies.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-05-18", 
+      "committees": [
+        "HSSY"
+      ], 
+      "references": [], 
+      "text": "Referred to House Science, Space, and Technology", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-05-20", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Subcommittee on Cybersecurity, Infrastructure Protection, and Security Technologies Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-05-20", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-05-20", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2015-06-18T09:52:00-04:00", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on Homeland Security. H. Rept. 114-168, Part I.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-06-18T09:52:00-04:00", 
+      "committees": [
+        "HSSY"
+      ], 
+      "references": [], 
+      "text": "Committee on Science, Space, and Technology discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-06-18T09:52:00-04:00", 
+      "calendar": "Union", 
+      "number": "123", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 123.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2015-06-23T17:02:00-04:00", 
+      "references": [], 
+      "text": "Mr. Ratcliffe moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-06-23T17:02:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4574-4576", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-06-23T17:02:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 2390.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-06-23T17:09:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H4574", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2015-06-23T17:09:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-06-24", 
+      "committees": [
+        "SSGA"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-08-18", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Research and Technology.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2390-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM", 
+      "subcommittee": "Subcommittee on Cybersecurity, Infrastructure Protection, and Security Technologies", 
+      "subcommittee_id": "08"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Science, Space, and Technology", 
+      "committee_id": "HSSY"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Science, Space, and Technology", 
+      "committee_id": "HSSY", 
+      "subcommittee": "Subcommittee on Research and Technology", 
+      "subcommittee_id": "15"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Homeland Security and Governmental Affairs", 
+      "committee_id": "SSGA"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "2", 
+      "name": "Richmond, Cedric L.", 
+      "sponsored_at": "2015-05-18", 
+      "state": "LA", 
+      "thomas_id": "02023", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-05-20", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2015-06-23T17:09:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-05-18", 
+  "number": "2390", 
+  "official_title": "To require a review of university-based centers for homeland security, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Homeland Security University-Based Centers Review Act", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Thompson, Bennie G.", 
+    "state": "MS", 
+    "thomas_id": "01151", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2015-06-23T17:09:00-04:00", 
+  "subjects": [
+    "Congressional oversight", 
+    "Department of Homeland Security", 
+    "Emergency management", 
+    "Government studies and investigations", 
+    "Higher education", 
+    "Homeland security", 
+    "Performance measurement", 
+    "Research administration and funding", 
+    "Research and development"
+  ], 
+  "subjects_top_term": "Emergency management", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2015-06-23", 
+    "text": "Homeland Security University-based Centers Review Act\n\n(Sec. 2) Directs the Government Accountability Office to initiate a study to assess the university-based centers for homeland security program authorized by the Homeland Security Act of 2002 and provide recommendations to the Committee on Homeland Security and the Committee on Science, Space, and Technology of the House of Representatives, and the Committee on Homeland Security and Governmental Affairs of the Senate, for appropriate improvements.\n\nRequires the study to:\n\n review the Department of Homeland Security's (DHS's) efforts to identify key areas of study needed to support the homeland security mission and criteria that DHS utilized to determine those key areas for which it should maintain, establish, or eliminate university-based centers; review the method by which university-based centers, federally funded research and development centers, and Department of Energy national laboratories receive tasking from DHS; review and weight selection criteria for designating university-based centers; examine best practices from other agencies' efforts to organize and use university-based research to support their missions; review DHS's criteria and metrics to measure demonstrable progress achieved by university-based centers in fulfilling DHS taskings and mechanisms for delivering and disseminating the research results of designated university-based centers within DHS and to other agencies; examine means by which academic institutions that are not designated or associated with the designated university-based centers can optimally contribute to the research mission of the Directorate of Science and Technology of DHS; and assess the interrelationship between the different university-based centers and the degree to which outreach and collaboration among a diverse array of academic institutions is encouraged by DHS. Requires the annual report from DHS on such centers to describe:\n\n research that has been tasked and completed by each center designated during the preceding year, funding provided by DHS for each such center for that year, and plans for utilization of such centers in the forthcoming year."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Homeland Security University-based Centers Review Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Homeland Security University-based Centers Review Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Homeland Security University-Based Centers Review Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require a review of university-based centers for homeland security, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:43:31-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2390:@@@L&summ2=m&"
+}

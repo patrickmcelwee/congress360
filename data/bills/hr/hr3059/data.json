@@ -1,0 +1,267 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-07-14", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Oversight and Government Reform.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-07-22", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Unanimous Consent.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2015-09-24T14:31:00-04:00", 
+      "references": [], 
+      "text": "Mr. Chaffetz moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-24T14:31:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6205-6206", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-24T14:31:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3059.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-24T14:41:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H6206", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2015-09-24T14:41:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-25", 
+      "committees": [
+        "SSGA"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-10-07", 
+      "committees": [
+        "SSGA"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2015-10-08", 
+      "committee": "Homeland Security and Governmental Affairs", 
+      "committees": [
+        "SSGA"
+      ], 
+      "references": [], 
+      "text": "Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. Without written report.", 
+      "type": "reported"
+    }, 
+    {
+      "acted_at": "2015-10-08", 
+      "calendar": "Senate Legislative", 
+      "number": "262", 
+      "references": [], 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 262.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }, 
+    {
+      "acted_at": "2015-10-20", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S7366", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2015-10-21", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-10-26", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2015-11-05", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2015-11-05", 
+      "congress": "114", 
+      "law": "public", 
+      "number": "84", 
+      "references": [], 
+      "text": "Became Public Law No: 114-84.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3059-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Oversight and Government Reform", 
+      "committee_id": "HSGO"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "Senate Homeland Security and Governmental Affairs", 
+      "committee_id": "SSGA"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Bridenstine, Jim", 
+      "sponsored_at": "2015-07-14", 
+      "state": "OK", 
+      "thomas_id": "02155", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Cole, Tom", 
+      "sponsored_at": "2015-07-14", 
+      "state": "OK", 
+      "thomas_id": "01742", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Lucas, Frank D.", 
+      "sponsored_at": "2015-07-14", 
+      "state": "OK", 
+      "thomas_id": "00711", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Mullin, Markwayne", 
+      "sponsored_at": "2015-07-14", 
+      "state": "OK", 
+      "thomas_id": "02156", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "114", 
+    "law_type": "public", 
+    "number": "84"
+  }, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-09-24T14:31:00-04:00", 
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2015-11-05", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2015-09-24T14:41:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2015-10-20", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-07-14", 
+  "number": "3059", 
+  "official_title": "To designate the facility of the United States Postal Service located at 4500 SE 28th Street, Del City, Oklahoma, as the James Robert Kalsu Post Office Building.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "5", 
+    "name": "Russell, Steve", 
+    "state": "OK", 
+    "thomas_id": "02265", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2015-11-05", 
+  "subjects": [
+    "Congressional tributes", 
+    "Government buildings, facilities, and property", 
+    "Government operations and politics", 
+    "Oklahoma", 
+    "Postal service"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2015-11-05", 
+    "text": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.)\n\nDesignates the facility of the United States Postal Service located at 4500 SE 28th Street, Del City, Oklahoma, as the James Robert Kalsu Post Office Building."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To designate the facility of the United States Postal Service located at 4500 SE 28th Street, Del City, Oklahoma, as the James Robert Kalsu Post Office Building.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:49:15-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3059:@@@L&summ2=m&"
+}

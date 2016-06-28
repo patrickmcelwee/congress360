@@ -1,0 +1,127 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-03-04", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-03-31", 
+      "committees": [
+        "HSHM"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1329-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Crime, Terrorism, Homeland Security, and Investigations", 
+      "subcommittee_id": "08"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "8", 
+      "name": "Ribble, Reid J.", 
+      "sponsored_at": "2015-03-10", 
+      "state": "WI", 
+      "thomas_id": "02073", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Weber, Randy K., Sr.", 
+      "sponsored_at": "2015-03-13", 
+      "state": "TX", 
+      "thomas_id": "02161", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-03-04", 
+  "number": "1329", 
+  "official_title": "To abolish the Bureau of Alcohol, Tobacco, Firearms, and Explosives, transfer its functions relating to the Federal firearms, explosives, and arson laws, violent crime, and domestic terrorism to the Federal Bureau of Investigation, and transfer its functions relating to the Federal alcohol and tobacco smuggling laws to the Drug Enforcement Administration, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "ATF Elimination Act", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Sensenbrenner, F. James, Jr.", 
+    "state": "WI", 
+    "thomas_id": "01041", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-03-04", 
+  "subjects": [
+    "Alcoholic beverages", 
+    "Crime and law enforcement", 
+    "Crimes against property", 
+    "Criminal investigation, prosecution, interrogation", 
+    "Department of Justice", 
+    "Drug Enforcement Administration (DEA)", 
+    "Drug, alcohol, tobacco use", 
+    "Executive agency funding and structure", 
+    "Federal Bureau of Investigation (FBI)", 
+    "Firearms and explosives", 
+    "Smuggling and trafficking", 
+    "Terrorism", 
+    "Violent crime"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-03-04", 
+    "text": "ATF Elimination Act\n\n Rescinds the hiring authority of the Bureau of Alcohol, Tobacco, Firearms, and Explosives (ATF).\n\nRequires ATF, the Federal Bureau of Investigation (FBI), and the Drug Enforcement Administration (DEA) to jointly develop and submit a plan for winding up the affairs of ATF that, without compromising core functions, eliminates and reduces duplicative, unnecessary functions or waste.\n\nRequires the FBI to transmit to the General Services Administration a report that specifies the property to be transferred to the FBI pursuant to this Act that the FBI has determined will not be needed.\n\nAbolishes ATF.\n\nTransfers ATF functions relating to the investigation and enforcement of: (1) criminal and regulatory violations of the federal firearms, explosives, and arson laws, and the investigation of violent crime and domestic terrorism to the Attorney General, who shall delegate them to the FBI; and (2) criminal and regulatory violations of the federal alcohol and tobacco smuggling laws to the Attorney General, who shall delegate them to the DEA.\n\nTransfers: (1) the contracts, liabilities, records, property, and other assets and interests associated with such transferred functions to the Attorney General for appropriate allocation; and (2) personnel employed in connection with the transferred functions to the Attorney General."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "ATF Elimination Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To abolish the Bureau of Alcohol, Tobacco, Firearms, and Explosives, transfer its functions relating to the Federal firearms, explosives, and arson laws, violent crime, and domestic terrorism to the Federal Bureau of Investigation, and transfer its functions relating to the Federal alcohol and tobacco smuggling laws to the Drug Enforcement Administration, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:34:30-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR1329:@@@L&summ2=m&"
+}

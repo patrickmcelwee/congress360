@@ -1,0 +1,151 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-05-06", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Ways and Means, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-05-06", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "text": "Referred to House Ways and Means", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-05-06", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "text": "Referred to House Oversight and Government Reform", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-05-24", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-24", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2016-06-10T12:05:00-04:00", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-615, Part I.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-10T12:06:00-04:00", 
+      "references": [], 
+      "text": "Committee on Oversight and Government discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-10T12:06:00-04:00", 
+      "calendar": "Union", 
+      "number": "478", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 478.", 
+      "type": "calendar", 
+      "under": null
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5169-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Oversight and Government Reform", 
+      "committee_id": "HSGO"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2016-05-24", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-05-06", 
+  "number": "5169", 
+  "official_title": "To strengthen welfare research and evaluation, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr2967-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "What Works to Move Welfare Recipients into Jobs Act", 
+  "sponsor": {
+    "district": "16", 
+    "name": "Buchanan, Vern", 
+    "state": "FL", 
+    "thomas_id": "01840", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2016-05-24", 
+  "subjects": [
+    "Social welfare"
+  ], 
+  "subjects_top_term": "Social welfare", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2016-05-06", 
+    "text": "What Works to Move Welfare Recipients into Jobs Act\n\n This bill amends part A (Temporary Assistance for Needy Families) (TANF) of title VI of the Social Security Act to revise requirements for research by the Department of Health and Human Services (HHS) on the benefits, effects, and costs of operating different state programs funded under part A and any other state program funded with qualified state expenditures.\n\nSuch research shall focus on the effect of these programs as well as of healthy marriage promotion and responsible fatherhood grants on employment, self-sufficiency, child well-being, unmarried births, marriage, poverty, economic mobility, and other factors determined by HHS.\n\nAt the request of a state, HHS may provide assistance to help the state develop and evaluate policies to achieve specified goals.\n\nA state's contribution to the cost of a state-initiated evaluation of its program, from non-federal sources, shall increase from at least 10% to at least 25% of the cost of the proposed evaluation.\n\nThe Bureau of the Census shall implement or enhance household surveys of program participation to allow for assessment of the outcomes of continued welfare reform on the economic and child well-being of low-income families with children, including those who received assistance or services from a state program funded under TANF or any other state program funded with qualified state expenditures.\n\nResearch and evaluation designed to determine the effects of a program or policy (other than Census Bureau research) shall use experimental designs using random assignment or other reliable, evidence-based research methodologies that allow for the strongest possible casual inferences when random assignment is not feasible.HHS shall develop a database of the projects that used a proven or a promising approach in moving welfare recipients into work, which shall be called the What Works Clearinghouse of Proven and Promising Projects to Move Welfare Recipients into Work."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "What Works to Move Welfare Recipients into Jobs Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To strengthen welfare research and evaluation, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:06:54-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR5169:@@@L&summ2=m&"
+}

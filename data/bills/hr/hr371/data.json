@@ -1,0 +1,96 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-01-14", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-01-16", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr371-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-01-14", 
+  "number": "371", 
+  "official_title": "To amend the Patient Protection and Affordable Care Act to permit insurers to offer catastrophic coverage plans to anyone, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Care for All Act of 2015", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Fortenberry, Jeff", 
+    "state": "NE", 
+    "thomas_id": "01793", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-01-14", 
+  "subjects": [
+    "Health", 
+    "Health care costs and insurance", 
+    "Health care coverage and access", 
+    "Insurance industry and regulation"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-01-14", 
+    "text": "Care for All Act of 2015\n\nThis bill amends the Patient Protection and Affordable Care Act to allow catastrophic plans to be offered as qualified health plans to any individual in the individual or group market. (Qualified health plans are sold on health insurance exchanges, are eligible for premium subsidies, and fulfill an individual's requirement to maintain minimum essential coverage.) Currently, to be a qualified health plan, a catastrophic plan must enroll only individuals who are below age 30 and exempt from minimum essential coverage requirements."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Care for All Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Patient Protection and Affordable Care Act to permit insurers to offer catastrophic coverage plans to anyone, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:26:19-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR371:@@@L&summ2=m&"
+}

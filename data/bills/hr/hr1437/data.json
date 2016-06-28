@@ -1,0 +1,139 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-03-18", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-04-07", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Federal Lands.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-04-07", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1437-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Federal Lands", 
+      "subcommittee_id": "10"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Indian, Insular and Alaska Native Affairs", 
+      "subcommittee_id": "24"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "2", 
+      "name": "Walden, Greg", 
+      "sponsored_at": "2015-04-16", 
+      "state": "OR", 
+      "thomas_id": "01596", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-03-18", 
+  "number": "1437", 
+  "official_title": "To amend the Coquille Restoration Act to clarify certain provisions relating to the management of the Coquille Forest.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr2791-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s132-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s816-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Coquille Forest Fairness Act", 
+  "sponsor": {
+    "district": "4", 
+    "name": "DeFazio, Peter A.", 
+    "state": "OR", 
+    "thomas_id": "00279", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-03-18", 
+  "subjects": [
+    "Forests, forestry, trees", 
+    "Indian lands and resources rights", 
+    "Land transfers", 
+    "Oregon", 
+    "Public lands and natural resources"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-03-18", 
+    "text": "Coquille Forest Fairness Act\n\n Amends the Coquille Restoration Act to require the Department of the Interior to manage the Coquille Forest in accordance with the laws pertaining to the management of Indian trust land. (Currently, Interior is also required to manage the Forest under applicable state and federal forestry and environmental protection laws, and subject to critical habitat designations under the Endangered Species Act and the standards and guidelines of federal forest plans on adjacent or nearby federal lands.)\n\nContinues to apply: (1) federal law relating to the export of unprocessed logs harvested from federal land to any unprocessed logs that are harvested from the Forest, and (2) competitive bidding requirements to sales of timber from the Forest.\n\nRemoves a provision: (1) giving the U.S. District Court for the District of Oregon jurisdiction over certain actions concerning the placement of lands in Coos County and Curry County, Oregon, into trust for the Coquille Tribe and the management of the Coquille Forest; and (2) limiting available remedies to equitable relief, unless otherwise provided for by law."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Coquille Forest Fairness Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Coquille Restoration Act to clarify certain provisions relating to the management of the Coquille Forest.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:35:26-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR1437:@@@L&summ2=m&"
+}

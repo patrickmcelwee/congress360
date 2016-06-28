@@ -1,0 +1,111 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-01-28", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Transportation and Infrastructure.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-01-29", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4397-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Railroads, Pipelines, and Hazardous Materials", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Walz, Timothy J.", 
+      "sponsored_at": "2016-02-03", 
+      "state": "MN", 
+      "thomas_id": "01856", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-01-28", 
+  "number": "4397", 
+  "official_title": "To direct the Administrator of the Federal Emergency Management Agency to provide for caches of emergency response equipment to be used in the event of an accident involving rail tank cars transporting hazardous material, crude oil, or flammable liquids.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Rail Safety Act", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Kind, Ron", 
+    "state": "WI", 
+    "thomas_id": "01498", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-01-28", 
+  "subjects": [
+    "Accidents", 
+    "Emergency planning and evacuation", 
+    "Fires", 
+    "Hazardous wastes and toxic substances", 
+    "Oil and gas", 
+    "Railroads", 
+    "Transportation and public works", 
+    "Transportation safety and security", 
+    "User charges and fees"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2016-01-28", 
+    "text": "Rail Safety Act\n\nThis bill directs the Federal Emergency Management Agency (FEMA) to develop and preposition caches of emergency response equipment, which may include firefighting equipment and fire suppression agents, to facilitate the rapid deployment of resources needed to reduce damage to life, property, and the environment in the event of an accident involving rail tank cars transporting hazardous material, crude oil, or flammable liquids.\n\nSuch caches shall be strategically prepositioned along rail routes over which a high volume of high-hazard trains operate in a manner that lowers the response time of firefighters to fight fires involving flammable liquids and to prevent such fires from spreading. FEMA may collect fees from railroad carriers to develop and preposition the caches."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Rail Safety Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To direct the Administrator of the Federal Emergency Management Agency to provide for caches of emergency response equipment to be used in the event of an accident involving rail tank cars transporting hazardous material, crude oil, or flammable liquids.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:00:26-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4397:@@@L&summ2=m&"
+}

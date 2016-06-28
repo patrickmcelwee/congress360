@@ -1,0 +1,96 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-02-05", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Transportation.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-02-06", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Aviation.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr798-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Aviation", 
+      "subcommittee_id": "05"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-02-05", 
+  "number": "798", 
+  "official_title": "To amend the FAA Modernization and Reform Act of 2012 to prohibit the flying of unmanned recreational aircraft near commercial airports.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Responsible Skies Act of 2015", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Meeks, Gregory W.", 
+    "state": "NY", 
+    "thomas_id": "01506", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-02-05", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Aviation and airports", 
+    "Congressional oversight", 
+    "Department of Transportation", 
+    "Outdoor recreation", 
+    "Transportation and public works", 
+    "Transportation safety and security"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-02-05", 
+    "text": "Responsible Skies Act of 2015\n\n Amends the FAA Modernization and Reform Act of 2012 to require the Secretary of Transportation to prohibit the operator of an unmanned recreational aircraft (drone) from flying it:\n\n above 400 feet and within 5 miles of the perimeter of a commercial airport, or where it may be seen from the airport's perimeter."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Responsible Skies Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the FAA Modernization and Reform Act of 2012 to prohibit the flying of unmanned recreational aircraft near commercial airports.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:29:56-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR798:@@@L&summ2=m&"
+}

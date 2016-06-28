@@ -1,0 +1,103 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-05-15", 
+      "committees": [
+        "HSED"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Education and the Workforce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-11-16", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Higher Education and Workforce Training.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2364-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED", 
+      "subcommittee": "Subcommittee on Higher Education and Workforce Training", 
+      "subcommittee_id": "13"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-05-15", 
+  "number": "2364", 
+  "official_title": "To provide for institutional risk-sharing in the Federal student loan programs.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1102-114", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Protect Student Borrowers Act of 2015", 
+  "sponsor": {
+    "district": null, 
+    "name": "Carney, John C., Jr.", 
+    "state": "DE", 
+    "thomas_id": "01999", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-05-15", 
+  "subjects": [
+    "Congressional oversight", 
+    "Education", 
+    "Education programs funding", 
+    "Higher education", 
+    "Student aid and college costs"
+  ], 
+  "subjects_top_term": "Education", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-05-15", 
+    "text": "Protect Student Borrowers Act of 2015\n\nThis bill amends title IV (Student Assistance) of the Higher Education Act of 1965 to require institutions of higher education (IHEs) participating in the William D. Ford Federal Direct Loan program to accept specified risk-sharing requirements.\n\n For any fiscal year in which at least 25% of the IHE's student body is participating in the Direct Loan program, the IHE must remit a risk-sharing payment (a percentage of the total amount of its defaulted Direct Loans) that declines as the cohort default rate declines.\n\n If an IHE develops and implements an approved student loan management plan that includes individualized financial aid counseling for students and strategies to minimize student loan default and delinquency, the Department of Education (ED) must modify the risk-sharing requirements. ED may waive or reduce an IHE's risk-sharing payments in certain other instances.\n\n An IHE may not deny admission or financial aid based on a perception that a student may be at risk for defaulting on a Direct Loan.\n\n ED may enter into contracts or cooperative agreements for: (1) statewide or institutionally-based programs for the prevention of federal student loan delinquency and default at IHEs that have a high cohort default rate or serve large numbers of students who have a higher risk of defaulting on student loans under title IV, and (2) increasing the number of borrowers who successfully rehabilitate defaulted loans.\n\nRisk-sharing payments are to be deposited in a separate account in the Treasury and used as follows: (1) up to 50% for ED to enter into the contracts or cooperative agreements for delinquency and default prevention or rehabilitation, and (2) the remainder to offset any future shortfalls in funding under the Federal Pell Grant program.\n\nAn IHE's ability to meet its obligation to make risk-sharing payments shall be part of the determination of its eligibility to participate in title IV programs."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Protect Student Borrowers Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide for institutional risk-sharing in the Federal student loan programs.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:43:18-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2364:@@@L&summ2=m&"
+}

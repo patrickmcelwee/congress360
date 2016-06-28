@@ -1,0 +1,147 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-07-29", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-07-29", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "text": "Referred to House Oversight and Government Reform", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-07-29", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "text": "Referred to House Homeland Security", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-08-11", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Cybersecurity, Infrastructure Protection, and Security Technologies.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3313-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Oversight and Government Reform", 
+      "committee_id": "HSGO"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM", 
+      "subcommittee": "Subcommittee on Cybersecurity, Infrastructure Protection, and Security Technologies", 
+      "subcommittee_id": "08"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "4", 
+      "name": "Ratcliffe, John", 
+      "sponsored_at": "2015-07-29", 
+      "state": "TX", 
+      "thomas_id": "02268", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-07-29", 
+  "number": "3313", 
+  "official_title": "To amend the Homeland Security Act of 2002 to strengthen the ability of the Secretary of Homeland Security to detect and prevent intrusions against, and to use countermeasures to protect, agency information systems, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr3402-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s1828-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Cyber Defense of Federal Networks Act of 2015", 
+  "sponsor": {
+    "district": "10", 
+    "name": "McCaul, Michael T.", 
+    "state": "TX", 
+    "thomas_id": "01804", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-07-29", 
+  "subjects": [
+    "Computer security and identity theft", 
+    "Computers and information technology", 
+    "Congressional oversight", 
+    "Government information and archives", 
+    "Government operations and politics", 
+    "Government studies and investigations", 
+    "Performance measurement", 
+    "Technology assessment", 
+    "Terrorism"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-07-29", 
+    "text": "Cyber Defense of Federal Networks Act of 2015\n\nAmends the Homeland Security Act of 2002 to require the Department of Homeland Security (DHS), in coordination with the Office of Management and Budget (OMB), to implement plans to: (1) detect, identify, and remove intruders in federal agencies' information systems; and (2) make advanced network security tools available for agencies to improve visibility of network activity to detect and mitigate intrusions and anomalous activity.\n\nDirects DHS to coordinate with the OMB to: (1) update government information security metrics to include measures of intrusion and incident detection and response times, and (2) display additional metrics about agency cybersecurity postures on federal government performance websites.\n\nAuthorizes DHS, upon an agency's request, to operate and maintain technology that is deployed to agencies to diagnose and mitigate cyber threats and vulnerabilities.\n\nRequires DHS to regularly assess and require implementation of best practices for securing agency information systems and preventing data exfiltration.\n\nRedefines for purposes of DHS's national cybersecurity and communications integration center: (1) \"cybersecurity risk\" to exclude actions that solely involve a violation of a consumer term of service or a consumer licensing agreement; and (2) \"incident\" to include occurrences that actually or imminently jeopardize, without lawful authority, an information system, thereby replacing a standard that currently includes a violation or imminent threat of violation of law, security policies, security procedures, or acceptable use policies.\n\nRequires DHS to assist agencies in implementing information security practices by: (1) providing incident detection, analysis, mitigation, and response information, disseminating related homeland security information, and providing remote or onsite technical assistance; (2) developing and conducting impact assessments in consultation with other governmental and private entities; (3) assessing and fostering technologies for use across multiple agencies; and (4) ensuring that policies are coordinated with standards for national security systems and policies of the Department of Defense (DOD) and the Director of National Intelligence.\n\nAuthorizes the DHS Secretary to: (1) issue a directive to an agency to take any lawful action with respect to the operation of an agency's information system in response to a known or reasonably suspected information security threat, vulnerability, risk, or incident, including an act of terrorism, that represents a substantial threat to information security; or (2) authorize, without prior consultation with the affected agency, the use of protective capabilities under the Secretary's control for communications or system traffic transiting to or from or stored on an agency information system if there is an imminent threat and a directive is unlikely to be timely.\n\nExempts DOD and the intelligence community from such procedures."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Cyber Defense of Federal Networks Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Homeland Security Act of 2002 to strengthen the ability of the Secretary of Homeland Security to detect and prevent intrusions against, and to use countermeasures to protect, agency information systems, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:51:22-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3313:@@@L&summ2=m&"
+}

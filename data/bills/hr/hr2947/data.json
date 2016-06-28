@@ -1,0 +1,283 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-07-07", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-07-08", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-07-09", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-05", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Subcommittee on Regulatory Reform, Commercial And Antitrust Law Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-11", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-11", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 25 - 0.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2016-03-23T12:41:00-04:00", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Judiciary. H. Rept. 114-477.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-03-23T12:41:00-04:00", 
+      "calendar": "Union", 
+      "number": "363", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 363.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2016-04-12T16:47:00-04:00", 
+      "references": [], 
+      "text": "Mr. Goodlatte moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-12T16:48:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H1605-1610", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-12T16:48:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 2947.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-12T17:02:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H1605-1608", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2016-04-12T17:02:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-13", 
+      "committees": [
+        "SSJU"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on the Judiciary.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2947-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "discharged"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Regulatory Reform, Commercial And Antitrust Law", 
+      "subcommittee_id": "05"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Judiciary", 
+      "committee_id": "SSJU"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "13", 
+      "name": "Conyers, John, Jr.", 
+      "sponsored_at": "2015-07-07", 
+      "state": "MI", 
+      "thomas_id": "00229", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Goodlatte, Bob", 
+      "sponsored_at": "2015-07-07", 
+      "state": "VA", 
+      "thomas_id": "00446", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Marino, Tom", 
+      "sponsored_at": "2015-07-07", 
+      "state": "PA", 
+      "thomas_id": "02053", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Ross, Dennis A.", 
+      "sponsored_at": "2016-03-21", 
+      "state": "FL", 
+      "thomas_id": "02003", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-07-09", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2016-04-12T17:02:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-07-07", 
+  "number": "2947", 
+  "official_title": "To amend title 11 of the United States Code in order to facilitate the resolution of an insolvent financial institution in bankruptcy.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr5485-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s1840-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s1841-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Financial Institution Bankruptcy Act of 2016", 
+  "sponsor": {
+    "district": "11", 
+    "name": "Trott, David A.", 
+    "state": "MI", 
+    "thomas_id": "02250", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2016-04-12T17:02:00-04:00", 
+  "subjects": [
+    "Banking and financial institutions regulation", 
+    "Bankruptcy", 
+    "Federal Reserve System", 
+    "Federal appellate courts", 
+    "Finance and financial sector", 
+    "Financial services and investments", 
+    "Judges", 
+    "Judicial review and appeals", 
+    "Securities"
+  ], 
+  "subjects_top_term": "Finance and financial sector", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2016-04-12", 
+    "text": "(This measure has not been amended since it was reported to the House on March 23, 2016. The summary of that version is repeated here.)\n\nFinancial Institution Bankruptcy Act of 2016\n\n(Sec. 2) This bill amends federal bankruptcy law with respect to a \"covered financial corporation\" incorporated or organized under any federal or state law (other than a stockbroker, a commodity broker, or a domestic or foreign insurance company or financial institution meeting certain criteria) that is: (1) a bank holding company; or (2) a corporation that exists for the primary purpose of owning, controlling, and financing its subsidiaries, has total consolidated assets of $50 billion or greater, and whose annual gross revenues or consolidated assets meet specified tests.\n\n(Sec. 3) The bill adds \"Subchapter V - Liquidation, Reorganization, or Recapitalization of a Covered Financial Corporation,\" setting forth requirements and prohibitions regarding: (1) commencement of a case concerning a covered financial corporation; (2) a special trustee and bridge company; (3) special transfer of the property of the estate in bankruptcy; (4) treatment of qualified financial contracts and affiliate contracts; (5) licenses, permits, and registrations; (6) exemption from securities laws; and (7) inapplicability of certain avoiding powers.\n\nA debtor holding company may transfer the assets (including executory contracts and unexpired leases) of a covered financial corporation, including the equity in all of its operating subsidiaries, to a newly-formed bridge company over a single weekend, during which a 48-hour stay of debt-collection proceedings (except payment and delivery obligations) shall apply.\n\nThe bill permits conversion to chapter 7 (Liquidation) of a case under subchapter V if certain conditions are met.\n\nThe Bankruptcy Court may not order an assets transfer unless it determines by a preponderance of the evidence that a transfer is necessary to prevent serious adverse effects on financial stability in the United States.\n\n(Sec. 4) The judicial code is amended to require the Chief Justice of the United States to designate at least 10 bankruptcy judges to be available to hear a Subchapter V case in bankruptcy. Bankruptcy judges may request to be considered for such designation."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Financial Institution Bankruptcy Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Financial Institution Bankruptcy Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Financial Institution Bankruptcy Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 11 of the United States Code in order to facilitate the resolution of an insolvent financial institution in bankruptcy.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:48:19-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2947:@@@L&summ2=m&"
+}

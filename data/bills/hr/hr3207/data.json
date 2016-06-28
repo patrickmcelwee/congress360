@@ -1,0 +1,115 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-07-23", 
+      "references": [
+        {
+          "reference": "CR E1117-1118", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-23", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-07-24", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3207-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-07-23", 
+  "number": "3207", 
+  "official_title": "To amend the Public Health Service Act to provide for a national program to conduct and support activities toward the goal of significantly reducing the number of cases of overweight and obesity among individuals in the United States.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "LIFE Act", 
+  "sponsor": {
+    "district": null, 
+    "name": "Norton, Eleanor Holmes", 
+    "state": "DC", 
+    "thomas_id": "00868", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-07-23", 
+  "subjects": [
+    "Health", 
+    "Health promotion and preventive care", 
+    "Medical education", 
+    "Nutrition and diet", 
+    "Physical fitness and lifestyle", 
+    "Worker safety and health"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-07-23", 
+    "text": "Promoting Healthier Lifelong Improvements in Food and Exercise Act of 2015 or the LIFE Act\n\nThis bill amends the Public Health Service Act to require the Centers for Disease Control and Prevention to carry out a national program to conduct and support activities regarding individuals who are overweight or obese in order to make progress toward the goal of significantly reducing obesity. The activities must include training health professionals, educating the public, and developing and demonstrating intervention strategies for use at worksites and in community settings."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "LIFE Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Promoting Healthier Lifelong Improvements in Food and Exercise Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Public Health Service Act to provide for a national program to conduct and support activities toward the goal of significantly reducing the number of cases of overweight and obesity among individuals in the United States.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:50:29-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3207:@@@L&summ2=m&"
+}

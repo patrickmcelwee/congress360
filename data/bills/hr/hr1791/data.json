@@ -1,0 +1,110 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-04-14", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-05-15", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Courts, Intellectual Property, and the Internet.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1791-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Courts, Intellectual Property, and the Internet", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "13", 
+      "name": "Conyers, John, Jr.", 
+      "sponsored_at": "2015-04-14", 
+      "state": "MI", 
+      "thomas_id": "00229", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-04-14", 
+  "number": "1791", 
+  "official_title": "To amend the patent law to promote basic research, to stimulate publication of scientific documents, to encourage collaboration in scientific endeavors, to improve the transfer of technology to the private sector, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s926-114", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Grace Period Restoration Act of 2015", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Sensenbrenner, F. James, Jr.", 
+    "state": "WI", 
+    "thomas_id": "01041", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-04-14", 
+  "subjects": [
+    "Commerce", 
+    "Intellectual property"
+  ], 
+  "subjects_top_term": "Commerce", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-04-14", 
+    "text": "Grace Period Restoration Act of 2015\n\nAmends federal patent law to revise the one-year grace period under the Leahy-Smith America Invents Act (AIA) that prohibits certain pre-filing disclosures made during the year preceding the effective filing date of a claimed invention from being considered prior art that would make the claim ineligible for a patent based on lack of novelty or obvious subject matter grounds. (A disclosure that is prior art generally means that a patent cannot be issued for a claimed invention because the invention was already patented, described in a printed publication, in public use, on sale, available to the public, or described in an issued patent or a previously filed application.)\n\nProhibits an inventor's or any other person's pre-filing disclosure from barring the patentability of certain claims based on lack of novelty or obvious subject matter grounds if, before such disclosure and within the one-year period before the filing date, the claimed invention was already publicly disclosed in a printed publication by the inventor, a joint inventor, or another who obtained the claimed invention from the inventor or a joint inventor. Allows an inventor who discloses an invention in a printed publication in such a manner in the year before filing a patent claim for the invention to remain entitled to the patent, regardless of any subsequent disclosures by third parties.\n\nExcludes certain disclosures from being considered prior art under the revised grace period.\n\nRequires the amendments made by this Act to take effect as if enacted as part of the AIA."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Grace Period Restoration Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the patent law to promote basic research, to stimulate publication of scientific documents, to encourage collaboration in scientific endeavors, to improve the transfer of technology to the private sector, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:38:28-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR1791:@@@L&summ2=m&"
+}

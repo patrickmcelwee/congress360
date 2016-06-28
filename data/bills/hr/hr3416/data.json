@@ -1,0 +1,98 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-07-29", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Homeland Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-08-11", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Transportation Security.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3416-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM", 
+      "subcommittee": "Subcommittee on Transportation Security", 
+      "subcommittee_id": "07"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-07-29", 
+  "number": "3416", 
+  "official_title": "To amend title 49, United States Code, to require that individuals seeking training in the operation of certain aircraft be checked against the terrorist watchlist to ensure that such individuals are non-threats to aviation, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Flight School Security Act of 2015", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Thompson, Bennie G.", 
+    "state": "MS", 
+    "thomas_id": "01151", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-07-29", 
+  "subjects": [
+    "Aviation and airports", 
+    "Congressional oversight", 
+    "Licensing and registrations", 
+    "Terrorism", 
+    "Transportation and public works", 
+    "Transportation safety and security"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-07-29", 
+    "text": "Flight School Security Act of 2015\n\n Revises requirements with respect to the training of aliens and other individuals designated by the Transportation Security Administration (TSA) on behalf of the Department of Homeland Security in the operation of certain aircraft.\n\nAuthorizes a flight instructor, pilot school, or aviation training center to provide training in the operation of an aircraft with a takeoff weight of more than 12,500 pounds to an individual who does not hold a valid Federal Aviation Administration airman's certification only if: (1) that individual has been checked against the terrorist watchlist by the TSA to determine if he or she poses a threat to aviation or national security or a threat of terrorism, and (2) the TSA determines that the individual does not pose a threat that warrants denial of access to such training."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Flight School Security Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 49, United States Code, to require that individuals seeking training in the operation of certain aircraft be checked against the terrorist watchlist to ensure that such individuals are non-threats to aviation, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:52:14-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3416:@@@L&summ2=m&"
+}

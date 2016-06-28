@@ -1,0 +1,242 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-09-22", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Homeland Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-09-30", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-30", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2016-01-12T12:08:00-05:00", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-396.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-01-12T12:09:00-05:00", 
+      "calendar": "Union", 
+      "number": "298", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 298.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2016-02-23T16:09:00-05:00", 
+      "references": [], 
+      "text": "Mr. Katko moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-23T16:09:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H824-830", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-23T16:09:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3584.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-23T16:17:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H824-828", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2016-02-23T16:17:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-24", 
+      "committees": [
+        "SSCM"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3584-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Commerce, Science, and Transportation", 
+      "committee_id": "SSCM"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "10", 
+      "name": "McCaul, Michael T.", 
+      "sponsored_at": "2015-09-22", 
+      "state": "TX", 
+      "thomas_id": "01804", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Rice, Kathleen M.", 
+      "sponsored_at": "2015-09-24", 
+      "state": "NY", 
+      "thomas_id": "02262", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-09-30", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2016-02-23T16:17:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-09-22", 
+  "number": "3584", 
+  "official_title": "To authorize, streamline, and identify efficiencies within the Transportation Security Administration, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr2750-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr2843-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Transportation Security Administration Reform and Improvement Act of 2015", 
+  "sponsor": {
+    "district": "24", 
+    "name": "Katko, John", 
+    "state": "NY", 
+    "thomas_id": "02264", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2016-02-23T16:17:00-05:00", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Advisory bodies", 
+    "Aviation and airports", 
+    "Congressional oversight", 
+    "Criminal investigation, prosecution, interrogation", 
+    "Criminal justice information and records", 
+    "Department of Homeland Security", 
+    "Executive agency funding and structure", 
+    "Firearms and explosives", 
+    "Government employee pay, benefits, personnel management", 
+    "Government studies and investigations", 
+    "Law enforcement officers", 
+    "Mammals", 
+    "Marketing and advertising", 
+    "Motor carriers", 
+    "Public transit", 
+    "Public-private cooperation", 
+    "Railroads", 
+    "Roads and highways", 
+    "Service animals", 
+    "Terrorism", 
+    "Transportation and public works", 
+    "Transportation employees", 
+    "Transportation safety and security"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2016-02-23", 
+    "text": "Transportation Security Administration Reform and Improvement Act of 2015\n\nTITLE I--AVIATION SECURITY\n\n(Sec. 101) This bill directs the Transportation Security Administration (TSA) to operate a trusted passenger-screening TSA PreCheck Program that provides expedited screening for low-risk passengers and their accessible property based on a comprehensive and continuous analysis of specified factors.\n\nThe TSA shall publish PreCheck application enrollment standards to add multiple private sector application capabilities for the program to increase the public's enrollment access to the program.\n\nUpon publication of such standards, the TSA must:\n\n coordinate with interested parties to deploy TSA-approved ready-to-market private sector solutions that meet such standards, make available additional enrollment capabilities, and offer secure online and mobile enrollment opportunities; partner with the private sector to collect biographic and biometric identification information via secure mobile enrollment platforms to reduce the amount of travel to enrollment centers; ensure that any biometric and biographic information is collected in a manner comparable with the National Institute of Standards and Technology (NIST) standards and that protects privacy and data security, including that any personally identifiable information is collected, retained, used, and shared in a manner consistent with the Privacy Act of 1974; ensure that individuals who have started an application with a single identification verification at one location will be able to save it on any mobile enrollment platform and be able to return within a reasonable time to submit a second identification verification; ensure that any enrollment expansion using a private sector risk assessment instead of a fingerprint-based criminal history records check is equivalent to the fingerprint-based check conducted through the Federal Bureau of Investigation (FBI); develop and implement a process for approving private sector marketing of the program and a strategy for partnering with the private sector to encourage enrollment; and report on any PreCehck Program fees collected in excess of the costs of administering the program, including recommendations for using such amounts to support its marketing. The TSA must also:\n\n coordinate with the heads of appropriate Department of Homeland Security (DHS) components to leverage DHS-held data and technologies to verify the citizenship of individuals enrolling in the program; partner with the private sector to use advanced biometrics and standards comparable with NIST standards to facilitate enrollment; ensure that TSA PreCheck screening lanes are available to enrolled individuals during peak and high-volume travel times at airports; provide for expedited screening at standard screening lanes during times when PreCheck Program screening lanes are closed; and assess security vulnerabilities in the vetting process for the program, including whether subjecting PreCheck Program participants to recurrent fingerprint-based criminal history records checks, in addition to recurrent checks against the terrorist watchlist, could be done in a cost-effective manner to strengthen the program's security. (Sec. 102) The TSA shall:\n\n conduct a pilot project to establish a secure, automated, biometric-based system at airports to verify the identity of TSA PreCheck passengers; and establish a secure, automated system at all large hub airports for verifying travel and identity documents of non-PreCheck passengers. (Sec. 103) The TSA shall permit access to expedited airport security screening at airport security checkpoints only to a passenger who:\n\n submits voluntarily his or her biographic and biometric information for a security risk assessment and has an approved PreCheck Program application, or who is a participant in another DHS-trusted or -registered traveler program; is traveling as air transportation security or a member of the Armed Forces, including any accompanying family member; and is a member of a population designated by the TSA as known and low-risk and who may be issued a unique, known traveler number. Implementation of such expedited security screening may be delayed by up to one year for passengers who did not voluntarily submit biographic and biometric information for security risk assessments but who receive expedited airport security screening because they are designated as frequent fliers.\n\nTSA may provide alternate methods of expedited airport security screening access to additional passengers upon an independent assessment of its security effectiveness.\n\nTSA shall report annually to Congress on the percentages of passengers given expedited security screening, including those participating in the PreCheck, DHS-trusted traveler and traveler number, PreCheck security lane, and alternative method programs.\n\n(Sec. 104) TSA shall develop:\n\n a process for evaluating the root causes of screening errors at airport checkpoints, and for implementing corrective measures to address those root causes; and additional measures to improve the performance of the Secure Flight program. (Sec. 105) TSA shall conduct an efficiency review of itself.\n\n(Sec. 106) TSA may donate security screening equipment to a foreign last-point-of-departure airport operator if it can be reasonably expected to mitigate a specific vulnerability to U.S. security or to U.S. citizens.\n\n(Sec. 107) TSA shall review annually, from a risk-based perspective, the necessity of TSA security directives in effect for longer than one year.\n\n(Sec. 108) This bill amends the Homeland Security Act of 2002 to direct TSA to develop and implement a preventive maintenance validation process for security-related technology deployed at airports.\n\n(Sec. 109) The TSA shall request from the Office of the Director of National Intelligence access to additional data from the Terrorist Identities Datamart Environment data and any or other terrorism-related information to improve the credential vetting program for individuals with unescorted access to sensitive areas of airports.\n\nThe TSA shall:\n\nissue guidance for Transportation Security Inspectors to review annually airport badging office procedures for applicants seeking access to sensitive airport areas, including review during a security inspection of applicants' Criminal History Records Check and work authorization documentation; \n issue guidance to airports requiring that all federalized airport badging authorities place an expiration date on airport credentials commensurate with the period of time during which an individual is lawfully authorized to work in the United States; \n review any denial of credentials because of issues associated with determining an applicant's lawful status in order to identify airports with specific weaknesses and coordinate with them to address those weaknesses. \n The TSA may coordinate with the FBI Director to conduct a pilot program of the Rap Back Service to determine if a similar service can be implemented fully. (The FBI Rap Back Service provides authorized agencies with notification of criminal, and, in limited cases, civil activity of individuals that occurs after the initial processing and retention of criminal or civil transactions.)\n\n(Sec. 110) The TSA shall consult with its Aviation Security Advisory Committee regarding any modification to the prohibited item list before issuing a determination about any such modification.\n\n(Sec. 111) The TSA shall establish a pilot program to evaluate the effectiveness of privately-operated explosives detection canine teams using both the passenger screening canine and traditional explosives detection canine methods.\n\n(Sec. 112) The TSA shall annually conduct covert testing of vulnerabilities and weaknesses of measures used to secure U.S. airports. In addition the DHS Inspector General shall conduct an independent covert testing of TSA protocols at such airports.\n\nThe TSA shall make recommendations and implement corrective actions to mitigate vulnerabilities identified by such testing.\n\n(Sec. 113) The TSA shall periodically brief Congress on the status of efforts to enhance initial and recurrent training of Transportation Security Officers.\n\nTITLE II--SURFACE TRANSPORTATION SECURITY AND OTHER MATTERS\n\n(Sec. 201) The Government Accountability Office (GAO) shall report to Congress on the efficiency and effectiveness of TSA's Surface Transportation Security Inspectors Program.\n\n(Sec. 202) The DHS Inspector General shall analyze the data and methods DHS uses to identify DHS Office of Inspection employees who meet specified requirements for law enforcement officers and criminal investigators.\n\nThe TSA shall:\n\n certify to Congress those employees who are classified as criminal investigators and receiving premium pay and other related benefits, and reclassify criminal investigator positions as noncriminal investigator or non-law enforcement positions if the individuals in them do not spend on average at least 50% of their time performing criminal investigative duties. The DHS Inspector General shall:\n\n review the employee requirements, responsibilities, and benefits of criminal investigators in the TSA Office of Inspection with criminal investigators employed at agencies adhering to the Office of Personnel Management employee classification system; and identify any inconsistencies and costs implications for differences between the varying employee requirements, responsibilities, and benefits. (Sec. 203) The bill repeals the mandate for a biennial GAO report on the satisfaction of recipients of transportation intelligence reports disseminated under the Transportation Security Information Sharing Plan.\n\n(Sec. 204) The TSA shall report to Congress on the status of DHS implementation of certain requirements of the Implementing Recommendations of the 9/11 Commission Act of 2007, including challenges TSA has encountered with respect to establishing regulations to provide security training to public transportation frontline employees and over-the-road bus frontline employees.\n\n(Sec. 205) The TSA shall assess the feasibility of partnering with an independent, not-for-profit organization to provide venture capital to businesses, particularly small businesses, for commercialization of innovative homeland security technologies within the next 36 months."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Transportation Security Administration Reform and Improvement Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Transportation Security Administration Reform and Improvement Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Transportation Security Administration Reform and Improvement Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To authorize, streamline, and identify efficiencies within the Transportation Security Administration, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:53:38-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3584:@@@L&summ2=m&"
+}

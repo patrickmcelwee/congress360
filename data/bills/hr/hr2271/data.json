@@ -1,0 +1,140 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-05-12", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-05-15", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Energy and Power.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2271-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Energy and Power", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "2", 
+      "name": "Ellmers, Renee L.", 
+      "sponsored_at": "2015-05-12", 
+      "state": "NC", 
+      "thomas_id": "02036", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "McNerney, Jerry", 
+      "sponsored_at": "2015-05-12", 
+      "state": "CA", 
+      "thomas_id": "01832", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-05-12", 
+  "number": "2271", 
+  "official_title": "To amend the Federal Power Act with respect to critical electric infrastructure security, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr8-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr22-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Critical Electric Infrastructure Protection Act", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Latta, Robert E.", 
+    "state": "OH", 
+    "thomas_id": "01885", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-05-12", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Canada", 
+    "Civil actions and liability", 
+    "Congressional oversight", 
+    "Department of Energy", 
+    "Electric power generation and transmission", 
+    "Emergency planning and evacuation", 
+    "Energy", 
+    "Energy storage, supplies, demand", 
+    "Federal Energy Regulatory Commission (FERC)", 
+    "Freedom of information", 
+    "Government buildings, facilities, and property", 
+    "Government information and archives", 
+    "Intergovernmental relations", 
+    "International organizations and cooperation", 
+    "Latin America", 
+    "Mexico", 
+    "State and local government operations"
+  ], 
+  "subjects_top_term": "Energy", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-05-12", 
+    "text": "Critical Electric Infrastructure Protection Act \n\nAmends the Federal Power Act to authorize the Department of Energy (DOE), with or without notice, hearing, or report, to issue orders for emergency measures to protect the reliability of either the bulk-power system or the defense critical electric infrastructure whenever the President issues a written directive or determination identifying an imminent grid security emergency.\n\nRequires the President to notify specified congressional committees promptly whenever the President issues such a directive.\n\nInstructs DOE, before issuing an order for such emergency measures, to the extent practicable in light of the nature of the grid security emergency and the urgency of the need for action, to consult with governmental authorities in Canada and Mexico, regarding implementation of the emergency measures.\n\nPrescribes: (1) implementation procedures (including expiration and reissuance of emergency orders); and (2) related cost recovery measures affecting owners, operators, or users of the bulk-power system.\n\nRequires DOE, to the extent practicable and consistent with obligations to protect classified information, to provide temporary access to classified information relating to a grid security emergency to key personnel of relevant entities in order to optimize communications between them and federal agencies.\n\nRequires DOE to identify facilities in the U.S. and its territories that are: (1) critical to the defense of the United States, and (2) vulnerable to a disruption of the supply of electric energy provided by an external provider.\n\nExempts critical electric infrastructure information from mandatory disclosure under the Freedom of Information Act.\n\nDirects the Federal Energy Regulatory Commission to: (1) designate critical electric infrastructure information, and (2) prescribe regulations and orders prohibiting its unauthorized disclosure but also authorizing appropriate voluntary sharing with federal, state, local, and tribal authorities.\n\nShields a person or entity in possession of critical electric infrastructure information from any cause of action for sharing or receiving information that was done in accordance with this Act."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Critical Electric Infrastructure Protection Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Federal Power Act with respect to critical electric infrastructure security, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:42:31-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2271:@@@L&summ2=m&"
+}

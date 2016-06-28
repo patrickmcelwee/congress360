@@ -1,0 +1,88 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-06-09", 
+      "references": [
+        {
+          "reference": "CR H3925", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-06-09", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Intelligence (Permanent Select).", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2708-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Intelligence (Permanent Select)", 
+      "committee_id": "HLIG"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-06-09", 
+  "number": "2708", 
+  "official_title": "To direct the Director of National Intelligence to conduct a study on cyber attack standards of measurement.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr2596-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "2", 
+    "name": "Wilson, Joe", 
+    "state": "SC", 
+    "thomas_id": "01688", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-06-09", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Computer security and identity theft", 
+    "Congressional oversight", 
+    "Government studies and investigations"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-06-09", 
+    "text": "Requires the Director of National Intelligence to\u00a0carry out\u00a0a study and report findings\u00a0to Congress\u00a0regarding appropriate standards to measure the damage of cyber incidents for purposes of determining the response to such incidents, including a method to quantify damage to affected computers, systems, and devices."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To direct the Director of National Intelligence to conduct a study on cyber attack standards of measurement.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:46:19-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2708:@@@L&summ2=m&"
+}

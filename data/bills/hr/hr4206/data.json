@@ -1,0 +1,164 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-12-09", 
+      "references": [
+        {
+          "reference": "CR E1751", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-12-09", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-12-09", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "text": "Referred to House Energy and Commerce", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-12-09", 
+      "committees": [
+        "HSSY"
+      ], 
+      "references": [], 
+      "text": "Referred to House Science, Space, and Technology", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-12-11", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Energy and Power.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4206-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Energy and Power", 
+      "subcommittee_id": "03"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Science, Space, and Technology", 
+      "committee_id": "HSSY"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "2", 
+      "name": "Ellmers, Renee L.", 
+      "sponsored_at": "2015-12-09", 
+      "state": "NC", 
+      "thomas_id": "02036", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "McNerney, Jerry", 
+      "sponsored_at": "2015-12-09", 
+      "state": "CA", 
+      "thomas_id": "01832", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-12-09", 
+  "number": "4206", 
+  "official_title": "To provide for a technology demonstration program related to the modernization of the electric grid.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2012-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s2089-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "21st Century Power Grid Act", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Sarbanes, John P.", 
+    "state": "MD", 
+    "thomas_id": "01854", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-12-09", 
+  "subjects": [
+    "Computer security and identity theft", 
+    "Computers and information technology", 
+    "Electric power generation and transmission", 
+    "Energy", 
+    "Energy efficiency and conservation", 
+    "Right of privacy"
+  ], 
+  "subjects_top_term": "Energy", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-12-09", 
+    "text": "21st Century Power Grid Act\n\nThis bill directs the Department of Energy (DOE) to establish a financial assistance program to carry out eligible projects related to the modernization of the electric grid, including the application of technologies to improve observability, advanced controls, and prediction of system performance on the distribution system and related transmission system inter-dependencies.\n\nTo be eligible for financial assistance, a project shall: (1) be designed to improve the performance and efficiency of the future electric grid, while ensuring the continued provision of safe, secure, reliable, and affordable power, and provide new options for customer-owned resources; and (2) demonstrate secure integration and management of energy resources and secure integration and interoperability of communications and information technologies.\n\nAn eligible project shall include the participation of a partnership consisting of two or more entities that: (1) may include any institution of higher education, a National Laboratory, a representative of a state or local government, a representative of an Indian tribe, or a federal power marketing administration; and (2) shall include an investor-owned electric utility, a publicly owned utility, a technology provider, a rural electric cooperative, a regional transmission organization, or an independent system operator.\n\nEach eligible project shall include: (1) the development of a cybersecurity plan written in accordance with guidelines developed by DOE; and (2) a privacy impact assessment that evaluates the project against the five core concepts in DOE's Voluntary Code of Conduct, commonly known as the DataGuard Energy Data Privacy Program, or the most recent revisions to DOE's privacy program."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "21st Century Power Grid Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide for a technology demonstration program related to the modernization of the electric grid.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:58:50-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4206:@@@L&summ2=m&"
+}

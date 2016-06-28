@@ -1,0 +1,164 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-12-10", 
+      "references": [
+        {
+          "reference": "CR E1762-1763", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-12-10", 
+      "committees": [
+        "HSHA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on House Administration, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-12-10", 
+      "committees": [
+        "HSHA"
+      ], 
+      "references": [], 
+      "text": "Referred to House House Administration", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-12-10", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "text": "Referred to House Transportation and Infrastructure", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-12-11", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-04-20", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-20", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-20", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2016-05-03T14:35:00-04:00", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 114-535, Part I.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4231-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Administration", 
+      "committee_id": "HSHA"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Economic Development, Public Buildings and Emergency Management", 
+      "subcommittee_id": "13"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2016-04-20", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-12-10", 
+  "number": "4231", 
+  "official_title": "To direct the Librarian of Congress to obtain a stained glass panel depicting the seal of the District of Columbia and install the panel among the stained glass panels depicting the seals of States which overlook the Main Reading Room of the Library of Congress Thomas Jefferson Building.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Norton, Eleanor Holmes", 
+    "state": "DC", 
+    "thomas_id": "00868", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2016-04-20", 
+  "subjects": [
+    "Art, artists, authorship", 
+    "Congress", 
+    "Congressional agencies", 
+    "District of Columbia", 
+    "Government buildings, facilities, and property", 
+    "Library of Congress", 
+    "National symbols"
+  ], 
+  "subjects_top_term": "Congress", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-12-10", 
+    "text": "This bill requires the Librarian of Congress to obtain a stained glass panel depicting the seal of the District of Columbia and install it among the panels that depict the seals of states that overlook the Main Reading Room of the Library of Congress Thomas Jefferson Building."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To direct the Librarian of Congress to obtain a stained glass panel depicting the seal of the District of Columbia and install the panel among the stained glass panels depicting the seals of States which overlook the Main Reading Room of the Library of Congress Thomas Jefferson Building.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:59:02-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4231:@@@L&summ2=m&"
+}

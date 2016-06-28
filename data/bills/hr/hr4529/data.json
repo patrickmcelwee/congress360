@@ -1,0 +1,162 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-02-10", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-02-16", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Social Security.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4529-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM", 
+      "subcommittee": "Subcommittee on Social Security", 
+      "subcommittee_id": "01"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "12", 
+      "name": "Adams, Alma S.", 
+      "sponsored_at": "2016-03-14", 
+      "state": "NC", 
+      "thomas_id": "02201", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Beatty, Joyce", 
+      "sponsored_at": "2016-03-17", 
+      "state": "OH", 
+      "thomas_id": "02153", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Grijalva, Raul M.", 
+      "sponsored_at": "2016-03-14", 
+      "state": "AZ", 
+      "thomas_id": "01708", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Hastings, Alcee L.", 
+      "sponsored_at": "2016-03-14", 
+      "state": "FL", 
+      "thomas_id": "00511", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Norton, Eleanor Holmes", 
+      "sponsored_at": "2016-03-14", 
+      "state": "DC", 
+      "thomas_id": "00868", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "41", 
+      "name": "Takano, Mark", 
+      "sponsored_at": "2016-03-14", 
+      "state": "CA", 
+      "thomas_id": "02110", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "51", 
+      "name": "Vargas, Juan", 
+      "sponsored_at": "2016-03-14", 
+      "state": "CA", 
+      "thomas_id": "02112", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-02-10", 
+  "number": "4529", 
+  "official_title": "To amend title II of the Social Security Act to provide for an annual increase in the contribution and benefit base, to exclude a certain number of childcare years from the benefit computation formula, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Social Security Parent Penalty Repeal Act", 
+  "sponsor": {
+    "district": "18", 
+    "name": "Murphy, Patrick", 
+    "state": "FL", 
+    "thomas_id": "02117", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-02-10", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Child care and development", 
+    "Government information and archives", 
+    "Social Security Administration", 
+    "Social security and elderly assistance", 
+    "Social welfare"
+  ], 
+  "subjects_top_term": "Social welfare", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2016-02-10", 
+    "text": "Social Security Parent Penalty Repeal Act \n\n This bill amends title II (Old Age, Survivors and Disability Insurance) (OASDI) of the Social Security Act to direct the Social Security Administration to determine and publish in the Federal Register on or before November 1 of each year a revised contribution and benefit base, which shall be effective with respect to remuneration paid in subsequent calendar and taxable years. The bill also revises the formula for determining that base.\n\nThe number of an individual's benefit computation years, for the purpose of determining the individual's primary OASDI insurance amount, shall be further reduced (after a specified initial reduction) by the number of the individual's childcare years (not exceeding five), except that not more than two years may be determined to be a childcare year on the basis of the individual's status as a primary caregiver for the same child.\n\n\"Childcare year\" means an elapsed year of the individual:\n\n during which the individual is the primary caregiver for a child under age 6, and for which the total of the individual's wages and self-employment income is $0."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Social Security Parent Penalty Repeal Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title II of the Social Security Act to provide for an annual increase in the contribution and benefit base, to exclude a certain number of childcare years from the benefit computation formula, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:01:32-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4529:@@@L&summ2=m&"
+}

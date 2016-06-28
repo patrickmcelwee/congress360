@@ -1,0 +1,121 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-05-01", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-05-18", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2208-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "02"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Pingree, Chellie", 
+      "sponsored_at": "2015-07-29", 
+      "state": "ME", 
+      "thomas_id": "01927", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Thompson, Mike", 
+      "sponsored_at": "2015-05-01", 
+      "state": "CA", 
+      "thomas_id": "01593", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-05-01", 
+  "number": "2208", 
+  "official_title": "To amend title XVIII of the Social Security Act to strengthen and protect Medicare hospice programs.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Hospice CARE", 
+  "sponsor": {
+    "district": "23", 
+    "name": "Reed, Tom", 
+    "state": "NY", 
+    "thomas_id": "01982", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-05-01", 
+  "subjects": [
+    "Health", 
+    "Health personnel", 
+    "Long-term, rehabilitative, and terminal care", 
+    "Medicare"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-05-01", 
+    "text": "Hospice Commitment to Accurate and Relevant Encounters Act or the Hospice CARE [sic]\n\n Amends title XVIII (Medicare) of the Social Security Act with respect to the face-to-face encounter framework in hospice care. A clinical nurse specialist, physician assistant, or other health professional (in addition to a hospice physician or a nurse practitioner, as under current law) is allowed to conduct the face-to-face encounter with the individual to determine continued eligibility for hospice care before the first 60-day (currently 180-day) recertification period and each subsequent recertification."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Hospice CARE", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Hospice Commitment to Accurate and Relevant Encounters Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title XVIII of the Social Security Act to strengthen and protect Medicare hospice programs.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:42:00-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2208:@@@L&summ2=m&"
+}

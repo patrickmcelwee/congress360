@@ -1,0 +1,479 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-02-05", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-03-17", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Courts, Intellectual Property, and the Internet.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-03-18", 
+      "committee": "Committee on the Judiciary", 
+      "committees": [
+        "HSJU"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee on the Judiciary. Hearings held.", 
+      "type": "hearings"
+    }, 
+    {
+      "acted_at": "2015-03-19", 
+      "committee": "Committee on Small Business and Entrepreneurship", 
+      "committees": [
+        "SSSB"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee on Small Business and Entrepreneurship. Hearings held.", 
+      "type": "hearings"
+    }, 
+    {
+      "acted_at": "2015-04-13", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Subcommittee on Courts, Intellectual Property, and the Internet Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-04-14", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-06-11", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-06-11", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 24 - 8.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2015-07-29T14:24:00-04:00", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Judiciary. H. Rept. 114-235.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-29T14:24:00-04:00", 
+      "calendar": "Union", 
+      "number": "177", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 177.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2016-02-25", 
+      "committee": "Committee on Small Business and Entrepreneurship", 
+      "committees": [
+        "SSSB"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee on Small Business and Entrepreneurship. Hearings held.", 
+      "type": "hearings"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr9-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Courts, Intellectual Property, and the Internet", 
+      "subcommittee_id": "03"
+    }, 
+    {
+      "activity": [
+        "hearings"
+      ], 
+      "committee": "Senate Judiciary", 
+      "committee_id": "SSJU"
+    }, 
+    {
+      "activity": [
+        "hearings"
+      ], 
+      "committee": "Senate Small Business and Entrepreneurship", 
+      "committee_id": "SSSB"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "2", 
+      "name": "Amodei, Mark E.", 
+      "sponsored_at": "2015-05-19", 
+      "state": "NV", 
+      "thomas_id": "02090", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Chabot, Steve", 
+      "sponsored_at": "2015-02-05", 
+      "state": "OH", 
+      "thomas_id": "00186", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Chaffetz, Jason", 
+      "sponsored_at": "2015-02-05", 
+      "state": "UT", 
+      "thomas_id": "01956", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Cleaver, Emanuel", 
+      "sponsored_at": "2015-06-09", 
+      "state": "MO", 
+      "thomas_id": "01790", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Culberson, John Abney", 
+      "sponsored_at": "2015-06-15", 
+      "state": "TX", 
+      "thomas_id": "01670", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "DeFazio, Peter A.", 
+      "sponsored_at": "2015-02-05", 
+      "state": "OR", 
+      "thomas_id": "00279", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Eshoo, Anna G.", 
+      "sponsored_at": "2015-02-05", 
+      "state": "CA", 
+      "thomas_id": "00355", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "27", 
+      "name": "Farenthold, Blake", 
+      "sponsored_at": "2015-02-05", 
+      "state": "TX", 
+      "thomas_id": "02067", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Fincher, Stephen Lee", 
+      "sponsored_at": "2015-05-19", 
+      "state": "TN", 
+      "thomas_id": "02064", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Forbes, J. Randy", 
+      "sponsored_at": "2015-02-05", 
+      "state": "VA", 
+      "thomas_id": "01683", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Hardy, Cresent", 
+      "sponsored_at": "2015-06-02", 
+      "state": "NV", 
+      "thomas_id": "02260", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Holding, George", 
+      "sponsored_at": "2015-02-05", 
+      "state": "NC", 
+      "thomas_id": "02143", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Honda, Michael M.", 
+      "sponsored_at": "2015-02-05", 
+      "state": "CA", 
+      "thomas_id": "01634", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Huffman, Jared", 
+      "sponsored_at": "2015-02-05", 
+      "state": "CA", 
+      "thomas_id": "02101", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "49", 
+      "name": "Issa, Darrell E.", 
+      "sponsored_at": "2015-02-05", 
+      "state": "CA", 
+      "thomas_id": "01640", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Jeffries, Hakeem S.", 
+      "sponsored_at": "2015-02-05", 
+      "state": "NY", 
+      "thomas_id": "02149", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Johnson, Bill", 
+      "sponsored_at": "2015-02-05", 
+      "state": "OH", 
+      "thomas_id": "02046", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Larsen, Rick", 
+      "sponsored_at": "2015-02-05", 
+      "state": "WA", 
+      "thomas_id": "01675", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Lofgren, Zoe", 
+      "sponsored_at": "2015-02-05", 
+      "state": "CA", 
+      "thomas_id": "00701", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Marino, Tom", 
+      "sponsored_at": "2015-02-05", 
+      "state": "PA", 
+      "thomas_id": "02053", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Nadler, Jerrold", 
+      "sponsored_at": "2015-02-05", 
+      "state": "NY", 
+      "thomas_id": "00850", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Pearce, Stevan", 
+      "sponsored_at": "2015-04-13", 
+      "state": "NM", 
+      "thomas_id": "01738", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Pierluisi, Pedro R.", 
+      "sponsored_at": "2015-02-05", 
+      "state": "PR", 
+      "thomas_id": "01953", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "32", 
+      "name": "Sessions, Pete", 
+      "sponsored_at": "2015-04-15", 
+      "state": "TX", 
+      "thomas_id": "01525", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "Smith, Lamar", 
+      "sponsored_at": "2015-02-05", 
+      "state": "TX", 
+      "thomas_id": "01075", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Swalwell, Eric", 
+      "sponsored_at": "2015-02-11", 
+      "state": "CA", 
+      "thomas_id": "02104", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Thompson, Mike", 
+      "sponsored_at": "2015-02-05", 
+      "state": "CA", 
+      "thomas_id": "01593", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-03-18", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-02-05", 
+  "number": "9", 
+  "official_title": "To amend title 35, United States Code, and the Leahy-Smith America Invents Act to make improvements and technical corrections, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1137-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s2733-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Innovation Act", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Goodlatte, Bob", 
+    "state": "VA", 
+    "thomas_id": "00446", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2015-06-11", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Administrative remedies", 
+    "Bankruptcy", 
+    "Civil actions and liability", 
+    "Commerce", 
+    "Computers and information technology", 
+    "Congressional oversight", 
+    "Department of Commerce", 
+    "Drug safety, medical device, and laboratory regulation", 
+    "Evidence and witnesses", 
+    "Foreign language and bilingual programs", 
+    "Fraud offenses and financial crimes", 
+    "Government buildings, facilities, and property", 
+    "Government information and archives", 
+    "Government studies and investigations", 
+    "Intellectual property", 
+    "Internet and video services", 
+    "Judicial procedure and administration", 
+    "Judicial review and appeals", 
+    "Lawyers and legal services", 
+    "Legal fees and court costs", 
+    "Licensing and registrations", 
+    "Manufacturing", 
+    "Minority and disadvantaged businesses", 
+    "Small business", 
+    "Veterinary medicine and animal diseases", 
+    "Women in business"
+  ], 
+  "subjects_top_term": "Commerce", 
+  "summary": {
+    "as": "Reported to House amended", 
+    "date": "2015-07-29", 
+    "text": "Innovation Act\n\n(Sec. 3) Directs a party alleging patent infringement in a civil action to include in the court pleadings, unless the information is not accessible after a reasonable inquiry, specified details concerning:\n\n all claims necessary to produce the identification of each process, machine, manufacture, or composition of matter (\"accused instrumentalities\") alleged to infringe any claim of each patent allegedly infringed; the name, model number, or description of each accused instrumentality; where each element of each claim is found within, and how each limitation of each claim is met by, the accused instrumentality; for each claim of indirect infringement, the acts of the alleged indirect infringer that contribute to, or are inducing, a direct infringement; and the authority of the party alleging infringement to assert each patent and the grounds for the court's jurisdiction. Requires courts to award prevailing parties reasonable fees and other expenses incurred in connection with such actions, unless: (1) the position and conduct of the nonprevailing party was reasonably justified in law and fact; or (2) special circumstances, such as severe economic hardship to a named inventor, make an award unjust.\n\nDirects courts, upon a motion of a party, to require another party to certify whether it will be able to pay any award of such fees and expenses. Allows the court, if a nonprevailing party is unable to pay such a fee, to make a joined party liable for the unsatisfied portion.\n\nSubjects a party claiming a patent in a civil action who subsequently unilaterally seeks dismissal of the action without consent of the other party, and who extends to such other party a covenant not to sue for infringement, to a motion for attorney's fees as if it were a nonprevailing party, unless: (1) the party asserting such claim would have been entitled, at the time that such covenant was extended, to dismiss voluntarily the action without a court order; or (2) the interests of justice require otherwise.\n\nRemoves a provision that prohibits a patent from being deemed invalid based on novelty, prior art, or nonobvious subject matter solely because a defense is raised or established based on prior commercial use.\n\nRequires the court, upon a motion by a prevailing party defending against an allegation of infringement in a case in which the nonprevailing party alleging infringement is unable to pay an award of fees and expenses, to join an interested party under specified conditions if the prevailing party shows that the nonprevailing party has no substantial interest in the subject matter at issue other than asserting the patent claim in litigation.\n\nDefines \"substantial interest\" to include an interest in the subject matter of a patent at issue if the party: (1) invented the subject matter; or (2) commercially practices or implements, made substantial preparations directed particularly to commercially practicing or implementing, or is engaged in research and development in, technology in the field of the subject matter.\n\nAllows to be joined as an interested party a person, other than the party alleging infringement, that: (1) is an assignee of the patent; (2) has a right, including a contingent right, to enforce or sublicense the patent; or (3) has a direct financial interest in the patent, including the right to any part of an award of damages or licensing revenue. Exempts from joinder certain employees of the alleging party, legal representatives in the matter, and owners of equity or security interests in the alleging party.\n\nPermits a court to deny a joinder motion if: (1) the interested party is not subject to service of process, or (2) the joinder would deprive the court of subject matter jurisdiction or make venue improper.\n\nProhibits an interested party from being joined unless it has been provided actual notice that it may be an interested party subject to joinder. Requires such notice to be provided by the party who subsequently moves to join the interested party after fees and expenses have been awarded and the nonprevailing party alleging infringement is unable to pay.\n\nRequires the court to deny a joinder motion if the interested party, after receiving such notice, renounces any ownership, right, or direct financial interest in the patents at issue.\n\nBars joinder unless a party defending against a claim of infringement files before the scheduling order a statement, based on publicly available information and any other information known to such party, that the party alleging infringement has no substantial interest in the subject matter at issue other than asserting the patent in litigation.\n\nProhibits joinder if the party alleging infringement certifies that: (1) such party will have sufficient funds available to satisfy any award of attorney's fees and expenses, (2) such party has a substantial interest other than asserting the patent in litigation, or (3) there are no other interested parties.\n\nExempts from joinder procedures a technology transfer organization whose primary purpose is to facilitate the commercialization of technologies developed by one or more institutions of higher education if such organization is alleging infringement on behalf of an entity that would not be subject to such joinder.\n\nEstablishes procedures to stay discovery pending a preliminary motion, subject to exceptions for: (1) motions to sever, drop a party, dismiss, or transfer; (2) actions in which a patentee is granted a preliminary injunction to prevent competitive harm; (3) consent of the parties; or (4) certain drug and biological product applications.\n\nExpresses the sense of Congress that: (1) parties who send purposely evasive demand letters to end users alleging patent infringement are abusing the patent system in a manner that is against public policy, and (2) actions or litigation stemming from such purposeful evasion should be considered a fraudulent or deceptive practice and an exceptional circumstance when considering whether the litigation is abusive.\n\nProhibits a claimant seeking to establish willful infringement from relying on evidence of pre-suit notification of infringement unless the notification provides specific information regarding the particular patent, claimant, and infringement.\n\nAmends the federal judicial code to restrict the venues where patent actions may be brought to judicial districts where:\n\n the defendant has its principal place of business or is incorporated, has committed an act of infringement and has a regular and established physical facility that gives rise to the act of infringement, or has agreed or consented to be sued in the instant action; an inventor named on the patent conducted research or development; or a party has a regular and established physical facility and has managed significant research and development for the invention claimed in the patent, has manufactured a tangible product alleged to embody that invention, or has implemented a manufacturing process for a tangible good in which the process is alleged to embody the invention. Prohibits from being considered a regular and established physical facility: (1) the retail facilities of a defendant that manufactures certain products or processes, or (2) the dwelling or residence of an employee or contractor of a defendant. Allows venue for certain foreign defendants to be determined based on standards for personal jurisdiction or most significant contacts that currently apply to corporations in states with multiple districts.\n\n(Sec. 4) Requires plaintiffs, upon filing an initial complaint, to disclose to the U.S. Patent and Trademark Office (USPTO), the court, and each adverse party:\n\n the assignee of the patents at issue; any entity with a right to sublicense or enforce the patent; any entity that the plaintiff knows to have a specified financial interest in the patent or the plaintiff; the ultimate parent entity of any such identified assignee or entity; the principal business of the party alleging infringement; each complaint filed that asserts any of the same patents; and whether the patent is essential or has potential to become essential to a standard-setting body, as well as whether the United States or a foreign government has imposed any specific licensing requirements. Directs plaintiffs, or subsequent owners of the patent, to provide the USPTO with updates after the initial disclosure.\n\n(Sec. 5) Requires courts to grant a motion to stay an action against a retailer or end user accused of infringing a patent based on the sale, offer for sale, or use of a product or process without material modification under specified conditions when: (1) the manufacturer is a party to the action or to a separate action involving the same patent related to the same product or process; and (2) the retailer or end user agrees to be bound as to issues determined in the action to which the manufacturer is a party, without a full and fair opportunity to separately litigate any such issue, but only as to those issues for which all other elements of the common law doctrine of issue preclusion are met.\n\nAuthorizes the court, upon motion, to determine that a consent judgment or an unappealed final order is not be binding on the retailer or end user with respect to one or more of the issues that gave rise to the stay based on a showing that it would be unreasonably prejudicial or manifestly unjust if, following the grant of the stay, the manufacturer: (1) obtains or consents to a consent judgment relating to such issue that gave rise to the stay, or (2) fails to prosecute such issue to a final, nonappealable judgment.\n\n(Sec. 6) Directs the Administrative Office of the U.S. Courts (AOUSC) to designate at least six of the district courts participating in the patent cases pilot program to develop and implement procedural rules for discovery and case management in patent actions. Allows the Judicial Conference of the United States to expand the rules to all district courts and the U.S. Court of Federal Claims after the procedures have been in effect in the pilot districts for at least two years.\n\nRequires the discovery rules to address whether, or the extent to which, parties are: (1) entitled to receive evidence categorized as core documentary evidence, (2) responsible for the costs of producing core documentary evidence within their possession or control, and (3) permitted to seek non-core documentary discovery otherwise permitted under the Federal Rules of Civil Procedure if the requesting party bears the reasonable costs of the additional discovery.\n\nDirects the courts to consider a prohibition that would bar additional document discovery unless: (1) the parties mutually agree otherwise; or (2) the requesting party posts a bond, or provides security, in an amount sufficient to cover the expected costs or shows that it has the financial capacity to pay such costs.\n\nRequires the\u00a0procedures to address discovery of electronic communications and computer code.\n\nRequires consideration of initial disclosure and early case management conference practices to: (1) identify potential dispositive issues, and (2) focus on early summary judgment motions for expedited disposition of cases.\n\nRequires the Supreme Court to eliminate the model patent infringement complaint form currently provided in the Federal Rules of Civil Procedure. Permits the Supreme Court to prescribe new model allegations that would notify accused infringers of specific information about patent claims.\n\nRequires courts in cross-border bankruptcy cases involving the recognition of a foreign proceeding under the Model Law on Cross-Border Insolvency to apply U.S. bankruptcy laws relating to the retention or termination of licensed intellectual property rights after a trustee has rejected an executory contract. Allows a licensee to elect to retain its right to intellectual property if a foreign representative rejects or repudiates a contract under which the debtor is the licensor.\n\nExpands the definition of \"intellectual property\" as it applies to the federal bankruptcy code to include trademarks, service marks, or trade names, thereby providing for trademark licenses to be retained instead of voided in bankruptcy.\n\nRequires, if a trademark licensee elects to retain such rights, that: (1) the licensee not be relieved of its obligations to maintain the quality of the products and services offered under, or in connection with, the mark; and (2) the trustee retain the right to oversee and enforce quality control for such products or services.\n\nDirects the Judicial Conference to report to Congress on discovery proceedings in patent cases, including data regarding courts that have distinct discovery phases, courts that do not have phase rules, the scope of discovery and the types of additional discovery requested beyond core documents, and the length of discovery proceedings.\n\n(Sec. 7) Requires the USPTO to develop educational resources for small businesses to address patent infringement concerns. Requires education and awareness on abusive patent litigation practices to be provided through existing USPTO small business patent outreach programs along with the Small Business Administration and the Minority Business Development Agency.\n\nDirects the USPTO to notify the public on its website when a patent case is brought in federal court, including by providing information about the patent owners, the assignees of the patent and their ultimate parent entities, and entities with a financial interest in, or a right to sublicense or enforce, the patent.\n\n(Sec. 8) Requires the USPTO to study and report to Congress with recommendations regarding: (1) secondary market patent transactions, including transparency, accountability, licensing, and other oversight requirements; (2) patents owned by the U.S. government, including an examination of how such patents are licensed and sold, whether restrictions should be placed on patents acquired from the U.S. government, and whether agencies owning such patents maintain adequate records and a point of contact responsible for managing such portfolios; (3) the prevalence of patent demand letters (indicating that the recipient or anyone affiliated with the recipient is or may be infringing the patent) sent in bad faith and the extent to which such practices may, through fraudulent or deceptive practices, impose a negative impact on the marketplace; and (4) the economic impact of this Act on individuals and small businesses owned by women, veterans, and minorities.\n\nRequires reports from the Government Accountability Office concerning: (1) technologies available to improve USPTO patent examination and patent quality, including an examination of best practices at foreign patent offices, procedures to prevent double patenting through applicant filings in multiple art areas, and prior art databases and search software; and (2) business method patents, including the volume and nature of litigation involving such patents and an examination of the quality of such patents asserted in suits alleging infringement.\n\nDirects the AOUSC to study and report to Congress with recommendations regarding the potential development of a pilot program for patent small claims procedures in certain judicial districts.\n\n(Sec. 9) Amends the Leahy-Smith America Invents Act (AIA) to:\n\n limit the grounds for invalidity of a patent claim that a post-grant review petitioner is prohibited, by estoppel, from asserting in subsequent civil actions or certain U.S. International Trade Commission proceedings to only those grounds that the petitioner actually raised during post-grant review; require claims of patent in post-grant and inter partes review proceedings to be construed in the same manner as a court would construe such claims in a civil action to invalidate the patent, including by interpreting the claim in accordance with its ordinary and customary meaning and considering the prosecution history and any previous claim construction; allow affidavits or declarations of supporting evidence and opinions in preliminary responses to review petitions; require the USPTO to consider the due process rights of the patent owner and petitioner when prescribing regulations; revise the transitional covered business method patent review program to expand the scope of prior art that may serve as the basis of a challenge and permit the USPTO to waive filing fees; and allow the USPTO, for good cause,\u00a0to allow a party to join a new petition to a pending inter partes review to which it is already a party. Prohibits post-grant or inter partes review unless the petitioner certifies that the petitioner and its real parties in interest: (1) do not own and will not acquire, for a specified period after the certification, a financial instrument to hedge or offset any decrease in the market value of an equity security of the patent owner or its affiliates; and (2) has not demanded payment in exchange for a commitment not to file an inter partes review petition, unless they are sued for or charged with infringement.\n\nRequires the USPTO to designate certain previous decisions of the Patent Trial and Appeal Board as precedential for purposes of estoppel or the rejection of petitions based on previously presented prior art or arguments.\n\nCodifies double patenting restrictions to replace current judicial doctrine for first-inventor-to-file patents under the AIA in cases where a first claimed invention in a first patent is effectively filed on or before the effective filing date of a second claimed invention in a second patent, or in the application on which the second patent issues, and the first claimed invention is not otherwise prior art to the second claimed invention. Restricts double patenting in such circumstances by requiring the first claimed invention to be considered prior art that would make the second claimed invention ineligible for issuance of a second patent on nonobvious subject matter grounds unless:\u00a0 (1) the second claimed invention follows a first patent that was issued after the USPTO required a multiclaim application to be restricted to one of the claimed inventions; or (2) an election has been recorded in the USPTO by the owner of the second patent, or the application on which the second patent issues, disclaiming the right to bring or maintain a civil action to enforce the second patent.\n\nMakes such a disclaimer inapplicable if: (1) the relief being sought in the civil action would not constitute a cause of action barred by res judicata had the asserted claims of the second patent been issued in the first patent; and (2) the owner of the first patent or the application on which the first patent issues has recorded an election limiting the enforcement of the first patent relative to the second patent, the owner of the first patent is a party to the civil action, or a separate action to enforce the first patent can no longer be brought or maintained.Limits to 17 years from the issuance date of the other patent the adjusted term of patents subject to an election disclaiming the right to enforcement for purposes of double patenting.\n\nAuthorizes the USPTO to cite a first claimed invention in a provisional rejection in connection with the examination of the second claimed invention.\n\nProhibits the USPTO from conditioning issuance of patents subject to the 20-year patent term under the Uruguay Round Agreements Act on the filing of a terminal disclaimer that disclaims the part of a second patent term that would extend beyond the term of a prior patent. Allows the\u00a0USPTO to instead condition the issuance of such a patent on an election disclaiming the right to enforce the second patent in a civil action.\n\n Declares that an action or claim arises under an Act of Congress relating to patents if it: (1) necessarily requires resolution of a disputed question as to the validity of a patent or the scope of a patent claim, or (2) is an action or claim for legal malpractice that arises from an attorney's conduct in relation to such an action or claim arising under such an Act of Congress relating to patents.\n\nExtends by an additional 10 years: (1)\u00a0the duration of the patent pilot program under which certain U.S. district court judges can request to be assigned to patent cases, and (2) the USPTO's authority under the AIA to set or adjust its own fees.\n\nAuthorizes the USPTO Deputy Director to serve as Acting Director in the event of the absence or incapacity of the Director or a vacancy in the office of the Director.\n\nRevises time limits and procedures for USPTO to commence a misconduct proceeding to suspend or exclude a person from practicing before the USPTO. Requires proceedings to be commenced within 18 months after the date on which the Office of Enrollment and Discipline receives a written grievance about a specified individual that describes the misconduct forming the basis for the proceeding (currently,\u00a0a proceeding must be commenced within one year after\u00a0the misconduct forming the basis for the proceeding is made known to\u00a0a USPTO officer or employee). Provides for the 18-month deadline to be tolled: (1) until a court or administrative agency proceeding concerning the misconduct becomes final and nonappealable, or (2) by agreement between the parties.\n\nReestablishes a requirement that international applications be filed in English.\n\nAllows the USPTO to share information about a pending application with a foreign or international intellectual property office if a corresponding application has been filed with such office.\n\nProvides the U.S. Court of Appeals for the Federal Circuit with exclusive jurisdiction of an appeal from a decision of a district court to which a trademark registrability case was directed under the Trademark Act of 1946.\n\nAllows the USPTO Director to nominate officers for appointment by the Secretary of Commerce."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Innovation Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Innovation Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 35, United States Code, and the Leahy-Smith America Invents Act to make improvements and technical corrections, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:23:12-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR9:@@@L&summ2=m&"
+}

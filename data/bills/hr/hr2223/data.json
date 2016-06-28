@@ -1,0 +1,316 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-05-01", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-06-05", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Federal Lands.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-06-16", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-08", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-09", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-09", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Unanimous Consent.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2015-07-09", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Subcommittee on Federal Lands Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-09T16:16:00-04:00", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on Natural Resources. H. Rept. 114-258.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-09T16:17:00-04:00", 
+      "calendar": "Union", 
+      "number": "196", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 196.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2015-09-16T19:24:00-04:00", 
+      "references": [], 
+      "text": "Mr. Lamborn moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-16T19:24:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6005-6006", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-16T19:24:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 2223.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-16T19:28:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H6005-6006", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2015-09-16T19:28:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-17", 
+      "committees": [
+        "SSEG"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-10-08", 
+      "committee": "Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining", 
+      "committees": [
+        "SSEG"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held.", 
+      "type": "hearings"
+    }, 
+    {
+      "acted_at": "2015-11-19", 
+      "committees": [
+        "SSEG"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2015-12-16", 
+      "committee": "Energy and Natural Resources", 
+      "committees": [
+        "SSEG"
+      ], 
+      "references": [], 
+      "text": "Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 114-196.", 
+      "type": "reported"
+    }, 
+    {
+      "acted_at": "2015-12-16", 
+      "calendar": "Senate Legislative", 
+      "number": "341", 
+      "references": [], 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 341.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2223-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "discharged"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Federal Lands", 
+      "subcommittee_id": "10"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "Senate Energy and Natural Resources", 
+      "committee_id": "SSEG"
+    }, 
+    {
+      "activity": [
+        "hearings"
+      ], 
+      "committee": "Senate Energy and Natural Resources", 
+      "committee_id": "SSEG", 
+      "subcommittee": "Subcommittee on Public Lands, Forests, and Mining", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "2", 
+      "name": "Polis, Jared", 
+      "sponsored_at": "2015-05-01", 
+      "state": "CO", 
+      "thomas_id": "01910", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-06-16", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2015-09-16T19:28:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-05-01", 
+  "number": "2223", 
+  "official_title": "To authorize, direct, expedite, and facilitate a land exchange in El Paso and Teller Counties, Colorado, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1941-114", 
+      "reason": "identical", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s1941-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s2012-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Crags, Colorado Land Exchange Act of 2015", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Lamborn, Doug", 
+    "state": "CO", 
+    "thomas_id": "01834", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2015-09-16T19:28:00-04:00", 
+  "subjects": [
+    "Colorado", 
+    "Forests, forestry, trees", 
+    "Land transfers", 
+    "Land use and conservation", 
+    "Public lands and natural resources"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Reported to Senate without amendment", 
+    "date": "2015-12-16", 
+    "text": "(This measure has not been amended since it was introduced. The expanded summary of the House reported version is repeated here.)\n\nCrags, Colorado Land Exchange Act of 2015\n\n(Sec. 4) This bill directs the Department of Agriculture (USDA), if the Broadmoor Hotel, Inc., (BHI) offers to convey to the USDA 320 acres of specified nonfederal land in the Pike National Forest in Teller County, Colorado, and a permanent trail easement for the Barr Trail in El Paso County, Colorado, to accept the offer and convey to BHI 83 acres of specified federal land within the Forest, together with a non-exclusive perpetual access easement for BHI to and from such land on Forest Service Road 371.\n\nThe nonexclusive perpetual access easement granted to BHI shall allow: (1) BHI to fully maintain, at its own expense, and use Forest Service Road 371 from its junction with Forest Service Road 368 in accordance with historic BHI use and maintenance patterns; and (2) full and continued public and administrative access and use of FSR 371 in accordance with the existing Forest Service travel management plan, or as it may be revised by USDA.\n\n(Sec. 5) The USDA shall determine the values of the lands to be exchanged through appraisals following specified requirements. The values shall be equal, or if they are not equal, equalized as prescribed by this Act.\n\nThe appraised value of the federal land parcel shall not reflect any increase or diminution in value due to the existing special use permit to BHI on the parcel and its improvements.\n\nThe Barr Trail easement donation shall not be appraised for purposes of this Act.\n\n(Sec. 6) The lands acquired by the USDA under this Act shall, without further USDA action, be permanently withdrawn from all forms of appropriation and disposal under the public land laws (including the mining and mineral leasing laws) and the Geothermal Steam Act of 1930, except to the extent necessary to permit the disposal of the federal land parcel to BHI.\n\nThe land acquired by the USDA under this Act shall become part of the Pike-San Isabel National Forest.\n\nIt is the intent of Congress that the land exchange directed by this Act be completed within one year of this Act's enactment."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Crags, Colorado Land Exchange Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Crags, Colorado Land Exchange Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Crags, Colorado Land Exchange Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to senate", 
+      "is_for_portion": false, 
+      "title": "Crags, Colorado Land Exchange Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To authorize, direct, expedite, and facilitate a land exchange in El Paso and Teller Counties, Colorado, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:42:07-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2223:@@@L&summ2=m&"
+}

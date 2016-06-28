@@ -1,0 +1,323 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-04-18", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-04-18", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "text": "Referred to House Energy and Commerce", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-04-18", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Referred to House Judiciary", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-04-20", 
+      "committees": [
+        "HSHM"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-04-22", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-04-25", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-26", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-27", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-27", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2016-05-10T21:25:00-04:00", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 114-561, Part I.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-10T21:25:00-04:00", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Committee on the Judiciary discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-10T21:25:00-04:00", 
+      "calendar": "Union", 
+      "number": "435", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 435.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2016-05-11T18:34:00-04:00", 
+      "references": [], 
+      "text": "Mr. Guthrie moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-11T18:34:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2276-2280", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-11T18:34:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 4981.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-11T18:49:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H2276-2277", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2016-05-11T18:49:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-12", 
+      "committees": [
+        "SSHR"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4981-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Crime, Terrorism, Homeland Security, and Investigations", 
+      "subcommittee_id": "08"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Health, Education, Labor, and Pensions", 
+      "committee_id": "SSHR"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "4", 
+      "name": "Rokita, Todd", 
+      "sponsored_at": "2016-04-28", 
+      "state": "IN", 
+      "thomas_id": "02017", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Tonko, Paul", 
+      "sponsored_at": "2016-04-18", 
+      "state": "NY", 
+      "thomas_id": "01942", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2016-04-25", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2016-05-11T18:49:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-04-18", 
+  "number": "4981", 
+  "official_title": "To amend the Controlled Substances Act to improve access to opioid use disorder treatment.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr4599-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr5189-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s524-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s524-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Opioid Use Disorder Treatment Expansion and Modernization Act", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Bucshon, Larry", 
+    "state": "IN", 
+    "thomas_id": "02018", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2016-05-11T18:49:00-04:00", 
+  "subjects": [
+    "Congressional oversight", 
+    "Drug therapy", 
+    "Drug trafficking and controlled substances", 
+    "Drug, alcohol, tobacco use", 
+    "Government studies and investigations", 
+    "Health", 
+    "Health personnel", 
+    "Health promotion and preventive care", 
+    "Licensing and registrations", 
+    "Medical education", 
+    "Prescription drugs"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2016-05-11", 
+    "text": "Opioid Use Disorder Treatment Expansion and Modernization Act\n\n (Sec. 3) This bill amends the Controlled Substances Act to revise the requirements for a practitioner to administer, dispense, or prescribe narcotic drugs for maintenance or detoxification treatment in an office-based opioid treatment program.\n\nCurrently, a practitioner must notify the Department of Health and Human Services (HHS) and certify that he or she is a qualifying physician (i.e., a state-licensed physician with certain expertise), has the capacity to refer patients for appropriate counseling and ancillary services, and will comply with a patient limit. The patient limit is how many patients the practitioner can treat under the office-based treatment program at one time.\n\nThis legislation expands qualifying practitioners to include nurse practitioners and physician assistants who are licensed in a state, have expertise (such as relevant training or expertise), and prescribe medications for opioid use disorder in collaboration with or under the supervision of a qualifying physician if state law requires physician oversight of prescribing authority.\n\nAdditionally, it requires a qualifying practitioner to also certify that he or she will comply with reporting requirements and has the capacity to provide directly or by referral, or in another manner prescribed by HHS, all drugs approved by the Food and Drug Administration to treat opioid use disorder.\n\n HHS may issue regulations to change the maximum patient limit for a qualifying practitioner. If HHS increases the limit, then a qualifying practitioner must additionally certify that he or she will obtain written consent from each patient regarding available treatment options.\n\nHHS must update the treatment improvement protocol containing best practice guidelines for the treatment of opioid-dependent patients in office-based settings.\n\nHHS may recommend revoking or suspending the registration of a practitioner who fails to comply with the requirements of this Act.\n\n(Sec. 4) The bill expresses the sense of Congress that HHS should consider raising from 100 to 250 the maximum patient limit for a qualifying physician.\n\n(Sec. 5) It amends the Controlled Substances Act to allow a pharmacist to partially fill a prescription for a schedule II controlled substance (such as a prescription opioid painkiller) if: (1) it is not prohibited by state law, (2) it is prescribed in accordance with existing laws and regulations, (3) it is requested by the patient or prescribing practitioner, and (4) the total quantity dispensed in partial fillings does not exceed the total quantity prescribed.\n\nAdditionally, a pharmacist may partially fill a prescription for a schedule II controlled substance in other circumstances in accordance with existing Drug Enforcement Administration (DEA) regulations. (Current DEA regulations permit partial fills when a pharmacist cannot supply a full quantity, a patient resides in a long-term care facility, or a patient is terminally ill.) The remaining portion of a partially filled prescription may be filled within 30 days or, in the case of an emergency situation, within 72 hours."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Opioid Use Disorder Treatment Expansion and Modernization Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Opioid Use Disorder Treatment Expansion and Modernization Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Opioid Use Disorder Treatment Expansion and Modernization Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Controlled Substances Act to improve access to opioid use disorder treatment.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:05:20-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4981:@@@L&summ2=m&"
+}

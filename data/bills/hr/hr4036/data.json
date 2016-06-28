@@ -1,0 +1,102 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-11-17", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-11-20", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Energy and Power.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4036-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Energy and Power", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-11-17", 
+  "number": "4036", 
+  "official_title": "To prohibit any regulation regarding carbon dioxide or other greenhouse gas emissions reduction in the United States until China, India, and Russia implement similar reductions.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s66-114", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "4", 
+    "name": "Fleming, John", 
+    "state": "LA", 
+    "thomas_id": "01924", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-11-17", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Air quality", 
+    "Asia", 
+    "China", 
+    "Climate change and greenhouse gases", 
+    "Environmental Protection Agency (EPA)", 
+    "Environmental protection", 
+    "Environmental regulatory procedures", 
+    "India", 
+    "Russia"
+  ], 
+  "subjects_top_term": "Environmental protection", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-11-17", 
+    "text": "This bill prohibits the head of any federal agency from implementing or enforcing any regulations, proposals, or actions establishing any carbon dioxide or greenhouse gas emissions reductions until the Environmental Protection Agency, the Energy Information Administration, and Department of Commerce certify in writing that China, India, and Russian have proposed, implemented, and enforced measures requiring substantially similar reductions.\n\nAny regulation, proposal, or action that requires those emission reductions and that is in effect before this certification is made is nullified."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To prohibit any regulation regarding carbon dioxide or other greenhouse gas emissions reduction in the United States until China, India, and Russia implement similar reductions.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:57:24-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4036:@@@L&summ2=m&"
+}

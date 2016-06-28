@@ -1,0 +1,256 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-07-16", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Homeland Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-07-20", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Transportation Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-07-23", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-23", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-30", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-30", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2015-10-06T16:16:00-04:00", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-283.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-10-06T16:16:00-04:00", 
+      "calendar": "Union", 
+      "number": "215", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 215.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2015-10-06T17:14:00-04:00", 
+      "references": [], 
+      "text": "Mr. Katko moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-10-06T17:14:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6811-6813", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-10-06T17:14:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3102.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-10-06T17:21:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H6811-6812", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2015-10-06T17:21:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-10-07", 
+      "committees": [
+        "SSCM"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3102-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM", 
+      "subcommittee": "Subcommittee on Transportation Security", 
+      "subcommittee_id": "07"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Commerce, Science, and Transportation", 
+      "committee_id": "SSCM"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "10", 
+      "name": "McCaul, Michael T.", 
+      "sponsored_at": "2015-10-01", 
+      "state": "TX", 
+      "thomas_id": "01804", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Rice, Kathleen M.", 
+      "sponsored_at": "2015-07-16", 
+      "state": "NY", 
+      "thomas_id": "02262", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-07-23", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2015-10-06T17:21:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-07-16", 
+  "number": "3102", 
+  "official_title": "To amend the Homeland Security Act of 2002 to reform programs of the Transportation Security Administration, streamline transportation security regulations, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Airport Access Control Security Improvement Act of 2015", 
+  "sponsor": {
+    "district": "24", 
+    "name": "Katko, John", 
+    "state": "NY", 
+    "thomas_id": "02264", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2015-10-06T17:21:00-04:00", 
+  "subjects": [
+    "Administrative remedies", 
+    "Aviation and airports", 
+    "Congressional oversight", 
+    "Criminal justice information and records", 
+    "Employee performance", 
+    "Firearms and explosives", 
+    "Foreign labor", 
+    "Government information and archives", 
+    "Government studies and investigations", 
+    "Licensing and registrations", 
+    "Personnel records", 
+    "Transportation and public works", 
+    "Transportation employees", 
+    "Transportation safety and security", 
+    "Visas and passports"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2015-10-06", 
+    "text": "(This measure has not been amended since it was reported to the House on October 6, 2015. The summary of that version is repeated here.)\n\nAirport Access Control Security Improvement Act of 2015\n\n(Sec. 2) This bill amends the Homeland Security Act of 2002 to direct the Transportation Security Administration (TSA) to establish a risk-based, intelligence-driven model for the screening of airport employees based on level of employment-related access to Secure Identification Display Areas, Airport Operations Areas, or secure areas at U.S. airports.\n\n TSA shall conduct an aviation security risk-based review of certain federal disqualifying criminal offenses to determine their appropriateness as a basis for denying an employee a credential that allows unescorted access to Secure Identification Display Areas of airports.\n\nTSA shall provide a redress process for employees subject to an adverse employment decision (including removal or suspension) due to a disqualifying offense that is consistent with the appeals and waiver process for applicants for commercial motor vehicle hazardous materials endorsements and transportation workers at ports.\n\nTSA shall review the auditing procedures for all airport-issued identification media.\n\nTSA shall:\n\n establish a program to allow airport badging offices to use \"E-Verify\" to determine eligibility to work in the United States of all applicants seeking access to secure areas of airports, establish a process to transmit applicants' biometric fingerprint data to the Office of Biometric Identity Management's Automated Biometrics Identification System for vetting, assess credential application data received by DHS to ensure it is complete and matches data submitted by airport operators. TSA shall establish a nationwide program for the anonymous reporting of violations of airport security.\n\nTSA shall:\n\n establish a national database of employees who have had either their airport or aircraft operator-issued badge revoked for failure to comply with aviation requirements, determine the appropriate mechanisms for airports and airlines to submit such data and access the database, and establish a process to allow individuals whose names were mistakenly entered into the database to have them removed and their credentialing restored. The Aviation Security Advisory Committee shall update and review airport access controls.\n\nTSA shall conduct a cost and feasibility study of a significant number of Category I, II, and X airports that ensures that all employee entry and exit points that lead to airport secured areas comprise the following:\n\n a secure door that uses card and pin entry or biometric technology, surveillance video recording capable of storing video data for at least 30 days, and certain advanced screening technologies (including at least one of the following: magnetometer [walk through or hand-held], explosives detection canines or explosives trace detection swabbing, advanced imaging technology, or X-ray bag screening technology). The Government Accountability Office shall assess the quality and reliability of the study."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Airport Access Control Security Improvement Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Airport Access Control Security Improvement Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Airport Access Control Security Improvement Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Homeland Security Act of 2002 to reform programs of the Transportation Security Administration, streamline transportation security regulations, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:49:37-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3102:@@@L&summ2=m&"
+}

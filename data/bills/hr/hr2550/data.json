@@ -1,0 +1,139 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-05-21", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-05-21", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "text": "Referred to House Energy and Commerce", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-05-21", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "text": "Referred to House Ways and Means", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-05-22", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-06-03", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2550-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "02"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-05-21", 
+  "number": "2550", 
+  "official_title": "To amend title XVIII of the Social Security Act to provide Medicare payment incentives to transition from traditional x-ray imaging to digital radiography, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Medical Imaging Modernization Act of 2015", 
+  "sponsor": {
+    "district": "5", 
+    "name": "McMorris Rodgers, Cathy", 
+    "state": "WA", 
+    "thomas_id": "01809", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-05-21", 
+  "subjects": [
+    "Health", 
+    "Health technology, devices, supplies", 
+    "Hospital care", 
+    "Medical tests and diagnostic methods", 
+    "Medicare", 
+    "Radiation"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-05-21", 
+    "text": "Medical Imaging Modernization Act of 2015\n\nThis bill amends title XVIII (Medicare) of the Social Security Act to make a special rule reducing by 20% the payment under the physician fee schedule and the hospital outpatient prospective payment system for the technical component of imaging services that are x-rays taken using film.\n\nImaging services that are x-rays taken using computed radiography technology shall have the technical component payment: (1) for services furnished from 2018 through 2022 reduced by 7%; and (2) for services furnished during 2023 or a subsequent year reduced by 10%.\n\nReduced expenditures attributable to incentives to transition to digital radiography under the physician fee schedule are exempt from budget-neutrality calculation.\n\nThe Department of Health and Human Services may not apply a multiple procedure payment reduction to the professional component of imaging services furnished before it publishes, as part of the Medicare Physician Fee Schedule Proposed Rule for a year, a empirical analysis of the Resource-Based Relative Value Scale (commonly known as the \"RBRVS\") Data Manager information used to determine what, if any, efficiencies exist within the professional component of imaging services when two or more studies are performed on the same patient on the same day.\n\nThese payment reductions under the hospital outpatient prospective payment system for the transition from traditional x-ray imaging to digital radiography shall apply without regard to budget neutrality."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Medical Imaging Modernization Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title XVIII of the Social Security Act to provide Medicare payment incentives to transition from traditional x-ray imaging to digital radiography, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:44:52-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2550:@@@L&summ2=m&"
+}

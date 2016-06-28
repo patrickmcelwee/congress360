@@ -1,0 +1,151 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-02-05", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-03-16", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Federal Lands.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-03-16", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Water, Power and Oceans.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr761-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Federal Lands", 
+      "subcommittee_id": "10"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Water, Power and Oceans", 
+      "subcommittee_id": "13"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "3", 
+      "name": "Garamendi, John", 
+      "sponsored_at": "2015-02-05", 
+      "state": "CA", 
+      "thomas_id": "01973", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Huffman, Jared", 
+      "sponsored_at": "2015-02-05", 
+      "state": "CA", 
+      "thomas_id": "02101", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Matsui, Doris O.", 
+      "sponsored_at": "2015-05-19", 
+      "state": "CA", 
+      "thomas_id": "01814", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-02-05", 
+  "number": "761", 
+  "official_title": "To designate the Berryessa Snow Mountain National Monument in the State of California, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s393-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Berryessa Snow Mountain National Monument Act", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Thompson, Mike", 
+    "state": "CA", 
+    "thomas_id": "01593", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-02-05", 
+  "subjects": [
+    "Advisory bodies", 
+    "California", 
+    "Land transfers", 
+    "Land use and conservation", 
+    "Monuments and memorials", 
+    "Parks, recreation areas, trails", 
+    "Public lands and natural resources", 
+    "Wilderness and natural areas, wildlife refuges, wild rivers, habitats", 
+    "Wildlife conservation and habitat protection"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-02-05", 
+    "text": "Berryessa Snow Mountain National Monument Act\n\n Establishes the Berryessa Snow Mountain National Monument to consist of federal land and interests in federal land within Colusa, Glenn, Lake, Mendocino, Napa, Solano, and Yolo Counties in California.\n\n Continues to provide historical and adequate access to private inholdings within the exterior boundaries of the Monument.\n\nRequires a comprehensive plan for the protection and management of the federal lands included within the Monument. Requires such plan to: (1) include a weed management component, (2) include a native fish passage and habitat quality improvement component, and (3) include a component that deals with public safety and environmental clean-up issues associated with illegal marijuana production.\n\nPermits grazing in the Conservation Area: (1) to continue, if established before this Act's enactment; (2) if not established before enactment, only to the extent that it is consistent with the purposes for which the Monument was established; or (3) through issuing annual targeted permits for the control of noxious weeds, fire suppression, or to provide other ecological benefits.\n\nEstablishes the Berryessa Snow Mountain National Monument Advisory Council to advise with respect to the preparation and implementation of the management plan for the Monument. Requires the appointment of one Council member to represent Native American tribes."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Berryessa Snow Mountain National Monument Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To designate the Berryessa Snow Mountain National Monument in the State of California, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:29:38-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR761:@@@L&summ2=m&"
+}

@@ -1,0 +1,334 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-06-13", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-06-15", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-15", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2016-06-21T11:35:00-04:00", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-628.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-21T11:36:00-04:00", 
+      "calendar": "Union", 
+      "number": "487", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 487.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2016-06-21T19:19:00-04:00", 
+      "references": [], 
+      "text": "Mr. Buchanan moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-21T19:19:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4028-4042", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-21T19:19:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 5456.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-21T19:47:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H4028-4037", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2016-06-21T19:47:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-22", 
+      "references": [], 
+      "text": "Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-23", 
+      "calendar": "Senate Legislative", 
+      "number": "527", 
+      "references": [], 
+      "text": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 527.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5456-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "37", 
+      "name": "Bass, Karen", 
+      "sponsored_at": "2016-06-15", 
+      "state": "CA", 
+      "thomas_id": "01996", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Black, Diane", 
+      "sponsored_at": "2016-06-13", 
+      "state": "TN", 
+      "thomas_id": "02063", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Blumenauer, Earl", 
+      "sponsored_at": "2016-06-13", 
+      "state": "OR", 
+      "thomas_id": "00099", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Boustany, Charles W., Jr.", 
+      "sponsored_at": "2016-06-13", 
+      "state": "LA", 
+      "thomas_id": "01787", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Crowley, Joseph", 
+      "sponsored_at": "2016-06-13", 
+      "state": "NY", 
+      "thomas_id": "01604", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Davis, Danny K.", 
+      "sponsored_at": "2016-06-13", 
+      "state": "IL", 
+      "thomas_id": "01477", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Dold, Robert J.", 
+      "sponsored_at": "2016-06-13", 
+      "state": "IL", 
+      "thomas_id": "02013", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Franks, Trent", 
+      "sponsored_at": "2016-06-21", 
+      "state": "AZ", 
+      "thomas_id": "01707", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Kelly, Mike", 
+      "sponsored_at": "2016-06-13", 
+      "state": "PA", 
+      "thomas_id": "02051", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Langevin, James R.", 
+      "sponsored_at": "2016-06-15", 
+      "state": "RI", 
+      "thomas_id": "01668", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Larson, John B.", 
+      "sponsored_at": "2016-06-13", 
+      "state": "CT", 
+      "thomas_id": "01583", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Levin, Sander M.", 
+      "sponsored_at": "2016-06-13", 
+      "state": "MI", 
+      "thomas_id": "00683", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Pascrell, Bill, Jr.", 
+      "sponsored_at": "2016-06-13", 
+      "state": "NJ", 
+      "thomas_id": "01510", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Paulsen, Erik", 
+      "sponsored_at": "2016-06-15", 
+      "state": "MN", 
+      "thomas_id": "01930", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "23", 
+      "name": "Reed, Tom", 
+      "sponsored_at": "2016-06-13", 
+      "state": "NY", 
+      "thomas_id": "01982", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Reichert, David G.", 
+      "sponsored_at": "2016-06-15", 
+      "state": "WA", 
+      "thomas_id": "01810", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "38", 
+      "name": "Sanchez, Linda T.", 
+      "sponsored_at": "2016-06-13", 
+      "state": "CA", 
+      "thomas_id": "01757", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2016-06-15", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2016-06-21T19:47:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-06-13", 
+  "number": "5456", 
+  "official_title": "To amend parts B and E of title IV of the Social Security Act to invest in funding prevention and family services to help keep children safe and supported at home, to ensure that children in foster care are placed in the least restrictive, most family-like, and appropriate settings, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Family First Prevention Services Act of 2016", 
+  "sponsor": {
+    "district": "16", 
+    "name": "Buchanan, Vern", 
+    "state": "FL", 
+    "thomas_id": "01840", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2016-06-21T19:47:00-04:00", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2016-06-13", 
+    "text": "Family First Prevention Services Act of 2016\n\nThis bill amends Part E (Foster Care and Adoption Assistance) of title IV of the Social Security Act (SSAct) regarding: (1) mental health and substance abuse prevention and treatment services and in-home parenting skill-based programs, (2) foster care maintenance payments for children with parents in a licensed residential family-based treatment facility for substance abuse, and (3) payments for evidence-based kinship navigator programs.\n\nPart B (Child and Welfare Services) of SSAct title IV is amended regarding: (1) time limits for family reunification services for children in foster care or returning home, (2) grants for the development of an electronic interstate case-processing system to expedite the interstate placement of children in foster care or guardianship or for adoption, and (3) targeted grants to increase the well-being of children affected by substance abuse.\n\nThe Department of Health and Human Services shall identify reputable model standards for the licensing of foster family homes.\n\nSSAct title IV part B is amended regarding tracking and preventing child maltreatment.\n\nSSAct title IV part E is amended regarding: (1) kinship guardianship assistance and prevention services, (2) foster care maintenance payments program and limited federal financial participation, and (3) assessment and judicial documentation of the need for placement of a child in a qualified residential treatment program.\n\nSSAct title IV part B is amended regarding procedures and protocols a state has established to ensure that children in foster care placements are not inappropriately diagnosed with mental illness, other emotional or behavioral disorders, medically fragile conditions, or developmental disabilities, and as a result placed in settings that are not foster family homes.\n\nSSAct title IV part E is amended regarding children in foster care who have been placed in a child care institution or other setting that is not a foster family home.\n\nSSAct title IV part B to reauthorize through FY2021: (1) the Stephanie Tubbs Jones Child Welfare Services Program, (2) promotion of safe and stable families programs, (3) funding reservations for monthly caseworker visits and regional partnership grants, and (4) funding for state courts.\n\nSSAct title IV part E is amended to: (1) revise the John H. Chaffee Foster Care Independence Program and related programs, and (2) reauthorize the adoption and legal guardianship incentive programs through FY2021.\n\nSSAct title IV part B is amended to delay the adoption assistance phase-in.\n\nThe Government Accountability Office shall study the extent to which states comply with certain SSAct requirements relating to the effects of phasing out the Aid to Families with Dependent Children program income eligibility requirements for adoption assistance payments."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Family First Prevention Services Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Family First Prevention Services Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend parts B and E of title IV of the Social Security Act to invest in funding prevention and family services to help keep children safe and supported at home, to ensure that children in foster care are placed in the least restrictive, most family-like, and appropriate settings, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:09:21-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR5456:@@@L&summ2=m&"
+}

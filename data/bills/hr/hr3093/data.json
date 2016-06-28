@@ -1,0 +1,126 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-07-16", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Transportation and Infrastructure.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-07-17", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Highways and Transit.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3093-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Highways and Transit", 
+      "subcommittee_id": "12"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Chabot, Steve", 
+      "sponsored_at": "2015-07-23", 
+      "state": "OH", 
+      "thomas_id": "00186", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Meadows, Mark", 
+      "sponsored_at": "2015-07-23", 
+      "state": "NC", 
+      "thomas_id": "02142", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Renacci, James B.", 
+      "sponsored_at": "2015-09-08", 
+      "state": "OH", 
+      "thomas_id": "02048", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-07-16", 
+  "number": "3093", 
+  "official_title": "To direct the Secretary of Transportation to make certain changes in the implementation of the Compliance, Safety, Accountability program of the Federal Motor Carrier Safety Administration, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Correct the Safety Analysis Act", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Gibbs, Bob", 
+    "state": "OH", 
+    "thomas_id": "02049", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-07-16", 
+  "subjects": [
+    "Accidents", 
+    "Government information and archives", 
+    "Government studies and investigations", 
+    "Motor carriers", 
+    "Transportation and public works", 
+    "Transportation safety and security"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-07-16", 
+    "text": "Correct the Safety Analysis Act\n\nThis bill permits the Department of Transportation (DOT), in determining the safety risk of a motor carrier under the Compliance, Safety, Accountability program, to attribute a crash to a motor carrier only if it determines that the carrier could have prevented the crash.\n\nDOT: (1) shall use the safety data of a motor carrier developed under the program solely for internal purposes of the Federal Motor Carrier Safety Administration, including allocating resources to conduct audits and inspections of motor carriers; and (2) may not make the scores available to the public."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Correct the Safety Analysis Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To direct the Secretary of Transportation to make certain changes in the implementation of the Compliance, Safety, Accountability program of the Federal Motor Carrier Safety Administration, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:49:32-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3093:@@@L&summ2=m&"
+}

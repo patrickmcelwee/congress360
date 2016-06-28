@@ -1,0 +1,225 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-02-26", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Oversight and Government Reform.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-03-01", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-03-01", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2016-04-25T12:11:00-04:00", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 114-521.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-25T12:11:00-04:00", 
+      "calendar": "Union", 
+      "number": "401", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 401.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2016-06-21T15:16:00-04:00", 
+      "references": [], 
+      "text": "Mr. Blum moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-21T15:17:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3990-3991", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-21T15:17:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 4639.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-21T15:24:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H3990-3991", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2016-06-21T15:24:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-22", 
+      "references": [], 
+      "text": "Received in the Senate.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4639-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Oversight and Government Reform", 
+      "committee_id": "HSGO"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "11", 
+      "name": "Connolly, Gerald E.", 
+      "sponsored_at": "2016-02-29", 
+      "state": "VA", 
+      "thomas_id": "01959", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Cummings, Elijah E.", 
+      "sponsored_at": "2016-03-01", 
+      "state": "MD", 
+      "thomas_id": "00256", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Meadows, Mark", 
+      "sponsored_at": "2016-02-26", 
+      "state": "NC", 
+      "thomas_id": "02142", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2016-03-01", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2016-06-21T15:24:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-02-26", 
+  "number": "4639", 
+  "official_title": "To reauthorize the Office of Special Counsel, to amend title 5, United States Code, to provide modifications to authorities relating to the Office of Special Counsel, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2968-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s3011-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Thoroughly Investigating Retaliation Against Whistleblowers Act", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Blum, Rod", 
+    "state": "IA", 
+    "thomas_id": "02241", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2016-06-21T15:24:00-04:00", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Administrative remedies", 
+    "Congressional oversight", 
+    "Employment discrimination and employee rights", 
+    "Government employee pay, benefits, personnel management", 
+    "Government operations and politics", 
+    "Government studies and investigations", 
+    "Office of Special Counsel"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": {
+    "as": "Reported to House amended", 
+    "date": "2016-04-25", 
+    "text": "Thoroughly Investigating Retaliation Against Whistleblowers Act\n\n(Sec. 2) This bill amends the Whistleblower Protection Act of 1989 to reauthorize through FY2020 the Office of Special Counsel (OSC), an independent federal investigative and prosecutorial agency led by an official appointed by the President to protect federal employees, former employees, and applicants for employment from prohibited personnel practices.\n\n(Sec. 3) The OSC shall have access to any record or other information of any agency under its jurisdiction.\n\n(Sec. 4) The bill: (1) extends from 15 to 45 days the period for the OSC to review a disclosed prohibited practice; (2) requires an agency to provide a detailed explanation of any failure to take action to address information about a prohibited practice transmitted to it by the OSC; and (3) requires an agency that reports agency action proposed as a result of its investigation of such information to submit a supplemental report within 180 days on whether such proposed action has been taken and, if not, why not.\n\n(Sec. 5) The OSC may terminate an investigation if: (1) it involves an allegation that has been previously made by the same person, (2) the OSC does not have jurisdiction to investigate such allegation, or (3) the person should have known of the alleged prohibited personnel practice earlier than three years before the OSC received the allegation.\n\n(Sec. 6) The bill expands the OSC's annual reporting requirements to include: (1) the cost of allegations disposed of by the OSC; (2) the number of stays or disciplinary actions that the OSC negotiates with agencies; (3) the number of corrective action petitions and disciplinary action complaints initiated before, and stays obtained from, the Merit Systems Protection Board; and (4) the number of prohibited personnel practice complaints that result in a favorable action or outcome for the complainant.\n\nThe OSC must include in its publicly disclosed list of noncriminal matters referred to agencies: (1) any comments from the complainant, provided that the availability to the public is appropriate, not prohibited by law, and consented to by the complainant; and (2) the OSC's comments or recommendations.\n\n(Sec. 7) The OSC shall design and establish a pilot program in FY2017-FY2018 to survey individuals who have filed a complaint or disclosure with the OSC. The responses shall be used to improve customer service at various stages of the review or investigative process.\n\n(Sec. 8) Penalties for violations of Hatch Act prohibitions against engaging in political activities may include a combination of the disciplinary actions and the civil penalty prescribed under current law.\n\n(Sec. 9) The OSC must prescribe and publish in the Federal Register any regulations necessary for the OSC to perform functions required by amendments made by this bill."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Thoroughly Investigating Retaliation Against Whistleblowers Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Thoroughly Investigating Retaliation Against Whistleblowers Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Thoroughly Investigating Retaliation Against Whistleblowers Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To reauthorize the Office of Special Counsel, to amend title 5, United States Code, to provide modifications to authorities relating to the Office of Special Counsel, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:02:27-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4639:@@@L&summ2=m&"
+}

@@ -1,0 +1,114 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-10-20", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-10-23", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Federal Lands.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3769-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Federal Lands", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "7", 
+      "name": "Blackburn, Marsha", 
+      "sponsored_at": "2015-10-20", 
+      "state": "TN", 
+      "thomas_id": "01748", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-10-20", 
+  "number": "3769", 
+  "official_title": "To direct the Secretary of the Interior to study the suitability and feasibility of designating the James K. Polk Home in Columbia, Tennessee, as a unit of the National Park System, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1483-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "James K. Polk Presidential Home Study Act", 
+  "sponsor": {
+    "district": "4", 
+    "name": "DesJarlais, Scott", 
+    "state": "TN", 
+    "thomas_id": "02062", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-10-20", 
+  "subjects": [
+    "Government studies and investigations", 
+    "Historic sites and heritage areas", 
+    "Parks, recreation areas, trails", 
+    "Presidents and presidential powers, Vice Presidents", 
+    "Public lands and natural resources", 
+    "Tennessee"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-10-20", 
+    "text": "James K. Polk Presidential Home Study Act\n\n This bill directs the Department of the Interior to conduct a special resource study of the James K. Polk Home and adjacent property in Columbia, Tennessee.\n\nIn conducting this study, Interior shall evaluate the national significance of the site and determine the suitability and feasibility of designating it as a unit of the National Park System."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "James K. Polk Presidential Home Study Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To direct the Secretary of the Interior to study the suitability and feasibility of designating the James K. Polk Home in Columbia, Tennessee, as a unit of the National Park System, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:55:11-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3769:@@@L&summ2=m&"
+}

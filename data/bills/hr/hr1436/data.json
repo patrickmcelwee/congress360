@@ -1,0 +1,130 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-03-18", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-04-07", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Federal Lands.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-04-07", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1436-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Federal Lands", 
+      "subcommittee_id": "10"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Indian, Insular and Alaska Native Affairs", 
+      "subcommittee_id": "24"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "2", 
+      "name": "Walden, Greg", 
+      "sponsored_at": "2015-04-16", 
+      "state": "OR", 
+      "thomas_id": "01596", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-03-18", 
+  "number": "1436", 
+  "official_title": "To require that certain Federal lands be held in trust by the United States for the benefit of the Cow Creek Band of Umpqua Tribe of Indians, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s815-114", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Cow Creek Umpqua Land Conveyance Act", 
+  "sponsor": {
+    "district": "4", 
+    "name": "DeFazio, Peter A.", 
+    "state": "OR", 
+    "thomas_id": "00279", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-03-18", 
+  "subjects": [
+    "Federal-Indian relations", 
+    "Gambling", 
+    "Indian lands and resources rights", 
+    "Land transfers", 
+    "Oregon", 
+    "Public lands and natural resources"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-03-18", 
+    "text": "Cow Creek Umpqua Land Conveyance Act \n\n Requires all interest of the United States in approximately 17,519 acres of land (Council Creek land) to be held in trust for, and to be part of the reservation of, the Cow Creek Band of Umpqua Tribe of Indians.\n\nApplies federal law relating to the export of unprocessed logs harvested from federal land to any unprocessed logs that are harvested from such land. Prohibits gaming on such land. Requires any forestry activity on such land to be managed in accordance with applicable federal laws.\n\nDirects the Department of Agriculture and the Department of the Interior to identify any land conveyed under this Act that is Oregon and California Railroad grant land. Directs Interior to: (1) identify public domain land in Oregon that is approximately equal in acreage and condition to such Oregon and California Railroad grant land, and (2) reclassify the public domain land as Oregon and California Railroad grant land."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Cow Creek Umpqua Land Conveyance Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require that certain Federal lands be held in trust by the United States for the benefit of the Cow Creek Band of Umpqua Tribe of Indians, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:35:26-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR1436:@@@L&summ2=m&"
+}

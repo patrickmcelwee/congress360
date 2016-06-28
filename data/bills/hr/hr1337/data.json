@@ -1,0 +1,93 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-03-04", 
+      "committees": [
+        "HSAS"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Armed Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-11-23", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Military Personnel.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1337-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS", 
+      "subcommittee": "Subcommittee on Military Personnel", 
+      "subcommittee_id": "02"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-03-04", 
+  "number": "1337", 
+  "official_title": "To waive the time limitations specified by law for the award of certain medals to persons who served in the Armed Forces to permit the award of the Distinguished-Service Cross to Edward Halcomb for acts of extraordinary heroism during the Korean War.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr1735-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "15", 
+    "name": "Ross, Dennis A.", 
+    "state": "FL", 
+    "thomas_id": "02003", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-03-04", 
+  "subjects": [
+    "Private legislation"
+  ], 
+  "subjects_top_term": "Private legislation", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-03-04", 
+    "text": "Authorizes the Secretary of the Army to award the Distinguished-Service Cross to Edward Halcomb for acts of extraordinary heroism from August 20, 1950, to October 19, 1950, during the Korean War, notwithstanding otherwise applicable time limitations."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To waive the time limitations specified by law for the award of certain medals to persons who served in the Armed Forces to permit the award of the Distinguished-Service Cross to Edward Halcomb for acts of extraordinary heroism during the Korean War.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:34:34-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR1337:@@@L&summ2=m&"
+}

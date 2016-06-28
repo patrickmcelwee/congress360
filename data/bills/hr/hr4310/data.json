@@ -1,0 +1,118 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-12-18", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-01-15", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Immigration and Border Security.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4310-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Immigration and Border Security", 
+      "subcommittee_id": "01"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Miller, Jeff", 
+      "sponsored_at": "2015-12-18", 
+      "state": "FL", 
+      "thomas_id": "01685", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Sinema, Kyrsten", 
+      "sponsored_at": "2015-12-18", 
+      "state": "AZ", 
+      "thomas_id": "02099", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-12-18", 
+  "number": "4310", 
+  "official_title": "To amend the Immigration and Nationality Act to direct the Secretary of Homeland Security to check an alien's interactions on and posting of material to the Internet prior to the issuance of a visa, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Vet Electronic Trails Act of 2015", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Salmon, Matt", 
+    "state": "AZ", 
+    "thomas_id": "01009", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-12-18", 
+  "subjects": [
+    "Congressional oversight", 
+    "Government studies and investigations", 
+    "Immigration", 
+    "Immigration status and procedures", 
+    "Internet and video services", 
+    "Terrorism", 
+    "Visas and passports"
+  ], 
+  "subjects_top_term": "Immigration", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-12-18", 
+    "text": "Vet Electronic Trails Act of 2015\n\nThis bill amends the Immigration and Nationality Act to require the Department of Homeland Security, before issuing any immigrant or nonimmigrant visa, to check a person's interactions on and posting of material to the Internet (including social media services) in order to ensure that he or she is not a U.S. security threat."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Vet Electronic Trails Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Immigration and Nationality Act to direct the Secretary of Homeland Security to check an alien's interactions on and posting of material to the Internet prior to the issuance of a visa, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:59:42-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4310:@@@L&summ2=m&"
+}

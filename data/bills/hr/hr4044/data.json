@@ -1,0 +1,97 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-11-17", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-12-04", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Immigration and Border Security.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4044-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Immigration and Border Security", 
+      "subcommittee_id": "01"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-11-17", 
+  "number": "4044", 
+  "official_title": "To prohibit obligation of Federal funds for admission of refugees from certain countries.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "19", 
+    "name": "Clawson, Curt", 
+    "state": "FL", 
+    "thomas_id": "02200", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-11-17", 
+  "subjects": [
+    "Afghanistan", 
+    "Africa", 
+    "Asia", 
+    "Immigration", 
+    "Immigration status and procedures", 
+    "Iraq", 
+    "Libya", 
+    "Middle East", 
+    "Refugees, asylum, displaced persons", 
+    "Syria", 
+    "Yemen"
+  ], 
+  "subjects_top_term": "Immigration", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-11-17", 
+    "text": "This bill prohibits federal funds from being obligated for the U.S. refugee admission of any alien: (1) whose country of nationality is Syria, Iraq, Libya, Afghanistan, or Yemen; or (2) in the case of an alien having no nationality, the country in which the alien last habitually resided is Syria, Iraq, Libya, Afghanistan, or Yemen."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To prohibit obligation of Federal funds for admission of refugees from certain countries.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:57:28-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4044:@@@L&summ2=m&"
+}

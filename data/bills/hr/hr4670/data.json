@@ -1,0 +1,121 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-03-02", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-03-04", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Federal Lands.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4670-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Federal Lands", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "2", 
+      "name": "Amodei, Mark E.", 
+      "sponsored_at": "2016-03-02", 
+      "state": "NV", 
+      "thomas_id": "02090", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Hardy, Cresent", 
+      "sponsored_at": "2016-03-02", 
+      "state": "NV", 
+      "thomas_id": "02260", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-03-02", 
+  "number": "4670", 
+  "official_title": "To adjust the boundary of the Mojave National Preserve.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2627-114", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Mojave National Preserve Boundary Adjustment Act of 2016", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Heck, Joseph J.", 
+    "state": "NV", 
+    "thomas_id": "02040", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-03-02", 
+  "subjects": [
+    "California", 
+    "Land transfers", 
+    "Parks, recreation areas, trails", 
+    "Public lands and natural resources"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2016-03-02", 
+    "text": "Mojave National Preserve Boundary Adjustment Act of 2016\n\nThis bill directs the Department of the Interior to transfer administrative jurisdiction over 520 acres of federal land from the National Park Service to the Bureau of Land Management. Interior may acquire by donation up to four acres of land identified in the land protection plan of the Mojave National Preserve as suitable for acquisition to be used for mitigation for every one acre of land removed from the Preserve.\n\n The acquired land shall become part of the Preserve.\n\n Interior shall permit cattle grazing on the acquired land according to National Park Service laws and policies."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Mojave National Preserve Boundary Adjustment Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To adjust the boundary of the Mojave National Preserve.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:02:43-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4670:@@@L&summ2=m&"
+}

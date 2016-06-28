@@ -1,0 +1,245 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-01-13", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-01-27", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-02-12", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-02-12", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported in the Nature of a Substitute (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2015-03-02T17:16:00-05:00", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 114-35.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-03-02T17:16:00-05:00", 
+      "calendar": "Union", 
+      "number": "24", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 24.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2015-03-02T17:17:00-05:00", 
+      "references": [], 
+      "text": "Mr. Miller (FL) moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-03-02T17:17:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1509-1510", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-03-02T17:17:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 294.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-03-02T17:23:00-05:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-03-02T18:30:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1510-1511", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-03-02T18:57:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H1509", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "107", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 405 - 0 (Roll no. 107).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2015-03-02T18:57:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-03-02T18:57:00-05:00", 
+      "references": [], 
+      "text": "The title of the measure was amended. Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-03-03", 
+      "committees": [
+        "SSVA"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr294-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Veterans' Affairs", 
+      "committee_id": "SSVA"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "4", 
+      "name": "Cole, Tom", 
+      "sponsored_at": "2015-02-20", 
+      "state": "OK", 
+      "thomas_id": "01742", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Norcross, Donald", 
+      "sponsored_at": "2015-03-02", 
+      "state": "NJ", 
+      "thomas_id": "02202", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-01-27", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2015-03-02T18:57:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-01-13", 
+  "number": "294", 
+  "official_title": "To amend title 38, United States Code, to authorize the Secretary of Veterans Affairs to enter into contracts and agreements for the placement of veterans in non-Department medical foster homes for certain veterans who are unable to live independently.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Long-Term Care Veterans Choice Act", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Miller, Jeff", 
+    "state": "FL", 
+    "thomas_id": "01685", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2015-03-02T18:57:00-05:00", 
+  "subjects": [
+    "Adoption and foster care", 
+    "Armed forces and national security", 
+    "Home and outpatient care", 
+    "Public contracts and procurement", 
+    "Veterans' loans, housing, homeless programs", 
+    "Veterans' medical care"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2015-03-02", 
+    "text": "Long-Term Care Veterans Choice Act\n\n(Sec. 2) Authorizes the Department of Veterans Affairs (VA), during the three-year period beginning on October 1, 2015, at the request of a veteran for whom the VA is required to provide nursing home care, to place such veteran in a medical foster home that meets VA standards. Requires such veteran to agree, as a condition of such placement, to accept VA home health services.\n\nLimits the number of veterans placed in a medical foster home that may have their care covered at the expense of the United States to 900.\n\nAmends the Veterans Access, Choice, and Accountability Act of 2014 to reduce the aggregate amount of awards and bonuses that may be paid by the VA in each of FY2015-FY2018 to $300 million."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Long-Term Care Veterans Choice Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Long-Term Care Veterans Choice Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 38, United States Code, to authorize the Secretary of Veterans Affairs to enter into contracts and agreements for the transfer of veterans to non-Department medical foster homes for certain veterans who are unable to live independently.", 
+      "type": "official"
+    }, 
+    {
+      "as": "amended by house", 
+      "is_for_portion": false, 
+      "title": "To amend title 38, United States Code, to authorize the Secretary of Veterans Affairs to enter into contracts and agreements for the placement of veterans in non-Department medical foster homes for certain veterans who are unable to live independently.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:25:40-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR294:@@@L&summ2=m&"
+}

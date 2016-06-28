@@ -1,0 +1,243 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-04-17", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-04-21", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Trade.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-04-23", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-04-23", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2015-05-01T12:09:00-04:00", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on Ways and Means. H. Rept. 114-101.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-05-01T12:10:00-04:00", 
+      "calendar": "Union", 
+      "number": "70", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 70.", 
+      "type": "calendar", 
+      "under": null
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1891-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM", 
+      "subcommittee": "Subcommittee on Trade", 
+      "subcommittee_id": "04"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "37", 
+      "name": "Bass, Karen", 
+      "sponsored_at": "2015-04-17", 
+      "state": "CA", 
+      "thomas_id": "01996", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Engel, Eliot L.", 
+      "sponsored_at": "2015-04-17", 
+      "state": "NY", 
+      "thomas_id": "00344", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Levin, Sander M.", 
+      "sponsored_at": "2015-04-17", 
+      "state": "MI", 
+      "thomas_id": "00683", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "McDermott, Jim", 
+      "sponsored_at": "2015-04-17", 
+      "state": "WA", 
+      "thomas_id": "00766", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Rangel, Charles B.", 
+      "sponsored_at": "2015-04-17", 
+      "state": "NY", 
+      "thomas_id": "00944", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "39", 
+      "name": "Royce, Edward R.", 
+      "sponsored_at": "2015-04-17", 
+      "state": "CA", 
+      "thomas_id": "00998", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Smith, Christopher H.", 
+      "sponsored_at": "2015-04-17", 
+      "state": "NJ", 
+      "thomas_id": "01071", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Tiberi, Patrick J.", 
+      "sponsored_at": "2015-04-17", 
+      "state": "OH", 
+      "thomas_id": "01664", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Young, Todd C.", 
+      "sponsored_at": "2015-04-17", 
+      "state": "IN", 
+      "thomas_id": "02019", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-04-23", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-04-17", 
+  "number": "1891", 
+  "official_title": "To extend the African Growth and Opportunity Act, the Generalized System of Preferences, the preferential duty treatment program for Haiti, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1009-114", 
+      "reason": "identical", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s1267-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "1", 
+    "name": "Ryan, Paul D.", 
+    "state": "WI", 
+    "thomas_id": "01560", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2015-04-23", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Administrative remedies", 
+    "Africa", 
+    "Caribbean area", 
+    "Congressional oversight", 
+    "Corporate finance and management", 
+    "Customs enforcement", 
+    "Foreign trade and international finance", 
+    "Government information and archives", 
+    "Haiti", 
+    "Latin America", 
+    "Tariffs", 
+    "Tax administration and collection, taxpayers", 
+    "Trade agreements and negotiations", 
+    "U.S. and foreign investments", 
+    "User charges and fees"
+  ], 
+  "subjects_top_term": "Foreign trade and international finance", 
+  "summary": {
+    "as": "Reported to House without amendment", 
+    "date": "2015-05-01", 
+    "text": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)\n\nTITLE I--EXTENSION OF AFRICAN GROWTH AND OPPORTUNITY ACT\n\nAGOA Extension and Enhancement Act of 2015\n\n(Sec. 103) This bill amends the Trade Act of 1974 and the African Growth and Opportunity Act (AGOA) to extend through FY2025 the duty-free treatment of the products of beneficiary sub-Saharan African countries under those Acts.\n\nThe extended period also applies to:\n\n the preferential treatment of apparel articles wholly assembled, or components knit-to-shape and wholly assembled, in one or more beneficiary sub-Saharan African countries from yarns originating in the United States or one or more beneficiary sub-Saharan African countries or former beneficiary sub-Saharan African countries, or both; and the third-country fabric program granting duty-free treatment of apparel articles wholly assembled, or knit-to-shape and wholly assembled, or both, in one or more lesser developed beneficiary sub-Saharan African countries, regardless of the country of origin of the fabric or the yarn used to make such articles. (Sec. 104) This bill amends the Generalized System of Preferences (GSP) to revise rules of origin for duty-free treatment of articles of beneficiary sub-Saharan African countries.\n\n(Sec. 105) The President must not terminate the designation of a country as a beneficiary sub-Saharan African country unless, at least 60 days before termination, the President notifies Congress and the country of that intention.\n\nThe President, instead of terminating the designation, may withdraw, suspend, or limit the duty-free treatment for any article that is the growth, product, or manufacture of a beneficiary sub-Saharan African country if that would be more effective in promoting the country's compliance with certain requirements, including a market-based economy and the rule of law, the protection of human rights and internationally-recognized worker rights, elimination of trade barriers to the United States, and non-engagement in activities that undermine U.S. national security or foreign policy interests or support acts of international terrorism.\n\nThe President may not withdraw, suspend, or limit the duty-free treatment before notifying Congress and the country in question of that intention at least 60 days in advance.\n\nThe President shall:\n\n publish annually in the Federal Register a notice of review and request for public comments on whether beneficiary sub-Saharan African countries are meeting the eligibility requirements for preferential treatment under AGOA and the Trade Act of 1974, and establish a process for interested persons to file a petition with the United States Trade Representative regarding the compliance of sub-Saharan African countries with such requirements. The President may also, at any time, initiate an out-of-cycle review of whether a beneficiary sub-Saharan African country is making continual progress in meeting preferential treatment eligibility requirements.\n\n(Sec. 106) It is the sense of Congress that beneficiary sub-Saharan African countries should develop strategies biennially for more effective utilization of AGOA trade benefits.\n\nIt is the sense of Congress further that these biennial AGOA utilization strategies should:\n\nreview potential exports under AGOA and identify opportunities and obstacles to increased trade and investment and enhanced poverty reduction, \n set out a strategy to promote small business, \n eliminate obstacles to regional trade and promote greater utilization of AGOA trade benefits and establish a plan to fully implement the Agreement on Trade Facilitation of the World Trade Organization, and \n be published on the appropriate websites of each sub-Saharan African country and the USTR. \n \n (Sec. 107) It is U.S. policy to continue to seek to deepen and expand trade and investment ties between sub-Saharan African and the United States through specified actions.\n\n(Sec. 108) The President shall report biennially to Congress, starting within one year after enactment of this Act, on trade and investment between the United States and sub-Saharan African countries and implementation of this Act.\n\nThe USTR shall report every five years to Congress, starting within one year after enactment of this Act, on sub-Saharan African countries that have expressed an interest in entering into a free trade agreement with the United States.\n\nTITLE II--EXTENSION OF GENERALIZED SYSTEM OF PREFERENCES\n\n(Sec. 201) This bill amends the Trade Act of 1974 to extend duty-free treatment under the GSP through December 31, 2017.\n\n(Sec. 202) The President may designate certain cotton articles as eligible for duty-free treatment only for least-developed beneficiary developing countries.\n\n(Sec. 203) The competitive need limitation and waiver requirements under the GSP shall apply to certain import-sensitive articles exported (directly or indirectly) from beneficiary developing countries to the United States during calendar 2014.\n\nTITLE III--EXTENSION OF PREFERENTIAL DUTY TREATMENT PROGRAM FOR HAITI\n\n (Sec. 301) This bill amends the Caribbean Basin Economic Recovery Act to extend through December 19, 2025, the duty-free entry of apparel articles, including woven articles and certain knit articles, assembled in Haiti and imported from Haiti or the Dominican Republic to the United States.\n\nThe special duty-free rules for Haiti shall now extend through September 30, 2025.\n\nTITLE IV--OTHER PROVISIONS\n\n(Sec. 401) This bill amends the Consolidated Omnibus Budget Reconciliation Act of 1958 to extend customs user fees for certain customs services performed through July 7, 2025.\n\n (Sec. 402) The required installment of corporate estimated tax payments for a corporation with assets of at least $1 billion which is otherwise due in the third quarter of 2020 shall be increased by 5.25%."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": true, 
+      "title": "AGOA Extension and Enhancement Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": true, 
+      "title": "AGOA Extension and Enhancement Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To extend the African Growth and Opportunity Act, the Generalized System of Preferences, the preferential duty treatment program for Haiti, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:39:19-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR1891:@@@L&summ2=m&"
+}

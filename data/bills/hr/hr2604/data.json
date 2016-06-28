@@ -1,0 +1,177 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-06-02", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-06-16", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-07-07", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Subcommittee on Regulatory Reform, Commercial And Antitrust Law Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-08", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-08", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2015-07-23T15:28:00-04:00", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on Judiciary. H. Rept. 114-224.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-23T15:29:00-04:00", 
+      "calendar": "Union", 
+      "number": "169", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 169.", 
+      "type": "calendar", 
+      "under": null
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2604-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Regulatory Reform, Commercial And Antitrust Law", 
+      "subcommittee_id": "05"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Cicilline, David N.", 
+      "sponsored_at": "2015-07-08", 
+      "state": "RI", 
+      "thomas_id": "02055", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Johnson, Henry C. \"Hank,\" Jr.", 
+      "sponsored_at": "2015-06-02", 
+      "state": "GA", 
+      "thomas_id": "01843", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-07-07", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-06-02", 
+  "number": "2604", 
+  "official_title": "To improve and reauthorize provisions relating to the application of the antitrust laws to the award of need-based educational aid.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1482-114", 
+      "reason": "identical", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s1482-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Need-Based Educational Aid Act of 2015", 
+  "sponsor": {
+    "district": "21", 
+    "name": "Smith, Lamar", 
+    "state": "TX", 
+    "thomas_id": "01075", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2015-07-08", 
+  "subjects": [
+    "Commerce", 
+    "Competition and antitrust", 
+    "Higher education", 
+    "Student aid and college costs", 
+    "Student records"
+  ], 
+  "subjects_top_term": "Commerce", 
+  "summary": {
+    "as": "Reported to House without amendment", 
+    "date": "2015-07-23", 
+    "text": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)\n\nNeed-Based Educational Aid Act of 2015\n\n(Sec. 2)This bill amends the Improving America's Schools Act of 1994 to extend through FY2022 the antitrust exemption that allows institutions of higher education that admit all students on a need-blind basis to enter or attempt to enter into agreements among themselves regarding the administration of need-based financial aid.\n\nThe bill also, however, repeals the permission for these institutions to exchange through an independent third party, before awarding financial aid to any of the students, data submitted by the student, his or her family, or a financial institution on their behalf relating to assets, liabilities, income, expenses, the number of family members, and the number of the student's siblings in college, if each of the institutions is permitted to retrieve the data only once with respect to the student."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Need-Based Educational Aid Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Need-Based Educational Aid Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To improve and reauthorize provisions relating to the application of the antitrust laws to the award of need-based educational aid.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:45:27-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2604:@@@L&summ2=m&"
+}

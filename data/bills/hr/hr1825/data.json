@@ -1,0 +1,109 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-04-15", 
+      "references": [
+        {
+          "reference": "CR H2346", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-04-15", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Homeland Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-04-29", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Transportation Security.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1825-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM", 
+      "subcommittee": "Subcommittee on Transportation Security", 
+      "subcommittee_id": "07"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-04-15", 
+  "number": "1825", 
+  "official_title": "To direct the Administrator of the Transportation Security Administration to prohibit certain employees of the Transportation Security Administration from using the title of \"officer\" and from wearing metal badges or uniforms resembling those of law enforcement officers.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Stop TSA Abuses Act", 
+  "sponsor": {
+    "district": "17", 
+    "name": "Rooney, Thomas J.", 
+    "state": "FL", 
+    "thomas_id": "01916", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-04-15", 
+  "subjects": [
+    "Department of Homeland Security", 
+    "Government employee pay, benefits, personnel management", 
+    "Homeland security", 
+    "Law enforcement officers", 
+    "Transportation and public works", 
+    "Transportation safety and security"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-04-15", 
+    "text": "Stop TSA Abuses Act\n\n Directs the Transportation Security Administration to prohibit any of the following employees who are not sworn law enforcement officers with arresting authority and who have not successfully completed federal, state, or local law enforcement training from using the title of \"officer\" or from wearing a metal badge resembling a police badge or a uniform resembling the uniform of a federal law enforcement officer:\n\n checkpoint transportation security officer, checked baggage transportation security officer, travel document checker, behavior detection officer, or transportation security specialist--explosives."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Stop TSA Abuses Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To direct the Administrator of the Transportation Security Administration to prohibit certain employees of the Transportation Security Administration from using the title of \"officer\" and from wearing metal badges or uniforms resembling those of law enforcement officers.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:38:45-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR1825:@@@L&summ2=m&"
+}

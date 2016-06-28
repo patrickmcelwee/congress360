@@ -1,0 +1,110 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-03-24", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-04-21", 
+      "committees": [
+        "HSHM"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1592-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Crime, Terrorism, Homeland Security, and Investigations", 
+      "subcommittee_id": "08"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-03-24", 
+  "number": "1592", 
+  "official_title": "To amend title 18, United States Code, to require that the Director of the Bureau of Prisons ensure that each chief executive officer of a Federal penal or correctional institution provides a secure storage area located outside of the secure perimeter of the Federal penal or correctional institution for firearms carried by certain employees of the Bureau of Prisons, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr1545-114", 
+      "reason": "identical", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s368-114", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Lieutenant Osvaldo Albarati Correctional Officer Self-Protection Act of 2015", 
+  "sponsor": {
+    "district": "13", 
+    "name": "Ryan, Tim", 
+    "state": "OH", 
+    "thomas_id": "01756", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-03-24", 
+  "subjects": [
+    "Correctional facilities and imprisonment", 
+    "Crime and law enforcement", 
+    "Firearms and explosives", 
+    "Law enforcement officers"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-03-24", 
+    "text": "Lieutenant Osvaldo Albarati Correctional Officer Self-Protection Act of 2015\n\n Amends the federal criminal code to require the Bureau of Prisons to ensure that each chief executive officer of a federal penal or correctional institution: (1) provides a secure storage area located outside of the secure perimeter of the institution for qualified law enforcement officers employed by the Bureau to store firearms, or allows such officers to store firearms in a vehicle lockbox approved by the Bureau; and (2) allows such officers to carry concealed firearms on the premises outside of the secure perimeter of the institution."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Lieutenant Osvaldo Albarati Correctional Officer Self-Protection Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 18, United States Code, to require that the Director of the Bureau of Prisons ensure that each chief executive officer of a Federal penal or correctional institution provides a secure storage area located outside of the secure perimeter of the Federal penal or correctional institution for firearms carried by certain employees of the Bureau of Prisons, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:36:44-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR1592:@@@L&summ2=m&"
+}

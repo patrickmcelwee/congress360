@@ -1,0 +1,439 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-04-12", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Oversight and Government Reform.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-04-14", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-14", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2016-04-25T12:13:00-04:00", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on Oversight and Government Reform. H. Rept. 114-522.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-25T12:13:00-04:00", 
+      "calendar": "Union", 
+      "number": "402", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 402.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2016-04-27T17:47:00-04:00", 
+      "bill_ids": [
+        "hres706-114", 
+        "hjres88-114"
+      ], 
+      "committees": [
+        "HSRU"
+      ], 
+      "references": [], 
+      "text": "Rules Committee Resolution H. Res. 706 Reported to House. Resolution provides for consideration of H.R. 4901 and H.J. Res. 88.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-29T09:17:00-04:00", 
+      "bill_ids": [
+        "hres706-114"
+      ], 
+      "references": [
+        {
+          "reference": "CR H2115-2128", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under the provisions of rule H. Res. 706.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-29T09:17:00-04:00", 
+      "bill_ids": [
+        "hjres88-114"
+      ], 
+      "references": [], 
+      "text": "Resolution provides for consideration of H.R. 4901 and H.J. Res. 88.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-29T09:17:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with one hour of debate on H.R. 4901.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-29T10:23:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2126", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "The previous question was ordered pursuant to the rule.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-29T10:23:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2126-2127", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2126", 
+          "type": "text"
+        }
+      ], 
+      "text": "Mr. Lieu, Ted moved to recommit with instructions to the Committee on Oversight and Government.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-29T10:24:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with 10 minutes of debate on the Lieu motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House forthwith with an amendment to prohibit participating schools from discriminating against voucher students based on their sexual orientation or gender identity.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-29T10:26:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2126", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "The previous question on the motion to recommit with instructions was ordered without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-29T10:47:00-04:00", 
+      "references": [], 
+      "text": "On motion to recommit with instructions Failed by the Yeas and Nays: 167 - 228 (Roll no. 178).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-29T10:53:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H2115-2118", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "179", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On passage Passed by recorded vote: 224 - 181 (Roll no. 179).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2016-04-29T10:53:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-09", 
+      "references": [], 
+      "text": "Received in the Senate.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4901-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Oversight and Government Reform", 
+      "committee_id": "HSGO"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "12", 
+      "name": "Allen, Rick W.", 
+      "sponsored_at": "2016-04-13", 
+      "state": "GA", 
+      "thomas_id": "02239", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Blum, Rod", 
+      "sponsored_at": "2016-04-12", 
+      "state": "IA", 
+      "thomas_id": "02241", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Brat, Dave", 
+      "sponsored_at": "2016-04-12", 
+      "state": "VA", 
+      "thomas_id": "02203", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Carter, Earl L. \"Buddy\"", 
+      "sponsored_at": "2016-04-12", 
+      "state": "GA", 
+      "thomas_id": "02236", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "DeSantis, Ron", 
+      "sponsored_at": "2016-04-12", 
+      "state": "FL", 
+      "thomas_id": "02116", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Foxx, Virginia", 
+      "sponsored_at": "2016-04-12", 
+      "state": "NC", 
+      "thomas_id": "01791", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Frelinghuysen, Rodney P.", 
+      "sponsored_at": "2016-04-12", 
+      "state": "NJ", 
+      "thomas_id": "00414", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Harris, Andy", 
+      "sponsored_at": "2016-04-12", 
+      "state": "MD", 
+      "thomas_id": "02026", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Kline, John", 
+      "sponsored_at": "2016-04-12", 
+      "state": "MN", 
+      "thomas_id": "01733", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Lipinski, Daniel", 
+      "sponsored_at": "2016-04-12", 
+      "state": "IL", 
+      "thomas_id": "01781", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Meadows, Mark", 
+      "sponsored_at": "2016-04-12", 
+      "state": "NC", 
+      "thomas_id": "02142", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Messer, Luke", 
+      "sponsored_at": "2016-04-12", 
+      "state": "IN", 
+      "thomas_id": "02130", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Rokita, Todd", 
+      "sponsored_at": "2016-04-14", 
+      "state": "IN", 
+      "thomas_id": "02017", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Russell, Steve", 
+      "sponsored_at": "2016-04-13", 
+      "state": "OK", 
+      "thomas_id": "02265", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Walberg, Tim", 
+      "sponsored_at": "2016-04-13", 
+      "state": "MI", 
+      "thomas_id": "01855", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Walker, Mark", 
+      "sponsored_at": "2016-04-12", 
+      "state": "NC", 
+      "thomas_id": "02255", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2016-04-14", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2016-04-29T10:53:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-04-12", 
+  "number": "4901", 
+  "official_title": "To reauthorize the Scholarships for Opportunity and Results Act, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hres706-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hres706-114", 
+      "reason": "rule", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr5485-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Scholarships for Opportunity and Results Reauthorization Act", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Chaffetz, Jason", 
+    "state": "UT", 
+    "thomas_id": "01956", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2016-04-29T10:53:00-04:00", 
+  "subjects": [
+    "Academic performance and assessments", 
+    "Criminal justice information and records", 
+    "District of Columbia", 
+    "Education", 
+    "Education programs funding", 
+    "Educational facilities and institutions", 
+    "Elementary and secondary education", 
+    "Higher education", 
+    "Personnel records", 
+    "Science and engineering education", 
+    "Student aid and college costs", 
+    "Student records", 
+    "Teaching, teachers, curricula"
+  ], 
+  "subjects_top_term": "Education", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2016-04-29", 
+    "text": "(This measure has not been amended since it was reported to the House on April 25, 2016. The summary of that version is repeated here.)\n\nScholarships for Opportunity and Results Reauthorization Act or the SOAR Reauthorization Act\n\n(Sec. 2) This bill repeals the D.C. Opportunity Scholarship Program School Certification Requirements Act, as contained in the Consolidated Appropriations Act, 2016.\n\n(Sec. 3) The Scholarships for Opportunity and Results Act (SOAR) is amended to limit its focus to students in the lowest-performing Washington, DC, elementary and secondary schools.\n\n(Sec. 4) The Department of Education (ED) shall not limit the number of eligible students receiving Opportunity Scholarship Program (OSP) scholarships, or prevent otherwise eligible students from participating in the OSP because of:\n\n the type of school the student previously attended; whether or not the individual previously received the scholarship or participated in OSP, including one previously awarded a scholarship who did not use it; or was a member of the control group used by the Institute of Education Sciences to carry out previous OSP evaluations. (Sec. 5) An eligible nonprofit organization's application for an OSP grant must include how it will ensure:\n\n the financial viability of a participating school in which 85% or more of enrolled students receive and use an opportunity scholarship, utilization of internal fiscal and quality controls and compliance with financial reporting requirements. (Sec. 6) Priorities for the award of scholarships are modified to give priority to:\n\n students who in the preceding school year attended a low-achieving elementary or secondary school, and certain students regardless of whether they have attended a private school. (Sec. 7) OSP-participating schools must:\n\n ensure that participating students are taught core subject matter by a teacher with a baccalaureate or equivalent degree, conduct criminal background checks on school employees who have direct and unsupervised interactions with students, and comply with all requests for data and information regarding certain reporting requirements. Participating private schools must be provisionally or fully accredited or in the process of seeking accreditation.\n\nED must make OSP funds available to eligible entities receiving a grant for administrative expenses and parental education and assistance.\n\nPreviously unobligated OSP funds must be used for additional scholarships (95%) and administrative expenses (5%).\n\n(Sec. 8) The bill revises current OSP evaluation procedures.\n\nED shall ensure that evaluation of the OSP is conducted using an acceptable quasi-experimental research design for determining the effectiveness of the opportunity scholarship program under this division that does not use a control study group consisting of students who applied for but did not receive opportunity scholarships.\n\nThe bill revises the duties of the ED Institute of Educational Sciences (IES) to repeal the requirement for a grade appropriate, nationally norm-referenced standardized test each school year to assess participating eligible students. IES shall instead assess participating eligible students who use an opportunity scholarship in each of grades 3 through 8, as well as one of the high school level grades, by supervising the administration of a specified reading and mathematics assessment used by the DC public schools.\n\nThe issues to be assessed shall exclude OSP success in increasing parental involvement of such parents in the education of their children, but include:\n\n a comparison of the academic achievement of participating eligible students who use an opportunity scholarship to the academic achievement of a comparison group of students with similar backgrounds in the DC public schools (instead of the academic growth and achievement of the eligible students in the same grades who sought to participate in the OSP but were not selected); a comparison of the college enrollment rates, college persistence rates, and college graduation rates of students who participated in the program in specified years as the result of winning the OSP lottery with the enrollment, persistence, and graduation rates for students who entered but did not win the lottery in those years and who, as a result, served as the control group for previous evaluations of the program; as well as an assessment of student academic achievement at participating schools in which 85% of the total number of students enrolled at the school are participating eligible students who receive and use an opportunity scholarship. The prohibition against any disclosure of personally identifiable information shall be replaced with specified requirements for such a disclosure.\n\n(Sec. 9) The specified authorized OSP funds that ED may withhold for noncompliance with SOAR requirements shall be differentiated based on whether the noncompliance relates to the DC public schools, to the DC public charter schools, or to both.\n\nFunds provided under this Act to support DC public charter schools may be directed to the Office of the State Superintendent of Education for transfer to subgrantee public charter schools or networks of such schools, or DC-based non-profit organizations with successful experience with them.\n\n(Sec. 10) ED and the Mayor shall revise a specified memorandum of understanding to ensure that participating schools meet fire code standards and maintain certificates of occupancy.\n\n(Sec. 12) The bill reauthorizes the OSP through FY2021."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Scholarships for Opportunity and Results Reauthorization Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "SOAR Reauthorization Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Scholarships for Opportunity and Results Reauthorization Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "SOAR Reauthorization Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Scholarships for Opportunity and Results Reauthorization Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "SOAR Reauthorization Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To reauthorize the Scholarships for Opportunity and Results Act, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:04:39-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4901:@@@L&summ2=m&"
+}

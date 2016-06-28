@@ -1,0 +1,97 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-07-08", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-07-13", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Human Resources.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2968-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM", 
+      "subcommittee": "Subcommittee on Human Resources", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-07-08", 
+  "number": "2968", 
+  "official_title": "To provide for the conduct of demonstration projects to provide coordinated case management services for TANF recipients.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Coordinating Assistance for TANF Recipients Act", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Young, Todd C.", 
+    "state": "IN", 
+    "thomas_id": "02019", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-07-08", 
+  "subjects": [
+    "Employment and training programs", 
+    "Performance measurement", 
+    "Poverty and welfare assistance", 
+    "Social welfare", 
+    "Wages and earnings"
+  ], 
+  "subjects_top_term": "Social welfare", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-07-08", 
+    "text": "Coordinating Assistance for TANF Recipients Act\n\nThis bill amends part A (Temporary Assistance for Needy Families) (TANF) of the Social Security Act to direct the Department of Health and Human Services to make grants to states to conduct demonstration projects designed to implement and evaluate strategies to provide coordinated case management to help individuals receiving TANF assistance to increase their employment and self-sufficiency."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Coordinating Assistance for TANF Recipients Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide for the conduct of demonstration projects to provide coordinated case management services for TANF recipients.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:48:30-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2968:@@@L&summ2=m&"
+}

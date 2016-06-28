@@ -1,0 +1,98 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-07-29", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-08-12", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Human Resources.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3368-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM", 
+      "subcommittee": "Subcommittee on Human Resources", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-07-29", 
+  "number": "3368", 
+  "official_title": "To amend title XX of the Social Security Act to provide grants to support job creation initiatives, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Back to Basics Job Creation Act of 2015", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Lewis, John", 
+    "state": "GA", 
+    "thomas_id": "00688", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-07-29", 
+  "subjects": [
+    "Employment and training programs", 
+    "Poverty and welfare assistance", 
+    "Self-employed", 
+    "Small business", 
+    "Social welfare", 
+    "Unemployment"
+  ], 
+  "subjects_top_term": "Social welfare", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-07-29", 
+    "text": "Back to Basics Job Creation Act of 2015\n\n This bill amends title XX (Block Grants to State for Social Services) of the Social Security Act to require the Department of Health and Human Services to make grants to eligible entities to assist low-income individuals and individuals who have been unemployed for at least three months in developing self-employment opportunities."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Back to Basics Job Creation Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title XX of the Social Security Act to provide grants to support job creation initiatives, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:51:50-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3368:@@@L&summ2=m&"
+}

@@ -1,0 +1,133 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-04-28", 
+      "committees": [
+        "HSAS"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Armed Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-08-13", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Readiness.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2055-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS", 
+      "subcommittee": "Subcommittee on Readiness", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "8", 
+      "name": "Duckworth, Tammy", 
+      "sponsored_at": "2015-04-28", 
+      "state": "IL", 
+      "thomas_id": "02123", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Loebsack, David", 
+      "sponsored_at": "2015-04-28", 
+      "state": "IA", 
+      "thomas_id": "01846", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Tonko, Paul", 
+      "sponsored_at": "2015-04-28", 
+      "state": "NY", 
+      "thomas_id": "01942", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-04-28", 
+  "number": "2055", 
+  "official_title": "To direct the Secretary of Defense to submit to Congress a report on certain equipment purchased from foreign entities that could be manufactured in United States arsenals or depots, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr1735-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Make It At Home Act", 
+  "sponsor": {
+    "district": "17", 
+    "name": "Bustos, Cheri", 
+    "state": "IL", 
+    "thomas_id": "02127", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-04-28", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Congressional oversight", 
+    "Manufacturing", 
+    "Military facilities and property", 
+    "Military operations and strategy", 
+    "Military procurement, research, weapons development", 
+    "Military readiness"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-04-28", 
+    "text": "Make It At Home Act\n\nIt is the sense of Congress that it shall be the goal of the Secretary of Defense, in conjunction with the Secretaries of the military services, to ensure the management of the manufacturing workload of the military arsenals to maintain critical capabilities and ensure cost efficiency and technical competence in peacetime, while preserving the ability to provide an effective and timely response to mobilizations, national defense contingency situations, and other emergent requirements.\n\nThe Secretary shall report to Congress on the equipment, weapons, weapons systems, components, subcomponents, and end-items purchased from foreign entities and identify: (1) those items which could be manufactured in U.S. military arsenals or military depots to meet such goals, as well as (2) a plan for moving that workload into U.S. military arsenals or depots."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Make It At Home Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To direct the Secretary of Defense to submit to Congress a report on certain equipment purchased from foreign entities that could be manufactured in United States arsenals or depots, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:40:43-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2055:@@@L&summ2=m&"
+}

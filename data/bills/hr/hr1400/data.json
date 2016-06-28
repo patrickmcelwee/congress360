@@ -1,0 +1,123 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-03-17", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-03-20", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1400-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "7", 
+      "name": "Blackburn, Marsha", 
+      "sponsored_at": "2015-04-13", 
+      "state": "TN", 
+      "thomas_id": "01748", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Bucshon, Larry", 
+      "sponsored_at": "2015-03-17", 
+      "state": "IN", 
+      "thomas_id": "02018", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Guthrie, Brett", 
+      "sponsored_at": "2015-03-17", 
+      "state": "KY", 
+      "thomas_id": "01922", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-03-17", 
+  "number": "1400", 
+  "official_title": "To amend title XIX of the Social Security Act to transition the Medicaid thresholds applied for determining acceptable provider taxes, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Medicaid Tax Fairness Act of 2015", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Griffith, H. Morgan", 
+    "state": "VA", 
+    "thomas_id": "02070", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-03-17", 
+  "subjects": [
+    "Health", 
+    "Medicaid", 
+    "State and local taxation"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-03-17", 
+    "text": "Medicaid Tax Fairness Act of 2015\n\nThis bill amends title XIX (Medicaid) of the Social Security Act, with respect to payments to states for medical assistance programs, to reduce from 6% to 5.5% on a graduated basis for 2016-2020 and each subsequent year the indirect guarantee thresholds applied for determining permissible broad-based state or local health care-related provider taxes where a requirement is in effect to hold taxpayers harmless for any portion of the costs of the tax.\n\n(Currently the state [or other unit of government] imposing a broad-based health care-related tax or tax on each health care class provides for a direct or indirect non-Medicaid payment to those providers or others paying the tax, which may include an offset or waiver that directly or indirectly guarantees to hold taxpayers harmless for all or any portion of the tax amount. Such taxes are permissible if they are applied at a rate that produces revenues less than or equal to 6% of the revenues received by the taxpayer.)"
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Medicaid Tax Fairness Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title XIX of the Social Security Act to transition the Medicaid thresholds applied for determining acceptable provider taxes, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:35:06-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR1400:@@@L&summ2=m&"
+}

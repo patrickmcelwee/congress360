@@ -1,0 +1,137 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-09-24", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-10-06", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-02-24", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3599-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Indian, Insular and Alaska Native Affairs", 
+      "subcommittee_id": "24"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "8", 
+      "name": "Cook, Paul", 
+      "sponsored_at": "2016-02-25", 
+      "state": "CA", 
+      "thomas_id": "02103", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Meadows, Mark", 
+      "sponsored_at": "2016-02-12", 
+      "state": "NC", 
+      "thomas_id": "02142", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2016-02-24", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-09-24", 
+  "number": "3599", 
+  "official_title": "To take certain Federal lands in Tennessee into trust for the benefit of the Eastern Band of Cherokee Indians, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Eastern Band Cherokee Historic Lands Reacquisition Act", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Fleischmann, Charles J. \"Chuck\"", 
+    "state": "TN", 
+    "thomas_id": "02061", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-09-24", 
+  "subjects": [
+    "Alternative and renewable resources", 
+    "Electric power generation and transmission", 
+    "Floods and storm protection", 
+    "Historic sites and heritage areas", 
+    "Historical and cultural resources", 
+    "Indian lands and resources rights", 
+    "Lakes and rivers", 
+    "Land transfers", 
+    "Land use and conservation", 
+    "Monuments and memorials", 
+    "Museums, exhibitions, cultural centers", 
+    "Native Americans", 
+    "Parks, recreation areas, trails", 
+    "Tennessee", 
+    "Water storage", 
+    "Water use and supply"
+  ], 
+  "subjects_top_term": "Native Americans", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-09-24", 
+    "text": "Eastern Band Cherokee Historic Lands Reacquisition Act\n\nThis bill takes specified lands and easements in Monroe County, Tennessee, into trust for the benefit of the Eastern Band of Cherokee Indians. These lands include the Sequoyah Museum, the Chota Memorial, the Tanasi Memorial, and land to provide support for these properties and cultural programs.\n\nWith the agreement of the Department of the Interior and the Tennessee Valley Authority (TVA), the United States must take into trust for the benefit of the tribe certain additional TVA lands and easements that are identified by the tribe as being of significant historical and cultural importance.\n\nThe TVA maintains its right to carry out river control and development on these lands, including temporarily and intermittently flooding certain lands. The bill specifies the structures that may be constructed with the TVA's consent on certain lands subject to flooding.\n\nThe TVA must be compensated for lost hydropower capacity from future development of these lands.\n\nGaming on these lands is prohibited."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Eastern Band Cherokee Historic Lands Reacquisition Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To take certain Federal lands in Tennessee into trust for the benefit of the Eastern Band of Cherokee Indians, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:53:46-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3599:@@@L&summ2=m&"
+}

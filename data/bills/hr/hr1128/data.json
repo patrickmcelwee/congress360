@@ -1,0 +1,138 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-02-26", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-03-13", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Oversight and Investigations.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-03-19", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1128-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR", 
+      "subcommittee": "Subcommittee on Oversight and Investigations", 
+      "subcommittee_id": "08"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "5", 
+      "name": "Cleaver, Emanuel", 
+      "sponsored_at": "2015-04-22", 
+      "state": "MO", 
+      "thomas_id": "01790", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Kuster, Ann M.", 
+      "sponsored_at": "2015-03-16", 
+      "state": "NH", 
+      "thomas_id": "02145", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-03-19", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-02-26", 
+  "number": "1128", 
+  "official_title": "To amend title 38, United States Code, to make certain improvements in the information security of the Department of Veterans Affairs, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Department of Veterans Affairs Cyber Security Protection Act", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Kirkpatrick, Ann", 
+    "state": "AZ", 
+    "thomas_id": "01907", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-02-26", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Computer security and identity theft", 
+    "Computers and information technology", 
+    "Congressional oversight", 
+    "Department of Veterans Affairs", 
+    "Executive agency funding and structure", 
+    "Government information and archives", 
+    "Health information and medical records", 
+    "Health technology, devices, supplies", 
+    "Internet and video services", 
+    "Public contracts and procurement", 
+    "Right of privacy", 
+    "Technology assessment", 
+    "Veterans' education, employment, rehabilitation", 
+    "Veterans' loans, housing, homeless programs", 
+    "Veterans' medical care", 
+    "Veterans' pensions and compensation"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-02-26", 
+    "text": "Department of Veterans Affairs Cyber Security Protection Act \n\n Directs the Assistant Secretary of Veterans Affairs for Information and Technology to submit to the congressional veterans committees (under current law only to the Secretary of Veterans Affairs) quarterly reports on Department of Veterans Affairs (VA) compliance with federally-required information security improvements.\n\nDirects the Assistant Secretary to submit to such committees: (1) quarterly, a plan of action to address critical known VA information security vulnerabilities; and (2) annually, a plan for identifying and replacing VA operating systems that are out-of-date or unsupported.\n\n Directs the Assistant Secretary to ensure that any software or Internet applications used on VA operating systems are secure from vulnerabilities that could affect the confidentiality of sensitive personal information on veterans.\n\nDirects the Secretary to:\n\n report quarterly to such committees on any incidents of failure to comply with established information security policies, any actions taken in response to such incidents, and certain related information; submit a strategic plan to such committees for improving VA information security and to update such plan at least every two years; and report to such committees within five years on information security protection and accountability of the VA for information security breeches and incidents. Requires VA contractors with access to sensitive personal information to provide protective measures to safeguard from possible information security threats any information provided by the VA that will be resident on, or transiting through, information systems controlled by that contractor."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Department of Veterans Affairs Cyber Security Protection Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 38, United States Code, to make certain improvements in the information security of the Department of Veterans Affairs, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:32:41-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR1128:@@@L&summ2=m&"
+}

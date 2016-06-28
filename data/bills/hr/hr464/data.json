@@ -1,0 +1,117 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-01-22", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-02-19", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on the Constitution and Civil Justice.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr464-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Constitution and Civil Justice", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "27", 
+      "name": "Farenthold, Blake", 
+      "sponsored_at": "2015-01-22", 
+      "state": "TX", 
+      "thomas_id": "02067", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Ribble, Reid J.", 
+      "sponsored_at": "2015-01-22", 
+      "state": "WI", 
+      "thomas_id": "02073", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-01-22", 
+  "number": "464", 
+  "official_title": "To authorize Members of Congress to bring an action for declaratory and injunctive relief in response to a written statement by the President or any other official in the executive branch directing officials of the executive branch to not enforce a provision of law.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Constitutional Check and Balance Act", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Poe, Ted", 
+    "state": "TX", 
+    "thomas_id": "01802", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-01-22", 
+  "subjects": [
+    "Civil actions and liability", 
+    "Congressional oversight", 
+    "Congressional-executive branch relations", 
+    "Government operations and politics", 
+    "Members of Congress", 
+    "Presidents and presidential powers, Vice Presidents"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-01-22", 
+    "text": "Constitutional Check and Balance Act\n\n Authorizes any Member of Congress who casts a recorded vote on final passage of a version of a bill or joint resolution enacting a provision into law to bring an action for declaratory or injunctive relief in an appropriate U.S. district court to compel an executive branch official to enforce the provision, if the President or any other executive branch official issues a memorandum or other written statement directing the official to not enforce it."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Constitutional Check and Balance Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To authorize Members of Congress to bring an action for declaratory and injunctive relief in response to a written statement by the President or any other official in the executive branch directing officials of the executive branch to not enforce a provision of law.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:27:06-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR464:@@@L&summ2=m&"
+}

@@ -1,0 +1,119 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-10-02", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-10-09", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3681-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "6", 
+      "name": "Matsui, Doris O.", 
+      "sponsored_at": "2015-11-05", 
+      "state": "CA", 
+      "thomas_id": "01814", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Sarbanes, John P.", 
+      "sponsored_at": "2015-10-02", 
+      "state": "MD", 
+      "thomas_id": "01854", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-10-02", 
+  "number": "3681", 
+  "official_title": "To extend and expand the Medicaid emergency psychiatric demonstration project.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s599-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Improving Access to Emergency Psychiatric Care Act", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Brooks, Susan W.", 
+    "state": "IN", 
+    "thomas_id": "02129", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-10-02", 
+  "subjects": [
+    "Congressional oversight", 
+    "Emergency medical services and trauma care", 
+    "Health", 
+    "Health programs administration and funding", 
+    "Medicaid", 
+    "Mental health"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Improving Access to Emergency Psychiatric Care Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To extend and expand the Medicaid emergency psychiatric demonstration project.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:54:27-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3681:@@@L&summ2=m&"
+}

@@ -1,0 +1,410 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-02-04", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Homeland Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-02-09", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Transportation Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-02-10T17:18:00-05:00", 
+      "references": [], 
+      "text": "Mr. Katko moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-02-10T17:18:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H894-897", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-02-10T17:18:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 720.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-02-10T17:32:00-05:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-02-10T19:00:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H898-899", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-02-10T19:08:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H894-895", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "70", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 411 - 1 (Roll no. 70).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2015-02-10T19:08:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-02-11", 
+      "references": [], 
+      "text": "Received in the Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-02-12", 
+      "committees": [
+        "SSCM"
+      ], 
+      "references": [], 
+      "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-02-26", 
+      "committees": [
+        "SSCM"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2015-07-23", 
+      "committee": "Commerce, Science, and Transportation", 
+      "committees": [
+        "SSCM"
+      ], 
+      "references": [], 
+      "text": "Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 114-92.", 
+      "type": "reported"
+    }, 
+    {
+      "acted_at": "2015-07-23", 
+      "calendar": "Senate Legislative", 
+      "number": "163", 
+      "references": [], 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 163.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }, 
+    {
+      "acted_at": "2015-08-05", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S6422-6423", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S6422-6423", 
+          "type": "text as passed Senate"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_BACK:SENATE", 
+      "text": "Passed Senate with an amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2015-08-06", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-16T15:12:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5990-5993", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Mr. Katko moved that the House suspend the rules and agree to the Senate amendment.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-16T15:12:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on the Senate amendment to H.R. 720.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-16T15:26:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H5990-5991", 
+          "type": "text as House agreed to Senate amendment"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "suspension": null, 
+      "text": "On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "pingpong", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2015-09-16T15:26:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-17", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2015-09-24", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2015-09-24", 
+      "congress": "114", 
+      "law": "public", 
+      "number": "50", 
+      "references": [], 
+      "text": "Became Public Law No: 114-50.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr720-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM", 
+      "subcommittee": "Subcommittee on Transportation Security", 
+      "subcommittee_id": "07"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "Senate Commerce, Science, and Transportation", 
+      "committee_id": "SSCM"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "26", 
+      "name": "Brownley, Julia", 
+      "sponsored_at": "2015-02-04", 
+      "state": "CA", 
+      "thomas_id": "02106", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Hudson, Richard", 
+      "sponsored_at": "2015-02-04", 
+      "state": "NC", 
+      "thomas_id": "02140", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "McCaul, Michael T.", 
+      "sponsored_at": "2015-02-04", 
+      "state": "TX", 
+      "thomas_id": "01804", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Rice, Kathleen M.", 
+      "sponsored_at": "2015-02-04", 
+      "state": "NY", 
+      "thomas_id": "02262", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Thompson, Bennie G.", 
+      "sponsored_at": "2015-02-04", 
+      "state": "MS", 
+      "thomas_id": "01151", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "35", 
+      "name": "Torres, Norma J.", 
+      "sponsored_at": "2015-02-04", 
+      "state": "CA", 
+      "thomas_id": "02231", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "43", 
+      "name": "Waters, Maxine", 
+      "sponsored_at": "2015-02-04", 
+      "state": "CA", 
+      "thomas_id": "01205", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "114", 
+    "law_type": "public", 
+    "number": "50"
+  }, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-02-10T17:18:00-05:00", 
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2015-09-24", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2015-09-16T15:26:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2015-08-05", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-02-04", 
+  "number": "720", 
+  "official_title": "To improve intergovernmental planning for and communication during security incidents at domestic airports, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Gerardo Hernandez Airport Security Act of 2015", 
+  "sponsor": {
+    "district": "24", 
+    "name": "Katko, John", 
+    "state": "NY", 
+    "thomas_id": "02264", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2015-09-24", 
+  "subjects": [
+    "Aviation and airports", 
+    "Congressional oversight", 
+    "Department of Homeland Security", 
+    "Emergency communications systems", 
+    "Emergency planning and evacuation", 
+    "First responders and emergency personnel", 
+    "Government employee pay, benefits, personnel management", 
+    "Government information and archives", 
+    "Government studies and investigations", 
+    "Homeland security", 
+    "Law enforcement administration and funding", 
+    "Terrorism", 
+    "Transportation and public works", 
+    "Transportation employees", 
+    "Transportation safety and security"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2015-09-24", 
+    "text": "(This measure has not been amended since it was passed by the Senate on August 5, 2015. The summary of that version is repeated here.)\n\nGerardo Hernandez Airport Security Act of 2015 \n\n (Sec. 3) Directs the Transportation Security Administration (TSA) of the Department of Homeland Security to: (1) conduct outreach to all U.S. airports at which the TSA performs, or oversees the implementation and performance of, security measures; and (2) give necessary technical assistance to verify that such airports have in place individualized working plans for responding to security incidents inside the airport perimeter, including active shooters, acts of terrorism, and incidents that target passenger-screening checkpoints.\n\nRequires the TSA to report to Congress on the outreach findings, including an analysis of the level of preparedness such airports have to respond to such incidents.\n\n (Sec. 4) Requires the TSA to: (1) identify best practices that exist across airports for security incident planning, management, and training; and (2) establish a mechanism through which to share those best practices with other airport operators nationwide.\n\n(Sec. 5) Requires the TSA also to: (1) certify annually to specified congressional committees that all screening personnel have participated in practical training exercises for active shooter scenarios, and (2) analyze for those same committees how TSA can use cost savings achieved through efficiencies to increase over the next five fiscal years the funding available for checkpoint screening law enforcement support reimbursable agreements.\n\n(Sec. 7) Directs the TSA to: (1) conduct outreach to all passenger transportation agencies and providers with high-risk facilities to verify that they have in place plans for responding to active shooters, acts of terrorism, or other security-related incidents that target passengers; and (2) identify best practices for security incident planning, management, and training and establish a mechanism through which to share such practices with passenger transportation agencies nationwide.\n\n(Sec. 8) Declares that no additional appropriations are authorized to carry out this Act. Requires this Act to be carried out using amounts otherwise available.\n\n(Sec. 9) Requires the TSA to review the interoperable communications capabilities of law enforcement, fire, and medical personnel responsible for responding to security incidents at all U.S. airports at which the TSA performs, or oversees the implementation and performance of, security measures."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Gerardo Hernandez Airport Security Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Gerardo Hernandez Airport Security Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to senate", 
+      "is_for_portion": false, 
+      "title": "Gerardo Hernandez Airport Security Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "is_for_portion": false, 
+      "title": "Gerardo Hernandez Airport Security Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": false, 
+      "title": "Gerardo Hernandez Airport Security Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To improve intergovernmental planning for and communication during security incidents at domestic airports, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:29:17-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR720:@@@L&summ2=m&"
+}

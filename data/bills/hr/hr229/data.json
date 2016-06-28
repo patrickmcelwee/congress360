@@ -1,0 +1,120 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-01-08", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Homeland Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-01-23", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Border and Maritime Security.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr229-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM", 
+      "subcommittee": "Subcommittee on Border and Maritime Security", 
+      "subcommittee_id": "11"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "10", 
+      "name": "McCaul, Michael T.", 
+      "sponsored_at": "2015-01-08", 
+      "state": "TX", 
+      "thomas_id": "01804", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-01-08", 
+  "number": "229", 
+  "official_title": "To require the Secretary of Homeland Security to establish a biometric exit data system, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr399-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Biometric Exit Improvement Act of 2015", 
+  "sponsor": {
+    "district": "10", 
+    "name": "Miller, Candice S.", 
+    "state": "MI", 
+    "thomas_id": "01731", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-01-08", 
+  "subjects": [
+    "Aviation and airports", 
+    "Border security and unlawful immigration", 
+    "Computers and information technology", 
+    "Congressional oversight", 
+    "Criminal justice information and records", 
+    "Emergency management", 
+    "Government information and archives", 
+    "Government studies and investigations", 
+    "Homeland security", 
+    "Marine and inland water transportation", 
+    "Terrorism", 
+    "Transportation safety and security"
+  ], 
+  "subjects_top_term": "Emergency management", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-01-08", 
+    "text": "Biometric Exit Improvement Act of 2015\n\nDirects the Secretary of Homeland Security (DHS) to: (1) submit an implementation plan to establish a biometric exit data system to complete the integrated biometric entry and exit data system required under the Intelligence Reform and Terrorism Prevention Act of 2004; (2) establish such a system, within two years after enactment of this Act, at the 10 U.S. airports, 10 U.S. seaports, and 10 land ports of entry that support the highest volume of international air travel, international sea travel, and pedestrian crossings, respectively; and (3) submit a report that analyzes the effectiveness of such system.\n\nDirects the Secretary: (1) within 18 months after enactment of this Act, in collaboration with industry stakeholders and the head of a university-based center with prior expertise in border security and counterterrorism, to establish a 6-month pilot program to test such system on non-pedestrian outbound traffic at not fewer than three land ports of entry with significant cross-border traffic; (2) after receiving a Government Accounting Office review of such program and acting through the Commissioner of U.S. Customs and Border Protection, to submit a plan with an integrated master schedule to implement such a system at all land ports of entry for non-pedestrian outbound traffic; (3) within three years after submitting such master schedule, to expand the system to all land ports of entry for non-pedestrian outbound traffic; and (4) within five years after enactment of this Act, to expand the system to all air and sea ports of entry and to all land ports of entry for pedestrian traffic.\n\nRequires the Secretary to: (1) ensure that the collection of biometric data under such system causes the least possible disruption to the movement of people or cargo in air, sea, or land transportation; (2) terminate the proceeding entitled \"Collection of Alien Biometric Data Upon Exit From the United States at Air and Sea Ports of Departure,\" issued on April 24, 2008; and (3) make every every effort to collect biometric data using additional modes of biometric technology.\n\nProhibits the Secretary from requiring any non-federal person to collect biometric data under the system, except through a contractual agreement."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Biometric Exit Improvement Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require the Secretary of Homeland Security to establish a biometric exit data system, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:25:08-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR229:@@@L&summ2=m&"
+}

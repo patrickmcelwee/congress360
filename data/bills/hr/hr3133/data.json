@@ -1,0 +1,96 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-07-21", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-08-04", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3133-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Indian, Insular and Alaska Native Affairs", 
+      "subcommittee_id": "24"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-07-21", 
+  "number": "3133", 
+  "official_title": "Relating to certain Indian land-related takings claims of the Grand Traverse Band of Ottawa and Chippewa Indians of Michigan and its individual members.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hres376-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "1", 
+    "name": "Benishek, Dan", 
+    "state": "MI", 
+    "thomas_id": "02027", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-07-21", 
+  "subjects": [
+    "Federal-Indian relations", 
+    "Indian claims", 
+    "Michigan", 
+    "Native Americans"
+  ], 
+  "subjects_top_term": "Native Americans", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-07-21", 
+    "text": "This bill directs the Department of the Treasury to pay an unspecified sum to the Grand Traverse Band of Ottawa and Chippewa Indians of Michigan and its members pursuant to a judgment rendered by the U.S. Court of Federal Claims."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Relating to certain Indian land-related takings claims of the Grand Traverse Band of Ottawa and Chippewa Indians of Michigan and its individual members.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:49:52-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3133:@@@L&summ2=m&"
+}

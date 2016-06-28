@@ -1,0 +1,680 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-02-27", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on the Judiciary, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-02-27", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Referred to House Judiciary", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-02-27", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "text": "Referred to House Homeland Security", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-03-02", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Immigration and Border Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-03-03", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Subcommittee on Immigration and Border Security Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-03-12", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Border and Maritime Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-03-18", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-03-18", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 17 - 13.", 
+      "type": "calendar"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1148-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Immigration and Border Security", 
+      "subcommittee_id": "01"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM", 
+      "subcommittee": "Subcommittee on Border and Maritime Security", 
+      "subcommittee_id": "11"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "36", 
+      "name": "Babin, Brian", 
+      "sponsored_at": "2015-03-26", 
+      "state": "TX", 
+      "thomas_id": "02270", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Barletta, Lou", 
+      "sponsored_at": "2015-03-17", 
+      "state": "PA", 
+      "thomas_id": "02054", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Bilirakis, Gus M.", 
+      "sponsored_at": "2015-03-18", 
+      "state": "FL", 
+      "thomas_id": "01838", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Boustany, Charles W., Jr.", 
+      "sponsored_at": "2015-09-08", 
+      "state": "LA", 
+      "thomas_id": "01787", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Brat, Dave", 
+      "sponsored_at": "2015-07-13", 
+      "state": "VA", 
+      "thomas_id": "02203", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Bridenstine, Jim", 
+      "sponsored_at": "2015-07-22", 
+      "state": "OK", 
+      "thomas_id": "02155", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Brooks, Mo", 
+      "sponsored_at": "2015-03-03", 
+      "state": "AL", 
+      "thomas_id": "01987", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Buchanan, Vern", 
+      "sponsored_at": "2015-07-22", 
+      "state": "FL", 
+      "thomas_id": "01840", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Byrne, Bradley", 
+      "sponsored_at": "2015-03-03", 
+      "state": "AL", 
+      "thomas_id": "02197", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Carter, Earl L. \"Buddy\"", 
+      "sponsored_at": "2015-03-17", 
+      "state": "GA", 
+      "thomas_id": "02236", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "31", 
+      "name": "Carter, John R.", 
+      "sponsored_at": "2015-02-27", 
+      "state": "TX", 
+      "thomas_id": "01752", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Chabot, Steve", 
+      "sponsored_at": "2015-02-27", 
+      "state": "OH", 
+      "thomas_id": "00186", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Chaffetz, Jason", 
+      "sponsored_at": "2016-06-08", 
+      "state": "UT", 
+      "thomas_id": "01956", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Collins, Doug", 
+      "sponsored_at": "2015-02-27", 
+      "state": "GA", 
+      "thomas_id": "02121", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Duncan, Jeff", 
+      "sponsored_at": "2015-03-17", 
+      "state": "SC", 
+      "thomas_id": "02057", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Duncan, John J., Jr.", 
+      "sponsored_at": "2015-03-26", 
+      "state": "TN", 
+      "thomas_id": "00322", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Forbes, J. Randy", 
+      "sponsored_at": "2015-02-27", 
+      "state": "VA", 
+      "thomas_id": "01683", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Goodlatte, Bob", 
+      "sponsored_at": "2015-02-27", 
+      "state": "VA", 
+      "thomas_id": "00446", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Gosar, Paul A.", 
+      "sponsored_at": "2015-03-03", 
+      "state": "AZ", 
+      "thomas_id": "01992", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Graves, Tom", 
+      "sponsored_at": "2015-03-19", 
+      "state": "GA", 
+      "thomas_id": "01979", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Guinta, Frank C.", 
+      "sponsored_at": "2015-03-04", 
+      "state": "NH", 
+      "thomas_id": "02038", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Hensarling, Jeb", 
+      "sponsored_at": "2015-07-31", 
+      "state": "TX", 
+      "thomas_id": "01749", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "49", 
+      "name": "Issa, Darrell E.", 
+      "sponsored_at": "2015-03-03", 
+      "state": "CA", 
+      "thomas_id": "01640", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Jenkins, Lynn", 
+      "sponsored_at": "2015-07-16", 
+      "state": "KS", 
+      "thomas_id": "01921", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Johnson, Sam", 
+      "sponsored_at": "2015-03-04", 
+      "state": "TX", 
+      "thomas_id": "00603", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Jones, Walter B., Jr.", 
+      "sponsored_at": "2016-03-01", 
+      "state": "NC", 
+      "thomas_id": "00612", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Joyce, David P.", 
+      "sponsored_at": "2015-07-20", 
+      "state": "OH", 
+      "thomas_id": "02154", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Lance, Leonard", 
+      "sponsored_at": "2015-03-03", 
+      "state": "NJ", 
+      "thomas_id": "01936", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Loudermilk, Barry", 
+      "sponsored_at": "2015-03-02", 
+      "state": "GA", 
+      "thomas_id": "02238", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "24", 
+      "name": "Marchant, Kenny", 
+      "sponsored_at": "2015-03-04", 
+      "state": "TX", 
+      "thomas_id": "01806", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "McClintock, Tom", 
+      "sponsored_at": "2015-06-25", 
+      "state": "CA", 
+      "thomas_id": "01908", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "McKinley, David B.", 
+      "sponsored_at": "2015-07-07", 
+      "state": "WV", 
+      "thomas_id": "02074", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "Olson, Pete", 
+      "sponsored_at": "2015-07-23", 
+      "state": "TX", 
+      "thomas_id": "01955", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Pittenger, Robert", 
+      "sponsored_at": "2015-03-04", 
+      "state": "NC", 
+      "thomas_id": "02141", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Poe, Ted", 
+      "sponsored_at": "2015-02-27", 
+      "state": "TX", 
+      "thomas_id": "01802", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Posey, Bill", 
+      "sponsored_at": "2015-10-26", 
+      "state": "FL", 
+      "thomas_id": "01915", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Ratcliffe, John", 
+      "sponsored_at": "2015-03-17", 
+      "state": "TX", 
+      "thomas_id": "02268", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Roby, Martha", 
+      "sponsored_at": "2015-07-22", 
+      "state": "AL", 
+      "thomas_id": "01986", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Rogers, Mike D.", 
+      "sponsored_at": "2015-03-04", 
+      "state": "AL", 
+      "thomas_id": "01704", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Ross, Dennis A.", 
+      "sponsored_at": "2016-01-11", 
+      "state": "FL", 
+      "thomas_id": "02003", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Schweikert, David", 
+      "sponsored_at": "2016-01-11", 
+      "state": "AZ", 
+      "thomas_id": "01994", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Scott, Austin", 
+      "sponsored_at": "2016-04-13", 
+      "state": "GA", 
+      "thomas_id": "02009", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "32", 
+      "name": "Sessions, Pete", 
+      "sponsored_at": "2015-03-03", 
+      "state": "TX", 
+      "thomas_id": "01525", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Shimkus, John", 
+      "sponsored_at": "2015-10-06", 
+      "state": "IL", 
+      "thomas_id": "01527", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "Smith, Lamar", 
+      "sponsored_at": "2015-02-27", 
+      "state": "TX", 
+      "thomas_id": "01075", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Stivers, Steve", 
+      "sponsored_at": "2015-03-03", 
+      "state": "OH", 
+      "thomas_id": "02047", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Weber, Randy K., Sr.", 
+      "sponsored_at": "2015-03-02", 
+      "state": "TX", 
+      "thomas_id": "02161", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "25", 
+      "name": "Williams, Roger", 
+      "sponsored_at": "2015-09-15", 
+      "state": "TX", 
+      "thomas_id": "02165", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Yoder, Kevin", 
+      "sponsored_at": "2015-07-08", 
+      "state": "KS", 
+      "thomas_id": "02021", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Zeldin, Lee M.", 
+      "sponsored_at": "2016-01-12", 
+      "state": "NY", 
+      "thomas_id": "02261", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-03-03", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-02-27", 
+  "number": "1148", 
+  "official_title": "To amend the Immigration and Nationality Act to improve immigration law enforcement within the interior of the United States, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr583-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr2801-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s1640-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Michael Davis, Jr. in Honor of State and Local Law Enforcement Act", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Gowdy, Trey", 
+    "state": "SC", 
+    "thomas_id": "02058", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2015-03-18", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Advisory bodies", 
+    "Area studies and international education", 
+    "Assault and harassment offenses", 
+    "Aviation and airports", 
+    "Border security and unlawful immigration", 
+    "Citizenship and naturalization", 
+    "Civil actions and liability", 
+    "Computer security and identity theft", 
+    "Congressional oversight", 
+    "Congressional-executive branch relations", 
+    "Correctional facilities and imprisonment", 
+    "Crimes against children", 
+    "Criminal investigation, prosecution, interrogation", 
+    "Criminal justice information and records", 
+    "Criminal procedure and sentencing", 
+    "Cultural exchanges and relations", 
+    "Customs enforcement", 
+    "Department of Homeland Security", 
+    "Department of Justice", 
+    "Detention of persons", 
+    "Diplomacy, foreign officials, Americans abroad", 
+    "Domestic violence and child abuse", 
+    "Drug, alcohol, tobacco use", 
+    "Espionage and treason", 
+    "Evidence and witnesses", 
+    "Executive agency funding and structure", 
+    "Firearms and explosives", 
+    "Fraud offenses and financial crimes", 
+    "General public lands matters", 
+    "Government employee pay, benefits, personnel management", 
+    "Government information and archives", 
+    "Government studies and investigations", 
+    "Higher education", 
+    "Human trafficking", 
+    "Immigration", 
+    "Immigration status and procedures", 
+    "Intergovernmental relations", 
+    "Judicial review and appeals", 
+    "Law enforcement administration and funding", 
+    "Licensing and registrations", 
+    "Organized crime", 
+    "Presidents and presidential powers, Vice Presidents", 
+    "Refugees, asylum, displaced persons", 
+    "Roads and highways", 
+    "Sanctions", 
+    "Sex offenses", 
+    "Smuggling and trafficking", 
+    "State and local government operations", 
+    "Terrorism", 
+    "Transportation costs", 
+    "Transportation safety and security", 
+    "User charges and fees", 
+    "Violent crime", 
+    "Visas and passports"
+  ], 
+  "subjects_top_term": "Immigration", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-02-27", 
+    "text": "Michael Davis, Jr. in Honor of State and Local Law Enforcement Act\n\nAmends the Immigration and Nationality Act (INA) and related federal law with respect to immigration law enforcement within the United States.\n\nAuthorizes: (1) states or their political subdivisions to enact and enforce immigration criminal penalties as long as they do not exceed relevant federal criminal penalties; and (2) state or local law enforcement personnel to investigate, apprehend, arrest, or transfer to federal custody aliens for immigration enforcement purposes to the same extent as federal law enforcement personnel.\n\nDirects the Department of Homeland Security (DHS) to provide the National Crime Information Center (NCIC) of the Department of Justice (DOJ) with all information that DHS has regarding any alien: (1) against whom a final order of removal has been issued, (2) who has entered into a voluntary departure agreement, (3) who has overstayed his or her authorized period of stay, or (4) whose visa has been revoked. Requires NCIC to enter such information into its Immigration Violators File.\n\nRequires: (1) states to have access to federal programs or technology directed at identifying inadmissible or deportable aliens, and (2) states and their political subdivisions to provide DHS with specified identifying information about each apprehended alien who is believed to be inadmissible or deportable.\n\nDirects DHS to make grants to states and their political subdivisions for procurement of equipment, technology, and facilities related to investigating, apprehending, arresting, or transporting inadmissible or deportable aliens.\n\nDirects DHS to construct or acquire additional domestic detention facilities for aliens detained pending removal.\n\nAmends the INA regarding illegal aliens apprehended by state or local authorities to provide for: (1) federal custody upon state or local request, and (2) state or local compensation for related incarceration and transportation costs.\n\nDirects the DOJ or DHS to ensure that an alien subject to removal is detained in an adequate state or local prison, detention center, or other comparable facility.\n\nDirects DHS to establish immigration-related training for state and local personnel.\n\nProvides personal liability immunity to the same extent as corresponding federal immunity for state or local personnel enforcing immigration laws within the scope of their duties.\n\n Directs DHS to continue to operate a program that: (1) identifies removable criminal aliens in federal and state correctional facilities, (2) ensures that such aliens are not released into the community, and (3) removes them from the United States after the completion of their sentences. Extends such program to all states. Requires states that receive state criminal alien assistance program (SCAAP) funds to comply with program requirements.\n\nAuthorizes state or local detention of certain aliens, in specified circumstances, after completion of their state or local prison sentence.\n\nAuthorizes appropriations for SCAAP.\n\nTransfers SCAAP jurisdiction from DOJ to DHS.\n\nRequires states and localities to: (1) notify the federal government of inadmissible or removable aliens who are encountered by law enforcement personnel, and (2) comply with federal law enforcement information requests and with DHS detainers.\n\nDenies specified federal law enforcement assistance to a state or a political subdivision that prohibits law enforcement officers from cooperating with federal immigration law enforcement.\n\nRevises certain terrorism-related requirements and prohibitions with respect to naturalization, asylum, good moral character, voluntary departure, and cancellation of removal.\n\nAuthorizes: (1) the denaturalization of a person who participates in terrorist activities or violent or unlawful activities aimed at the overthrow of the United States; and (2) the use or publication by DHS of certain legalization or special agricultural worker status information for any purpose relating to terrorism, national intelligence, or national security.\n\nRequires security and background checks and investigations of suspected immigration irregularities to be completed before specified immigration-related statuses and benefits may be granted or adjudicated.\n\nRevises and expands the definition of \"aggravated felony\" under INA. Makes such changes retroactive.\n\nAdds new grounds of inadmissibility for: (1) identity fraud or Social Security number misuse; (2) unlawful procurement of citizenship or naturalization; (3) specified firearm offenses; (4) conviction of an aggravated felony; and (5) crimes of domestic violence, stalking, or child abuse. Makes such additions retroactive.\n\nAdds new grounds of deportability for: (1) identity fraud or Social Security number misuse, and (2) unlawful procurement of citizenship or naturalization. Makes such additions retroactive.\n\nMakes inadmissible an alien who plans to or has engaged in espionage, prohibited export, or other unlawful activities, including activities aimed at the violent overthrow of the U.S. government.\n\nProhibits the sale of or possession of firearms by any alien who is not lawfully admitted for permanent residence.\n\nAmends the federal criminal code to place a 10-year statute of limitations on most criminal violations of INA.\n\nMakes: (1) aggravated felons ineligible for refugee, asylee adjustment of status, or any withholding of removal; and (2) a second DUI conviction an aggravated felony under INA.\n\nRevises requirements regarding: (1) detention and removal of aliens ordered removed, (2) alien smuggling and related offenses, and (3) reentry of removed aliens.\n\nAuthorizes DHS to designate groups as criminal gangs. Requires detention for anyone found inadmissible or deportable for criminal street gang membership. Bars individuals found inadmissible or deportable for criminal gang membership from asylum, withholding of removal, and temporary protected status.\n\nAmends the federal criminal code to state that the government, in the prosecution of aggravated identity theft, need not prove the defendant knew that the means of identification was of another person.\n\nSubjects to specified criminal penalties for illegal entry an alien who knowingly: (1) enters or crosses the border at a place other than a designated port of entry; (2) evades inspection by an immigration, customs, or agricultural officer; (3) makes a false or misleading statement or conceals a material fact during examination or inspection while crossing the border; or (4) violates the conditions of U.S. admission or parole for 90 days or more.\n\nIncreases penalties under the federal criminal code for certain immigration document and passport fraud activities, and authorizes forfeiture of property used in connection with them.\n\nReduces the period during which an alien may seek judicial review of an expedited removal order based on criminal or security grounds. Subjects to such expedited removal procedures an individual inadmissible because of a criminal offense if the individual has not been admitted or paroled, does not have a credible fear of persecution, and is not eligible for relief from removal.\n\nExpands the grounds of inadmissibility and deportability to include violation of federal requirements regarding sex offender registration.\n\nProhibits U.S. citizens and lawful permanent residents convicted of certain sex offenses from sponsoring an alien for admission unless DHS determines that such person poses no risk to the alien.\n\nAuthorizes the DOJ to consider evidence extrinsic to an alien's conviction record to determine whether the conviction was based on conduct constituting a crime of moral turpitude or a domestic violence offense (which would make the alien deportable).\n\nStates that a conviction for which a pardon has been issued shall not be grounds for deportability by reason of such conviction.\n\nRevises visa information sharing requirements.\n\nProhibits waiver of a visa interview for an alien DHS determines to be a person of concern or in a class of aliens that are security threats.\n\nStates that DHS: (1) shall have exclusive authority to issue regulations, establish policy, and administer all immigration or nationality laws relating to consular functions in connection with visa issuance or denial; and (2) may refuse or revoke any visa to an alien or class of aliens for U.S. security interests.\n\nProhibits judicial review of a decision by DHS to refuse or revoke a visa.\n\nAuthorizes a consular surcharge (in addition to immigrant visa fees) to fund the visa security program.\n\n Provides for expedited clearance and placement of DHS personnel at overseas embassies and consular posts.\n\nRevises accreditation requirements.\n\nLimits those individuals who may serve as a designated school official (DSO) or be granted access to the student and exchange visitor information system (SEVIS). Requires a background check of any person serving in such capacity.\n\nAuthorizes DHS to suspend an institution's student and exchange visitor program (SEVP) certification for reasonable suspicion of fraud. Makes a person convicted of such fraud permanently ineligible to hold a position of authority or ownership at any such institution.\n\nAuthorizes school officials to nominate as many DSO's in addition to their Principal DSO's as necessary and adequate to make recommendations to enrolled students on how to maintain nonimmigrant status. Requires an SEVP-participating institution or exchange visitor program sponsor to report to the DHS on students or exchange visitors with nonimmigrant status.\n\nMakes flight schools that are not certified by the Federal Aviation Administration (FAA) ineligible to access SEVIS.\n\nRequires SEVIS suspension for a school that loses or is denied accreditation.\n\nDirects DHS to authorize all DHS immigration enforcement agents and deportation officers who have successfully completed basic immigration law enforcement training to: (1) make arrests for offenses against the United States, for certain felonies, and for bringing in, transporting, or harboring certain aliens; (2) execute warrants of arrest for administrative immigration violations; and (3) carry firearms.\n\nAuthorizes DHS to hire additional Immigration and Customs Enforcement (ICE) detention enforcement officers.\n\nEstablishes: (1) an ICE Advisory Council; and (2) a pilot program in at least five of the busiest ICE offices to process electronically and serve charging documents, and process and place detainers while in the field.\n\nDirects DHS to increase the number of ICE deportation officers, support staff, and prosecutors.\n\nRequires semiannual DHS reports on countries that refuse or unreasonably delay repatriation of an alien who is a national of the country. Subjects countries that repeat on those lists to certain visa sanctions.\n\nRevises requirements and restrictions regarding: (1) voluntary departure, (2) reentry bars for aliens who remain in the United States after ordered removed, and (3) reinstatement of removal orders.\n\nDenies the use of certain funds to implement specified executive branch memoranda regarding the exercise of prosecutorial discretion in the apprehension, detention, and removal of aliens unlawfully present in the United States.\n\nDirects the Government Accountability Office to report on the deaths in custody of DHS detainees.\n\nRequires that, whenever possible, removal proceedings take place in the order in which aliens are placed in proceedings."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Michael Davis, Jr. in Honor of State and Local Law Enforcement Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Immigration and Nationality Act to improve immigration law enforcement within the interior of the United States, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:32:54-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR1148:@@@L&summ2=m&"
+}

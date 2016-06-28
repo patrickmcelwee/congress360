@@ -1,0 +1,127 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-07-15", 
+      "references": [
+        {
+          "reference": "CR E1071-1072", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-15", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Transportation and Infrastructure.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-07-16", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3066-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Economic Development, Public Buildings and Emergency Management", 
+      "subcommittee_id": "13"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "2", 
+      "name": "King, Peter T.", 
+      "sponsored_at": "2015-07-15", 
+      "state": "NY", 
+      "thomas_id": "00635", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Meng, Grace", 
+      "sponsored_at": "2015-07-15", 
+      "state": "NY", 
+      "thomas_id": "02148", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-07-15", 
+  "number": "3066", 
+  "official_title": "To amend the Robert T. Stafford Disaster Relief and Emergency Assistance Act to clarify that houses of worship are eligible for certain disaster relief and emergency assistance on terms equal to other eligible private nonprofit facilities, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Federal Disaster Assistance Nonprofit Fairness Act of 2015", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Smith, Christopher H.", 
+    "state": "NJ", 
+    "thomas_id": "01071", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-07-15", 
+  "subjects": [
+    "Community life and organization", 
+    "Disaster relief and insurance", 
+    "Emergency management", 
+    "Religion", 
+    "Tax-exempt organizations"
+  ], 
+  "subjects_top_term": "Emergency management", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-07-15", 
+    "text": "Federal Disaster Assistance Nonprofit Fairness Act of 2015\n\n Amends the Robert T. Stafford Disaster Relief and Emergency Assistance Act to include community centers, including tax-exempt houses of worship, as \"private nonprofit facilities\" for purposes of disaster relief and emergency assistance eligibility under such Act.\n\nMakes a church, synagogue, mosque, temple, or other house of worship, and a private nonprofit facility operated by a religious organization, eligible for federal contributions for the repair, restoration, and replacement of facilities damaged or destroyed by a major disaster, without regard to the religious character of the facility or the primary religious use of the facility.\n\nMakes this Act applicable to the provision of assistance in response to a major disaster or emergency declared on or after October 28, 2012."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Federal Disaster Assistance Nonprofit Fairness Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Robert T. Stafford Disaster Relief and Emergency Assistance Act to clarify that houses of worship are eligible for certain disaster relief and emergency assistance on terms equal to other eligible private nonprofit facilities, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:49:19-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3066:@@@L&summ2=m&"
+}

@@ -1,0 +1,91 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-02-25", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-02-27", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1085-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-02-25", 
+  "number": "1085", 
+  "official_title": "To repeal the Prevention and Public Health Fund.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "16", 
+    "name": "Pitts, Joseph R.", 
+    "state": "PA", 
+    "thomas_id": "01514", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-02-25", 
+  "subjects": [
+    "Appropriations", 
+    "Government trust funds", 
+    "Health", 
+    "Health programs administration and funding", 
+    "Health promotion and preventive care"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-02-25", 
+    "text": "Amends the Patient Protection and Affordable Care Act to repeal the establishment of, and appropriation of funds to, the Prevention and Public Health Fund (a fund to provide for expanded and sustained national investment in prevention and public health programs to improve health and help restrain the rate of growth in private and public sector health care costs). Rescinds any unobligated balances appropriated to the Fund.\n\nDirects the Department of Health and Human Services (HHS) to\u00a0post a notice of the rescission and the amounts of funds rescinded on the public HHS website\u00a0within 10 days of enactment of this Act."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To repeal the Prevention and Public Health Fund.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:32:20-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR1085:@@@L&summ2=m&"
+}

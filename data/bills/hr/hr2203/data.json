@@ -1,0 +1,104 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-05-01", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-06-01", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Immigration and Border Security.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2203-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Immigration and Border Security", 
+      "subcommittee_id": "01"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "4", 
+      "name": "Aderholt, Robert B.", 
+      "sponsored_at": "2015-05-01", 
+      "state": "AL", 
+      "thomas_id": "01460", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-05-01", 
+  "number": "2203", 
+  "official_title": "To remove the Kosovo Liberation Army from treatment as a terrorist organization, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "16", 
+    "name": "Engel, Eliot L.", 
+    "state": "NY", 
+    "thomas_id": "00344", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-05-01", 
+  "subjects": [
+    "Europe", 
+    "Immigration", 
+    "Immigration status and procedures", 
+    "Kosovo", 
+    "Political movements and philosophies", 
+    "Political parties and affiliation", 
+    "Terrorism", 
+    "Visas and passports"
+  ], 
+  "subjects_top_term": "Immigration", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-05-01", 
+    "text": "Declares that the Kosovo Liberation Army shall not be considered a terrorist organization under the Immigration and Nationality Act (INA), unless the Secretary of State decides otherwise in the Secretary's sole and unreviewable discretion.\n\n Amends INA to make terrorist activity-related inadmissibility criteria inapplicable to an alien's activities undertaken in association with the Kosovo Liberation Army if the alien:\n\n is applying for a nonimmigrant visa, unless a consular officer knows or has reasonable grounds to believe that the alien poses a threat to U.S. security, or believes that the visa should not be issued; or presents himself or herself for inspection and admission as a nonimmigrant to an immigration officer at a port of entry or is applying in the United States for nonimmigrant status, unless the Secretary of Homeland Security knows, or has reasonable grounds to believe, that the alien poses a threat to U.S. security, or otherwise believes that the alien should not be admitted to the United States or granted nonimmigrant status. Authorizes the Secretary of State to suspend such prohibition on a case-by-case basis."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To remove the Kosovo Liberation Army from treatment as a terrorist organization, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:41:57-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2203:@@@L&summ2=m&"
+}

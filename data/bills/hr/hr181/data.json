@@ -1,0 +1,387 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-01-07", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-01-08", 
+      "committees": [
+        "HSHM"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-01-20", 
+      "committees": [
+        "HSHM"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Subcommittee on Crime, Terrorism, Homeland Security, and Investigations Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-21", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-21", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2015-01-27T12:34:00-05:00", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on Judiciary. H. Rept. 114-7.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-27T12:35:00-05:00", 
+      "calendar": "Union", 
+      "number": "3", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 3.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2015-01-27T13:51:00-05:00", 
+      "references": [], 
+      "text": "Mr. Poe (TX) moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-27T13:51:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H600-607", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-27T13:52:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 181.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-27T14:30:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H600-602", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2015-01-27T14:30:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-28", 
+      "references": [], 
+      "text": "Received in the Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-02-04", 
+      "references": [], 
+      "text": "Read twice and referred to the Committee on the Judiciary.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr181-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Crime, Terrorism, Homeland Security, and Investigations", 
+      "subcommittee_id": "08"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Judiciary", 
+      "committee_id": "SSJU"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "37", 
+      "name": "Bass, Karen", 
+      "sponsored_at": "2015-01-16", 
+      "state": "CA", 
+      "thomas_id": "01996", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Bishop, Mike", 
+      "sponsored_at": "2015-01-26", 
+      "state": "MI", 
+      "thomas_id": "02249", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Cramer, Kevin", 
+      "sponsored_at": "2015-01-26", 
+      "state": "ND", 
+      "thomas_id": "02144", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Fitzpatrick, Michael G.", 
+      "sponsored_at": "2015-01-26", 
+      "state": "PA", 
+      "thomas_id": "01797", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Frelinghuysen, Rodney P.", 
+      "sponsored_at": "2015-01-26", 
+      "state": "NJ", 
+      "thomas_id": "00414", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Herrera Beutler, Jaime", 
+      "sponsored_at": "2015-01-26", 
+      "state": "WA", 
+      "thomas_id": "02071", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Jackson Lee, Sheila", 
+      "sponsored_at": "2015-01-22", 
+      "state": "TX", 
+      "thomas_id": "00588", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Jolly, David W.", 
+      "sponsored_at": "2015-01-16", 
+      "state": "FL", 
+      "thomas_id": "02199", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Kline, John", 
+      "sponsored_at": "2015-01-16", 
+      "state": "MN", 
+      "thomas_id": "01733", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Maloney, Carolyn B.", 
+      "sponsored_at": "2015-01-07", 
+      "state": "NY", 
+      "thomas_id": "00729", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "McSally, Martha", 
+      "sponsored_at": "2015-01-27", 
+      "state": "AZ", 
+      "thomas_id": "02225", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Noem, Kristi L.", 
+      "sponsored_at": "2015-01-26", 
+      "state": "SD", 
+      "thomas_id": "02060", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Paulsen, Erik", 
+      "sponsored_at": "2015-01-12", 
+      "state": "MN", 
+      "thomas_id": "01930", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Posey, Bill", 
+      "sponsored_at": "2015-01-26", 
+      "state": "FL", 
+      "thomas_id": "01915", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "51", 
+      "name": "Vargas, Juan", 
+      "sponsored_at": "2015-01-26", 
+      "state": "CA", 
+      "thomas_id": "02112", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Wagner, Ann", 
+      "sponsored_at": "2015-01-22", 
+      "state": "MO", 
+      "thomas_id": "02137", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-01-20", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2015-01-27T14:30:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-01-07", 
+  "number": "181", 
+  "official_title": "To provide justice for the victims of trafficking.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Justice for Victims of Trafficking Act of 2015", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Poe, Ted", 
+    "state": "TX", 
+    "thomas_id": "01802", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2015-01-27T14:30:00-05:00", 
+  "subjects": [
+    "Accounting and auditing", 
+    "Child health", 
+    "Child safety and welfare", 
+    "Crime and law enforcement", 
+    "Crime victims", 
+    "Crimes against children", 
+    "Criminal investigation, prosecution, interrogation", 
+    "Criminal justice information and records", 
+    "Criminal procedure and sentencing", 
+    "Elementary and secondary education", 
+    "Employment and training programs", 
+    "Evidence and witnesses", 
+    "Family services", 
+    "Home and outpatient care", 
+    "Homelessness and emergency shelter", 
+    "Human trafficking", 
+    "Law enforcement administration and funding", 
+    "Lawyers and legal services", 
+    "Performance measurement", 
+    "Pornography", 
+    "Sex offenses"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2015-01-27", 
+    "text": "Justice for Victims of Trafficking Act of 2015\n\n (Sec. 2) Amends the Trafficking Victims Protection Reauthorization Act of 2005 to authorize the Attorney General to make grants to eligible entities to develop, improve, or expand comprehensive domestic child trafficking deterrence programs that assist law enforcement officers, prosecutors, judicial officials, and qualified victims' services organizations in collaborating to rescue and restore the lives of trafficking victims, while investigating and prosecuting offenses involving child human trafficking. Defines an \"eligible entity\" as a state or local government that: (1) has significant criminal activity involving child human trafficking; (2) has demonstrated cooperation between federal, state, local, and tribal law enforcement agencies, prosecutors, and social service providers in addressing child human trafficking; and (3) has developed a workable, multi-disciplinary plan to combat child human trafficking. Authorizes such grants to be used for the establishment or enhancement of:\n\n specialized training programs for law enforcement officers, first responders, health care officials, child welfare officials, juvenile justice personnel, prosecutors, and judicial personnel; dedicated anti-child human trafficking law enforcement units and task forces to investigate child human trafficking offenses and to rescue victims; problem solving court programs for child human trafficking victims; and victims' services programs for victims of child human trafficking. (Sec. 3) Amends the Victims of Child Abuse Act of 1990 to: (1) include human trafficking and the production of child pornography within the definition of \"child abuse\" for purposes of such Act; and (3) authorize grants to develop and implement specialized programs to identify and provide direct services to victims of child pornography.\n\n(Sec. 4) Amends the federal criminal code to allow: (1) the Federal Bureau of Investigation or other federal agency responsible for an investigation to obtain wiretap warrants for investigation of the offenses of peonage, sale into involuntary servitude, forced labor, trafficking with respect to such offenses, or unlawful conduct with respect to documents in furtherance of such trafficking; and (2) state and local prosecutors to obtain wiretap warrants in state courts for investigation of human trafficking, offenses pertaining to child pornography, child sexual abuse, or coercion and enticement of children.\n\n(Sec. 5) Amends the Crime Control Act of 1990 to require the law enforcement agency that enters a missing children report with the National Crime Information Center to: (1) include a photograph of the child taken within the previous 180 days, and (2) notify the National Center for Missing and Exploited Children of each report received relating to a child reported missing from a foster care family home or childcare institution.\n\n(Sec. 6) Amends the federal criminal code to: (1) apply the prohibition against sex trafficking of minors or of other persons by force, fraud, or coercion to patronizing or soliciting such a person for a commercial sex act, and (2) provide that the government need not prove that the defendant recklessly disregarded the fact that the victim had not yet attained 18 years of age if the defendant had a reasonable opportunity to observe the victim.\n\n(Sec. 7) Directs the Attorney General to ensure that all task forces and working groups within the Violent Crimes Against Children Program engage in activities to increase the investigative capabilities of law enforcement personnel in the detection, investigation, and prosecution of persons who patronize or solicit children for sex.\n\n(Sec. 8) Modifies the standard for defense to a prosecution for transportation of a minor with intent to engage in criminal sexual activity to require the defendant to show by clear and convincing evidence (currently, by a preponderance of the evidence) that the defendant reasonably believed that the person with whom he or she engaged in the commercial sex act had attained 18 years of age.\n\n(Sec. 9) Requires the the Inspector General of the Department of Justice to audit grants awarded under this Act. Makes a grantee that is found to have an unresolved audit finding ineligible for an allocation of grant funds from the covered grant program during the first 2 fiscal years beginning after the end of the 12-month period from the date on which the final audit report is issued. Requires the Attorney General seek to recoup the costs of the repayment to the Fund from a grantee that was erroneously awarded grant funds. Makes a nonprofit organization that holds money in offshore accounts for the purpose of avoiding paying the tax on unrelated business income ineligible to receive any such grant. Conditions receipt of such a grant by a nonprofit organization on disclosure on its grant application of the compensation of its officers, directors, and trustees.\n\nRestricts the use of grant funds for conferences or lobbying.\n\n(Sec. 10) Amends the federal criminal code to include among the rights of crime victims: (1) the right to be informed in a timely manner of any plea agreement or deferred prosecution agreement, and (2) the right to be informed about all such rights and about victims' services required under the Victims' Rights and Restitution Act of 1990 and to be provided contact information for the Office of the Victims' Rights Ombudsman of the Department of Justice. Makes an exception to the requirement that the court of appeals take up and decide an application for a writ of mandamus regarding a motion asserting a victim's right within 72 hours after the petition for such writ has been filed if the litigants, with the approval of the court, have stipulated to a different time period for consideration.\n\n(Sec. 11) Expresses the sense of Congress that: (1) child human trafficking has no place in a civilized society and that persons who commit crimes relating to it should be prosecuted to the fullest extent of the law; (2) the United States, as a leader in monitoring and combating human trafficking throughout the world, must hold all nations to U.S. standards; (3) those who obtain, solicit, or patronize a victim of trafficking for the purpose of engaging in a commercial sex act are committing a human trafficking offense under federal law; (4) the demand for commercial sex is a primary cause of the human rights violation of human trafficking and the elimination of that violation requires the elimination of that demand; and (5) there are insufficient services and programs for victims of severe forms of human trafficking in the United States.\n\n(Sec. 12) Amends the Trafficking Victims Protection Act of 2000 to provide that U.S. citizens or lawful permanent residents who are victims of severe forms of trafficking shall not be required to obtain an official certification from the Secretary of Health and Human Services in order to access any of the specialized services described in this subsection or any other federal benefits and protections to which they are otherwise entitled."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Justice for Victims of Trafficking Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Justice for Victims of Trafficking Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Justice for Victims of Trafficking Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide justice for the victims of trafficking.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:24:43-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR181:@@@L&summ2=m&"
+}

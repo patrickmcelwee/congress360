@@ -1,0 +1,321 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-04-16", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Oversight and Government Reform.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-05-19", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-05-19", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported in the Nature of a Substitute (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2015-05-19", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-16T14:08:00-04:00", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 114-211.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-16T14:08:00-04:00", 
+      "calendar": "Union", 
+      "number": "159", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 159.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2015-07-27T15:19:00-04:00", 
+      "references": [], 
+      "text": "Mr. Chaffetz moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-27T15:19:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5486-5488", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-27T15:19:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1831.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-27T15:29:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H5486-5487", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2015-07-27T15:29:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-28", 
+      "references": [], 
+      "text": "Received in the Senate, read twice.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-03-16", 
+      "references": [
+        {
+          "reference": "CR S1548", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Measure laid before Senate by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-03-16", 
+      "how": "by Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_BACK:SENATE", 
+      "text": "Passed Senate with an amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2016-03-17", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-03-17T12:36:00-04:00", 
+      "references": [], 
+      "text": "Mr. Hurd (TX) asked unanimous consent that the House agree to the Senate amendment.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-03-17T12:36:00-04:00", 
+      "how": "without objection", 
+      "references": [
+        {
+          "reference": "CR H1446-1447", 
+          "type": "text as House agreed to Senate amendment"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "suspension": null, 
+      "text": "On motion that the House agree to the Senate amendment Agreed to without objection.", 
+      "type": "vote", 
+      "vote_type": "pingpong", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2016-03-17T12:36:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-03-24", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2016-03-30", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2016-03-30", 
+      "congress": "114", 
+      "law": "public", 
+      "number": "140", 
+      "references": [], 
+      "text": "Became Public Law No: 114-140.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "samdt3456-114", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3456"
+    }
+  ], 
+  "bill_id": "hr1831-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Oversight and Government Reform", 
+      "committee_id": "HSGO"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "9", 
+      "name": "Young, Todd C.", 
+      "sponsored_at": "2015-04-28", 
+      "state": "IN", 
+      "thomas_id": "02019", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "114", 
+    "law_type": "public", 
+    "number": "140"
+  }, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-05-19", 
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2016-03-30", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2016-03-17T12:36:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2016-03-16", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-04-16", 
+  "number": "1831", 
+  "official_title": "To establish the Commission on Evidence-Based Policymaking, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s991-114", 
+      "reason": "identical", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s991-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Evidence-Based Policymaking Commission Act of 2016", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Ryan, Paul D.", 
+    "state": "WI", 
+    "thomas_id": "01560", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2016-03-30", 
+  "subjects": [
+    "Advisory bodies", 
+    "Census and government statistics", 
+    "Congressional oversight", 
+    "General taxation matters", 
+    "Government information and archives", 
+    "Government operations and politics", 
+    "Government studies and investigations", 
+    "Policy sciences", 
+    "Right of privacy"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2016-03-30", 
+    "text": "Evidence-Based Policymaking Commission Act of 2016\n\n(Sec. 2) This bill establishes in the executive branch a Commission on Evidence-Based Policymaking.\n\n(Sec. 3) The bill provides for a 15 member Commission appointed by the President and congressional leaders with consideration given to individuals with expertise in economics, statistics, program evaluation, data security, confidentiality, or database management.\n\n(Sec. 4) The Commission must conduct a comprehensive study of the data inventory, data infrastructure, database security, and statistical protocols related to federal policymaking and the agencies responsible for maintaining that data to:\n\n determine the optimal arrangement for which administrative data on federal programs and tax expenditures, survey data, and related statistical data series may be integrated and made available to facilitate program evaluation, continuous improvement, policy-relevant research, and cost-benefit analyses; make recommendations on how data infrastructure, database security, and statistical protocols should be modified to best fulfill those objectives; and make recommendations on how best to incorporate outcomes measurement, institutionalize randomized controlled trials, and rigorous impact analysis into program design. The Commission shall consider whether a clearinghouse for program and survey data should be established and how to create such clearinghouse.\n\nThe Commission shall evaluate:\n\n what administrative data and survey data are relevant for program evaluation and federal policy-making and should be included in a clearinghouse; which survey data such administrative data may be linked to, in addition to linkages across administrative data series; what are the legal and administrative barriers to including or linking these data series; what data-sharing infrastructure should be used to facilitate data merging and access for research purposes; how a clearinghouse could be self-funded; which researchers, officials, and institutions should have access to data; what limitations should be placed on the use of data; how to protect information and ensure individual privacy and confidentiality; how data and results of research can be used to inform program administrators and policymakers to improve program design; what incentives may facilitate interagency sharing of information to improve programmatic effectiveness and enhance data accuracy and comprehensiveness; and how individuals whose data are used should be notified of its usages. The Commission shall, upon the affirmative vote of at least three-quarters of its members, submit to the President and Congress a detailed statement of its findings and conclusions, together with its recommendations for appropriate legislation or administrative actions.\n\n(Sec. 5) The following agencies shall advise and consult with the Commission on matters within their respective areas of responsibility:\n\n the Bureau of the Census; the Internal Revenue Service; the Social Security Administration; the Departments of Health and Human Services, Agriculture, Housing and Urban Development, Education, and Justice; the Office of Management and Budget; the Bureau of Economic Analysis; and the Bureau of Labor Statistics. (Sec. 6) The agencies identified as Principal Statistical Agencies in the report entitled \"Statistical Programs of the United States Government, Fiscal Year 2015,\" published by the Office of Management and Budget, shall transfer up to $3 million to the Bureau of the Census, upon request, for carrying out the activities of the Commission.\n\nThe Bureau of the Census shall provide administrative support to the Commission.\n\nNo additional funds may be authorized to carry out this Act.\n\n(Sec. 8) The Commission shall terminate not later than 18 months after enactment of this Act."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Evidence-Based Policymaking Commission Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Evidence-Based Policymaking Commission Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Evidence-Based Policymaking Commission Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "is_for_portion": false, 
+      "title": "Evidence-Based Policymaking Commission Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": false, 
+      "title": "Evidence-Based Policymaking Commission Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To establish the Commission on Evidence-Based Policymaking, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:38:48-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR1831:@@@L&summ2=m&"
+}

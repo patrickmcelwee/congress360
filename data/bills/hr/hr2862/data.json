@@ -1,0 +1,148 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-06-23", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-07-09", 
+      "committees": [
+        "HSHM"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2862-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Crime, Terrorism, Homeland Security, and Investigations", 
+      "subcommittee_id": "08"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Bordallo, Madeleine Z.", 
+      "sponsored_at": "2015-06-23", 
+      "state": "GU", 
+      "thomas_id": "01723", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Brady, Robert A.", 
+      "sponsored_at": "2015-06-23", 
+      "state": "PA", 
+      "thomas_id": "01469", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Gosar, Paul A.", 
+      "sponsored_at": "2015-09-18", 
+      "state": "AZ", 
+      "thomas_id": "01992", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Rigell, E. Scott", 
+      "sponsored_at": "2015-06-23", 
+      "state": "VA", 
+      "thomas_id": "02068", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Walz, Timothy J.", 
+      "sponsored_at": "2015-06-23", 
+      "state": "MN", 
+      "thomas_id": "01856", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-06-23", 
+  "number": "2862", 
+  "official_title": "To authorize the amendment of the Federal sentencing guidelines to provide for an increase in 2 levels if the defendant intentionally selected any victim or any property as the object of the offense of conviction because of the victim's military service or status as a veteran.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Veterans Protection Enhancement Act", 
+  "sponsor": {
+    "district": "17", 
+    "name": "Rooney, Thomas J.", 
+    "state": "FL", 
+    "thomas_id": "01916", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-06-23", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Crime and law enforcement", 
+    "Crime victims", 
+    "Crimes against property", 
+    "Criminal procedure and sentencing", 
+    "Military personnel and dependents", 
+    "U.S. Sentencing Commission"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-06-23", 
+    "text": "Veterans Protection Enhancement Act\n\nThis bill directs the U.S. Sentencing Commission to amend the federal sentencing guidelines to provide for a two-level sentencing increase if the defendant intentionally selected any victim or any property because of the victim's military service or veteran status."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Veterans Protection Enhancement Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To authorize the amendment of the Federal sentencing guidelines to provide for an increase in 2 levels if the defendant intentionally selected any victim or any property as the object of the offense of conviction because of the victim's military service or status as a veteran.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:47:37-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2862:@@@L&summ2=m&"
+}

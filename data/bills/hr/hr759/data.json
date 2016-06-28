@@ -1,0 +1,304 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-02-05", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-03-16", 
+      "committees": [
+        "HSHM"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-02-05", 
+      "committees": [
+        "HSHM"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Subcommittee on Crime, Terrorism, Homeland Security, and Investigations Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-11", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-11", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr759-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Crime, Terrorism, Homeland Security, and Investigations", 
+      "subcommittee_id": "08"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "37", 
+      "name": "Bass, Karen", 
+      "sponsored_at": "2016-02-12", 
+      "state": "CA", 
+      "thomas_id": "01996", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Cicilline, David N.", 
+      "sponsored_at": "2015-07-07", 
+      "state": "RI", 
+      "thomas_id": "02055", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Duckworth, Tammy", 
+      "sponsored_at": "2015-07-29", 
+      "state": "IL", 
+      "thomas_id": "02123", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Duncan, John J., Jr.", 
+      "sponsored_at": "2015-07-20", 
+      "state": "TN", 
+      "thomas_id": "00322", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "27", 
+      "name": "Farenthold, Blake", 
+      "sponsored_at": "2015-06-24", 
+      "state": "TX", 
+      "thomas_id": "02067", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Gowdy, Trey", 
+      "sponsored_at": "2015-02-05", 
+      "state": "SC", 
+      "thomas_id": "02058", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Jackson Lee, Sheila", 
+      "sponsored_at": "2016-02-12", 
+      "state": "TX", 
+      "thomas_id": "00588", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Jeffries, Hakeem S.", 
+      "sponsored_at": "2015-02-05", 
+      "state": "NY", 
+      "thomas_id": "02149", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Labrador, Raul R.", 
+      "sponsored_at": "2015-07-13", 
+      "state": "ID", 
+      "thomas_id": "02011", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Larsen, Rick", 
+      "sponsored_at": "2016-06-10", 
+      "state": "WA", 
+      "thomas_id": "01675", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "33", 
+      "name": "Lieu, Ted", 
+      "sponsored_at": "2015-12-08", 
+      "state": "CA", 
+      "thomas_id": "02230", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Messer, Luke", 
+      "sponsored_at": "2016-04-19", 
+      "state": "IN", 
+      "thomas_id": "02130", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "32", 
+      "name": "Napolitano, Grace F.", 
+      "sponsored_at": "2016-05-12", 
+      "state": "CA", 
+      "thomas_id": "01602", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Polis, Jared", 
+      "sponsored_at": "2016-03-16", 
+      "state": "CO", 
+      "thomas_id": "01910", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Quigley, Mike", 
+      "sponsored_at": "2015-10-20", 
+      "state": "IL", 
+      "thomas_id": "01967", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Richmond, Cedric L.", 
+      "sponsored_at": "2015-02-05", 
+      "state": "LA", 
+      "thomas_id": "02023", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Russell, Steve", 
+      "sponsored_at": "2015-07-16", 
+      "state": "OK", 
+      "thomas_id": "02265", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Sensenbrenner, F. James, Jr.", 
+      "sponsored_at": "2016-02-24", 
+      "state": "WI", 
+      "thomas_id": "01041", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "51", 
+      "name": "Vargas, Juan", 
+      "sponsored_at": "2016-03-15", 
+      "state": "CA", 
+      "thomas_id": "02112", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2016-02-05", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-02-05", 
+  "number": "759", 
+  "official_title": "To enhance public safety by improving the effectiveness and efficiency of the Federal prison system with offender risk and needs assessment, individual risk reduction incentives and rewards, and risk and recidivism reduction.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Recidivism Risk Reduction Act", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Chaffetz, Jason", 
+    "state": "UT", 
+    "thomas_id": "01956", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2016-02-11", 
+  "subjects": [
+    "Congressional oversight", 
+    "Correctional facilities and imprisonment", 
+    "Crime and law enforcement", 
+    "Crime prevention", 
+    "Employment and training programs", 
+    "Government studies and investigations", 
+    "Public-private cooperation", 
+    "Religion", 
+    "Vocational and technical education"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-02-05", 
+    "text": "Recidivism Risk Reduction Act\n\n Directs the Attorney General to: (1) develop a Post-Sentencing Risk and Needs Assessment System; (2) make recommendations regarding recidivism reduction programs and productive activities (programs); (3) conduct ongoing research and data analysis on the best practices relating to the use of offender risk and needs assessment tools, the best available tools, the most effective and efficient uses of such tools, and the most effective programs for prisoners classified at different recidivism risk levels and for addressing the specific needs of prisoners; (4) develop risk and needs assessment tools for such System based on such research and analysis; and (5) review the System, recommendations, and research biennially to determine whether any revisions or updates should be made.\n\nRequires the System to provide: (1) tools to classify the recidivism risk level of prisoners and assign appropriate programs, reassess such risk level periodically and make appropriate reassignments, and determine when a prisoner is ready to transfer into pre-release custody; (2) guidance on the programs that should be assigned for each classification of prisoner; (3) incentives and rewards for prisoners to participate in and complete programs, including family phone and visitation privileges, time credits, and transfers into pre-release custody; and (4) guidelines for the Bureau of Prisons to reduce rewards earned by prisoners who violate prison or program rules. Bars prisoners convicted of specified offenses from receiving time credits.\n\nDirects the Attorney General to: (1) develop training programs for Bureau officials and employees responsible for administering the System; (2) monitor and assess the use of the System; (3) review the effectiveness of existing programs in prisons operated by the Bureau and in state-operated prisons; and (4) make recommendations to the Bureau regarding the expansion of programming and activity capacity, the replication of effective programs, and the addition of any new programs that would help to reduce recidivism.\n\nDirects the Bureau to: (1) implement the System and complete a risk and needs assessment for each prisoner; (2) expand the effective programs it offers and add any new ones necessary to effectively implement the System; (3) phase in such programs according to a specified schedule; and (4) develop policies for the warden of each prison to enter into partnerships with specified nonprofit organizations, institutions of higher education, and private entities to expand such programs.\n\nSets forth procedures for the transfer into pre-release custody of a prisoner classified as having a low risk of recidivating."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Recidivism Risk Reduction Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To enhance public safety by improving the effectiveness and efficiency of the Federal prison system with offender risk and needs assessment, individual risk reduction incentives and rewards, and risk and recidivism reduction.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:29:37-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR759:@@@L&summ2=m&"
+}

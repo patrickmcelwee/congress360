@@ -1,0 +1,105 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-11-19", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-12-04", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Immigration and Border Security.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4095-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Immigration and Border Security", 
+      "subcommittee_id": "01"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "9", 
+      "name": "Grayson, Alan", 
+      "sponsored_at": "2016-03-03", 
+      "state": "FL", 
+      "thomas_id": "01914", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-11-19", 
+  "number": "4095", 
+  "official_title": "To amend the charter of the Gold Star Wives of America to remove the restriction on the federally chartered corporation, and directors and officers of the corporation, attempting to influence legislation.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1366-114", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "26", 
+    "name": "Brownley, Julia", 
+    "state": "CA", 
+    "thomas_id": "02106", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-11-19", 
+  "subjects": [
+    "Federally chartered organizations", 
+    "Government operations and politics", 
+    "Military personnel and dependents"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-11-19", 
+    "text": "This bill amends the charter of the Gold Star Wives of America corporation to repeal the prohibition against any actions by the corporation or by a director or officer that contribute to, support, or participate in any political activity or in any manner attempt to influence legislation."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the charter of the Gold Star Wives of America to remove the restriction on the federally chartered corporation, and directors and officers of the corporation, attempting to influence legislation.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:57:54-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4095:@@@L&summ2=m&"
+}

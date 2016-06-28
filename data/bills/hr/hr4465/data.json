@@ -1,0 +1,333 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-02-04", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-02-04", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "text": "Referred to House Transportation and Infrastructure", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-02-04", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "text": "Referred to House Oversight and Government Reform", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-02-05", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-03-02", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-03-02", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-03-02", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2016-04-14", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-14", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Ordered to be Reported in the Nature of a Substitute (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2016-05-23T12:21:00-04:00", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 114-578, Part I.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-23T12:21:00-04:00", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 114-578, Part II.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-23T12:22:00-04:00", 
+      "calendar": "Union", 
+      "number": "448", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 448.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2016-05-23T19:31:00-04:00", 
+      "references": [], 
+      "text": "Mr. Barletta moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-23T19:31:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2933-2940", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-23T19:31:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 4465.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-23T19:53:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H2933-2938", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2016-05-23T19:53:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-24", 
+      "references": [], 
+      "text": "Received in the Senate.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4465-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Economic Development, Public Buildings and Emergency Management", 
+      "subcommittee_id": "13"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Oversight and Government Reform", 
+      "committee_id": "HSGO"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "11", 
+      "name": "Barletta, Lou", 
+      "sponsored_at": "2016-02-04", 
+      "state": "PA", 
+      "thomas_id": "02054", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Carson, Andre", 
+      "sponsored_at": "2016-02-04", 
+      "state": "IN", 
+      "thomas_id": "01889", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Chaffetz, Jason", 
+      "sponsored_at": "2016-02-04", 
+      "state": "UT", 
+      "thomas_id": "01956", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Cummings, Elijah E.", 
+      "sponsored_at": "2016-02-04", 
+      "state": "MD", 
+      "thomas_id": "00256", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "DeFazio, Peter A.", 
+      "sponsored_at": "2016-02-04", 
+      "state": "OR", 
+      "thomas_id": "00279", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "LaMalfa, Doug", 
+      "sponsored_at": "2016-02-23", 
+      "state": "CA", 
+      "thomas_id": "02100", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Shuster, Bill", 
+      "sponsored_at": "2016-02-04", 
+      "state": "PA", 
+      "thomas_id": "01681", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2016-03-02", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2016-05-23T19:53:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-02-04", 
+  "number": "4465", 
+  "official_title": "To decrease the deficit by consolidating and selling Federal buildings and other civilian real property, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2375-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s3011-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Federal Assets Sale and Transfer Act of 2016", 
+  "sponsor": {
+    "district": "10", 
+    "name": "Denham, Jeff", 
+    "state": "CA", 
+    "thomas_id": "01995", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2016-05-23T19:53:00-04:00", 
+  "subjects": [
+    "Accounting and auditing", 
+    "Budget deficits and national debt", 
+    "Congressional oversight", 
+    "Executive agency funding and structure", 
+    "Government buildings, facilities, and property", 
+    "Government information and archives", 
+    "Government operations and politics", 
+    "Government studies and investigations", 
+    "Government trust funds", 
+    "Homelessness and emergency shelter", 
+    "Land transfers", 
+    "Parks, recreation areas, trails"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2016-05-23", 
+    "text": "Federal Assets Sale and Transfer Act of 2016\n\n(Sec. 4) This bill establishes the Public Buildings Reform Board to identify opportunities for the federal government to reduce significantly its inventory of civilian real property and reduce its costs.\n\n(Sec. 10) The Board shall terminate six years after enactment of this Act.\n\n(Sec. 11) Each federal agency shall submit to the General Services Administration (GSA) and the Office of Management and Budget (OMB): (1) current data on all federal civilian real properties owned, leased, or controlled by each agency; (2) recommendations on such properties that can be disposed of or outleased or that otherwise no longer meet agency needs or that can be transferred, exchanged, consolidated, co-located, reconfigured, or redeveloped; and (3) recommendations on operational efficiencies that the government can realize in its operation and maintenance of such properties. The OMB shall review agency recommendations, develop standards for reviewing such recommendations, and submit such standards and its recommendations to the Board.\n\nThe OMB shall incorporate specified factors in developing such standards, including the extent and timing of potential costs and savings beginning with the date of completion of the proposed recommendation, the economic impact on existing communities in the vicinity of the civilian real property, and the extent to which:\n\n the civilian real property could be used to produce the highest and best value and return for the taxpayer; the operating and maintenance costs are reduced through consolidating, co-locating, and reconfiguring space and through realizing other operational efficiencies; the utilization rate is being maximized and is consistent with nongovernmental industry standards; reliance on leasing for long-term space needs is reduced; a civilian real property aligns with the current mission of the agency; there are opportunities to consolidate similar operations across or within agencies; energy consumption is reduced; and public access to agency services is maintained or enhanced. Standards developed by OMB shall incorporate and apply clear standard utilization rates to the extent that such rates increase efficiency and provide performance data. The utilization rates shall be consistent throughout each applicable category of space and with nongovernment space utilization rates. To the extent the space utilization rate of a given agency exceeds the utilization rates to be applied under this bill, the OMB may recommend realignment, co-location, consolidation, or other action to improve space utilization.\n\n(Sec. 12) The Board shall: (1) identify at least five federal civilian properties not on the list of surplus or excess properties that have a total fair market value of not less than $500 million and not more than $750 million, (2) transmit a list of such properties to the OMB and Congress as Board recommendations, (3) analyze the inventory of federal civilian real property and the associated agency recommendations, (4) implement an accounting system to evaluate the cost of and returns on recommendations (under which the Board shall set a standard performance period of not less than 15 years), and (5) report its conclusions and recommendations to the OMB. The Board's first report shall include transactions valued, in total, at not more than $2.5 billion and its second report shall include transactions valued, in total, at not more than $4.75 billion.\n\n(Sec. 13) The OMB shall: (1) review Board recommendations and transmit to the Board and Congress a report on its approval or disapproval of such recommendations, and (2) report information about the properties involved to the Department of Housing and Urban Development (HUD).\n\n(Sec. 14) Each agency shall: (1) submit a report of excess to the GSA regarding the federal civilian properties for which recommendations have been approved (which properties shall be sold by the GSA within one year for fair market value at highest and best use), (2) immediately begin preparation to carry out the Board's recommendations after the OMB transmits such recommendations to Congress, (3) initiate all activities necessary for implementation of such recommendations not later than two years after such transmittal, and (4) complete implementation within six years after transmittal unless extenuating circumstances prevent timely completion.\n\nHUD shall identify any suitable properties for use as a property benefitting the mission of assistance to the homeless for the purposes of further screening pursuant to the McKinney-Vento Homeless Assistance Act. The OMB may exclude from the Board's recommendations properties that are not suitable to benefit the homeless but that the OMB determines are suitable for use as a state or local public park or recreation area.\n\nThe bill permits the transfer of federal civilian property only if: (1) the disposing agency certifies that the costs of all environmental restoration, waste management, and environmental compliance activities otherwise to be paid by the agency with respect to the property equal or exceed the fair market value of the property; or (2) such costs are lower than the fair market value of the property and the recipient agrees to pay the difference. The agency may pay a recipient the amount by which such environmental costs exceed the property's fair market value.\n\n(Sec. 15) The bill authorizes specified sums to be appropriated for salaries and expenses of the Board and sums to be deposited into the Asset Proceeds and Space Management Fund for activities related to the implementation of the Board's recommendations.\n\n(Sec. 16) There is established in the Treasury the Public Buildings Reform Board Salaries and Expenses Account and the Public Buildings Reform Board--Asset Proceeds and Space Management Fund.\n\n(Sec. 17) The GSA shall include, among other requirements for transmission to Congress of a prospectus of a proposed facility, a statement of how the proposed project is consistent with the standards and criteria developed under this bill.\n\n(Sec. 18) Actions taken pursuant to provisions of this bill regarding Board duties and OMB review, and actions of the Board, are not subject to judicial review.\n\n(Sec. 19) The Government Accountability Office shall annually review and report to Congress on agency implementation activities under this bill.\n\n(Sec. 20) After termination of the Board, the net proceeds from the transfer of excess real property to another federal agency or from the sale, lease, or other disposition of surplus real property shall be deposited into the real property account of the agency that had custody of the real property at the time it was determined to be excess. Such proceeds may be expended only as authorized in annual appropriations Acts. Any net proceeds that are not expended shall be used for deficit reduction. Any net proceeds not obligated within three years after the date of deposit and not expended within five years after such date shall be deposited in the Treasury as miscellaneous receipts.\n\n(Sec. 21) The GSA shall: (1) publish a database of all federal real property under the custody and control of all executive agencies, other than federal real property excluded for reasons of national security, and (2) make such database available to other federal agencies and accessible by the public at no cost through GSA's website.\n\n(Sec. 22) The bill amends the McKinney-Vento Homeless Assistance Act to allow the use of surplus property to provide permanent housing with or without supportive services to assist the homeless.\n\n(Sec. 23) The GSA, in determining whether a museum is attended by the public and therefore eligible, as a nonprofit, tax-exempt educational or public health institution or organization, to receive donated federal surplus property, shall consider the museum to be public if it, at a minimum, accedes to any request submitted for access during business hours.\n\n(Sec. 24) The bill directs the GSA, by December 31, 2018, to sell, at fair market value at highest and best use: (1) a specified property bounded by 12th Street, Independence Avenue, C Street, and the James Forrestal Building in Southwest Washington, D.C.; and (2) the building known as the Cotton Annex in Southwest Washington, D.C. Any net proceeds received shall be paid into the Federal Buildings Fund and may be expended only subject to a specific future appropriation."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Federal Assets Sale and Transfer Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Federal Assets Sale and Transfer Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To decrease the deficit by consolidating and selling Federal buildings and other civilian real property, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:01:00-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4465:@@@L&summ2=m&"
+}

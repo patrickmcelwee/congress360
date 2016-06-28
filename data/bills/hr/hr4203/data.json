@@ -1,0 +1,96 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-12-09", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Transportation and Infrastructure.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-12-10", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Aviation.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4203-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Aviation", 
+      "subcommittee_id": "05"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-12-09", 
+  "number": "4203", 
+  "official_title": "To amend title 49, United States Code, to prohibit certain fees related to aircraft lavatories, to require refunding baggage fees if baggage is delayed, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Comfortable and Fair Flight Act", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Lipinski, Daniel", 
+    "state": "IL", 
+    "thomas_id": "01781", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-12-09", 
+  "subjects": [
+    "Aviation and airports", 
+    "Consumer affairs", 
+    "Transportation and public works", 
+    "Transportation costs"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-12-09", 
+    "text": "Comfortable and Fair Flight Act\n\nThis bill prohibits an air carrier operating an aircraft from charging ticketed passengers a fee for the use of a lavatory on such aircraft. If an aircraft lacks an adequate number of functioning lavatories at the time of boarding, the carrier shall permit a ticketed passenger to select alternative equivalent air transportation operated by such carrier without charging an additional fee.\n\n A carrier must refund any baggage fee for baggage that does not arrive within two hours after the passenger arrives at the scheduled destination."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Comfortable and Fair Flight Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 49, United States Code, to prohibit certain fees related to aircraft lavatories, to require refunding baggage fees if baggage is delayed, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:58:48-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4203:@@@L&summ2=m&"
+}

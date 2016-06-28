@@ -1,0 +1,104 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-01-13", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Homeland Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-01-22", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Border and Maritime Security.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4391-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM", 
+      "subcommittee": "Subcommittee on Border and Maritime Security", 
+      "subcommittee_id": "11"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-01-13", 
+  "number": "4391", 
+  "official_title": "To amend the Illegal Immigration and Immigrant Responsibility Act of 1996 to direct the Secretary of Homeland Security to complete the required 700-mile southwest border fencing by December 31, 2016, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr4034-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Finish the Fence Act of 2016", 
+  "sponsor": {
+    "district": "15", 
+    "name": "Ross, Dennis A.", 
+    "state": "FL", 
+    "thomas_id": "02003", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-01-13", 
+  "subjects": [
+    "Border security and unlawful immigration", 
+    "Immigration", 
+    "Intergovernmental relations", 
+    "Latin America", 
+    "Mexico", 
+    "State and local government operations"
+  ], 
+  "subjects_top_term": "Immigration", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2016-01-13", 
+    "text": "Finish the Fence Act of 2016\n\nThis bill amends the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 with respect to construction of border fencing and road improvements to direct the Department of Homeland Security (DHS) to complete the required 700-mile southwest border fencing by December 31, 2016.\n\nThe Secure Fence Act of 2006 is amended to direct DHS, in consultation with state and local officials along the U.S.-Mexico border, to achieve operational control over U.S. international land and maritime borders by December 31, 2016."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Finish the Fence Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Illegal Immigration and Immigrant Responsibility Act of 1996 to direct the Secretary of Homeland Security to complete the required 700-mile southwest border fencing by December 31, 2016, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:00:23-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4391:@@@L&summ2=m&"
+}

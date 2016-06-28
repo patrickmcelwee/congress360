@@ -1,0 +1,265 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-11-02", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Homeland Security, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-11-02", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "text": "Referred to House Homeland Security", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-11-02", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "text": "Referred to House Transportation and Infrastructure", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-11-04", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-11-04", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2015-12-15T12:16:00-05:00", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-379, Part I.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-12-15T12:17:00-05:00", 
+      "references": [], 
+      "text": "Committee on Transportation discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-12-15T12:17:00-05:00", 
+      "calendar": "Union", 
+      "number": "288", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 288.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2015-12-16T12:25:00-05:00", 
+      "references": [], 
+      "text": "Mrs. Miller (MI) moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-12-16T12:25:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H9352-9355", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-12-16T12:25:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3878.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-12-16T12:42:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H9353", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2015-12-16T12:42:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-12-17", 
+      "committees": [
+        "SSCM"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-02-01", 
+      "references": [], 
+      "text": "Star Print ordered on the bill.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3878-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Commerce, Science, and Transportation", 
+      "committee_id": "SSCM"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "47", 
+      "name": "Lowenthal, Alan S.", 
+      "sponsored_at": "2015-12-01", 
+      "state": "CA", 
+      "thomas_id": "02111", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Miller, Candice S.", 
+      "sponsored_at": "2015-11-05", 
+      "state": "MI", 
+      "thomas_id": "01731", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Richmond, Cedric L.", 
+      "sponsored_at": "2015-12-01", 
+      "state": "LA", 
+      "thomas_id": "02023", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-11-04", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2015-12-16T12:42:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-11-02", 
+  "number": "3878", 
+  "official_title": "To enhance cybersecurity information sharing and coordination at ports in the United States, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Strengthening Cybersecurity Information Sharing and Coordination in Our Ports Act of 2015", 
+  "sponsor": {
+    "district": "35", 
+    "name": "Torres, Norma J.", 
+    "state": "CA", 
+    "thomas_id": "02231", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2015-12-16T12:42:00-05:00", 
+  "subjects": [
+    "Computer security and identity theft", 
+    "Federal-Indian relations", 
+    "Government information and archives", 
+    "Government studies and investigations", 
+    "Intergovernmental relations", 
+    "Law enforcement administration and funding", 
+    "Marine and inland water transportation", 
+    "Navigation, waterways, harbors", 
+    "State and local government operations", 
+    "Transportation and public works", 
+    "Transportation safety and security"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2015-12-16", 
+    "text": "Strengthening Cybersecurity Information Sharing and Coordination in Our Ports Act of 2015\n\n(Sec. 2) This bill requires the Department of\u00a0Homeland Security (DHS) to implement, and evaluate at least every two years, a maritime cybersecurity risk assessment model to evaluate current and future cybersecurity risks. The model must be consistent with the National Institute of Standards and Technology Framework for Improving Critical Infrastructure Cybersecurity and any updates pursuant to the Cybersecurity Enhancement Act of 2014.\n\nDHS must also: (1) seek to ensure participation of at least one information sharing and analysis organization representing the maritime community in the National Cybersecurity and Communications Integration Center (NCCIC); (2) establish guidelines for voluntary reporting of maritime-related cybersecurity risks and incidents to the NCCIC and other appropriate federal agencies; and (3) request the National Maritime Security Advisory Committee to report and make recommendations to DHS regarding the enhancement of cybersecurity information sharing between relevant federal agencies and state, local, and tribal governments, public safety and emergency response agencies, law enforcement and security organizations, the maritime industry, port owners and operators, and terminal owners and operators.\n\n(Sec. 3) The Coast Guard must: (1) direct Area Maritime Security Advisory Committees to facilitate the sharing of cybersecurity risks and incidents to address port-specific cybersecurity risks, including, possibly, by establishing a working group of members of such committees to address port-specific cybersecurity vulnerabilities; and (2) require area maritime security plans and facility security plans to include a mitigation plan to prevent, manage, and respond to cybersecurity risks.\n\n(Sec. 4) DHS's vulnerability assessments of facilities and vessels that may be involved in a transportation security incident must identify weaknesses in cybersecurity. Owners or operators of such vessels or facilities must include provisions regarding prevention, management, and response to cybersecurity risks in their security plans for deterring such incidents."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Strengthening Cybersecurity Information Sharing and Coordination in Our Ports Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Strengthening Cybersecurity Information Sharing and Coordination in Our Ports Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Strengthening Cybersecurity Information Sharing and Coordination in Our Ports Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To enhance cybersecurity information sharing and coordination at ports in the United States, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:56:05-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3878:@@@L&summ2=m&"
+}

@@ -1,0 +1,113 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-02-04", 
+      "committees": [
+        "HSAS"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Armed Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-03-04", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Military Personnel.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4478-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS", 
+      "subcommittee": "Subcommittee on Military Personnel", 
+      "subcommittee_id": "02"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Zinke, Ryan K.", 
+      "sponsored_at": "2016-02-04", 
+      "state": "MT", 
+      "thomas_id": "02254", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-02-04", 
+  "number": "4478", 
+  "official_title": "To amend the Military Selective Service Act to extend the registration and conscription requirements of the Selective Service System, currently applicable only to men between the ages of 18 and 26, to women between those ages to reflect the opening of Combat Arms Military Occupational Specialties to women.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr4909-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Draft America's Daughters Act of 2016", 
+  "sponsor": {
+    "district": "50", 
+    "name": "Hunter, Duncan D.", 
+    "state": "CA", 
+    "thomas_id": "01909", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-02-04", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Licensing and registrations", 
+    "Military personnel and dependents", 
+    "Sex, gender, sexual orientation discrimination", 
+    "Women's employment"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2016-02-04", 
+    "text": "Draft America's Daughters Act of 2016\n\nThis bill amends the Military Selective Service Act to extend the registration and conscription requirements of the Selective Service System to all U.S. citizens and residents between the ages of 18 and 26. (Currently such provisions apply only to men.)"
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Draft America's Daughters Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Military Selective Service Act to extend the registration and conscription requirements of the Selective Service System, currently applicable only to men between the ages of 18 and 26, to women between those ages to reflect the opening of Combat Arms Military Occupational Specialties to women.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:01:07-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4478:@@@L&summ2=m&"
+}

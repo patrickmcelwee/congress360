@@ -1,0 +1,145 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-12-16", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on the Judiciary, and in addition to the Committee on Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-12-16", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Referred to House Judiciary", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-12-16", 
+      "references": [
+        {
+          "reference": "Permanent Select", 
+          "type": null
+        }
+      ], 
+      "text": "Referred to House Intelligence", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-01-15", 
+      "committees": [
+        "HSHM"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4270-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Crime, Terrorism, Homeland Security, and Investigations", 
+      "subcommittee_id": "08"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Intelligence (Permanent Select)", 
+      "committee_id": "HLIG"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-12-16", 
+  "number": "4270", 
+  "official_title": "To provide authority for access to certain business records collected under the Foreign Intelligence Surveillance Act of 1978 prior to November 29, 2015, to make the authority for roving surveillance, the authority to treat individual terrorists as agents of foreign powers, and title VII of the Foreign Intelligence Surveillance Act of 1978 permanent, and to modify the certification requirements for access to telephone toll and transactional records by the Federal Bureau of Investigation, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr2048-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s2295-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s2344-114", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Liberty Through Strength Act II", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Pompeo, Mike", 
+    "state": "KS", 
+    "thomas_id": "02022", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-12-16", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Business records", 
+    "Criminal investigation, prosecution, interrogation", 
+    "Government information and archives", 
+    "Intelligence activities, surveillance, classified information", 
+    "Telephone and wireless communication", 
+    "Terrorism"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-12-16", 
+    "text": "Liberty Through Strength Act II\n\nThis bill requires the National Security Agency (NSA) to have access to business records, telephone call records, and other tangible things collected under the Foreign Intelligence Surveillance Act of 1978 (FISA) prior to November 29, 2015, in the same manner and for the same purposes for which the NSA had access to such records prior to such date (thereby allowing the NSA to access such records in the same manner as prior to the effective date of amendments made by the USA FREEDOM Act of 2015).\n\nThe NSA must maintain such records for five years after they are acquired.\n\nThe NSA's authority to access such business records under this Act shall be in effect for five years after enactment of this Act.\n\nThe bill amends the USA PATRIOT Improvement and Reauthorization Act of 2005, the Intelligence Reform and Terrorism Prevention Act of 2004, and the FISA Amendments Act of 2008 to make permanent expiring FISA provisions concerning: (1) roving electronic surveillance orders, (2) a revised definition of \"agent of a foreign power\" that includes any non-U.S. persons who engage in international terrorism or preparatory activities (commonly referred to as the \"lone wolf\" provision), and (3) authority for the Department of Justice and the Director of National Intelligence to authorize the targeting of non-U.S. persons located outside the United States to acquire foreign intelligence information.\n\nThe federal criminal code is amended to: (1) return procedures for the Federal Bureau of Investigation's (FBI's) access to toll and transactional records to how they operated prior to the USA FREEDOM Act in order to allow the FBI (without using a term that specifically identifies a person, entity, telephone, or account) to request the name, address, length of service, and local and long distance toll billing records of a person or entity if the FBI certifies to the wire or electronic communication service provider that such information is relevant to an authorized investigation to protect against international terrorism or clandestine intelligence activities; and (2) add electronic communications transactional records as information that the FBI may request under such certification procedures."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Liberty Through Strength Act II", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide authority for access to certain business records collected under the Foreign Intelligence Surveillance Act of 1978 prior to November 29, 2015, to make the authority for roving surveillance, the authority to treat individual terrorists as agents of foreign powers, and title VII of the Foreign Intelligence Surveillance Act of 1978 permanent, and to modify the certification requirements for access to telephone toll and transactional records by the Federal Bureau of Investigation, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:59:22-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4270:@@@L&summ2=m&"
+}

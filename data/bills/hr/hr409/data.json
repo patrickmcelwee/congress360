@@ -1,0 +1,146 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-01-20", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Ways and Means, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-01-20", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "text": "Referred to House Ways and Means", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-01-20", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Referred to House Judiciary", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-01-27", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Social Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-02-05", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr409-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM", 
+      "subcommittee": "Subcommittee on Social Security", 
+      "subcommittee_id": "01"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Regulatory Reform, Commercial And Antitrust Law", 
+      "subcommittee_id": "05"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-01-20", 
+  "number": "409", 
+  "official_title": "To reinstate the 10-year statute of limitations period applicable to collection of amounts paid to Social Security beneficiaries by administrative offset, and prevent recovery of overpayments from individuals under 18 years of age.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s204-114", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Stop Punishing Innocent Americans Act", 
+  "sponsor": {
+    "district": "16", 
+    "name": "Buchanan, Vern", 
+    "state": "FL", 
+    "thomas_id": "01840", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-01-20", 
+  "subjects": [
+    "Administrative remedies", 
+    "Civil actions and liability", 
+    "Debt collection", 
+    "Poverty and welfare assistance", 
+    "Social security and elderly assistance", 
+    "Social welfare", 
+    "Tax administration and collection, taxpayers"
+  ], 
+  "subjects_top_term": "Social welfare", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-01-20", 
+    "text": "Stop Punishing Innocent Americans Act \n\n Reinstates the 10-year statute of limitations period applicable to the collection of amounts paid to Social Security beneficiaries by administrative offset. (This former statute of limitations was repealed effective May 22, 2008.)\n\nAmends title II (Old Age, Survivors and Disability Insurance) (OASDI) of the Social Security Act (SSAct), with respect to overpayments under OASDI or SSAct title XVI (Supplementary Security Income) (SSI), to prevent the recovery of any such overpayments made to or on behalf of individuals under age 18 by shielding such individuals from liability for the repayment of such amounts.\n\nAmends the Internal Revenue Code to prohibit any tax refund offset of Social Security overpayments made to or on behalf of a minor (under age 18)."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Stop Punishing Innocent Americans Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To reinstate the 10-year statute of limitations period applicable to collection of amounts paid to Social Security beneficiaries by administrative offset, and prevent recovery of overpayments from individuals under 18 years of age.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:26:38-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR409:@@@L&summ2=m&"
+}

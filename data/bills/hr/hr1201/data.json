@@ -1,0 +1,142 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-03-02", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-03-31", 
+      "committees": [
+        "HSHM"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1201-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Crime, Terrorism, Homeland Security, and Investigations", 
+      "subcommittee_id": "08"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "37", 
+      "name": "Bass, Karen", 
+      "sponsored_at": "2015-03-02", 
+      "state": "CA", 
+      "thomas_id": "01996", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Poe, Ted", 
+      "sponsored_at": "2015-03-02", 
+      "state": "TX", 
+      "thomas_id": "01802", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-03-02", 
+  "number": "1201", 
+  "official_title": "To combat human trafficking.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr296-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s140-114", 
+      "reason": "identical", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s178-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Combat Human Trafficking Act of 2015", 
+  "sponsor": {
+    "district": "12", 
+    "name": "Granger, Kay", 
+    "state": "TX", 
+    "thomas_id": "01487", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-03-02", 
+  "subjects": [
+    "Crime and law enforcement", 
+    "Crime victims", 
+    "Crimes against children", 
+    "Criminal investigation, prosecution, interrogation", 
+    "Criminal justice information and records", 
+    "Criminal procedure and sentencing", 
+    "Evidence and witnesses", 
+    "Human trafficking", 
+    "Judges", 
+    "Law enforcement officers", 
+    "Mental health", 
+    "Sex offenses"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-03-02", 
+    "text": "Combat Human Trafficking Act of 2015\n\n Amends the federal criminal code, with respect to sex trafficking of children, to: (1) subject to criminal prosecution buyers, as well as sellers, of commercial sex involving sex trafficking victims; (2) provide that in prosecutions of sex trafficking crimes, the government is not required to prove that a sex trafficking defendant knew or recklessly disregarded the fact that a victim was under age 18; (3) equalize the period of supervised release for sex trafficking offenders convicted of conspiracy; (4) expand wiretap authority for investigating crimes related to sex trafficking, including slavery, involuntary servitude, and forced labor; (5) grant crime victims the right to be informed in a timely manner of any plea agreement or deferred prosecution agreement; and (6) require an appellate court to apply ordinary standards of review in reviewing appeals filed by crime victims.\u00a0\u00a0\u00a0\n\nRequires the Bureau of Justice Statistics in the Department of Justice (DOJ) to prepare and report annually on: (1) the rates of arrests by state law enforcement officers for sex trafficking crimes involving buyers of commercial sex involving sex trafficking victims,\u00a0and (2) prosecutions and convictions for such crimes in state courts.\n\nDirects the Attorney General to ensure that: (1) DOJ anti-human trafficking training programs, including programs for law enforcement officers, include technical training on effective methods for investigating and prosecuting individuals who obtain, patronize, or solicit a commercial sex act involving a person subject to severe forms of human trafficking and on facilitating the provision of physical and mental health services by health care providers to persons subject to severe forms of human trafficking; (2) federal law enforcement officers are engaged in activities, programs, or operations involving the detection, investigation, and prosecution of such offenses; and (3) DOJ anti-human trafficking programs for U.S. attorneys or other federal prosecutors include training on seeking restitution for peonage, slavery, and human trafficking offenses to ensure that each such attorney, upon obtaining a conviction for such an offense, requests a specific amount of restitution for each victim without regard to whether the victim requests it. Requires the Federal Judicial Center to provide training to judges relating to the application of mandatory restitution provisions regarding ordering restitution for victims of such offenses."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Combat Human Trafficking Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To combat human trafficking.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:33:21-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR1201:@@@L&summ2=m&"
+}

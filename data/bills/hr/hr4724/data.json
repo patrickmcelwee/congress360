@@ -1,0 +1,121 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-03-10", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-03-16", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-03-16", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 20 - 16.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2016-03-23T11:01:00-04:00", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-462.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-03-23T11:02:00-04:00", 
+      "calendar": "Union", 
+      "number": "353", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 353.", 
+      "type": "calendar", 
+      "under": null
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4724-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2016-03-16", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-03-10", 
+  "number": "4724", 
+  "official_title": "To repeal the program of block grants to States for social services.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Reducing Duplicative and Ineffective Federal Funding Act", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Brady, Kevin", 
+    "state": "TX", 
+    "thomas_id": "01468", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2016-03-16", 
+  "subjects": [
+    "Family services", 
+    "Social welfare", 
+    "State and local government operations"
+  ], 
+  "subjects_top_term": "Social welfare", 
+  "summary": {
+    "as": "Reported to House amended", 
+    "date": "2016-03-23", 
+    "text": "Reducing Duplicative and Ineffective Federal Funding Act\n\n(Sec. 2) This bill repeals the program of block grants to states for social services under title XX (Block Grants to States for Social Services) of the Social Security Act, except those for:\n\n demonstration projects to address health professions workforce needs, and the program for early detection of certain medical conditions related to environmental health hazards."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Reducing Duplicative and Ineffective Federal Funding Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Reducing Duplicative and Ineffective Federal Funding Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To repeal the program of block grants to States for social services.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:03:10-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4724:@@@L&summ2=m&"
+}

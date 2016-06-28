@@ -1,0 +1,103 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-05-16", 
+      "committees": [
+        "HSAS"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Armed Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-06-07", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Military Personnel.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5257-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS", 
+      "subcommittee": "Subcommittee on Military Personnel", 
+      "subcommittee_id": "02"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "6", 
+      "name": "DeSantis, Ron", 
+      "sponsored_at": "2016-05-16", 
+      "state": "FL", 
+      "thomas_id": "02116", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-05-16", 
+  "number": "5257", 
+  "official_title": "To provide for a career military justice litigation track for judge advocates in the Armed Forces.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Justice for Victims of Military Sexual Assault Act", 
+  "sponsor": {
+    "district": null, 
+    "name": "Zinke, Ryan K.", 
+    "state": "MT", 
+    "thomas_id": "02254", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-05-16", 
+  "subjects": [
+    "Armed forces and national security"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2016-05-16", 
+    "text": "Justice for Victims of Military Sexual Assault Act\n\nThis bill requires each military department to establish a career military justice litigation track for judge advocates in the Armed Forces. Judge advocates participating in the litigation track must have assignments that: (1) relate to the practice of military justice under the Uniform Code of Military Justice; and (2) include trial counsel, defense counsel, military trial judge, military appellate judge, academic instructor, Special Victims Prosecutor, Victims' Legal Counsel, Special Victims' Counsel, and other positions within criminal law offices or divisions of their armed force."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Justice for Victims of Military Sexual Assault Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide for a career military justice litigation track for judge advocates in the Armed Forces.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:07:38-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR5257:@@@L&summ2=m&"
+}

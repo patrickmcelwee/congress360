@@ -1,0 +1,142 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-11-19", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-12-04", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Immigration and Border Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-12-10", 
+      "references": [
+        {
+          "reference": "CR H9214", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4089-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Immigration and Border Security", 
+      "subcommittee_id": "01"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "5", 
+      "name": "Hensarling, Jeb", 
+      "sponsored_at": "2016-02-23", 
+      "state": "TX", 
+      "thomas_id": "01749", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "King, Peter T.", 
+      "sponsored_at": "2015-12-18", 
+      "state": "NY", 
+      "thomas_id": "00635", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Ross, Dennis A.", 
+      "sponsored_at": "2016-01-11", 
+      "state": "FL", 
+      "thomas_id": "02003", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-11-19", 
+  "number": "4089", 
+  "official_title": "To require the Secretary of Homeland Security to strengthen student visa background checks and improve the monitoring of foreign students in the United States, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Student Visa Security Improvement Act", 
+  "sponsor": {
+    "district": "12", 
+    "name": "Bilirakis, Gus M.", 
+    "state": "FL", 
+    "thomas_id": "01838", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-11-19", 
+  "subjects": [
+    "Academic performance and assessments", 
+    "Administrative law and regulatory procedures", 
+    "Area studies and international education", 
+    "Cultural exchanges and relations", 
+    "Department of Homeland Security", 
+    "Government information and archives", 
+    "Immigration", 
+    "International exchange and broadcasting", 
+    "Student records", 
+    "Terrorism", 
+    "Visas and passports"
+  ], 
+  "subjects_top_term": "Immigration", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-11-19", 
+    "text": "Student Visa Security Improvement Act\n\nThis bill amends the Homeland Security Act of 2002 to direct the Department of Homeland Security (DHS) to:\n\n require DHS employees to review the applications, conduct in-person interviews where appropriate, and conduct on-site reviews of applications and supporting documentation with respect to student and exchange program visa applicants prior to final visa adjudication, with emphasis on determining whether an applicant is inadmissible for terrorist-related activities; require an institution or exchange visitor program participating in the Student and Exchange Visitor Program to ensure that each covered student or exchange visitor is an active program participant, is observed, and is reported to DHS if he or she transfers institutions or academic majors; provide Student and Exchange Visitor Information System (SEVIS) access to appropriate employees of a SEVIS program sponsor under specified circumstances; and require a SEVIS upgrade to add data fields that include verification that students are meeting minimum academic standards."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Student Visa Security Improvement Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require the Secretary of Homeland Security to strengthen student visa background checks and improve the monitoring of foreign students in the United States, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:57:51-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4089:@@@L&summ2=m&"
+}

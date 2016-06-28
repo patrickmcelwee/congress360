@@ -1,0 +1,103 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-05-17", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-05-20", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on the Constitution and Civil Justice.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5271-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Constitution and Civil Justice", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "12", 
+      "name": "Allen, Rick W.", 
+      "sponsored_at": "2016-05-17", 
+      "state": "GA", 
+      "thomas_id": "02239", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-05-17", 
+  "number": "5271", 
+  "official_title": "To reauthorize chapter 40 of title 28, United States Code.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Independent Counsel Reauthorization Act of 2016", 
+  "sponsor": {
+    "district": "10", 
+    "name": "Turner, Michael R.", 
+    "state": "OH", 
+    "thomas_id": "01741", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-05-17", 
+  "subjects": [
+    "Law"
+  ], 
+  "subjects_top_term": "Law", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2016-05-17", 
+    "text": "Independent Counsel Reauthorization Act of 2016\n\nThis bill amends the federal judicial code to reauthorize the independent counsel law (currently expired) for a five-year period.\n\nIt extends to eight years after leaving office the period during which individuals who have held the following positions are still subject to preliminary investigations by the Department of Justice (DOJ) to determine whether to apply to a division of the U.S. Court of Appeals for the District of Columbia for the appointment of an independent counsel for further investigation and possible prosecution:\n\n the President or the Vice President; the Attorney General or the Secretaries of State, the Treasury, Defense, the Interior, Agriculture, Commerce, Labor, Health and Human Services, Housing and Urban Development, Transportation, Energy, Education, Veterans Affairs, or Homeland Security; the U.S. Trade Representative, the Director of the Office of Management and Budget, the Commissioner of Social Security, the Director of National Drug Control Policy, the Chair of the Board of Governors of the Federal Reserve System, or the Director of National Intelligence; individuals working in the Executive Office of the President compensated at or above level II of the Executive Schedule; Assistant Attorneys General and DOJ employees compensated at or above level III of the Executive Schedule; or the Director of Central Intelligence, the Deputy Director of Central Intelligence, or the Commissioner of Internal Revenue."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Independent Counsel Reauthorization Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To reauthorize chapter 40 of title 28, United States Code.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:07:45-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR5271:@@@L&summ2=m&"
+}

@@ -1,0 +1,135 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-02-26", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Financial Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-03-02", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-03-02", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 32 - 25.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2016-06-08T15:31:00-04:00", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Financial Services. H. Rept. 114-609.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-08T15:31:00-04:00", 
+      "calendar": "Union", 
+      "number": "474", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 474.", 
+      "type": "calendar", 
+      "under": null
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4638-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Chabot, Steve", 
+      "sponsored_at": "2016-02-26", 
+      "state": "OH", 
+      "thomas_id": "00186", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2016-03-02", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-02-26", 
+  "number": "4638", 
+  "official_title": "To amend the Securities Exchange Act of 1934 to allow for the creation of venture exchanges to promote liquidity of venture securities, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Main Street Growth Act", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Garrett, Scott", 
+    "state": "NJ", 
+    "thomas_id": "01737", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2016-03-02", 
+  "subjects": [
+    "Banking and financial institutions regulation", 
+    "Business investment and capital", 
+    "Executive agency funding and structure", 
+    "Finance and financial sector", 
+    "Licensing and registrations", 
+    "Securities", 
+    "Securities and Exchange Commission (SEC)"
+  ], 
+  "subjects_top_term": "Finance and financial sector", 
+  "summary": {
+    "as": "Reported to House amended", 
+    "date": "2016-06-08", 
+    "text": "Main Street Growth Act\n\n(Sec. 2) This bill amends the Securities Exchange Act of 1934 to permit a national securities exchange, for itself or for one of its listing tiers, to elect treatment as a venture exchange by notifying the Securities and Exchange Commission (SEC) of such an election either at the time it applies for registration or after registering as a national securities exchange.\n\nUnless the SEC denies the registration application within six months after its receipt, the application and election shall be deemed to have received SEC approval. Similarly, after a national securities exchange registers, its election to be treated as a venture exchange shall be deemed approved unless the SEC denies approval within six months after receiving notice of the election.\n\nThe bill subjects a venture exchange to certain restrictions, including that it may: (1) only constitute, maintain, or provide a market place or facilities for bringing together purchasers and sellers of venture securities, and (2) not extend unlisted trading privileges to any venture security.\n\nVenture securities are securities of:\n\n an early-stage, growth company exempt from registration under the Securities Act of 1933; and an emerging growth company. The bill exempts a venture exchange from compliance with: (1) specified National Market System and Alternative Trading System rules, (2) the requirement to submit data to a securities information processor, or (3) mandatory use of decimal pricing.\n\nWith respect to trading on a venture exchange, the bill also exempts from registration under the Securities Exchange Act of 1934 certain securities exempted from registration under the Securities Act of 1933 if the issuer is in compliance with all disclosure obligations and regulations under the latter Act.\n\nThe bill defines an issuer with a market capitalization of $1 million or less, and which has not made an initial public offering of any securities, as an \"early-stage growth company.\"\n\nAn early-stage, growth company whose securities are traded on a venture exchange shall not cease to be an early-stage, growth company by reason of a market capitalization exceeding the $1 million threshold until the end of 24 consecutive months during which that market capitalization exceeds $2 million (indexed for inflation). If an issuer would cease to be an early-stage, growth company for exceeding the market capitalization threshold, a venture exchange may, upon the issuer's request, exempt the issuer from such capitalization requirements for the 24-month period referred to, and extend that exemption for an additional year as well. The Securities Act of 1933 is amended to exempt venture securities from state and local government regulation.\n\nThe bill expresses the sense of Congress that the SEC should:\n\n make use of its general exemptive authority regarding certain elements of this bill; and create an Office of Venture Exchanges, if appropriate, within the SEC Division of Trading and Markets."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Main Street Growth Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Main Street Growth Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Securities Exchange Act of 1934 to allow for the creation of venture exchanges to promote liquidity of venture securities, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:02:27-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4638:@@@L&summ2=m&"
+}

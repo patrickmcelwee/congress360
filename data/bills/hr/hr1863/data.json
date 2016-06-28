@@ -1,0 +1,106 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-04-16", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-05-01", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1863-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "2", 
+      "name": "Richmond, Cedric L.", 
+      "sponsored_at": "2015-04-21", 
+      "state": "LA", 
+      "thomas_id": "02023", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-04-16", 
+  "number": "1863", 
+  "official_title": "To amend the Veterans Access, Choice, and Accountability Act of 2014 to expand the Veterans Choice Program to veterans who would otherwise receive medical care from a deficient medical facility of the Department of Veterans Affairs.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Local Care for Veterans Act", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Boustany, Charles W., Jr.", 
+    "state": "LA", 
+    "thomas_id": "01787", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-04-16", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Health care quality", 
+    "Health facilities and institutions", 
+    "Veterans' medical care"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-04-16", 
+    "text": "Local Care for Veterans Act \n\nThis bill amends the Veterans Access, Choice, and Accountability Act of 2014 to direct the Secretary of Veterans Affairs (VA) to ensure that a veteran may elect to receive health care treatment and services in a qualifying non-VA facility if: (1) the veteran is enrolled in the VA health care system and resides not more than 50 miles from the nearest VA facility that the Secretary has identified in a prospectus level lease request as being deficient with respect to providing certain treatment or services or as needing expansion; and (2) the Secretary determines that such deficiency has not been resolved or such expansion has not occurred."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Local Care for Veterans Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Veterans Access, Choice, and Accountability Act of 2014 to expand the Veterans Choice Program to veterans who would otherwise receive medical care from a deficient medical facility of the Department of Veterans Affairs.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:39:04-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR1863:@@@L&summ2=m&"
+}

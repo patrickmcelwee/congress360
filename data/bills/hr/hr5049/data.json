@@ -1,0 +1,221 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-04-26", 
+      "committees": [
+        "HSSY"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Science, Space, and Technology.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-04-27", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-27", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2016-06-13T16:38:00-04:00", 
+      "committees": [
+        "HSSY"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 114-619.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-13T16:38:00-04:00", 
+      "calendar": "Union", 
+      "number": "481", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 481.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2016-06-13T19:04:00-04:00", 
+      "references": [], 
+      "text": "Mr. Loudermilk moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-13T19:04:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3732-3735", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-13T19:04:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 5049.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-13T19:23:00-04:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-14T13:45:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3776-3777", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-14T13:51:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR 6/14/2016 H3732-3733", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "301", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 412 - 9 (Roll no. 301).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2016-06-14T13:51:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-15", 
+      "committees": [
+        "SSHR"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5049-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Science, Space, and Technology", 
+      "committee_id": "HSSY"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Health, Education, Labor, and Pensions", 
+      "committee_id": "SSHR"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "21", 
+      "name": "Smith, Lamar", 
+      "sponsored_at": "2016-04-26", 
+      "state": "TX", 
+      "thomas_id": "01075", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2016-04-27", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2016-06-14T13:51:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-04-26", 
+  "number": "5049", 
+  "official_title": "To provide for improved management and oversight of major multi-user research facilities funded by the National Science Foundation, to ensure transparency and accountability of construction and management costs, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr1806-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "NSF Major Research Facility Reform Act of 2016", 
+  "sponsor": {
+    "district": "11", 
+    "name": "Loudermilk, Barry", 
+    "state": "GA", 
+    "thomas_id": "02238", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2016-06-14T13:51:00-04:00", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": {
+    "as": "Reported to House amended", 
+    "date": "2016-06-13", 
+    "text": "NSF Major Research Facility Reform Act of 2016\n\n (Sec. 3) This bill directs the National Science Foundation (NSF) to maintain a Large Facilities Office to support its research directorates in the development, implementation, and assessment of major multi-user research facilities.\n\n The NSF shall appoint a senior agency official to head the Office, whose responsibility shall be to oversee development, construction, and transfer to operations of major multi-user facilities across the NSF.\n\nThe bill requires:\n\n an external cost proposal analysis for any major multi-user research facility; the resolution of all issues identified, including any unjustified or questionable cost items; and biennial incurred cost audits of any such facility. The NSF shall not make any award which arranges for contributions to an awardee's contingency reserve.\n\n(Contingency is the part of a budget estimate of future costs associated with possible events or conditions arising from causes whose precise outcome is indeterminable at the time of estimate, and that experience shows will likely result, in aggregate, in additional costs for the approved activity or project.) The NSF shall update its Large Facilities Manual and any other applicable guidance for estimating, monitoring, and accounting for contingencies on major multi-user research facilities.\n\nThe updated policy shall state that the NSF: (1) may only include contingency amounts in an award meeting specified criteria; and (2) shall retain control over funds budgeted for contingency, but may disburse budgeted contingency funds incrementally to an awardee to ensure project stability and continuity.\n\nAn awardee shall: (1) furnish verifiable documentation to support proposed contingency amounts, and (2) support requests for the release of contingency funds with evidence of a bona fide need and reasonable and allowable allocations to the performance baseline.\n\nThe NSF shall work with current awardees to: (1) determine if any of their use of contingency funds represents out-of-scope changes for which prior NSF written approval was not obtained, and (2) identify appropriate financial action regarding any out-of-scope changes found.\n\n The NSF may include management fees under an award for ordinary and legitimate business expenses, not otherwise allowable, only if the awardee furnishes a justification of need.\n\nThe NSF shall require award applicants to report:\n\n income and financial information covering at least three prior years, including cash on hand and net asset information, in support of a request for management fees; and any sources of nonfederal funds received in excess of $50,000 during the award period. The NSF shall require awardees to track and report annually all expenses reimbursed or otherwise paid for with management fee funds.\n\nThe bill specifies prohibited uses for management fees.\n\n(Sec. 4) The bill subjects the NSF to the pilot program for enhancement of contractor protection from reprisal for (whistleblower) disclosure of certain information.\n\nThe NSF shall arrange for education and training for NSF managers and staff on the pilot program and furnish information on it to all awardees and contractors and their employees."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "NSF Major Research Facility Reform Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "NSF Major Research Facility Reform Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "NSF Major Research Facility Reform Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide for improved management and oversight of major multi-user research facilities funded by the National Science Foundation, to ensure transparency and accountability of construction and management costs, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:05:54-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR5049:@@@L&summ2=m&"
+}

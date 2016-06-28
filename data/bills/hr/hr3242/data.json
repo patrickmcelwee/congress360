@@ -1,0 +1,154 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-07-28", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-09-29", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-30", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-30", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2016-01-11T16:21:00-05:00", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on Energy and Commerce. H. Rept. 114-394.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-01-11T16:22:00-05:00", 
+      "calendar": "Union", 
+      "number": "297", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 297.", 
+      "type": "calendar", 
+      "under": null
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3242-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "5", 
+      "name": "Esty, Elizabeth H.", 
+      "sponsored_at": "2015-07-28", 
+      "state": "CT", 
+      "thomas_id": "02114", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-09-29", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-07-28", 
+  "number": "3242", 
+  "official_title": "To require special packaging for liquid nicotine containers, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s142-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s142-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Child Nicotine Poisoning Prevention Act of 2015", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Brooks, Susan W.", 
+    "state": "IN", 
+    "thomas_id": "02129", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2015-09-30", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Child health", 
+    "Child safety and welfare", 
+    "Commerce", 
+    "Consumer Product Safety Commission", 
+    "Hazardous wastes and toxic substances", 
+    "Health", 
+    "Product safety and quality"
+  ], 
+  "subjects_top_term": "Commerce", 
+  "summary": {
+    "as": "Reported to House without amendment", 
+    "date": "2016-01-11", 
+    "text": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)\n\nChild Nicotine Poisoning Prevention Act of 2015\n\n(Sec. 2) This bill requires any nicotine provided in a liquid nicotine container sold, offered for sale, manufactured for sale, distributed in commerce, or imported into the United States to be packaged in accordance with the Consumer Product Safety Commission's (CPSC's) standards and testing procedures for special packaging that is difficult for children under five years of age to open or to obtain harmful contents from. The requirement must be treated as a standard for the special packaging of a household substance under the Poison Prevention Packaging Act of 1970.\n\n\"Liquid nicotine container\" is defined to: (1) include a package from which nicotine in a solution or other form is accessible through normal and foreseeable use by a consumer and that is used to hold soluble nicotine in any concentration; and (2) exclude a sealed, pre-filled, and disposable container of nicotine in a solution or other form in which such container is inserted directly into an electronic cigarette, electronic nicotine delivery system, or other similar product, if the nicotine in the container is inaccessible through customary or reasonably foreseeable handling or use, including reasonably foreseeable ingestion or other contact by children.\n\nThe bill applies to any form of chemical nicotine, including any salt or complex, regardless of whether the chemical is naturally or synthetically derived.\n\nThe Department of Health and Human Services (HHS) must consult with the CPSC if HHS maintains, enforces, imposes, or continues in effect any packaging requirement for liquid nicotine containers, including a child-resistant packaging requirement."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Child Nicotine Poisoning Prevention Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Child Nicotine Poisoning Prevention Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require special packaging for liquid nicotine containers, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:50:47-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3242:@@@L&summ2=m&"
+}

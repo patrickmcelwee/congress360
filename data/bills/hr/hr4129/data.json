@@ -1,0 +1,135 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-11-30", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-12-03", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-12-08", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-25", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Subcommittee on Health Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-25", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-25", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4129-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "discharged"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-12-08", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-11-30", 
+  "number": "4129", 
+  "official_title": "To direct the Secretary of Veterans Affairs to carry out a program under which the Secretary enters into partnership agreements with non-Federal entities for the construction of major construction projects authorized by law, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Jumpstart VA Construction Act", 
+  "sponsor": {
+    "district": "9", 
+    "name": "McNerney, Jerry", 
+    "state": "CA", 
+    "thomas_id": "01832", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2016-02-25", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Building construction", 
+    "Congressional oversight", 
+    "Department of Veterans Affairs", 
+    "Government buildings, facilities, and property", 
+    "Health facilities and institutions", 
+    "Public contracts and procurement", 
+    "Public-private cooperation", 
+    "Veterans' medical care"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-11-30", 
+    "text": "Jumpstart VA Construction Act\n\nThis bill directs the Department of Veterans Affairs (VA) to enter into partnership agreements with non-federal entities for the construction of major medical construction projects authorized by law.\n\nEach selected project shall be for construction of a new facility for which: (1) Congress has appropriated funds, (2) the design and development phase is complete, and (3) construction has not begun as of the date of enactment of this Act."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Jumpstart VA Construction Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To direct the Secretary of Veterans Affairs to carry out a program under which the Secretary enters into partnership agreements with non-Federal entities for the construction of major construction projects authorized by law, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:58:11-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4129:@@@L&summ2=m&"
+}

@@ -1,0 +1,246 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-12-03", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Financial Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-02-24", 
+      "references": [], 
+      "text": "Hearings Held by the Subcommittee on Capital Markets and Government Sponsored Enterprises Prior to Referral.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-03-02", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-03-02", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 42 - 15.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2016-05-26T11:41:00-04:00", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Financial Services. H. Rept. 114-596.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-26T11:41:00-04:00", 
+      "calendar": "Union", 
+      "number": "462", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 462.", 
+      "type": "calendar", 
+      "under": null
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4166-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }, 
+    {
+      "activity": [
+        "hearings"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA", 
+      "subcommittee": "Subcommittee on Capital Markets and Government Sponsored Enterprises", 
+      "subcommittee_id": "16"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Carney, John C., Jr.", 
+      "sponsored_at": "2016-05-25", 
+      "state": "DE", 
+      "thomas_id": "01999", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Fitzpatrick, Michael G.", 
+      "sponsored_at": "2016-05-18", 
+      "state": "PA", 
+      "thomas_id": "01797", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Foster, Bill", 
+      "sponsored_at": "2016-05-03", 
+      "state": "IL", 
+      "thomas_id": "01888", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Guinta, Frank C.", 
+      "sponsored_at": "2016-05-13", 
+      "state": "NH", 
+      "thomas_id": "02038", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Hill, J. French", 
+      "sponsored_at": "2016-05-26", 
+      "state": "AR", 
+      "thomas_id": "02223", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Huizenga, Bill", 
+      "sponsored_at": "2016-05-13", 
+      "state": "MI", 
+      "thomas_id": "02028", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Luetkemeyer, Blaine", 
+      "sponsored_at": "2016-05-18", 
+      "state": "MO", 
+      "thomas_id": "01931", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "24", 
+      "name": "Marchant, Kenny", 
+      "sponsored_at": "2016-05-13", 
+      "state": "TX", 
+      "thomas_id": "01806", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "McHenry, Patrick T.", 
+      "sponsored_at": "2016-05-13", 
+      "state": "NC", 
+      "thomas_id": "01792", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Scott, David", 
+      "sponsored_at": "2015-12-03", 
+      "state": "GA", 
+      "thomas_id": "01722", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Stivers, Steve", 
+      "sponsored_at": "2016-05-13", 
+      "state": "OH", 
+      "thomas_id": "02047", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Wagner, Ann", 
+      "sponsored_at": "2016-05-13", 
+      "state": "MO", 
+      "thomas_id": "02137", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2016-02-24", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-12-03", 
+  "number": "4166", 
+  "official_title": "To amend the Securities Exchange Act of 1934 to provide specific credit risk retention requirements to certain qualifying collateralized loan obligations.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Expanding Proven Financing for American Employers Act", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Barr, Andy", 
+    "state": "KY", 
+    "thomas_id": "02131", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2016-03-02", 
+  "subjects": [
+    "Corporate finance and management", 
+    "Finance and financial sector", 
+    "Financial services and investments", 
+    "Securities"
+  ], 
+  "subjects_top_term": "Finance and financial sector", 
+  "summary": {
+    "as": "Reported to House amended", 
+    "date": "2016-05-26", 
+    "text": "Expanding Proven Financing for American Employers Act \n\n(Sec. 2) This bill amends the Securities Exchange Act of 1934 to permit the manager of a qualified collateralized loan obligation, or one or more of the majority-owned affiliates of the manager (or its knowledgeable employees and other employees), to meet the risk retention requirement for a qualified collateralized loan obligation by the purchase and holding (without transferring the credit risk) of the value of at least 5% of the equity distributed among each of the higher tranches of the issuance with at least 3.5% retained as equity of the collateralized loan obligation.\n\nThe bill prescribes characteristics of a qualified collateralized loan obligation with respect to:\n\n asset quality protections that have at least 100% of the obligation's assets composed of senior secured loans and cash equivalents, asset portfolio protections, structural protections, alignment of manager and investor interests, regulatory oversight requirements, and transparency and disclosure requirements. Further criteria for the asset quality protections for a qualified collaterilized loan obligation require that the obligation:\n\n have 100% of its loan assets issued by companies; have no assets that are asset-backed securities or derivatives (except for an acquired loan participation, any interest related to or in a letter of credit, or a derivative transaction to hedge interest rate or currency rate mismatches); not purchase assets in default, margin stock, or equity convertible securities; acquire only loans held or acquired by three or more investors or lenders unaffiliated with the manager; hold only loans to borrowers whose financial statements are subject to an annual audit from an independent, accredited accounting firm; and have no more than 60% of its assets composed of covenant lite loans, except that each asset shall require disclosure of unaudited quarterly financial statements and of audited annual financial statements. A \"covenant lite loan\" (or \"cov-lite,\" commonly a loan agreement that does not contain the usual protective covenants for the benefit of the lending party) shall mean in this bill, at the time a collateralized loan obligation enters into a commitment to acquire it, a loan for which the underlying instruments neither:\n\n require the obligor to comply with any maintenance covenant; nor contain a cross-default provision to a financing facility of the obligor that requires the obligor to comply with a maintenance covenant (including one that may apply only upon the funding of such other loan or financing facility). If any such loan is pari passu (treated equally and without preference) with another loan of the obligor that would not be a covenant lite loan, such loan shall be deemed not to be a covenant lite loan."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Expanding Proven Financing for American Employers Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Expanding Proven Financing for American Employers Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Securities Exchange Act of 1934 to provide specific credit risk retention requirements to certain qualifying collateralized loan obligations.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:58:30-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4166:@@@L&summ2=m&"
+}

@@ -1,0 +1,116 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-09-10", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-09-21", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Federal Lands.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3478-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Federal Lands", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Lummis, Cynthia M.", 
+      "sponsored_at": "2015-10-23", 
+      "state": "WY", 
+      "thomas_id": "01960", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Stewart, Chris", 
+      "sponsored_at": "2015-10-09", 
+      "state": "UT", 
+      "thomas_id": "02168", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-09-10", 
+  "number": "3478", 
+  "official_title": "To release wilderness study areas administered by the Bureau of Land Management in Luna and Hidalgo Counties, New Mexico that are not suitable for wilderness designation from continued management as de facto wilderness areas.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Luna and Hidalgo Counties Wilderness Study Area Release Act of 2015", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Pearce, Stevan", 
+    "state": "NM", 
+    "thomas_id": "01738", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-09-10", 
+  "subjects": [
+    "Government studies and investigations", 
+    "Land use and conservation", 
+    "New Mexico", 
+    "Public lands and natural resources", 
+    "Wilderness and natural areas, wildlife refuges, wild rivers, habitats"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-09-10", 
+    "text": "Luna and Hidalgo Counties Wilderness Study Area Release Act of 2015\n\n Releases specified wilderness study areas in the Luna and Hidalgo Counties in New Mexico from further study for designation as wilderness."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Luna and Hidalgo Counties Wilderness Study Area Release Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To release wilderness study areas administered by the Bureau of Land Management in Luna and Hidalgo Counties, New Mexico that are not suitable for wilderness designation from continued management as de facto wilderness areas.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:52:45-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3478:@@@L&summ2=m&"
+}

@@ -1,0 +1,298 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-03-15", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Homeland Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-03-18", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Cybersecurity, Infrastructure Protection, and Security Technologies.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-04-28", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Subcommittee on Cybersecurity, Infrastructure Protection, and Security Technologies Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-28", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-28", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Unanimous Consent.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2016-05-13T12:08:00-04:00", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-565.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-13T12:08:00-04:00", 
+      "calendar": "Union", 
+      "number": "438", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 438.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2016-05-16T17:30:00-04:00", 
+      "references": [], 
+      "text": "Mr. Ratcliffe moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-16T17:30:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2409-2411", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-16T17:30:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 4743.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-16T17:43:00-04:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-16T18:31:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2415-2416", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-16T18:51:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H2409", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "194", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 394 - 3 (Roll no. 194).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2016-05-16T18:51:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-17", 
+      "committees": [
+        "SSGA"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4743-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM", 
+      "subcommittee": "Subcommittee on Cybersecurity, Infrastructure Protection, and Security Technologies", 
+      "subcommittee_id": "08"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Homeland Security and Governmental Affairs", 
+      "committee_id": "SSGA"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "28", 
+      "name": "Cuellar, Henry", 
+      "sponsored_at": "2016-03-15", 
+      "state": "TX", 
+      "thomas_id": "01807", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "35", 
+      "name": "Doggett, Lloyd", 
+      "sponsored_at": "2016-03-15", 
+      "state": "TX", 
+      "thomas_id": "00303", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "23", 
+      "name": "Hurd, Will", 
+      "sponsored_at": "2016-03-15", 
+      "state": "TX", 
+      "thomas_id": "02269", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Richmond, Cedric L.", 
+      "sponsored_at": "2016-03-15", 
+      "state": "LA", 
+      "thomas_id": "02023", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "Smith, Lamar", 
+      "sponsored_at": "2016-03-15", 
+      "state": "TX", 
+      "thomas_id": "01075", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Welch, Peter", 
+      "sponsored_at": "2016-03-15", 
+      "state": "VT", 
+      "thomas_id": "01879", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2016-04-28", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2016-05-16T18:51:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-03-15", 
+  "number": "4743", 
+  "official_title": "To authorize the Secretary of Homeland Security to work with cybersecurity consortia for training, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "National Cybersecurity Preparedness Consortium Act of 2016", 
+  "sponsor": {
+    "district": "20", 
+    "name": "Castro, Joaquin", 
+    "state": "TX", 
+    "thomas_id": "02163", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2016-05-16T18:51:00-04:00", 
+  "subjects": [
+    "Computer security and identity theft", 
+    "Emergency planning and evacuation", 
+    "First responders and emergency personnel", 
+    "Public-private cooperation", 
+    "Science, technology, communications", 
+    "State and local government operations", 
+    "Terrorism"
+  ], 
+  "subjects_top_term": "Science, technology, communications", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2016-05-16", 
+    "text": "National Cybersecurity Preparedness Consortium Act of 2016\n\n(Sec. 2) This bill authorizes the Department of Homeland Security (DHS) to work with a consortium, including the National Cybersecurity Preparedness Consortium, to support efforts to address cybersecurity risks and incidents, including threats or acts of terrorism.\n\nSuch a consortium must be composed primarily of nonprofit entities, including academic institutions, that develop, update, and deliver cybersecurity training in support of homeland security.\n\nDHS may work with such a consortium to assist its national cybersecurity and communications integration center to:\n\n provide training to state and local first responders and officials, develop curriculums, and provide technical assistance; conduct cross-sector cybersecurity training and simulation exercises, including for state and local governments, critical infrastructure owners and operators, and private industry; help states and communities develop cybersecurity information sharing programs; and help incorporate cybersecurity risk and incident prevention and response into existing state and local emergency plans and continuity of operations plans. In selecting a consortium, DHS must consider: (1) any prior experience conducting cybersecurity training and exercises for state and local entities, and (2) the geographic diversity of its members to cover different regions across the United States.\n\nDHS must conduct outreach to universities and colleges regarding opportunities to support efforts to address cybersecurity risks and incidents.\n\nDHS's authority to carry out this bill terminates five years after its enactment."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "National Cybersecurity Preparedness Consortium Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "National Cybersecurity Preparedness Consortium Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "National Cybersecurity Preparedness Consortium Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To authorize the Secretary of Homeland Security to establish a National Cybersecurity Preparedness Consortium, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "amended by house", 
+      "is_for_portion": false, 
+      "title": "To authorize the Secretary of Homeland Security to work with cybersecurity consortia for training, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:03:20-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4743:@@@L&summ2=m&"
+}

@@ -1,0 +1,99 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-01-21", 
+      "committees": [
+        "HSED"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Education and the Workforce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-04-29", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health, Employment, Labor, and Pensions.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr458-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED", 
+      "subcommittee": "Subcommittee on Health, Employment, Labor, and Pensions", 
+      "subcommittee_id": "02"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "9", 
+      "name": "Pascrell, Bill, Jr.", 
+      "sponsored_at": "2015-01-21", 
+      "state": "NJ", 
+      "thomas_id": "01510", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-01-21", 
+  "number": "458", 
+  "official_title": "To amend the Employee Retirement Income Security Act of 1974 to permit multiemployer plans in critical status to modify plan rules relating to withdrawal liability, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "32", 
+    "name": "Sessions, Pete", 
+    "state": "TX", 
+    "thomas_id": "01525", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-01-21", 
+  "subjects": [
+    "Corporate finance and management", 
+    "Employee benefits and pensions", 
+    "Labor and employment"
+  ], 
+  "subjects_top_term": "Labor and employment", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-01-21", 
+    "text": "Amends the Employee Retirement Income Security Act (ERISA) to revise requirements permitting multiemployer plans to adopt alternative rules for computing the payment of an employer's withdrawal liability to include a plan in critical status whose plan sponsor determines it cannot be expected to emerge from that status by the end of the rehabilitation period.\n\nRequires any such rule to become effective 90 days after adoption unless the corporation disapproves it before the end of the 90-day period (subject to tolling while a request by the corporation for additional information is pending).\n\nAuthorizes a corporation to disapprove a rule only if it creates an unreasonable risk of loss to plan participants and beneficiaries or to the corporation."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Employee Retirement Income Security Act of 1974 to permit multiemployer plans in critical status to modify plan rules relating to withdrawal liability, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:27:03-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR458:@@@L&summ2=m&"
+}

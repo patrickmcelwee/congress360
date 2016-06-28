@@ -1,0 +1,109 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-09-17", 
+      "committees": [
+        "HSAG"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Agriculture.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-10-05", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Biotechnology, Horticulture, and Research.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3540-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Agriculture", 
+      "committee_id": "HSAG"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Agriculture", 
+      "committee_id": "HSAG", 
+      "subcommittee": "Subcommittee on Biotechnology, Horticulture, and Research", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Norton, Eleanor Holmes", 
+      "sponsored_at": "2015-09-17", 
+      "state": "DC", 
+      "thomas_id": "00868", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-09-17", 
+  "number": "3540", 
+  "official_title": "To amend the Food, Conservation, and Energy Act of 2008 to make improvements to the food safety education program carried out under such Act, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Farm to Table Safety Act", 
+  "sponsor": {
+    "district": "29", 
+    "name": "Cardenas, Tony", 
+    "state": "CA", 
+    "thomas_id": "02107", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-09-17", 
+  "subjects": [
+    "Agricultural education", 
+    "Agriculture and food", 
+    "Food supply, safety, and labeling", 
+    "Government information and archives", 
+    "Health information and medical records", 
+    "Infectious and parasitic diseases", 
+    "Migrant, seasonal, agricultural labor"
+  ], 
+  "subjects_top_term": "Agriculture and food", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-09-17", 
+    "text": "Farm to Table Safety Act\n\n This bill amends the Food, Conservation, and Energy Act of 2008 to modify the food safety education program authorized in the Act. The bill requires the Department of Agriculture to: (1) include farm workers in the program, and (2) expand the scope of the program to include practices that prevent bacterial contamination of food, methods of identifying sources of food contamination, and other means of decreasing food contamination."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Farm to Table Safety Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Food, Conservation, and Energy Act of 2008 to make improvements to the food safety education program carried out under such Act, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:53:16-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3540:@@@L&summ2=m&"
+}

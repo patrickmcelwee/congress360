@@ -1,0 +1,110 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-05-13", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-05-20", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Communications and Technology.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-05-24", 
+      "references": [
+        {
+          "reference": "CR E776", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5236-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Communications and Technology", 
+      "subcommittee_id": "16"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-05-13", 
+  "number": "5236", 
+  "official_title": "To direct the Federal Communications Commission to adopt rules to ensure the accuracy of call location information for 9-1-1 calls, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Requesting Emergency Services and Providing Origination Notification Systems Everywhere Act of 2016", 
+  "sponsor": {
+    "district": "18", 
+    "name": "Eshoo, Anna G.", 
+    "state": "CA", 
+    "thomas_id": "00355", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-05-13", 
+  "subjects": [
+    "Science, technology, communications"
+  ], 
+  "subjects_top_term": "Science, technology, communications", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2016-05-13", 
+    "text": "Requesting Emergency Services and Providing Origination Notification Systems Everywhere Act of 2016 or the RESPONSE Act of 2016\n\nThis bill requires the Federal Communications Commission to adopt rules to ensure that call location information is conveyed with 9-1-1 calls, including calls from multi-line telephone systems, regardless of the technological platform used."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Requesting Emergency Services and Providing Origination Notification Systems Everywhere Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "RESPONSE Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To direct the Federal Communications Commission to adopt rules to ensure the accuracy of call location information for 9-1-1 calls, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:07:27-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR5236:@@@L&summ2=m&"
+}

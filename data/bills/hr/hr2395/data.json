@@ -1,0 +1,232 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-05-18", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Oversight and Government Reform.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-05-19", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-05-19", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2015-07-16T14:06:00-04:00", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on Oversight and Government Reform. H. Rept. 114-210.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-16T14:06:00-04:00", 
+      "calendar": "Union", 
+      "number": "158", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 158.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2016-06-21T16:50:00-04:00", 
+      "references": [], 
+      "text": "Mr. Meadows moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-21T16:50:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4002-4006", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-21T16:50:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 2395.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-21T16:58:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H4002-4005", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2016-06-21T16:58:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-22", 
+      "committees": [
+        "SSGA"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2395-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Oversight and Government Reform", 
+      "committee_id": "HSGO"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Homeland Security and Governmental Affairs", 
+      "committee_id": "SSGA"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "7", 
+      "name": "Cummings, Elijah E.", 
+      "sponsored_at": "2015-05-18", 
+      "state": "MD", 
+      "thomas_id": "00256", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Meadows, Mark", 
+      "sponsored_at": "2015-05-18", 
+      "state": "NC", 
+      "thomas_id": "02142", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-05-19", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2016-06-21T16:58:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-05-18", 
+  "number": "2395", 
+  "official_title": "To amend the Inspector General Act of 1978 to strengthen the independence of the Inspectors General, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s579-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s579-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s3011-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Inspector General Empowerment Act of 2016", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Chaffetz, Jason", 
+    "state": "UT", 
+    "thomas_id": "01956", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2016-06-21T16:58:00-04:00", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Congressional oversight", 
+    "Evidence and witnesses", 
+    "Executive agency funding and structure", 
+    "Federal officials", 
+    "Government ethics and transparency, public corruption", 
+    "Government information and archives", 
+    "Government operations and politics", 
+    "Government studies and investigations"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": {
+    "as": "Reported to House without amendment", 
+    "date": "2015-07-16", 
+    "text": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)\n\nInspector General Empowerment Act of 2015\n\nThis bill amends the Inspector General Act of 1978 to enhance the investigatory powers of Inspectors General.\n\n(Sec. 2) This section grants Inspectors General subpoena authority to compel the attendance and testimony of certain witnesses, including federal contractors and former federal employees, in investigations of fraud or waste in excess of $100,000. However, if there is reasonable cause to believe a crime has been committed, the $100,000 threshold\u00a0shall not apply.\n\nPrior to issuing a subpoena, an Inspector General must submit a request for approval of a subpoena to a Subpoena Panel comprised of three Inspectors General of the Council of the Inspectors General on Integrity and Efficiency and then notify the Department of Justice (DOJ) of intent to issue\u00a0the subpoena. DOJ retains the power to approve or deny the issuance of a subpoena.\n\nInspectors General may compare, through a matching program, federal records with other federal or non-federal records, while conducting an audit or other review to identify weaknesses that may lead to waste, fraud, or abuse and to detect improper payments and fraud. This authority is not restricted by privacy protections in the Computer Matching and Privacy Protection Act of 1988.\n\n(Sec. 3) The Council of the Inspectors General on Integrity and Efficiency is charged with receiving, reviewing, and mediating any disputes involving the jurisdiction of more than one federal agency or entity.\n\nThe Integrity Committee of the Council must make an expedited determination of whether to initiate an investigation of allegations of wrongdoing\u00a0 and must complete an investigation within six months after making such determination.\n\n(Sec. 4) This section exempts from Paperwork Reduction Act requirements: (1) information collected during any evaluation by the Federal Accountability and Spending Transparency Board; and (2) information collected during any audit, investigation, inspection, evaluation, or other review conducted by the Council or any Office of the Inspector General, including any Office of Special Inspector General.\n\n(Sec. 5) The Integrity Committee is granted the authority to investigate an allegation of wrongdoing against the Special Counsel or the Deputy Special Counsel (officials appointed to investigate prohibited personnel practices and government waste and abuse) on the same basis as an investigation of an allegation against an Inspector General.\n\n(Sec. 6) This section requires: (1) the Government Accountability Office to study and report on prolonged vacancies in the offices of Inspector General, and (2) the Council to conduct and report on an analysis of critical issues that involve the jurisdiction of more than one Office of Inspector General.\n\n(Sec. 7) This section requires the public disclosure of any finding of misconduct, including any violation of federal law or agency policy, by any member of the Senior Executive Service, an employee excepted from the competitive service, or certain commissioned officers in the U.S. Army."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Inspector General Empowerment Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Inspector General Empowerment Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Inspector General Empowerment Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Inspector General Act of 1978 to strengthen the independence of the Inspectors General, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:43:34-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2395:@@@L&summ2=m&"
+}

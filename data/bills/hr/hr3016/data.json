@@ -1,0 +1,450 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-07-09", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-07-12", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-07-14", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-22", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-22", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee by Voice Vote .", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-17", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-17", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported in the Nature of a Substitute (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2015-12-01T15:07:00-05:00", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 114-358.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-12-01T15:08:00-05:00", 
+      "calendar": "Union", 
+      "number": "274", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 274.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2016-02-09T15:19:00-05:00", 
+      "references": [], 
+      "text": "Mr. Miller (FL) moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-09T15:19:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H603-614", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-09T15:19:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3016.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-09T15:41:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H603-611", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2016-02-09T15:41:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-09T15:42:00-05:00", 
+      "references": [], 
+      "text": "The title of the measure was amended. Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-10", 
+      "committees": [
+        "SSVA"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3016-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "03"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Veterans' Affairs", 
+      "committee_id": "SSVA"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "5", 
+      "name": "Abraham, Ralph Lee", 
+      "sponsored_at": "2015-07-09", 
+      "state": "LA", 
+      "thomas_id": "02244", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Benishek, Dan", 
+      "sponsored_at": "2015-07-09", 
+      "state": "MI", 
+      "thomas_id": "02027", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Blumenauer, Earl", 
+      "sponsored_at": "2015-09-30", 
+      "state": "OR", 
+      "thomas_id": "00099", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "26", 
+      "name": "Brownley, Julia", 
+      "sponsored_at": "2015-07-09", 
+      "state": "CA", 
+      "thomas_id": "02106", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Coffman, Mike", 
+      "sponsored_at": "2015-07-22", 
+      "state": "CO", 
+      "thomas_id": "01912", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Costello, Ryan A.", 
+      "sponsored_at": "2015-07-15", 
+      "state": "PA", 
+      "thomas_id": "02266", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Israel, Steve", 
+      "sponsored_at": "2015-10-23", 
+      "state": "NY", 
+      "thomas_id": "01663", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "32", 
+      "name": "Napolitano, Grace F.", 
+      "sponsored_at": "2015-09-17", 
+      "state": "CA", 
+      "thomas_id": "01602", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Radewagen, Aumua Amata Coleman", 
+      "sponsored_at": "2015-07-15", 
+      "state": "AS", 
+      "thomas_id": "02222", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Roe, David P.", 
+      "sponsored_at": "2015-07-09", 
+      "state": "TN", 
+      "thomas_id": "01954", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "36", 
+      "name": "Ruiz, Raul", 
+      "sponsored_at": "2015-07-09", 
+      "state": "CA", 
+      "thomas_id": "02109", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "28", 
+      "name": "Schiff, Adam B.", 
+      "sponsored_at": "2015-09-17", 
+      "state": "CA", 
+      "thomas_id": "01635", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "Smith, Lamar", 
+      "sponsored_at": "2015-09-17", 
+      "state": "TX", 
+      "thomas_id": "01075", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Wilson, Joe", 
+      "sponsored_at": "2015-07-15", 
+      "state": "SC", 
+      "thomas_id": "01688", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Young, David", 
+      "sponsored_at": "2015-10-22", 
+      "state": "IA", 
+      "thomas_id": "02242", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-07-14", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2016-02-09T15:41:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-07-09", 
+  "number": "3016", 
+  "official_title": "To amend title 38, United States Code, to make certain improvements in the laws administered by the Secretary of Veterans Affairs relating to health care, educational assistance, and vocational rehabilitation, to establish the Veterans Economic Opportunity and Transition Administration, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr182-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr272-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr356-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr359-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr423-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr475-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr476-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr1187-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr1862-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr2531-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s2106-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s2175-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s2661-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Veterans Employment, Education, and Healthcare Improvement Act", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Wenstrup, Brad R.", 
+    "state": "OH", 
+    "thomas_id": "02152", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2016-02-09T15:41:00-05:00", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Department of Veterans Affairs", 
+    "Government employee pay, benefits, personnel management", 
+    "Health personnel", 
+    "Veterans' medical care"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2016-02-09", 
+    "text": "Veterans Employment, Education, and Healthcare Improvement Act\n\nTITLE I--VETERANS HEALTH CARE\n\n(Sec. 101) This bill includes podiatrists within the Department of Veterans Affairs (VA) definition of physician, and increases their pay grade to match other VA physician compensation.\n\n(Sec. 102) The priority for enrollment in the VA health care system given to medal of honor recipients shall increase from third to first, regardless of the date on which the medal is awarded.\n\nMedal of honor recipients shall be eligible for VA: (1) hospital, nursing home, and domiciliary care; (2) extended care services for non-service-connected disabilities, without having to make a copayment for such services; and (3) medications, without having to make a copayment for such medications.\n\n(Sec. 103) The VA may provide the newborn child of a woman veteran receiving VA maternity care with post-delivery care services for at most 42 days (currently 7 days) after the child's birth if the veteran delivered the child in a VA facility or another facility with which VA has a contract for such services.\n\n(Sec. 104) The Government Accountability Office (GAO) shall periodically audit elements of the Veterans Health Administration budget.\n\n(Sec. 105) The VA shall: (1) conduct outreach to inform veterans of how to resolve credit issues caused by a delayed payment of a claim for emergency hospital care, medical services, or other emergency health care furnished through a non-VA provider; and (2) establish a toll-free telephone number for veterans to report such issues to the VA's Chief Business Office.\n\nThe GAO shall evaluate the effectiveness of the Chief Business Office in providing timely payment of a proper invoice for emergency hospital care, medical services, or other emergency health care furnished through non-VA providers by the required payment date.\n\n(Sec. 106) The VA shall carry out a five-year pilot program to assess the effectiveness of addressing veterans' post-deployment mental health and post-traumatic stress disorder symptoms through the therapeutic medium of educating those veterans in the training and handling of service dogs for veterans with disabilities.\n\nThe program shall be carried out through contracts with appropriate nongovernmental entities located in close proximity to between three and five VA medical centers.\n\nEach entity shall be certified in service dog training and have a training area for educating veterans with mental health conditions in service dog training and handling.\n\nTITLE II--VETERANS ECONOMIC OPPORTUNITY AND TRANSITION ADMINISTRATION\n\n(Sec. 201) The bill establishes in the VA the Veterans Economic Opportunity and Transition Administration (VEOTA) to administer programs of economic opportunity assistance for veterans and their dependents and survivors.\n\nVEOTA shall administer the following:\n\n vocational rehabilitation and employment programs; educational assistance programs; veterans' housing loan and related programs; veterans' small business programs, including the program to increase participation in VA contracts by small business concerns owned and controlled by veterans who have service-connected disabilities and by veterans who do not have such disabilities; and the transition assistance program. The aggregate number of full-time equivalent employees authorized for VEOTA for FY2017-FY2018 shall be 22,118.\n\n(Sec. 202) The bill creates in the VA the position of Under Secretary for Veterans Economic Opportunity and Transition to oversee all VEOTA programs.\n\nTITLE III--EDUCATION ASSISTANCE AND VOCATIONAL REHABILITATION\n\n(Sec. 301) The amount of the monthly stipend payable to children eligible for Post-9/11 G.I. Bill benefits shall be 50% of what the service member or veteran would receive.\n\n(Sec. 302) The Veterans Access, Choice, and Accountability Act of 2014 is amended to deem any member of the Armed Forces who died between September 11, 2001, and December 31, 2005, to have died on January 1, 2006, in order to make that member's surviving spouse eligible for the Marine Gunnery Sergeant John David Fry scholarship. (Under current law, surviving spouses of service members who die in the line of duty after September 11, 2001, are eligible for such assistance until the earlier of the date they remarry or the date that is 15 years after the military spouse's death.)\n\nA surviving spouse of a member of the Armed Forces who died between September 11, 2001, and December 31, 2005, who elected before enactment of this Act to receive educational benefits under the Survivors and Dependents Educational Assistance program or the Marine Gunnery Sergeant John David Fry program may revoke such choice. (Such an election is currently irrevocable.)\n\n The bill extends Yellow Ribbon G.I. Education Enhancement program eligibility to Fry program recipients for eligible higher education programs commencing on or after January 1, 2015.\n\n(Sec. 303) A veteran may pursue a course of education and training as part of a rehabilitation program only if the course is approved according to VA vocational rehabilitation requirements.\n\n(Sec. 304) The VA may prioritize vocational rehabilitation services based on need and upon consideration of disability ratings, the severity of employment handicaps, qualification for a program of independent living, income, and other appropriate factors.\n\n(Sec. 305) Individuals may elect to convert their educational assistance to the Post-9/11 veterans' educational assistance program if, as of August 1, 2009, they meet specified conditions with respect to their entitlements and elections under the all-volunteer force educational assistance program or certain other educational programs for professional military, selected reserve, or reserve component members.\n\nPost-9/11 program eligibility shall be conditioned on an individual's meeting the requirements for the Post-9/11 program as of the date of election.\n\nThe bill prescribes transitional rules with respect to the transfer or revocation of entitlements from a previous assistance program after an election to convert to the Post-9/11 program.\n\nCertain assistance shall remain available to individuals under their previous program if it is not available under the Post-9/11 program.\n\nAfter January 1, 2016, if an individual submits an election that the VA determines is against the individual's interests, the VA may make an alternative election on the individual's behalf. Such an individual may, during a specified period, modify or revoke the VA's alternative selection.\n\n(Sec. 306) The VA shall not include flight training fees in the in-state tuition and fees at public institutions of higher education covered by post-9/11 veterans' educational assistance.\n\nPost-9/11 veterans' educational assistance for flight training programs at public institutions shall be determined in the same manner as such assistance is determined for education programs pursued at non-public or foreign institutions of higher education.\n\n(Sec. 307) Certain time spent receiving Department of Defense medical care shall be considered as active duty for purposes of Post-9/11 veterans educational assistance.\n\n(Sec. 308) The period for certain qualifying work-study activities for individuals receiving VA educational assistance shall be extended through June 30, 2021.\n\n(Sec. 309) The VA shall develop and publish an action plan for improving the training and rehabilitation services and assistance for veterans with service-connected disabilities.\n\nSuch plan shall include:\n\n a proposed implementation plan for remedying workload management challenges at VA regional offices; an analysis of the low percentage of veterans with service-connected disabilities who served in the Armed Forces after September 11, 2001, who opt to participate in a VA rehabilitation program relative to the percentage of such veterans who use their entitlement to VA educational assistance; and a national staff training program for vocational rehabilitation counselors, which shall include training on post-traumatic stress disorder and other mental health conditions. (Sec. 310) The VA shall reduce redundancy and inefficiencies in the use of information technology to process rehabilitation program claims by: (1) ensuring that all payments are processed and paid out of one corporate information technology system, and (2) enhancing the information technology system to support more accurate accounting of services and outcomes.\n\n FY2016 funds are authorized for such purposes.\n\n TITLE IV--ADMINISTRATION OF EDUCATIONAL ASSISTANCE\n\n(Sec. 401) Veterans educational assistance program reporting requirements may include as an educational institution any group, district, or consortium of separately accredited educational institutions located in a state to centralize enrollment information reporting.\n\n(Sec. 402) The VA shall make available to educational institutions, through an accessible and secure information technology system, information on the amount of educational assistance to which their students are entitled under the all-volunteer force, post-Vietnam era, Post-9/11, and survivors' and dependents' educational assistance programs.\n\n(Sec. 403) Specified education programs are deemed to be approved for veterans' education benefit purposes if a state approving agency determines that they qualify. A state approving agency, or the VA acting in the role of a state approving agency, may approve other accredited programs for such purposes.\n\n(Sec. 404) State approving agencies may continue to establish additional criteria for the approval of nonaccredited courses, but the VA must, in consultation with the state approving agency, determine that such criteria are necessary and treat public, private, and proprietary for-profit educational institutions equitably.\n\n(Sec. 405) The VA shall conduct an annual compliance survey of educational institutions and training establishments offering one or more courses approved for the enrollment of eligible veterans or persons if at least 20 such veterans or persons are enrolled in any such course. (Currently, an annual compliance survey of each institution offering such courses must be conducted if at least 300 beneficiaries are enrolled or if any such course does not lead to a standard college degree.)\n\n Each educational institution and training establishment shall be surveyed at lease once every two years.\n\n(Sec. 406) The VA shall contract with a non-government entity to conduct a survey of a statistically valid sample of veterans using their education benefits to pursue a program of education or training.\n\n(Sec. 407) The VA shall alter the information technology system of the Veterans Benefits Administration to ensure that: (1) all claims for post-9/11 educational assistance are electronically adjudicated, to the maximum extent possible; and (2) rule-based processing is used to decide such claims with little human intervention.\n\nThe bill authorizes FY2016-FY2017 appropriations for such purpose.\n\n(Sec. 408) Active duty service members may transfer in-state tuition entitlement to their eligible dependents, effective with respect to a course, semester, or term that begins after July 1, 2016.\n\nTITLE V--OTHER MATTERS\n\n(Sec. 501) The maximum amount of a veteran's VA-guaranteed home loan of more than $144,000 shall be the maximum guaranty amount.\n\n(Sec. 502) The VA shall contract with a non-government entity to conduct a five-year longitudinal study of veterans: (1) who have received certain Department of Labor job training and employment placement services, (2) who did not receive such services but who received other Labor employment services, and (3) who did not seek or receive Labor employment services.\n\n The study shall include information about each participant regarding:\n\n length of active duty, disability ratings, unemployment benefits, months employed and salaries, annual and household income, home ownership, employment status, educational assistance, whether any service provided by a disabled veterans' outreach specialist or local veterans' employment representative helped the individual to become employed, and conditions of military discharge. (Sec. 503) Subcontracting limitations that apply to certain small businesses awarded contracts under various Small Business Administration (SBA) programs shall be extended to small business concerns owned and controlled by veterans with or without service-connected disabilities who are awarded VA contracts.\n\nFor purposes of applying such subcontracting limitations to veterans with small businesses awarded such VA contracts:\n\n small businesses owned and controlled by veterans shall be treated in the same manner as small businesses owned and controlled by veterans with service-connected disabilities, and similarly situated entities shall include subcontractors for small businesses owned and controlled by a veteran with or without a service-connected disability. Before awarding such a contract, the VA shall obtain a certification from the offeror: (1) promising to comply with applicable performance requirements, and (2) acknowledging that the certification is subject to criminal laws concerning false or fraudulent statements or representations.\n\nSmall businesses shall be subject to fines, imprisonment, or both for not acting in good faith.\n\nThe VA Office of Small and Disadvantaged Business Utilization and the VA's Chief Acquisition Officer shall: (1) establish a process to monitor the subcontracting requirement compliance of veterans' small businesses awarded VA contracts, and (2) refer violations to the VA's Inspector General.\n\n(Sec. 504) The VA shall develop procedures to share veterans' contact information (military service and separation data, e-mail addresses telephone numbers, and mailing addresses) with state veterans agencies in electronic format to facilitate the furnishing of assistance and benefits.\n\n Veterans may elect to prevent their information from being shared."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "VA Provider Equity Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Veterans Employment, Education, and Healthcare Improvement Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Veterans Employment, Education, and Healthcare Improvement Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 38, United States Code, to clarify the role of podiatrists in the Department of Veterans Affairs.", 
+      "type": "official"
+    }, 
+    {
+      "as": "amended by house", 
+      "is_for_portion": false, 
+      "title": "To amend title 38, United States Code, to make certain improvements in the laws administered by the Secretary of Veterans Affairs relating to health care, educational assistance, and vocational rehabilitation, to establish the Veterans Economic Opportunity and Transition Administration, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:48:54-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3016:@@@L&summ2=m&"
+}

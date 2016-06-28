@@ -1,0 +1,211 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-06-07", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Homeland Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-06-08", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-08", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2016-06-21T12:57:00-04:00", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on Homeland Security. H. Rept. 114-629.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-21T12:57:00-04:00", 
+      "calendar": "Union", 
+      "number": "488", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 488.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2016-06-21T14:55:00-04:00", 
+      "references": [], 
+      "text": "Mr. Ratcliffe moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-21T14:55:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3985-3988", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-21T14:55:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 5388.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-21T15:05:00-04:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-21T18:53:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4026", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-21T19:01:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3985-3986", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "335", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 351 - 4 (Roll no. 335).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2016-06-21T19:01:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-22", 
+      "committees": [
+        "SSGA"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5388-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Homeland Security and Governmental Affairs", 
+      "committee_id": "SSGA"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "10", 
+      "name": "McCaul, Michael T.", 
+      "sponsored_at": "2016-06-07", 
+      "state": "TX", 
+      "thomas_id": "01804", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2016-06-08", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2016-06-21T19:01:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-06-07", 
+  "number": "5388", 
+  "official_title": "To amend the Homeland Security Act of 2002 to provide for innovative research and development, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr3578-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Support for Rapid Innovation Act of 2016", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Ratcliffe, John", 
+    "state": "TX", 
+    "thomas_id": "02268", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2016-06-21T19:01:00-04:00", 
+  "subjects": [
+    "Emergency management"
+  ], 
+  "subjects_top_term": "Emergency management", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2016-06-07", 
+    "text": "Support for Rapid Innovation Act of 2016\n\nThis bill amends the Homeland Security Act of 2002 to direct the Under Secretary for Science and Technology of the Department of Homeland Security (DHS) to support the research, development, testing, evaluation, and transition of cybersecurity technologies.\n\nSuch research and development shall:\n\n advance the development and accelerate the deployment of more secure information systems, improve and create technologies for detecting attacks or intrusions, improve and create mitigation and recovery methodologies and development of resilient networks and information systems, support the review of source code that underpins critical infrastructure information systems, develop and support infrastructure and tools to support cybersecurity research and development efforts, assist the development and support of technologies to reduce vulnerabilities in industrial control systems, and develop and support cyber forensics and attack attribution capabilities. The Under Secretary shall:\n\n support projects carried out under this bill through their full life cycle; identify mature technologies that address existing or imminent cybersecurity gaps in public or private information systems and networks, identify and support necessary improvements, and introduce new cybersecurity technologies throughout the homeland security enterprise through partnerships and commercialization; and target federally funded cybersecurity research that demonstrates a high probability of successful transition to the commercial market within two years and that is expected to have a notable impact on information systems and networks. The bill: (1) extends the authority of the Secretary of DHS to carry out a research and development projects pilot program until September 30, 2020; (2) requires a DHS component to obtain the Secretary's approval before utilizing authority for such a project by providing a proposal that includes the rationale, funds to be spent, and expected outcome for the project; and (3) requires the Secretary's annual report on such program to include the extent of cost-sharing for projects among federal and non-federal sources and the extent to which utilization of project authority has addressed a homeland security capability gap or threat to the homeland."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Support for Rapid Innovation Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Homeland Security Act of 2002 to provide for innovative research and development, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:08:44-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR5388:@@@L&summ2=m&"
+}

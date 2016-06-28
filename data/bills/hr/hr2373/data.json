@@ -1,0 +1,111 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-05-15", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-05-22", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2373-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-05-15", 
+  "number": "2373", 
+  "official_title": "To provide for the legitimate use of medicinal marijuana in accordance with the laws of the various States.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr1774-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Legitimate Use of Medicinal Marijuana Act", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Griffith, H. Morgan", 
+    "state": "VA", 
+    "thomas_id": "02070", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-05-15", 
+  "subjects": [
+    "Alternative treatments", 
+    "Drug trafficking and controlled substances", 
+    "Drug, alcohol, tobacco use", 
+    "Health", 
+    "Intergovernmental relations", 
+    "Prescription drugs", 
+    "State and local government operations"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-05-15", 
+    "text": "Legitimate Use of Medical Marijuana Act or the LUMMA\n\nTransfers marijuana from schedule I to schedule II of the Controlled Substances Act (CSA).\n\nProvides that in a state in which marijuana may be prescribed for medical use under state law, no provision of the CSA or of the Federal Food, Drug, and Cosmetic Act shall prohibit or otherwise restrict: (1) the prescription of marijuana for medical use; (2) an authorized patient from obtaining, possessing, transporting, or using marijuana for that individual's medical use; (3) an individual from obtaining, possessing, transporting, or manufacturing marijuana pursuant to an authorization under state law; (4) a pharmacy or other entity authorized under state law to distribute medical marijuana to an authorized patient for medical use from obtaining, possessing, or distributing marijuana for that purpose; or (5) an entity authorized by such state from producing, processing, or distributing marijuana for\u00a0 prescribed medical use."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Legitimate Use of Medicinal Marijuana Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "LUMMA", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide for the legitimate use of medicinal marijuana in accordance with the laws of the various States.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:43:23-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2373:@@@L&summ2=m&"
+}

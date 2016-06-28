@@ -1,0 +1,122 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-12-01", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-12-03", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4150-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "5", 
+      "name": "Schrader, Kurt", 
+      "sponsored_at": "2016-06-10", 
+      "state": "OR", 
+      "thomas_id": "01950", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Wenstrup, Brad R.", 
+      "sponsored_at": "2015-12-01", 
+      "state": "OH", 
+      "thomas_id": "02152", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-12-01", 
+  "number": "4150", 
+  "official_title": "To amend title 38, United States Code, to allow the Secretary of Veterans Affairs to modify the hours of employment of physicians and physician assistants employed on a full-time basis by the Department of Veterans Affairs.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1450-114", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Department of Veterans Affairs Emergency Medical Staffing Recruitment and Retention Act", 
+  "sponsor": {
+    "district": "36", 
+    "name": "Ruiz, Raul", 
+    "state": "CA", 
+    "thomas_id": "02109", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-12-01", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Department of Veterans Affairs", 
+    "Government employee pay, benefits, personnel management", 
+    "Health personnel", 
+    "Veterans' medical care"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-12-01", 
+    "text": "Department of Veterans Affairs Emergency Medical Staffing Recruitment and Retention Act\n\nThis bill authorizes the Department of Veterans Affairs (VA) to modify the hours of employment for a full-time VA physician or physician assistant to be more than or less than 80 hours in a biweekly pay period if the total of such employee's hours of employment in a calendar year does not exceed 2,080 hours."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Department of Veterans Affairs Emergency Medical Staffing Recruitment and Retention Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 38, United States Code, to allow the Secretary of Veterans Affairs to modify the hours of employment of physicians and physician assistants employed on a full-time basis by the Department of Veterans Affairs.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:58:22-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4150:@@@L&summ2=m&"
+}

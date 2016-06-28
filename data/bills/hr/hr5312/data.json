@@ -1,0 +1,265 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-05-24", 
+      "committees": [
+        "HSSY"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Science, Space, and Technology.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-06-13T16:22:00-04:00", 
+      "committees": [
+        "HSSY"
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on Science, Space, and Technology. H. Rept. 114-620.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-13T16:23:00-04:00", 
+      "calendar": "Union", 
+      "number": "482", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Placed on the Union Calendar, Calendar No. 482.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2016-06-13T16:31:00-04:00", 
+      "references": [], 
+      "text": "Mr. LaHood moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-13T16:31:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3708-3714", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-13T16:31:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 5312.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-13T16:51:00-04:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-13T18:56:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3731-3732", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-13T19:02:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3708-3711", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "298", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 385 - 7 (Roll no. 298).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2016-06-13T19:02:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-14", 
+      "committees": [
+        "SSCM"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5312-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "reporting"
+      ], 
+      "committee": "House Science, Space, and Technology", 
+      "committee_id": "HSSY"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Commerce, Science, and Transportation", 
+      "committee_id": "SSCM"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "5", 
+      "name": "Abraham, Ralph Lee", 
+      "sponsored_at": "2016-05-24", 
+      "state": "LA", 
+      "thomas_id": "02244", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Comstock, Barbara", 
+      "sponsored_at": "2016-05-24", 
+      "state": "VA", 
+      "thomas_id": "02273", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Davis, Rodney", 
+      "sponsored_at": "2016-06-10", 
+      "state": "IL", 
+      "thomas_id": "02126", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "30", 
+      "name": "Johnson, Eddie Bernice", 
+      "sponsored_at": "2016-05-24", 
+      "state": "TX", 
+      "thomas_id": "00599", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Lipinski, Daniel", 
+      "sponsored_at": "2016-05-24", 
+      "state": "IL", 
+      "thomas_id": "01781", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Lucas, Frank D.", 
+      "sponsored_at": "2016-05-24", 
+      "state": "OK", 
+      "thomas_id": "00711", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Moolenaar, John R.", 
+      "sponsored_at": "2016-05-24", 
+      "state": "MI", 
+      "thomas_id": "02248", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "Smith, Lamar", 
+      "sponsored_at": "2016-05-24", 
+      "state": "TX", 
+      "thomas_id": "01075", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2016-06-13T16:22:00-04:00", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2016-06-13T19:02:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-05-24", 
+  "number": "5312", 
+  "official_title": "To amend the High-Performance Computing Act of 1991 to authorize activities for support of networking and information technology research, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Networking and Information Technology Research and Development Modernization Act of 2016", 
+  "sponsor": {
+    "district": "18", 
+    "name": "LaHood, Darin", 
+    "state": "IL", 
+    "thomas_id": "02295", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2016-06-13T19:02:00-04:00", 
+  "subjects": [
+    "Science, technology, communications"
+  ], 
+  "subjects_top_term": "Science, technology, communications", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2016-05-24", 
+    "text": "Networking and Information Technology Research and Development Modernization Act of 2016\n\n This bill amends the High-Performance Computing Act of 1991 to rename the National High-Performance Computing Program as the Networking and Information Technology Research and Development Program.\n\nThe Program, in addition to its current requirements, shall:\n\n conduct or arrange for research and development on human-computer interactions, visualization, and big data, as well as the enhancement of cybersecurity; and create a research framework to leverage cyber-physical systems, high capacity and high speed communication networks, and large-scale data analytics to integrate city-scale information technology and physical infrastructures. Participating federal agencies, working through the National Science and Technology Council, shall develop, and update every five years, a strategic plan for the Program.\n\n The bill replaces the National Research and Education Network with a National Coordination Office, which the Office of Science and Technology Policy shall maintain, and which shall give technical and administrative support to participating federal agencies.\n\nThe bill repeals the authorization for a Next Generation Internet program.\n\nThe Program shall encourage participating agencies to support large-scale, long-term, interdisciplinary research and development activities in networking and information technology directed toward agency mission areas that have the potential for significant contributions to national economic competitiveness and for other significant societal benefits.\n\nThe National Coordination Office may conduct workshops and other activities on research areas of emerging importance.\n\nThe National Science Foundation, the National Aeronautics and Space Administration (NASA), the Department of Energy, the National Institute of Standards and Technology, the Environmental Protection Agency, and the Department of Education shall each engage in specified research and development activities in conjunction with the Program."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Networking and Information Technology Research and Development Modernization Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Networking and Information Technology Research and Development Modernization Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Networking and Information Technology Research and Development Modernization Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the High-Performance Computing Act of 1991 to authorize activities for support of networking and information technology research, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:08:06-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR5312:@@@L&summ2=m&"
+}

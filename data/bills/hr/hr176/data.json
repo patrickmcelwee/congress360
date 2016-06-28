@@ -1,0 +1,119 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-01-06", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Transportation and Infrastructure.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-01-07", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Water Resources and Environment.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr176-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Water Resources and Environment", 
+      "subcommittee_id": "02"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "4", 
+      "name": "Westerman, Bruce", 
+      "sponsored_at": "2015-01-08", 
+      "state": "AR", 
+      "thomas_id": "02224", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-01-06", 
+  "number": "176", 
+  "official_title": "To amend the Water Resources Development Act of 1992 to permit the collection of user fees by non-Federal entities in connection with the challenge cost-sharing program for management of recreation facilities, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2848-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "LOCAL Act of 2015", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Womack, Steve", 
+    "state": "AR", 
+    "thomas_id": "01991", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-01-06", 
+  "subjects": [
+    "Outdoor recreation", 
+    "Public-private cooperation", 
+    "Sports and recreation facilities", 
+    "User charges and fees", 
+    "Water resources development"
+  ], 
+  "subjects_top_term": "Water resources development", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-01-06", 
+    "text": "Local Organization Cooperative Agreement for Land and Facility Maintenance Act of 2015 or the LOCAL Act of 2015 - Amends the Water Resources Development Act of 1992 to authorize the Secretary of the Army to permit a non-federal public or private entity that has entered into a cooperative agreement for the operation and management of recreation facilities and natural resources at civil works projects under the Secretary's jurisdiction to collect user fees for the use of developed recreation sites and facilities, whether developed or constructed by such entity or the Department of the Army.\n\nPermits such an entity to retain up to 100% of the fees collected and use them for operation, maintenance, and management at the recreation site where they were collected."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "LOCAL Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Local Organization Cooperative Agreement for Land and Facility Maintenance Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Water Resources Development Act of 1992 to permit the collection of user fees by non-Federal entities in connection with the challenge cost-sharing program for management of recreation facilities, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:24:41-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR176:@@@L&summ2=m&"
+}

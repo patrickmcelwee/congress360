@@ -1,0 +1,140 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-05-12", 
+      "committees": [
+        "HSSY"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Science, Space, and Technology.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-05-13", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-05-13", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2261-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup"
+      ], 
+      "committee": "House Science, Space, and Technology", 
+      "committee_id": "HSSY"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "36", 
+      "name": "Babin, Brian", 
+      "sponsored_at": "2015-05-12", 
+      "state": "TX", 
+      "thomas_id": "02270", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Perlmutter, Ed", 
+      "sponsored_at": "2015-05-12", 
+      "state": "CO", 
+      "thomas_id": "01835", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Posey, Bill", 
+      "sponsored_at": "2015-05-12", 
+      "state": "FL", 
+      "thomas_id": "01915", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "Smith, Lamar", 
+      "sponsored_at": "2015-05-12", 
+      "state": "TX", 
+      "thomas_id": "01075", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-05-13", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-05-12", 
+  "number": "2261", 
+  "official_title": "To facilitate the continued development of the commercial remote sensing industry and protect national security.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr2262-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Commercial Remote Sensing Act of 2015", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Bridenstine, Jim", 
+    "state": "OK", 
+    "thomas_id": "02155", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2015-05-13", 
+  "subjects": [
+    "Congressional oversight", 
+    "Licensing and registrations", 
+    "Science, technology, communications", 
+    "Spacecraft and satellites"
+  ], 
+  "subjects_top_term": "Science, technology, communications", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-05-12", 
+    "text": "Commercial Remote Sensing Act of 2015\n\nThis bill directs the Department of Commerce to report annually to the House Committee on Science, Space, and Technology and the Senate Committee on Commerce, Science, and Transportation on: (1) the implementation of its authority to license private entities to operate private remote sensing space systems; (2) all notifications and information provided to Commerce by licensees; and (3) all administrative actions taken to adjust penalties for violations of licensing requirements, issue subpoenas, and seize by warrant material necessary to investigate violations of licensing requirements.\n\nCommerce must also report to such Committees on statutory updates necessary to protect national security, protect the U.S. industrial base, and reflect the current state of the art of remote sensing systems, instruments, or technologies."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Commercial Remote Sensing Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To facilitate the continued development of the commercial remote sensing industry and protect national security.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:42:26-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2261:@@@L&summ2=m&"
+}

@@ -1,0 +1,304 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-02-08", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-02-08", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "text": "Referred to House Transportation and Infrastructure", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-02-08", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "text": "Referred to House Financial Services", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-02-09", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-03-02", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-03-02", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-03-02", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-03-02", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2016-05-23T19:18:00-04:00", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 114-589, Part I.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-23T19:19:00-04:00", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "text": "Committee on Financial Services discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-23T19:19:00-04:00", 
+      "calendar": "Union", 
+      "number": "459", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 459.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2016-05-23T19:54:00-04:00", 
+      "references": [], 
+      "text": "Mr. Barletta moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-23T19:54:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2941-2945", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-23T19:54:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 4487.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-23T20:08:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H2941-2943", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2016-05-23T20:08:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-24", 
+      "references": [], 
+      "text": "Received in the Senate.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4487-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "discharged"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Economic Development, Public Buildings and Emergency Management", 
+      "subcommittee_id": "13"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "7", 
+      "name": "Carson, Andre", 
+      "sponsored_at": "2016-02-08", 
+      "state": "IN", 
+      "thomas_id": "01889", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "DeFazio, Peter A.", 
+      "sponsored_at": "2016-02-08", 
+      "state": "OR", 
+      "thomas_id": "00279", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Nadler, Jerrold", 
+      "sponsored_at": "2016-02-08", 
+      "state": "NY", 
+      "thomas_id": "00850", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Norton, Eleanor Holmes", 
+      "sponsored_at": "2016-02-08", 
+      "state": "DC", 
+      "thomas_id": "00868", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Shuster, Bill", 
+      "sponsored_at": "2016-02-08", 
+      "state": "PA", 
+      "thomas_id": "01681", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2016-03-02", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2016-05-23T20:08:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-02-08", 
+  "number": "4487", 
+  "official_title": "To reduce costs of Federal real estate, improve building security, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr2322-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Public Buildings Reform and Savings Act of 2016", 
+  "sponsor": {
+    "district": "11", 
+    "name": "Barletta, Lou", 
+    "state": "PA", 
+    "thomas_id": "02054", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2016-05-23T20:08:00-04:00", 
+  "subjects": [
+    "Accounting and auditing", 
+    "Congressional oversight", 
+    "Department of Energy", 
+    "Department of Homeland Security", 
+    "District of Columbia", 
+    "Energy storage, supplies, demand", 
+    "Firearms and explosives", 
+    "Government buildings, facilities, and property", 
+    "Government operations and politics", 
+    "Government studies and investigations", 
+    "Law enforcement officers", 
+    "Public contracts and procurement"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2016-02-08", 
+    "text": "Public Buildings Reform and Savings Act of 2016\n\nThis bill: (1) directs the General Services Administration (GSA) to establish and conduct a pilot program through 2021 to execute lease agreements using alternative procedures to reduce costs of leased space and significantly reduce or eliminate the backlog of expiring leases over the next five years, and (2) authorizes the GSA to submit consolidated prospectuses for leases and projects to Congress for approval.\n\nThe bill requires approval by congressional resolution of any costs and expenses associated with administering an acquisition by exchange involving real property or in-kind consideration, including services, with a fair market value of $2.85 million or more.\n\nThe bill authorizes: (1) the Department of Homeland Security (DHS) to authorize contract security personnel to carry firearms, and (2) such personnel to detain individuals without a warrant. DHS must\u00a0establish minimum and uniform training standards for security personnel.\n\nDHS must\u00a0report on: (1) the personnel needs of the Federal Protective Service (FPS), including recommendations on the numbers of FPS law enforcement officers needed to carry out the mission of FPS during the 10-year period after the enactment of this Act; and (2) the best method of funding for the FPS.\n\nThe GSA must: (1) justify any need for new or replacement building space, including an explanation of why such space could not be consolidated or colocated into other owned or leased space; (2) notify the House Committee on Transportation and Infrastructure and the Senate Committee on Environment and Public Works if the cost, scope, or size of any project changes by 5% or more; and (3) report to such committees on the justification for using three lease rental caps per fiscal year and their impacts in the National Capital Region.\n\nThe bill directs the GSA to: (1)\u00a0sell a portion of the Forrestal Complex in Washington, D.C. to generate funds necessary to construct a new Department of Energy headquarters on government-owned land in a manner consistent with the SW Ecodistrict Plan of the National Capital Planning Commission if the GSA determines that such headquarters can be constructed with no net costs to the government; and (2) consider the direct purchase of energy and other utilities in bulk or otherwise for leased facilities when cost-effective.\u00a0\n\nThe bill exempts an individual acquisition for commercial leasing services from enhanced competition requirements for the purchase of property and services by executive agencies if such individual acquisition is made on a no cost basis and pursuant to a multiple award contract in accordance with requirements for full and open competition.\n\nThe Government Accountability Office must conduct biennial audits of the GSA National Broker Contract, conduct a review of the application of enhanced competition requirements, and report on such audits and reviews.\n\nThe bill amends the Economic Development Administration Reform Act of 1965 to authorize the Department of Commerce to release the federal government's interest in economic adjustment grants not less than seven years after the final disbursement of the grant."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Public Buildings Reform and Savings Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Public Buildings Reform and Savings Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To reduce costs of Federal real estate, improve building security, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:01:11-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4487:@@@L&summ2=m&"
+}

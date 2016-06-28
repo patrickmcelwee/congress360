@@ -1,0 +1,139 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-05-13", 
+      "references": [], 
+      "text": "Hearings Held by the Subcommittee on Capital Markets and Government Sponsored Enterprises Prior to Referral.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-05-15", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Financial Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-05-20", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-05-20", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by the Yeas and Nays: 33 - 24.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2016-04-19T14:23:00-04:00", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on Financial Services. H. Rept. 114-506.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-19T14:23:00-04:00", 
+      "calendar": "Union", 
+      "number": "386", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 386.", 
+      "type": "calendar", 
+      "under": null
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2357-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }, 
+    {
+      "activity": [
+        "hearings"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA", 
+      "subcommittee": "Subcommittee on Capital Markets and Government Sponsored Enterprises", 
+      "subcommittee_id": "16"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-05-20", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-05-15", 
+  "number": "2357", 
+  "official_title": "To direct the Securities and Exchange Commission to revise Form S-3 so as to add listing and registration of a class of common equity securities on a national securities exchange as an additional basis for satisfying the requirements of General Instruction I.B.1. of such form and to remove such listing and registration as a requirement of General Instruction I.B.6. of such form.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Accelerating Access to Capital Act of 2015", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Wagner, Ann", 
+    "state": "MO", 
+    "thomas_id": "02137", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2015-05-20", 
+  "subjects": [
+    "Business records", 
+    "Corporate finance and management", 
+    "Finance and financial sector", 
+    "Government information and archives", 
+    "Licensing and registrations", 
+    "Securities"
+  ], 
+  "subjects_top_term": "Finance and financial sector", 
+  "summary": {
+    "as": "Reported to House without amendment", 
+    "date": "2016-04-19", 
+    "text": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)\n\nAccelerating Access to Capital Act of 2015\n\n(Sec. 2) Directs the Securities and Exchange Commission (SEC) to revise Form S-3 so as to permit securities to be registered pursuant to General Instruction I.B.1. of the form if either: (1) the aggregate market value of voting and non-voting common equity held by non-affiliates of the registrant is $75 million or more, or (2) the registrant has at least one class of common equity securities listed and registered on a national securities exchange.\n\nRequires the SEC to remove a certain listing and registration requirement from General Instruction I.B.6. of Form S-3."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Accelerating Access to Capital Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Accelerating Access to Capital Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To direct the Securities and Exchange Commission to revise Form S-3 so as to add listing and registration of a class of common equity securities on a national securities exchange as an additional basis for satisfying the requirements of General Instruction I.B.1. of such form and to remove such listing and registration as a requirement of General Instruction I.B.6. of such form.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:43:15-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2357:@@@L&summ2=m&"
+}

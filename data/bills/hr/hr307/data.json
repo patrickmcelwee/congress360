@@ -1,0 +1,156 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-01-13", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-02-02", 
+      "committees": [
+        "HSHM"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr307-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Crime, Terrorism, Homeland Security, and Investigations", 
+      "subcommittee_id": "08"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "29", 
+      "name": "Cardenas, Tony", 
+      "sponsored_at": "2015-12-16", 
+      "state": "CA", 
+      "thomas_id": "02107", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Cohen, Steve", 
+      "sponsored_at": "2015-07-09", 
+      "state": "TN", 
+      "thomas_id": "01878", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Connolly, Gerald E.", 
+      "sponsored_at": "2015-01-13", 
+      "state": "VA", 
+      "thomas_id": "01959", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Norton, Eleanor Holmes", 
+      "sponsored_at": "2015-09-15", 
+      "state": "DC", 
+      "thomas_id": "00868", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Quigley, Mike", 
+      "sponsored_at": "2015-01-13", 
+      "state": "IL", 
+      "thomas_id": "01967", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "36", 
+      "name": "Ruiz, Raul", 
+      "sponsored_at": "2015-07-13", 
+      "state": "CA", 
+      "thomas_id": "02109", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-01-13", 
+  "number": "307", 
+  "official_title": "To establish a gun buyback grant program.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Buyback Our Safety Act", 
+  "sponsor": {
+    "district": "21", 
+    "name": "Deutch, Theodore E.", 
+    "state": "FL", 
+    "thomas_id": "01976", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-01-13", 
+  "subjects": [
+    "Congressional oversight", 
+    "Crime and law enforcement", 
+    "Crime prevention", 
+    "Firearms and explosives", 
+    "Law enforcement administration and funding", 
+    "Violent crime"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-01-13", 
+    "text": "Buyback Our Safety Act\n\nDirects the Assistant Attorney General for the Office of Justice Programs of the Department of Justice to establish a gun buyback program under which the Assistant Attorney General may make grants to assist in funding gun buyback programs carried out by state, local, and Indian tribal law enforcement agencies.\n\nConditions such a grant on the law enforcement agency providing assurances that: (1) it will adequately advertise the program to the public, (2) such program will be administered by law enforcement personnel, (3) all guns received will remain in the possession of law enforcement personnel, (4) adequate safeguards will be established and followed to prevent fraud, (5) the agency will have in place a process to test on site a gun purchased before payment is provided, and (6) an adequate process will be in place to destroy all guns received. Requires the agency to certify that it will match all federal funds provided with an equal amount of cash or in-kind goods or services from other non-federal sources.\n\nDirects the Assistant Attorney General to enter into an arrangement with the National Academy of Sciences to: (1) develop standards for identifying, and to identify, guns that are the most likely to be used in violent crimes; and (2) establish a pricing scale for purchasing such guns through gun buyback programs. Authorizes the Assistant Attorney General to waive all or part of the matching funds requirement for a program that provides for obtaining only such guns."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Buyback Our Safety Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To establish a gun buyback grant program.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:25:47-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR307:@@@L&summ2=m&"
+}

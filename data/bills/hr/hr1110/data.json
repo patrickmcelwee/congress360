@@ -1,0 +1,119 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-02-26", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-03-31", 
+      "committees": [
+        "HSHM"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1110-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Crime, Terrorism, Homeland Security, and Investigations", 
+      "subcommittee_id": "08"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "21", 
+      "name": "Smith, Lamar", 
+      "sponsored_at": "2015-02-26", 
+      "state": "TX", 
+      "thomas_id": "01075", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-02-26", 
+  "number": "1110", 
+  "official_title": "To provide effective criminal prosecutions for certain identity thefts, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "STOP Identity Theft Act of 2015", 
+  "sponsor": {
+    "district": "23", 
+    "name": "Wasserman Schultz, Debbie", 
+    "state": "FL", 
+    "thomas_id": "01777", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-02-26", 
+  "subjects": [
+    "Computer security and identity theft", 
+    "Crime and law enforcement", 
+    "Crime victims", 
+    "Criminal investigation, prosecution, interrogation", 
+    "Criminal justice information and records", 
+    "Fraud offenses and financial crimes", 
+    "Government information and archives", 
+    "Tax administration and collection, taxpayers"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-02-26", 
+    "text": "Stopping Tax Offenders and Prosecuting Identity Theft Act of 2015 or the STOP Identity Theft Act of 2015\n\n Calls for the Attorney General to: (1) make use of all existing resources of the Department of Justice, including task forces, to bring more perpetrators of tax return identity theft to justice; and (2) take into account the need to concentrate efforts in areas of the country where the crime is most frequently reported, to coordinate with state and local authorities to prosecute and prevent such crime, and to protect vulnerable groups from becoming victims or otherwise being used in the offense.\n\nAmends the federal criminal code to: (1) include organizations as victims for purposes of prohibitions against identity theft or aggravated identity theft, and (2) subject an identity theft offense committed during and in relation to tax fraud to a fine and/or up to 20 years' imprisonment.\n\nDirects the Attorney General to report to the House and Senate Judiciary Committees on: (1) trends in the incidence of tax return identity theft, (2) recommendations on additional statutory tools that would aid in the effective prosecution of tax return identity theft, and (3) the status of implementing DOJ's March 2010 Audit Report 10-21 entitled \"The Department of Justice's Efforts to Combat Identity Theft.\""
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "STOP Identity Theft Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Stopping Tax Offenders and Prosecuting Identity Theft Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide effective criminal prosecutions for certain identity thefts, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:32:32-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR1110:@@@L&summ2=m&"
+}

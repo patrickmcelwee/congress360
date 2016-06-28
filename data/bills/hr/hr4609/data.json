@@ -1,0 +1,133 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-02-24", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-02-29", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Immigration and Border Security.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4609-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Immigration and Border Security", 
+      "subcommittee_id": "01"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "17", 
+      "name": "Bustos, Cheri", 
+      "sponsored_at": "2016-03-21", 
+      "state": "IL", 
+      "thomas_id": "02127", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Collins, Doug", 
+      "sponsored_at": "2016-02-24", 
+      "state": "GA", 
+      "thomas_id": "02121", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Norcross, Donald", 
+      "sponsored_at": "2016-03-21", 
+      "state": "NJ", 
+      "thomas_id": "02202", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "O'Rourke, Beto", 
+      "sponsored_at": "2016-03-21", 
+      "state": "TX", 
+      "thomas_id": "02162", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-02-24", 
+  "number": "4609", 
+  "official_title": "To amend the Immigration and Nationality Act to modify the provisions governing employment of nonimmigrants under section 101(a)(15)(H)(i)(b) of that Act to prevent the transfer of knowledge from United States workers for the purpose of facilitating their jobs being moved abroad.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Keeping American Jobs Act", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Kilmer, Derek", 
+    "state": "WA", 
+    "thomas_id": "02169", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-02-24", 
+  "subjects": [
+    "Foreign labor", 
+    "Immigration", 
+    "Unemployment", 
+    "Visas and passports"
+  ], 
+  "subjects_top_term": "Immigration", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2016-02-24", 
+    "text": "Keeping American Jobs Act\n\nThis bill amends the Immigration and Nationality Act to prohibit the admission of an H-1B visa (specialty occupation) nonimmigrant worker if the Department of Labor determines that the H-1B application was filed by the prospective employer for the primary purpose of using one or more U.S. workers to train the H-1B worker in the job duties and responsibilities of the U.S. workers in order to lay off the U.S. workers and move their job or jobs abroad, unless the application states that the employer did not and will not displace a U.S. worker within the period beginning 90 days before and ending 90 days after the date of filing of any visa petition supported by the application."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Keeping American Jobs Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Immigration and Nationality Act to modify the provisions governing employment of nonimmigrants under section 101(a)(15)(H)(i)(b) of that Act to prevent the transfer of knowledge from United States workers for the purpose of facilitating their jobs being moved abroad.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:02:12-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4609:@@@L&summ2=m&"
+}

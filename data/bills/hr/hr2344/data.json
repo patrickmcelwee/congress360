@@ -1,0 +1,127 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-05-14", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-06-01", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Economic Opportunity.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-06-02", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-06-25", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-06-25", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee in the Nature of a Substitute (Amended) by Voice Vote .", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2344-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR", 
+      "subcommittee": "Subcommittee on Economic Opportunity", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-06-02", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-05-14", 
+  "number": "2344", 
+  "official_title": "To amend title 38, United States Code, to make certain improvements in the vocational rehabilitation programs of the Department of Veterans Affairs.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Veterans Vocational Rehabilitation and Employment Improvement Act of 2015", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Wenstrup, Brad R.", 
+    "state": "OH", 
+    "thomas_id": "02152", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-05-14", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Computers and information technology", 
+    "Department of Veterans Affairs", 
+    "Disability and paralysis", 
+    "Housing for the elderly and disabled", 
+    "Residential rehabilitation and home repair", 
+    "Veterans' education, employment, rehabilitation"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-05-14", 
+    "text": "Veterans Vocational Rehabilitation and Employment Improvement Act of 2015\n\nAllows a veteran to pursue a course of education and training as part of a rehabilitation program only if the course is approved under Department of Veterans Affairs (VA) vocational rehabilitation requirements.\n\nMakes veterans enrolled in a VA vocational rehabilitation program eligible for VA specially adapted housing.\n\n Bars dual eligibility for home adaptation services.\n\nAuthorizes the VA to prioritize vocational rehabilitation services based on need and upon consideration of disability ratings, the severity of employment handicaps, qualification for a program of independent living, income, and other appropriate factors.\n\n Directs the VA to reduce information technology redundancy and inefficiencies in the rehabilitation claims process."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Veterans Vocational Rehabilitation and Employment Improvement Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 38, United States Code, to make certain improvements in the vocational rehabilitation programs of the Department of Veterans Affairs.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:43:08-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2344:@@@L&summ2=m&"
+}

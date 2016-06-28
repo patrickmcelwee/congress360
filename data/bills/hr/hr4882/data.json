@@ -1,0 +1,112 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-03-23", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-03-29", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Federal Lands.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4882-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Federal Lands", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "7", 
+      "name": "Gallego, Ruben", 
+      "sponsored_at": "2016-04-12", 
+      "state": "AZ", 
+      "thomas_id": "02226", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Grijalva, Raul M.", 
+      "sponsored_at": "2016-03-23", 
+      "state": "AZ", 
+      "thomas_id": "01708", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-03-23", 
+  "number": "4882", 
+  "official_title": "To establish the Cesar Chavez National Historical Park in the States of California and Arizona, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Cesar Chavez National Historical Park Act", 
+  "sponsor": {
+    "district": "36", 
+    "name": "Ruiz, Raul", 
+    "state": "CA", 
+    "thomas_id": "02109", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-03-23", 
+  "subjects": [
+    "Public lands and natural resources"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2016-03-23", 
+    "text": "Cesar Chavez National Historical Park Act\n\nThis bill establishes as a unit of the National Park System the Cesar Chavez National Historical Park in California and Arizona, replacing the Cesar E. Chavez National Monument and incorporating the Monument lands and interests within, and as part of, the Historical Park.\n\nThe Department of the Interior may provide staff and technical assistance for the interpretation of historic sites, museums, and resources on lands not administered by Interior related to the life of Cesar Chavez and the history of the farm worker movement.\n\nInterior may designate a vehicular tour route, to be known as the American Farm Worker Movement Interpretive Route, to link properties in California and Arizona that are historically and thematically associated with Cesar Chavez and the farm worker movement."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Cesar Chavez National Historical Park Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To establish the Cesar Chavez National Historical Park in the States of California and Arizona, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:04:29-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4882:@@@L&summ2=m&"
+}

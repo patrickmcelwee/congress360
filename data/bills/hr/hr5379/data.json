@@ -1,0 +1,105 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-06-03", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-06-07", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-06-14", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5379-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Indian, Insular and Alaska Native Affairs", 
+      "subcommittee_id": "24"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2016-06-14", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-06-03", 
+  "number": "5379", 
+  "official_title": "To prescribe procedures for effective consultation and coordination by Federal agencies with federally recognized Indian tribes regarding Federal Government activities that impact tribal lands and interests to ensure that meaningful tribal input is an integral part of the Federal decisionmaking process.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Requirements, Expectations, and Standard Procedures for Executive Consultation with Tribes Act", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Grijalva, Raul M.", 
+    "state": "AZ", 
+    "thomas_id": "01708", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-06-03", 
+  "subjects": [
+    "Government operations and politics"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Requirements, Expectations, and Standard Procedures for Executive Consultation with Tribes Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "RESPECT Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To prescribe procedures for effective consultation and coordination by Federal agencies with federally recognized Indian tribes regarding Federal Government activities that impact tribal lands and interests to ensure that meaningful tribal input is an integral part of the Federal decisionmaking process.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:08:39-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR5379:@@@L&summ2=m&"
+}

@@ -1,0 +1,258 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-03-24", 
+      "committees": [
+        "HSSY"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Science, Space, and Technology.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-03-25", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-03-25", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2015-05-19T17:56:00-04:00", 
+      "committees": [
+        "HSSY"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 114-126.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-05-19T17:56:00-04:00", 
+      "calendar": "Union", 
+      "number": "91", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 91.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2015-05-19T18:15:00-04:00", 
+      "references": [], 
+      "text": "Mr. Smith (TX) moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-05-19T18:15:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3367-3373", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-05-19T18:15:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1561.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-05-19T18:32:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H3367-3370", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2015-05-19T18:32:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-05-20", 
+      "committees": [
+        "SSCM"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1561-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Science, Space, and Technology", 
+      "committee_id": "HSSY"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Commerce, Science, and Transportation", 
+      "committee_id": "SSCM"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Bonamici, Suzanne", 
+      "sponsored_at": "2015-03-24", 
+      "state": "OR", 
+      "thomas_id": "02092", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Bridenstine, Jim", 
+      "sponsored_at": "2015-03-24", 
+      "state": "OK", 
+      "thomas_id": "02155", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "30", 
+      "name": "Johnson, Eddie Bernice", 
+      "sponsored_at": "2015-03-24", 
+      "state": "TX", 
+      "thomas_id": "00599", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "48", 
+      "name": "Rohrabacher, Dana", 
+      "sponsored_at": "2015-03-24", 
+      "state": "CA", 
+      "thomas_id": "00979", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "Smith, Lamar", 
+      "sponsored_at": "2015-03-24", 
+      "state": "TX", 
+      "thomas_id": "01075", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Stewart, Chris", 
+      "sponsored_at": "2015-03-24", 
+      "state": "UT", 
+      "thomas_id": "02168", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-03-25", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2015-05-19T18:32:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-03-24", 
+  "number": "1561", 
+  "official_title": "To improve the National Oceanic and Atmospheric Administration's weather research through a focused program of investment on affordable and attainable advances in observational, computing, and modeling capabilities to support substantial improvement in weather forecasting and prediction of high impact weather events, to expand commercial opportunities for the provision of weather data, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Weather Research and Forecasting Innovation Act of 2015", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Lucas, Frank D.", 
+    "state": "OK", 
+    "thomas_id": "00711", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2015-05-19T18:32:00-04:00", 
+  "subjects": [
+    "Advisory bodies", 
+    "Atmospheric science and weather", 
+    "Computers and information technology", 
+    "Emergency communications systems", 
+    "Executive Office of the President", 
+    "Executive agency funding and structure", 
+    "Government information and archives", 
+    "Natural disasters", 
+    "Public contracts and procurement", 
+    "Research administration and funding", 
+    "Research and development", 
+    "Science, technology, communications", 
+    "Spacecraft and satellites", 
+    "Student aid and college costs", 
+    "Technology transfer and commercialization"
+  ], 
+  "subjects_top_term": "Science, technology, communications", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2015-05-19", 
+    "text": "Weather Research and Forecasting Innovation Act of 2015\n\n(Sec. 2) This bill requires the National Oceanic and Atmospheric Administration (NOAA) to prioritize weather research to improve weather data, forecasts, and warnings for the protection of life and property and the enhancement of the national economy.\n\n(Sec. 3) NOAA's Office of Oceanic and Atmospheric Research (OAR) must conduct a program to develop an improved understanding of forecast capabilities for atmospheric events and their impacts, with priority given to the development of more accurate, timely, and effective warnings and forecasts of high impact weather events that endanger life and property.\n\nIn carrying out the program, the OAR must collaborate with and support the nonfederal weather research community by making funds available through competitive grants, contracts, and cooperative agreements. Congress urges that at least 30% of the funds authorized for research and development be made available for this purpose.\n\n(Sec. 4) NOAA must establish a tornado warning improvement and extension program to reduce the loss of life and economic losses from tornadoes through the development and extension of accurate, effective, and timely tornado forecasts, predictions, and warnings, including the prediction of tornadoes beyond one hour in advance.\n\n(Sec. 5) NOAA must maintain the Hurricane Forecast Improvement Program to develop and extend accurate hurricane forecasts and warnings in order to reduce loss of life, injury, and damage to the economy.\n\n(Sec. 6) The OAR must issue a research and development and research to operations plan to restore and maintain U.S. leadership in numerical weather prediction (processing weather data with computer models) and forecasting.\n\n(Sec. 7) NOAA must: (1) prioritize observation data requirements necessary to ensure weather forecasting capabilities to protect life and property to the maximum extent practicable; (2) evaluate observing systems, data, and information needed to meet those requirements; (3) identify data gaps in observing capabilities; and (4) determine a range of options to address those gaps.\n\n(Sec. 8) The OAR must undertake Observing System Simulation Experiments (OSSE) to assess the value and benefits of observing capabilities and systems.\n\nOSSEs must be conducted before: (1) acquisition of major government-owned or government-leased operational observing systems with a lifecycle cost of more than $500 million, and (2) purchase of any major new commercially provided data with a lifecycle cost of more than $500 million.\n\nBy December 31, 2015, the OAR must complete an OSSE to assess the value of data from Global Navigation Satellite System Radio Occultation. By the same date in the following year, the OAR must complete an OSSE to assess the value of data from a geostationary hyperspectral sounder global constellation.\n\n(Sec. 9) The bill requires an annual report on NOAA computing priorities and upgrades as these relate to weather prediction. (Sec. 10) The bill permits the purchase of weather data by the federal government through contracts with commercial providers and the placement of weather satellite instruments on co-hosted government or private payloads. The Department of Commerce must transmit to Congress a strategy to enable the procurement of quality commercial weather data, including through the entry into multiyear agreements. By December 31, 2015, NOAA must publish data standards and specifications for space-based commercial weather data. By October 1, 2016, NOAA must enter into at least one pilot contract with a private sector entity capable of providing data that meet those standards and specifications to provide commercial weather data in a manner that allows NOAA to calibrate and evaluate the data. (Sec. 11) The NOAA Science Advisory Board must continue to maintain the Environmental Information Services Working Group. Membership requirements and reporting requirements for the group are established. (Sec. 12) The Office of Science and Technology Policy must establish an Inter-agency Committee for Advancing Weather Services to improve coordination of relevant weather research and forecast innovation activities. (Sec. 13) The OAR and the National Weather Service (NWS) may establish a program to detail their personnel to each other with the goal of enhancing forecasting innovation through regular, direct interaction between OAR scientists and NWS operational staff. (Sec. 14) The NWS may establish: (1) a program to host postdoctoral fellows and academic researchers at the National Centers for Environmental Prediction; and (2) the NOAA Weather Ready All Hazards Award Program, honoring individuals or organizations that use or provide NOAA Weather Radio All Hazards receivers or transmitters. (Sec. 17) The bill authorizes through FY2017: (1) the OAR's weather laboratories and cooperative institutes and weather and air chemistry research programs, and (2) a joint technology transfer initiative."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Weather Research and Forecasting Innovation Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Weather Research and Forecasting Innovation Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Weather Research and Forecasting Innovation Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To improve the National Oceanic and Atmospheric Administration's weather research through a focused program of investment on affordable and attainable advances in observational, computing, and modeling capabilities to support substantial improvement in weather forecasting and prediction of high impact weather events, to expand commercial opportunities for the provision of weather data, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:36:29-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR1561:@@@L&summ2=m&"
+}

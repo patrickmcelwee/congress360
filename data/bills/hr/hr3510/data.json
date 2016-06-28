@@ -1,0 +1,262 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-09-15", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Homeland Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-09-16", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Cybersecurity, Infrastructure Protection, and Security Technologies.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-09-17", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-17", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee by Voice Vote .", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-30", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-30", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2015-10-06T16:23:00-04:00", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-284.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-10-06T16:23:00-04:00", 
+      "calendar": "Union", 
+      "number": "216", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 216.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2015-10-06T17:21:00-04:00", 
+      "references": [], 
+      "text": "Mr. Ratcliffe moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-10-06T17:21:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6813-6815", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-10-06T17:21:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3510.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-10-06T17:30:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H6813-6814", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2015-10-06T17:30:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-10-07", 
+      "committees": [
+        "SSGA"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3510-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM", 
+      "subcommittee": "Subcommittee on Cybersecurity, Infrastructure Protection, and Security Technologies", 
+      "subcommittee_id": "08"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Homeland Security and Governmental Affairs", 
+      "committee_id": "SSGA"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "10", 
+      "name": "McCaul, Michael T.", 
+      "sponsored_at": "2015-10-06", 
+      "state": "TX", 
+      "thomas_id": "01804", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Ratcliffe, John", 
+      "sponsored_at": "2015-09-28", 
+      "state": "TX", 
+      "thomas_id": "02268", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Thompson, Bennie G.", 
+      "sponsored_at": "2015-10-06", 
+      "state": "MS", 
+      "thomas_id": "01151", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-09-17", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2015-10-06T17:30:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-09-15", 
+  "number": "3510", 
+  "official_title": "To amend the Homeland Security Act of 2002 to require the Secretary of Homeland Security to develop a cybersecurity strategy for the Department of Homeland Security, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Department of Homeland Security Cybersecurity Strategy Act of 2015", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Richmond, Cedric L.", 
+    "state": "LA", 
+    "thomas_id": "02023", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2015-10-06T17:30:00-04:00", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Computer security and identity theft", 
+    "Congressional oversight", 
+    "Department of Homeland Security", 
+    "Executive agency funding and structure", 
+    "Government studies and investigations", 
+    "Homeland security", 
+    "Intergovernmental relations", 
+    "International organizations and cooperation", 
+    "Research administration and funding", 
+    "Research and development", 
+    "State and local government operations"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2015-10-06", 
+    "text": "Department of Homeland Security Cybersecurity Strategy Act of 2015\n\n(Sec. 2) This bill amends the Homeland Security Act of 2002 to require the Department of Homeland Security (DHS) to develop a cybersecurity strategy that includes: (1) strategic and operational goals and priorities to execute the full range of DHS's cybersecurity responsibilities; and (2) information on programs, policies, and activities in furtherance of the cybersecurity functions of the national cybersecurity and communications integration center (NCCIC), investigations capabilities, research and development, and engagement with international partners.\n\nIn developing the strategy, DHS must consider: (1) the cybersecurity strategy published in November 2011 for governmental and nongovernmental entities involved in homeland security, including federal, state, local, and tribal government officials, private sector representatives, academics, and other policy experts; (2) the Department of Homeland Security Fiscal Years 2014-2018 Strategic Plan; and (3) the most recent Quadrennial Homeland Security Review.\n\nThe strategy must include the roles and responsibilities of DHS components and offices.\n\nDHS must also issue an implementation plan that includes strategic objectives, projected timelines, costs for tasks, and evaluation metrics.\n\nDHS must submit the strategy and implementation plan to Congress.\n\nThe bill prohibits the strategy from being construed as permitting DHS to engage in monitoring, surveillance, exfiltration, or other collection activities to track an individual's personally identifiable information.\n\nThe bill also prohibits DHS from changing the location or reporting structure of the National Protection and Programs Directorate without prior authorization from Congress.\n\nFor purposes of the NCCIC, the bill redefines \"incident\" to include occurrences that actually or imminently jeopardize, without lawful authority, an information system, thereby replacing a standard that currently includes a violation or imminent threat of violation of law, security policies, security procedures, or acceptable use policies."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Department of Homeland Security Cybersecurity Strategy Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Department of Homeland Security Cybersecurity Strategy Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Department of Homeland Security Cybersecurity Strategy Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Homeland Security Act of 2002 to require the Secretary of Homeland Security to develop a cybersecurity strategy for the Department of Homeland Security, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:53:01-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3510:@@@L&summ2=m&"
+}

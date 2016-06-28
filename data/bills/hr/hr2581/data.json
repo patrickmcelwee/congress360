@@ -1,0 +1,203 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-05-29", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-05-29", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "text": "Referred to House Ways and Means", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-05-29", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "text": "Referred to House Energy and Commerce", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-06-02", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-06-02", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2015-06-03", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-06-05", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-06-16T19:55:00-04:00", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-161, Part I.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-06-16T19:56:00-04:00", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "text": "Committee on Energy and Commerce discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-06-16T19:56:00-04:00", 
+      "calendar": "Union", 
+      "number": "117", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 117.", 
+      "type": "calendar", 
+      "under": null
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2581-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "02"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-06-02", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-05-29", 
+  "number": "2581", 
+  "official_title": "To amend title XVIII of the Social Security Act to establish a 3-year demonstration program to test the use of value-based insurance design methodologies under eligible Medicare Advantage plans, to preserve Medicare beneficiary choice under Medicare Advantage, to revise the treatment under the Medicare program of infusion drugs furnished through durable medical equipment, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr2488-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr2570-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Preservation of Access for Seniors in Medicare Advantage Act of 2015", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Brady, Kevin", 
+    "state": "TX", 
+    "thomas_id": "01468", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2015-06-02", 
+  "subjects": [
+    "Drug therapy", 
+    "Health", 
+    "Health care costs and insurance", 
+    "Health care quality", 
+    "Marketing and advertising", 
+    "Medicare", 
+    "Prescription drugs"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Reported to House amended, Part I", 
+    "date": "2015-05-29", 
+    "text": "Preservation of Access for Seniors in Medicare Advantage Act of 2015\n\n(Sec. 2) This bill requires the Department of Health and Human Services (HHS) to establish a three-year demonstration program (extendable if necessary to four or five years) to test the use of value-based insurance design methodologies under the eligible Medicare Advantage (MA) plans offered by MA organizations under part C (Medicare+Choice Program) of title XVIII (Medicare) of the Social Security Act (SSAct).\n\n\"Value-based insurance design methodology\" is one for identifying specific prescription medications, and clinical services payable under Medicare, for which copayments, coinsurance, or both would improve the management of specific chronic clinical conditions because of the high value and effectiveness of such medications and services for such specific chronic clinical conditions, as approved by HHS.\n\nHHS may expand the duration and scope of the demonstration program to an appropriate extent if specified requirements are met.\n\n(Sec. 3) The annual 45-day period for disenrollment from MA plans to elect to receive benefits under the original Medicare fee-for-service program, and to elect coverage under part D (Voluntary Prescription Drug Benefit Program), shall end on December 31, 2015.\n\nStarting in 2016, a Medicare Advantage eligible individual, during the first three months of any year, may change a previous election to elect to receive benefits through the original Medicare fee-for-service program or an MA plan, and to elect coverage under part D.\n\nThis continuous open enrollment and disenrollment period during the first three months of any year starting in 2016 shall apply with respect to a prescription drug plan only in the case of an individual who, previous to such change in enrollment, is enrolled in a MA plan.\n\nNo unsolicited marketing or marketing materials may be sent to such an eligible individual during the continuous open enrollment and disenrollment period.\n\n(Sec. 4) This bill also amends part B (Supplementary Medical Insurance) of SSAct title XVIII to revise requirements (in effect, changing payment methodologies from 95% of the Average Wholesale Price to the Average Sales Price plus six) for payments for infusion drugs and biologicals furnished through durable medical equipment on or after January 1, 2017.\n\n(Sec. 5) It is the sense of Congress that HHS:\n\n has incorrectly interpreted the determination of blended benchmark amounts as prohibiting any Medicare quality incentive payments with respect to MA plans that exceed the payment benchmark cap for the area served by those plans; and should immediately apply quality incentive payments with respect to such MA plans without regard to specified limits."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Preservation of Access for Seniors in Medicare Advantage Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Preservation of Access for Seniors in Medicare Advantage Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title XVIII of the Social Security Act to establish a 3-year demonstration program to test the use of value-based insurance design methodologies under eligible Medicare Advantage plans, to preserve Medicare beneficiary choice under Medicare Advantage, to revise the treatment under the Medicare program of infusion drugs furnished through durable medical equipment, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:45:15-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2581:@@@L&summ2=m&"
+}

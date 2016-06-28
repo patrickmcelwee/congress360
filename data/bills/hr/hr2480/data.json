@@ -1,0 +1,133 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-05-20", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-05-22", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2480-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Lujan Grisham, Michelle", 
+      "sponsored_at": "2015-05-20", 
+      "state": "NM", 
+      "thomas_id": "02146", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Pearce, Stevan", 
+      "sponsored_at": "2015-05-20", 
+      "state": "NM", 
+      "thomas_id": "01738", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-05-20", 
+  "number": "2480", 
+  "official_title": "To increase research, education, and treatment for cerebral cavernous malformations.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1391-114", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "CCM-CARE Act", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Lujan, Ben Ray", 
+    "state": "NM", 
+    "thomas_id": "01939", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-05-20", 
+  "subjects": [
+    "Cardiovascular and respiratory health", 
+    "Drug safety, medical device, and laboratory regulation", 
+    "Drug therapy", 
+    "Health", 
+    "Health facilities and institutions", 
+    "Health information and medical records", 
+    "Health promotion and preventive care", 
+    "Medical research", 
+    "Neurological disorders", 
+    "Research administration and funding"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-05-20", 
+    "text": "Cerebral Cavernous Malformations Clinical Awareness, Research, and Education Act of 2015 or the CCM-CARE Act\n\nThis bill amends the Public Health Service Act to require the National Institutes of Health (NIH) to strengthen and coordinate its efforts concerning cerebral cavernous malformation (CCM). (CCM is a condition in which blood vessels in the brain and spinal cord become enlarged, which can lead to seizures, paralysis, hearing or vision loss, or bleeding in the brain.) The NIH may award grants and enter into cooperative agreements for CCM research.\n\nThe NIH must: (1) award grants and contracts to plan and provide support for a network of CCM Clinical Research Centers; (2) identify and support additional centers to facilitate medical research to develop a cure for CCM and enhance medical care for CCM; and (3) convene a Cerebral Cavernous Malformations Research Consortium to develop programs for clinicians, scientists, and patients.\n\nThe Centers for Disease Control and Prevention may award grants and enter into cooperative agreements for the collection, analysis, and reporting of data on CCM.\n\nThe Department of Health and Human Services must award grants and enter into cooperative agreements for epidemiological activities related to CCM and must provide for a national CCM surveillance program.\n\nThe Food and Drug Administration must: (1) coordinate with clinical centers, investigators, and advocates to support investigational new drug applications in order to hasten clinical trials for CCM, and (2) support appropriate requests for designation of drugs for use in rare subpopulations of CCM patients as orphan drugs. (Orphan drugs are drugs developed to treat rare medical conditions and are eligible for certain incentives.)"
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "CCM-CARE Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Cerebral Cavernous Malformations Clinical Awareness, Research, and Education Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To increase research, education, and treatment for cerebral cavernous malformations.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:44:17-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2480:@@@L&summ2=m&"
+}

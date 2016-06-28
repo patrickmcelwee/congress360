@@ -1,0 +1,160 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-02-02", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Transportation and Infrastructure.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-02-03", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Water Resources and Environment.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4436-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Water Resources and Environment", 
+      "subcommittee_id": "02"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "19", 
+      "name": "Clawson, Curt", 
+      "sponsored_at": "2016-02-02", 
+      "state": "FL", 
+      "thomas_id": "02200", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "26", 
+      "name": "Curbelo, Carlos", 
+      "sponsored_at": "2016-02-26", 
+      "state": "FL", 
+      "thomas_id": "02235", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "25", 
+      "name": "Diaz-Balart, Mario", 
+      "sponsored_at": "2016-02-02", 
+      "state": "FL", 
+      "thomas_id": "01717", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "Frankel, Lois", 
+      "sponsored_at": "2016-02-26", 
+      "state": "FL", 
+      "thomas_id": "02119", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Jolly, David W.", 
+      "sponsored_at": "2016-02-10", 
+      "state": "FL", 
+      "thomas_id": "02199", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Murphy, Patrick", 
+      "sponsored_at": "2016-02-11", 
+      "state": "FL", 
+      "thomas_id": "02117", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-02-02", 
+  "number": "4436", 
+  "official_title": "To amend the Water Resources Development Act of 2000 to provide for expedited project implementation relating to the comprehensive Everglades restoration plan.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2481-114", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Everglades for the Next Generation Act", 
+  "sponsor": {
+    "district": "20", 
+    "name": "Hastings, Alcee L.", 
+    "state": "FL", 
+    "thomas_id": "00511", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-02-02", 
+  "subjects": [
+    "Aquatic ecology", 
+    "Everglades", 
+    "Florida", 
+    "Water quality", 
+    "Water resources development", 
+    "Water use and supply", 
+    "Watersheds"
+  ], 
+  "subjects_top_term": "Water resources development", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2016-02-02", 
+    "text": "Everglades for the Next Generation Act\n\nThis bill amends the Water Resources Development Act of 2000 to authorize the Department of the Army, after completing an implementation report prepared for a project under the Comprehensive Everglades Restoration Plan and without any further congressional authorization, to carry out: (1) any project identified in the Plan for which a project implementation report is completed that is in accordance with an integrated delivery schedule approved by the Corps of Engineers and the South Florida Water Management District, provided that the report is completed by five years after the date of the enactment of this Act; and (2) any group of projects under the Plan that the Corps determines will provide regional or watershed ecosystem or water supply benefits if constructed in accordance with a project implementation report approved by the Corps and the District by such date."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Everglades for the Next Generation Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Water Resources Development Act of 2000 to provide for expedited project implementation relating to the comprehensive Everglades restoration plan.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:00:46-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4436:@@@L&summ2=m&"
+}

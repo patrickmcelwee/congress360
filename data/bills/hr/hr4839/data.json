@@ -1,0 +1,123 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-03-22", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Intelligence (Permanent Select), and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-03-22", 
+      "references": [
+        {
+          "reference": "Permanent Select", 
+          "type": null
+        }
+      ], 
+      "text": "Referred to House Intelligence", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-03-22", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Referred to House Judiciary", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-04-28", 
+      "committees": [
+        "HSHM"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4839-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Intelligence (Permanent Select)", 
+      "committee_id": "HLIG"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Crime, Terrorism, Homeland Security, and Investigations", 
+      "subcommittee_id": "08"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-03-22", 
+  "number": "4839", 
+  "official_title": "To prohibit the Government from requiring any person to assist in devising a method for breaking the encryption of a wire or oral communication.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Protect Our Devices Act of 2016", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Salmon, Matt", 
+    "state": "AZ", 
+    "thomas_id": "01009", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-03-22", 
+  "subjects": [
+    "Crime and law enforcement"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2016-03-22", 
+    "text": "Protect Our Devices Act of 2016\n\nThis bill prohibits the federal government from requiring a person to assist in devising a method for breaking the encryption of a wire or oral communication."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Protect Our Devices Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To prohibit the Government from requiring any person to assist in devising a method for breaking the encryption of a wire or oral communication.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:04:08-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4839:@@@L&summ2=m&"
+}

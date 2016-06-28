@@ -1,0 +1,95 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-04-16", 
+      "committees": [
+        "HSSY"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Science, Space, and Technology.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-08-18", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Energy.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1872-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Science, Space, and Technology", 
+      "committee_id": "HSSY"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Science, Space, and Technology", 
+      "committee_id": "HSSY", 
+      "subcommittee": "Subcommittee on Energy", 
+      "subcommittee_id": "20"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-04-16", 
+  "number": "1872", 
+  "official_title": "To authorize Energy Frontier Research Centers.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr1898-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "9", 
+    "name": "Grayson, Alan", 
+    "state": "FL", 
+    "thomas_id": "01914", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-04-16", 
+  "subjects": [
+    "Energy", 
+    "Energy research", 
+    "Research administration and funding"
+  ], 
+  "subjects_top_term": "Energy", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-04-16", 
+    "text": "This bill instructs the Director of the Department of Energy (DOE) Office of Science to make awards, on a competitive, merit-reviewed basis, to multi-institutional collaborations or other appropriate entities to conduct fundamental and use-inspired energy research to accelerate scientific breakthroughs related to needs identified in both the Grand Challenges report and the report of the DOE Basic Energy Sciences Advisory Committee entitled \"From Quanta to the Continuum: Opportunities for Mesoscale Science,\" as well as in the Basic Energy Sciences Basic Research Needs workshop report.\n\nSuch collaborations may include multiple types of institutions and private sector entities.\n\nNo funding may be used to construct new buildings or facilities."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To authorize Energy Frontier Research Centers.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:39:09-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR1872:@@@L&summ2=m&"
+}

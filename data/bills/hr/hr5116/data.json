@@ -1,0 +1,133 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-04-28", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-04-29", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Commerce, Manufacturing, and Trade.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5116-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Commerce, Manufacturing, and Trade", 
+      "subcommittee_id": "17"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "26", 
+      "name": "Burgess, Michael C.", 
+      "sponsored_at": "2016-04-28", 
+      "state": "TX", 
+      "thomas_id": "01751", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Lance, Leonard", 
+      "sponsored_at": "2016-04-28", 
+      "state": "NJ", 
+      "thomas_id": "01936", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Mullin, Markwayne", 
+      "sponsored_at": "2016-04-28", 
+      "state": "OK", 
+      "thomas_id": "02156", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-04-28", 
+  "number": "5116", 
+  "official_title": "To amend the Federal Trade Commission Act to permit a bipartisan majority of Commissioners to hold a meeting that is closed to the public to discuss official business.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr5510-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "FREE Act", 
+  "sponsor": {
+    "district": "22", 
+    "name": "Olson, Pete", 
+    "state": "TX", 
+    "thomas_id": "01955", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-04-28", 
+  "subjects": [
+    "Commerce"
+  ], 
+  "subjects_top_term": "Commerce", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2016-04-28", 
+    "text": "Freeing Responsible and Effective Exchanges Act or the FREE Act\n\nThis bill amends the Federal Trade Commission Act to permit a bipartisan majority of Federal Trade Commission (FTC) commissioners to hold a nonpublic meeting to discuss official business if: (1) no votes or actions are taken, (2) each person at the meeting is an FTC commissioner or employee, and (3) an attorney from the FTC's Office of General Counsel is present.\n\n\"Bipartisan majority\" means a group of at least three commissioners that includes, for each political party of which any commissioner is a member, at least one commissioner who is a member of such political party and, if any commissioner has no political party affiliation, at least one unaffiliated commissioner.\n\nWithin two business days after such a nonpublic meeting, the FTC must disclose on its website: (1) a list of persons who attended such meeting; and (2) a summary of discussed matters, except for matters that are classified or otherwise exempt from disclosure."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "FREE Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Freeing Responsible and Effective Exchanges Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Federal Trade Commission Act to permit a bipartisan majority of Commissioners to hold a meeting that is closed to the public to discuss official business.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:06:27-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR5116:@@@L&summ2=m&"
+}

@@ -1,0 +1,94 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-05-10", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Homeland Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-05-20", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Transportation Security.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5179-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM", 
+      "subcommittee": "Subcommittee on Transportation Security", 
+      "subcommittee_id": "07"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-05-10", 
+  "number": "5179", 
+  "official_title": "To limit the authority of personnel of the Department of Homeland Security to prohibit a citizen or permanent resident of the United States from boarding as a passenger on an aircraft or cruise ship based on inclusion of the individual in a watchlist, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "No Fly for Terrorists Act", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Amash, Justin", 
+    "state": "MI", 
+    "thomas_id": "02029", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-05-10", 
+  "subjects": [
+    "Aviation and airports", 
+    "Criminal justice information and records", 
+    "Marine and inland water transportation", 
+    "Terrorism", 
+    "Transportation and public works", 
+    "Travel and tourism"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "No Fly for Terrorists Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To limit the authority of personnel of the Department of Homeland Security to prohibit a citizen or permanent resident of the United States from boarding as a passenger on an aircraft or cruise ship based on inclusion of the individual in a watchlist, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:06:59-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR5179:@@@L&summ2=m&"
+}

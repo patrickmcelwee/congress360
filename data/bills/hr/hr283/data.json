@@ -1,0 +1,152 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-01-12", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-02-02", 
+      "committees": [
+        "HSHM"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr283-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Crime, Terrorism, Homeland Security, and Investigations", 
+      "subcommittee_id": "08"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "6", 
+      "name": "DeSantis, Ron", 
+      "sponsored_at": "2015-01-21", 
+      "state": "FL", 
+      "thomas_id": "02116", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Gosar, Paul A.", 
+      "sponsored_at": "2015-01-12", 
+      "state": "AZ", 
+      "thomas_id": "01992", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Nugent, Richard B.", 
+      "sponsored_at": "2015-03-19", 
+      "state": "FL", 
+      "thomas_id": "02001", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Sanford, Mark", 
+      "sponsored_at": "2015-02-04", 
+      "state": "SC", 
+      "thomas_id": "01012", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-01-12", 
+  "number": "283", 
+  "official_title": "To improve the provisions relating to the privacy of electronic communications.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr699-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s356-114", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Electronic Communications Privacy Act Amendments Act of 2015", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Salmon, Matt", 
+    "state": "AZ", 
+    "thomas_id": "01009", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-01-12", 
+  "subjects": [
+    "Business records", 
+    "Congressional oversight", 
+    "Consumer affairs", 
+    "Crime and law enforcement", 
+    "Criminal investigation, prosecution, interrogation", 
+    "Criminal procedure and sentencing", 
+    "Internet and video services", 
+    "Right of privacy", 
+    "Telephone and wireless communication"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-01-12", 
+    "text": "Electronic Communications Privacy Act Amendments Act of 2015 \n\nAmends the Electronic Communications Privacy Act of 1986 to prohibit a provider of remote computing service or electronic communication service to the public from knowingly divulging to a governmental entity the contents of any communication that is in electronic storage or otherwise maintained by the provider, subject to exceptions.\n\nRevises provisions under which the government may require a provider to disclose the contents of such communications. Eliminates the different requirements applicable under current law depending on whether such communications were: (1) stored for fewer than, or more than, 180 days by an electronic communication service; or (2) held by an electronic communication service as opposed to a remote computing service.\n\nRequires the government to obtain a warrant from a court before requiring providers to disclose the content of such communications regardless of how long the communication has been held in electronic storage by an electronic communication service or whether the information is sought from an electronic communication service or a remote computing service\n\nRequires a law enforcement agency, within 10 days after receiving the contents of a customer's communication, or a governmental entity, within 3 days, to provide a customer whose communications were disclosed by the provider a copy of the warrant and a notice that such information was requested by, and supplied to, the government entity. Allows the government to request delays of such notifications.\n\nProhibits disclosure requirements that apply to providers from being construed to limit the government's authority to use an administrative or civil discovery subpoena to require: (1) an originator or recipient of an electronic communication to disclose the contents of such communication; or (2) an entity that provides electronic communication services to its employees or agents to disclose the contents of an electronic communication to or from such employee or agent if the communication is on an electronic communications system owned or operated by the entity.\n\nAllows the government to apply for an order directing a provider, for a specified period, to refrain from notifying any other person that the provider has been required to disclose communications or records.\n\nDirects the Comptroller General to report to Congress regarding disclosures of customer communications and records under provisions: (1) as in effect before the enactment of this Act, and (2) as amended by this Act."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Electronic Communications Privacy Act Amendments Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To improve the provisions relating to the privacy of electronic communications.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:25:35-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR283:@@@L&summ2=m&"
+}

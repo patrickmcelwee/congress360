@@ -1,0 +1,113 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-10-09", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-11-04", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on the Constitution and Civil Justice.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-11-04", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3754-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Constitution and Civil Justice", 
+      "subcommittee_id": "10"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Regulatory Reform, Commercial And Antitrust Law", 
+      "subcommittee_id": "05"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-10-09", 
+  "number": "3754", 
+  "official_title": "To amend titles 5 and 28, United States Code, to facilitate recovering the costs of litigation and agency adjudications for prevailing parties in an action against the United States, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Halting Government Overreach Act of 2015", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Scott, Austin", 
+    "state": "GA", 
+    "thomas_id": "02009", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-10-09", 
+  "subjects": [
+    "Administrative remedies", 
+    "Civil actions and liability", 
+    "Government liability", 
+    "Law", 
+    "Legal fees and court costs"
+  ], 
+  "subjects_top_term": "Law", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-10-09", 
+    "text": "Halting Government Overreach Act of 2015\n\nThis bill removes exceptions that prohibit a prevailing party other than the United States from being awarded fees and expenses incurred in a civil action (other than a tort action) brought by or against the United States, or in an agency adjudicatory proceeding, if the position of the United States was substantially justified or special circumstances make an award unjust.\n\nThe fees and expenses may be awarded if the prevailing party has a direct and personal interest in the action because of an injury that gave rise to the action.\n\nThe bill also removes requirements that make parties ineligible for such an award if their net worth exceeds a specified amount at the time the action was filed or the adjudication was initiated. Under the bill, parties may seek an award of fees and expenses regardless of their net worth."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Halting Government Overreach Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend titles 5 and 28, United States Code, to facilitate recovering the costs of litigation and agency adjudications for prevailing parties in an action against the United States, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:55:03-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3754:@@@L&summ2=m&"
+}

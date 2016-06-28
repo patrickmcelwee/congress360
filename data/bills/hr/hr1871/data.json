@@ -1,0 +1,96 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-04-16", 
+      "committees": [
+        "HSSY"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Science, Space, and Technology.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-08-18", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Energy.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1871-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Science, Space, and Technology", 
+      "committee_id": "HSSY"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Science, Space, and Technology", 
+      "committee_id": "HSSY", 
+      "subcommittee": "Subcommittee on Energy", 
+      "subcommittee_id": "20"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-04-16", 
+  "number": "1871", 
+  "official_title": "To authorize a nuclear physics program.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr1898-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "9", 
+    "name": "Grayson, Alan", 
+    "state": "FL", 
+    "thomas_id": "01914", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-04-16", 
+  "subjects": [
+    "Energy research", 
+    "Radiation", 
+    "Research administration and funding", 
+    "Science, technology, communications"
+  ], 
+  "subjects_top_term": "Science, technology, communications", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-04-16", 
+    "text": "Requires the Office of Science of the Department of Energy (DOE) to: (1) carry out a research program, and support relevant facilities, to discover various forms of nuclear matter; and (2) continue supporting the construction of the Facility for Rare Isotope Beams.\n\nRepeals provisions of the Energy Policy Act of 2005 requiring DOE to construct and operate a Rare Isotope Accelerator.\n\nDirects the Office of Science to carry out a program for the production of isotopes that are determined to be necessary for research and applications, including the development of techniques to produce isotopes and support for infrastructure required for isotope research and production. Requires DOE to ensure that such isotope production activities do not compete with private industry unless critical national interests necessitate the federal government's involvement."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To authorize a nuclear physics program.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:39:08-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR1871:@@@L&summ2=m&"
+}

@@ -1,0 +1,95 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-01-08", 
+      "committees": [
+        "HSAG"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Agriculture.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-01-22", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Commodity Exchanges, Energy, and Credit.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4353-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Agriculture", 
+      "committee_id": "HSAG"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Agriculture", 
+      "committee_id": "HSAG", 
+      "subcommittee": "Subcommittee on Commodity Exchanges, Energy, and Credit", 
+      "subcommittee_id": "22"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-01-08", 
+  "number": "4353", 
+  "official_title": "To extend the exemption of small banks and savings associations from classification as a financial entity for purposes of the swaps clearing requirements of the Commodity Exchange Act to their holding companies.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr2289-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "6", 
+    "name": "Emmer, Tom", 
+    "state": "MN", 
+    "thomas_id": "02253", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-01-08", 
+  "subjects": [
+    "Banking and financial institutions regulation", 
+    "Commodities markets", 
+    "Finance and financial sector"
+  ], 
+  "subjects_top_term": "Finance and financial sector", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2016-01-08", 
+    "text": "This bill amends the Commodity Exchange Act to exclude from the meaning of \"financial entity,\" and so exempt from swap clearing requirements, the bank holding company or savings and loan holding company of a small bank or savings association (whose total assets are $10 billion or less) if the total consolidated assets of the holding company are no greater than that asset threshold."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To extend the exemption of small banks and savings associations from classification as a financial entity for purposes of the swaps clearing requirements of the Commodity Exchange Act to their holding companies.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:00:04-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4353:@@@L&summ2=m&"
+}

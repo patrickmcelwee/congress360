@@ -1,0 +1,278 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-06-19", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Homeland Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-06-23", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Transportation Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-06-25", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-06-25", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2015-07-22T15:27:00-04:00", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-221.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-22T15:27:00-04:00", 
+      "calendar": "Union", 
+      "number": "167", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 167.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2015-07-27T16:42:00-04:00", 
+      "references": [], 
+      "text": "Mr. Katko moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-27T16:42:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5501-5502", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-27T16:42:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 2843.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-27T16:49:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H5501", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2015-07-27T16:49:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-28", 
+      "committees": [
+        "SSCM"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-12-09", 
+      "committees": [
+        "SSCM"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2016-03-07", 
+      "committee": "Commerce, Science, and Transportation", 
+      "committees": [
+        "SSCM"
+      ], 
+      "references": [], 
+      "text": "Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 114-223.", 
+      "type": "reported"
+    }, 
+    {
+      "acted_at": "2016-03-07", 
+      "calendar": "Senate Legislative", 
+      "number": "383", 
+      "references": [], 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 383.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2843-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM", 
+      "subcommittee": "Subcommittee on Transportation Security", 
+      "subcommittee_id": "07"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "Senate Commerce, Science, and Transportation", 
+      "committee_id": "SSCM"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "10", 
+      "name": "McCaul, Michael T.", 
+      "sponsored_at": "2015-06-19", 
+      "state": "TX", 
+      "thomas_id": "01804", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Rogers, Mike D.", 
+      "sponsored_at": "2015-06-19", 
+      "state": "AL", 
+      "thomas_id": "01704", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-06-25", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2015-07-27T16:49:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-06-19", 
+  "number": "2843", 
+  "official_title": "To require certain improvements in the Transportation Security Administration's PreCheck expedited screening program, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr3584-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "TSA PreCheck Expansion Act", 
+  "sponsor": {
+    "district": "24", 
+    "name": "Katko, John", 
+    "state": "NY", 
+    "thomas_id": "02264", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2015-07-27T16:49:00-04:00", 
+  "subjects": [
+    "Aviation and airports", 
+    "Citizenship and naturalization", 
+    "Criminal justice information and records", 
+    "Government information and archives", 
+    "Government studies and investigations", 
+    "Marketing and advertising", 
+    "Public-private cooperation", 
+    "Right of privacy", 
+    "Terrorism", 
+    "Transportation and public works", 
+    "Transportation safety and security", 
+    "Travel and tourism"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": {
+    "as": "Reported to Senate amended", 
+    "date": "2016-03-07", 
+    "text": "TSA PreCheck Expansion Act\n\n(Sec. 3) This bill directs the Transportation Security Administration (TSA) to continue to administer the Precheck Program (trusted traveler program).\n\n(Sec. 4) TSA shall publish application enrollment standards that add multiple private sector application capabilities for the PreCheck program to increase the public's enrollment access to such program.\n\nUpon publication of such standards, the TSA must:\n\n coordinate with interested parties to deploy TSA-approved ready-to-market private sector solutions that meet such standards, make available additional enrollment capabilities, and offer secure online and mobile enrollment opportunities; partner with the private sector to collect biographic and biometric identification information via mobile enrollment platforms to increase enrollment flexibility and minimize the amount of travel to enrollment centers for applicants; ensure that any biometric and biographic information is collected in a manner that is comparable with National Institute of Standards and Technology (NIST) standards and that protects privacy and data security, including that any personally identifiable information is collected, retained, used, and shared in a manner consistent with the Privacy Act of 1974; ensure that the enrollment process is streamlined and flexible to allow an individual to provide additional information to complete enrollment and verify identity; ensure that any enrollment expansion using a private sector risk assessment is determined to be equivalent to a fingerprint-based criminal history records check conducted through the Federal Bureau of Investigation; develop and implement a continual process for approving private sector marketing of the PreCheck program and a long-term strategy for partnering with the private sector to encourage enrollment; and report on any PreCheck Program application fees collected in excess of the costs of administering the program, including assessment of its feasibility and recommendations for using such amounts to support its marketing. The TSA shall:\n\n coordinate with the heads of appropriate Department of Homeland Security (DHS) components to leverage DHS-held data and technologies to verify the citizenship of individuals enrolling in the program; partner with the private sector to use biometrics and authentication standards such as those developed by NIST to facilitate enrollment; consider leveraging existing airport resources to conduct fingerprint and background checks to expedite identity verification; ensure that PreCheck Program screening lanes are available during peak and high-volume travel times at airports to enrolled individuals; provide for expedited screening at standard screening lanes during times when PreCheck Program screening lanes are closed; and initiate an assessment to identify security vulnerabilities in the vetting process for the program, including whether subjecting PreCheck Program participants to recurrent fingerprint-based criminal history records checks, in addition to recurrent checks against the terrorist watchlist, could be done in a cost-effective manner to strengthen the security of the program."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "TSA PreCheck Expansion Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "TSA PreCheck Expansion Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "TSA PreCheck Expansion Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to senate", 
+      "is_for_portion": false, 
+      "title": "TSA PreCheck Expansion Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require certain improvements in the Transportation Security Administration's PreCheck expedited screening program, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:47:27-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2843:@@@L&summ2=m&"
+}

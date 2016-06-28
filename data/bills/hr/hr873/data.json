@@ -1,0 +1,179 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-02-11", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-02-13", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Energy and Power.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr873-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Energy and Power", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Welch, Peter", 
+      "sponsored_at": "2015-02-11", 
+      "state": "VT", 
+      "thomas_id": "01879", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-02-11", 
+  "number": "873", 
+  "official_title": "To promote energy efficiency, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr1268-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr1802-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr1867-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr2177-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s1-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s128-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s535-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s720-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s1052-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s1706-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "1", 
+    "name": "McKinley, David B.", 
+    "state": "WV", 
+    "thomas_id": "02074", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-02-11", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Advanced technology and technological innovations", 
+    "Building construction", 
+    "Computers and information technology", 
+    "Congressional oversight", 
+    "Energy", 
+    "Energy efficiency and conservation", 
+    "Environmental Protection Agency (EPA)", 
+    "Environmental regulatory procedures", 
+    "Environmental technology", 
+    "General Services Administration", 
+    "Government buildings, facilities, and property", 
+    "Government information and archives", 
+    "Government studies and investigations", 
+    "Industrial facilities", 
+    "Lighting and heating", 
+    "Performance measurement", 
+    "Public contracts and procurement", 
+    "Public utilities and utility rates", 
+    "Water use and supply"
+  ], 
+  "subjects_top_term": "Energy", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-02-11", 
+    "text": "Energy Efficiency Improvement Act of 2015\n\nBetter Buildings Act of 2015\n\n This bill requires the General Services Administration (GSA) to: (1) develop and publish model leasing provisions to encourage building owners and tenants to use greater cost-effective energy efficiency and water efficiency measures in commercial buildings, and (2) develop policies and best practices to implement the measures for the realty services provided by the GSA to federal agencies.\n\nThe Environmental Protection Agency (EPA) is required under the Energy Independence and Security Act of 2007 (EISA) to develop a voluntary Tenant Star program within the Energy Star program to recognize tenants of spaces in commercial buildings that voluntarily achieve high levels of energy efficiency. The EPA may develop a voluntary program to recognize commercial building owners and tenants that use high-performance energy efficiency measures in the design and construction of leased spaces.\n\nEnergy Efficient Government Technology Act \n\nThe EISA is amended also to require: (1) each federal agency to coordinate with the Office of Management and Budget, the Department of Energy (DOE), and the EPA to develop an implementation strategy for the maintenance, purchase, and use of energy-efficient and energy-saving information technologies; (2) DOE to maintain a data center energy practitioner program that leads to the certification of energy practitioners qualified to evaluate the energy usage and efficiency opportunities in federal data centers; and (3) DOE to establish an open data initiative to make information about federal data center energy usage available and accessible in a manner that encourages data center innovation, optimization, and consolidation.\n\nDOE must maintain, and if necessary create, a database for storing and making available public energy-related information on commercial and multifamily buildings."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": true, 
+      "title": "Better Buildings Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": true, 
+      "title": "Energy Efficient Government Technology Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To promote energy efficiency, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:30:34-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR873:@@@L&summ2=m&"
+}

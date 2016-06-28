@@ -1,0 +1,228 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-02-24", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Transportation and Infrastructure.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-02-25", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Coast Guard and Maritime Transportation.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-02-25", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Highways and Transit.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-02-25", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-02-25", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Water Resources and Environment.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-02-25", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1043-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Coast Guard and Maritime Transportation", 
+      "subcommittee_id": "07"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Highways and Transit", 
+      "subcommittee_id": "12"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Railroads, Pipelines, and Hazardous Materials", 
+      "subcommittee_id": "14"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Water Resources and Environment", 
+      "subcommittee_id": "02"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Economic Development, Public Buildings and Emergency Management", 
+      "subcommittee_id": "13"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "17", 
+      "name": "Bustos, Cheri", 
+      "sponsored_at": "2015-03-10", 
+      "state": "IL", 
+      "thomas_id": "02127", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Lipinski, Daniel", 
+      "sponsored_at": "2015-02-24", 
+      "state": "IL", 
+      "thomas_id": "01781", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Maloney, Sean Patrick", 
+      "sponsored_at": "2015-02-24", 
+      "state": "NY", 
+      "thomas_id": "02150", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Pingree, Chellie", 
+      "sponsored_at": "2015-02-24", 
+      "state": "ME", 
+      "thomas_id": "01927", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Richmond, Cedric L.", 
+      "sponsored_at": "2015-02-24", 
+      "state": "LA", 
+      "thomas_id": "02023", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Walz, Timothy J.", 
+      "sponsored_at": "2015-02-24", 
+      "state": "MN", 
+      "thomas_id": "01856", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-02-24", 
+  "number": "1043", 
+  "official_title": "To establish the Railroad Emergency Services Preparedness, Operational Needs, and Safety Evaluation (RESPONSE) Subcommittee under the Federal Emergency Management Agency's National Advisory Council to provide recommendations on emergency responder training and resources relating to hazardous materials incidents involving railroads, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s546-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "RESPONSE Act of 2015", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Kind, Ron", 
+    "state": "WI", 
+    "thomas_id": "01498", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-02-24", 
+  "subjects": [
+    "Accidents", 
+    "Advisory bodies", 
+    "Congressional oversight", 
+    "Emergency management", 
+    "Emergency planning and evacuation", 
+    "First responders and emergency personnel", 
+    "Hazardous wastes and toxic substances", 
+    "Public-private cooperation", 
+    "Railroads", 
+    "Rural conditions and development", 
+    "Transportation safety and security"
+  ], 
+  "subjects_top_term": "Emergency management", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-02-24", 
+    "text": "RESPONSE Act of 2015\n\n Amends the Homeland Security Act of 2002 to direct the Administrator of the Federal Emergency Management Agency to establish the Railroad Emergency Services Preparedness, Operational Needs, and Safety Evaluation Subcommittee of the National Advisory Council.\n\nDirects the Subcommittee to evaluate the following topics and develop recommendations for improving emergency responder training and resource allocation for hazardous materials incidents involving railroads:\n\n the quality and application of training for local emergency first responders related to rail hazardous materials incidents, with a particular focus on local emergency responders and small communities near railroads; the effectiveness of funding levels related to training local emergency responders for rail hazardous materials incidents, with a particular focus on local emergency responders and small communities; a strategy for integration of commodity flow studies, mapping, and access platforms for local emergency responders and how to increase the rate of access to the individual responder in existing or emerging communications technology; the need for emergency response plans for rail, similar to existing law related to maritime and stationary facility emergency response plans for hazardous materials; the need for a rail hazardous materials incident database; increasing access to relevant, useful, and timely information for the local emergency responder for training purposes and in the event of a rail hazardous materials incident; and determining the most appropriate agencies and offices for the implementation of the recommendations. Terminates the Subcommittee not later than four years after this Act's enactment, subject to one year extensions."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "RESPONSE Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To establish the Railroad Emergency Services Preparedness, Operational Needs, and Safety Evaluation (RESPONSE) Subcommittee under the Federal Emergency Management Agency's National Advisory Council to provide recommendations on emergency responder training and resources relating to hazardous materials incidents involving railroads, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:31:59-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR1043:@@@L&summ2=m&"
+}

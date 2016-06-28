@@ -1,0 +1,220 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-07-10", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Financial Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-07-28", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-29", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-29", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by the Yeas and Nays: 58 - 0.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2015-11-16T18:07:00-05:00", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on Financial Services. H. Rept. 114-337.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-11-16T18:08:00-05:00", 
+      "calendar": "Union", 
+      "number": "258", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 258.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2015-11-16T19:43:00-05:00", 
+      "references": [], 
+      "text": "Mr. Hensarling moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-11-16T19:43:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H8219", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-11-16T19:43:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3032.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-11-16T19:48:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H8219", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2015-11-16T19:48:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-11-17", 
+      "committees": [
+        "SSBK"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3032-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Banking, Housing, and Urban Affairs", 
+      "committee_id": "SSBK"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "5", 
+      "name": "Hurt, Robert", 
+      "sponsored_at": "2015-07-10", 
+      "state": "VA", 
+      "thomas_id": "02069", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Kildee, Daniel T.", 
+      "sponsored_at": "2015-10-27", 
+      "state": "MI", 
+      "thomas_id": "02134", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-07-28", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2015-11-16T19:48:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-07-10", 
+  "number": "3032", 
+  "official_title": "To amend the Securities Exchange Act of 1934 to repeal a certain reporting requirement of the Securities and Exchange Commission.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Securities and Exchange Commission Reporting Modernization Act", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Sinema, Kyrsten", 
+    "state": "AZ", 
+    "thomas_id": "02099", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2015-11-16T19:48:00-05:00", 
+  "subjects": [
+    "Bank accounts, deposits, capital", 
+    "Banking and financial institutions regulation", 
+    "Congressional oversight", 
+    "Finance and financial sector", 
+    "Right of privacy", 
+    "Securities and Exchange Commission (SEC)"
+  ], 
+  "subjects_top_term": "Finance and financial sector", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2015-11-16", 
+    "text": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)\n\nSecurities and Exchange Commission Reporting Modernization Act\n\n(Sec. 2) This bill amends the Securities Exchange Act of 1934 to repeal the requirement that the Securities and Exchange Commission (SEC) compile an annual tabulation of the occasions on which it has used specified law, including the Right to Financial Privacy Act of 1978, to obtain access to financial records of a customer and include it in its annual report to the Congress.\n\n(The specified law referred to is the authority of the SEC to gain access to and obtain copies of, or the information contained in, financial records of a customer from a financial institution without prior notice to the customer upon an ex parte showing to an appropriate U.S. district court that the SEC seeks such records pursuant to a subpena, if certain circumstances exist and certain requirements are met.)"
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Securities and Exchange Commission Reporting Modernization Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Securities and Exchange Commission Reporting Modernization Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Securities and Exchange Commission Reporting Modernization Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Securities Exchange Act of 1934 to repeal a certain reporting requirement of the Securities and Exchange Commission.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:49:02-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3032:@@@L&summ2=m&"
+}

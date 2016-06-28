@@ -1,0 +1,142 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-04-30", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-05-14", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Human Resources.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2136-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM", 
+      "subcommittee": "Subcommittee on Human Resources", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "6", 
+      "name": "Black, Diane", 
+      "sponsored_at": "2015-04-30", 
+      "state": "TN", 
+      "thomas_id": "02063", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Kelly, Mike", 
+      "sponsored_at": "2015-04-30", 
+      "state": "PA", 
+      "thomas_id": "02051", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "23", 
+      "name": "Reed, Tom", 
+      "sponsored_at": "2015-04-30", 
+      "state": "NY", 
+      "thomas_id": "01982", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Young, Todd C.", 
+      "sponsored_at": "2015-04-30", 
+      "state": "IN", 
+      "thomas_id": "02019", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-04-30", 
+  "number": "2136", 
+  "official_title": "To amend titles II and XVI of the Social Security Act to provide for quality reviews of benefit decisions, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1922-114", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Improving the Quality of Disability Decisions Act of 2015", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Johnson, Sam", 
+    "state": "TX", 
+    "thomas_id": "00603", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-04-30", 
+  "subjects": [
+    "Administrative remedies", 
+    "Congressional oversight", 
+    "Disability assistance", 
+    "Performance measurement", 
+    "Poverty and welfare assistance", 
+    "Social Security Administration", 
+    "Social welfare"
+  ], 
+  "subjects_top_term": "Social welfare", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-04-30", 
+    "text": "Improving the Quality of Disability Decisions Act of 2015\n\nThis bill amends titles II (Old Age, Survivors, and Disability Insurance) (OASDI) and XVI (Supplemental Security Income) (SSI) of the Social Security Act to direct the Social Security Administration (SSA) to conduct pre-effectuation and post-effectuation quality reviews of hearing dispositions with respect to decisions in connection with applications for OASDI or SSI benefits, in a sufficient number to ensure compliance with laws, regulations, and other guidance.\n\nThe SSA shall report annually Congress on: (1) the total number of cases selected for quality review, (2) the number in which a decision is remanded, and (3) the number in which a decision is modified or reversed."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Improving the Quality of Disability Decisions Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend titles II and XVI of the Social Security Act to provide for quality reviews of benefit decisions, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:41:24-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2136:@@@L&summ2=m&"
+}

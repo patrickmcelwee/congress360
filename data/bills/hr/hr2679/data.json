@@ -1,0 +1,111 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-06-04", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-06-16", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Immigration and Border Security.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2679-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Immigration and Border Security", 
+      "subcommittee_id": "01"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "19", 
+      "name": "Lofgren, Zoe", 
+      "sponsored_at": "2015-06-04", 
+      "state": "CA", 
+      "thomas_id": "00701", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-06-04", 
+  "number": "2679", 
+  "official_title": "To provide for the admission to the United States of certain Tibetans.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Tibetan Refugee Assistance Act of 2015", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Sensenbrenner, F. James, Jr.", 
+    "state": "WI", 
+    "thomas_id": "01041", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-06-04", 
+  "subjects": [
+    "Asia", 
+    "Family relationships", 
+    "Immigration", 
+    "Immigration status and procedures", 
+    "India", 
+    "Nepal", 
+    "Refugees, asylum, displaced persons", 
+    "Tibet", 
+    "Visas and passports"
+  ], 
+  "subjects_top_term": "Immigration", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-06-04", 
+    "text": "Tibetan Refugee Assistance Act of 2015\n\nMakes 3,000 immigrant visas available in FY2016-FY2018 for individuals who were born in Tibet and have been continuously residing in India or Nepal prior to the date of the enactment of this Act.\n\nConsiders an individual to be a native of Tibet if such individual was born in Tibet or is the son, daughter, grandson, or granddaughter of an individual born in Tibet.\n\n Provides derivative status for accompanying/following spouses and children."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Tibetan Refugee Assistance Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide for the admission to the United States of certain Tibetans.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:46:05-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2679:@@@L&summ2=m&"
+}

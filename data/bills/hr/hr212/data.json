@@ -1,0 +1,322 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-01-08", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-01-09", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Environment and the Economy.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-02-24T12:13:00-05:00", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 114-26.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-02-24T12:15:00-05:00", 
+      "calendar": "Union", 
+      "number": "18", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Placed on the Union Calendar, Calendar No. 18.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2015-02-24T16:04:00-05:00", 
+      "references": [], 
+      "text": "Mr. Latta moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-02-24T16:04:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1094-1095", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-02-24T16:04:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 212.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-02-24T16:12:00-05:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-02-24T18:31:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1100-1101", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-02-24T18:58:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-02-24T18:58:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H1094", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "84", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 375 - 37 (Roll no. 84).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2015-02-24T18:58:00-05:00", 
+      "references": [], 
+      "text": "The title of the measure was amended. Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-02-25", 
+      "references": [], 
+      "text": "Received in the Senate, read twice.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-08-05", 
+      "how": "by Voice Vote", 
+      "references": [
+        {
+          "reference": "CR S6348-6349", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2015-08-06", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-08-06", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2015-08-07", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2015-08-07", 
+      "congress": "114", 
+      "law": "public", 
+      "number": "45", 
+      "references": [], 
+      "text": "Became Public Law No: 114-45.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr212-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "reporting"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Environment and the Economy", 
+      "subcommittee_id": "18"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "14", 
+      "name": "Joyce, David P.", 
+      "sponsored_at": "2015-02-10", 
+      "state": "OH", 
+      "thomas_id": "02154", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Kaptur, Marcy", 
+      "sponsored_at": "2015-01-08", 
+      "state": "OH", 
+      "thomas_id": "00616", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "McKinley, David B.", 
+      "sponsored_at": "2015-02-10", 
+      "state": "WV", 
+      "thomas_id": "02074", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Miller, Candice S.", 
+      "sponsored_at": "2015-01-08", 
+      "state": "MI", 
+      "thomas_id": "01731", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Murphy, Tim", 
+      "sponsored_at": "2015-02-10", 
+      "state": "PA", 
+      "thomas_id": "01744", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Quigley, Mike", 
+      "sponsored_at": "2015-01-08", 
+      "state": "IL", 
+      "thomas_id": "01967", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "114", 
+    "law_type": "public", 
+    "number": "45"
+  }, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-02-24T12:13:00-05:00", 
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2015-08-07", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2015-02-24T18:58:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2015-08-05", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-01-08", 
+  "number": "212", 
+  "official_title": "To amend the Safe Drinking Water Act to provide for the assessment and management of the risk of algal toxins in drinking water, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr1709-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s460-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Drinking Water Protection Act", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Latta, Robert E.", 
+    "state": "OH", 
+    "thomas_id": "01885", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2015-08-07", 
+  "subjects": [
+    "Environmental assessment, monitoring, research", 
+    "Environmental protection", 
+    "Environmental technology", 
+    "Government information and archives", 
+    "Hazardous wastes and toxic substances", 
+    "Health information and medical records", 
+    "Water quality", 
+    "Water use and supply"
+  ], 
+  "subjects_top_term": "Environmental protection", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2015-08-07", 
+    "text": "(This measure has not been amended since it was passed by the House on February 24, 2015. The summary of that version is repeated here.)\n\nDrinking Water Protection Act \n\n(Sec. 2) This bill amends the Safe Drinking Water Act to direct the Environmental Protection Agency (EPA) to develop and submit to Congress a strategic plan for assessing and managing risks associated with algal toxins in drinking water provided by public water systems. Cyanobacteria, also known as blue-green algae, have the ability to produce cyanotoxins, or algal toxins. When certain conditions are favorable, algae can rapidly multiply causing blooms, or dense surface scums, that may be toxic.\n\nThe plan must include steps and time lines to:\n\n evaluate the risk to human health from drinking water contaminated with algal toxins; establish, publish, and update a comprehensive list of algal toxins that may have an adverse effect on human health, taking into account likely exposure levels; summarize the known adverse human health effects of algal toxins and the factors that cause toxin-producing cyanobacteria and algae to grow rapidly and make toxins; determine whether to publish health advisories for algal toxins and establish guidance regarding feasible analytical methods to quantify the presence of algal toxins and guidance regarding the frequency of monitoring necessary to determine if the algal toxins are present; recommend feasible treatment options, including procedures, equipment, and source water protection practices; and enter into cooperative agreements with, and provide technical assistance to, affected states and public water systems to manage risks associated with algal toxins. The EPA must update and resubmit the plan as appropriate.\n\nThe EPA must identify gaps in its understanding of algal toxins. It must also assemble and publish information from each agency that has examined or analyzed cyanobacteria or algal toxins or addressed public health concerns related to harmful algal blooms. The Government Accountability Office must submit to Congress an inventory of funds expended by the United States for each of FY2010 through 2014 to examine or analyze toxin-producing cyanobacteria and algae or address public health concerns related to harmful algal blooms. The inventory must include the specific purpose for which the funds were made available, the law under which the funds were authorized, and the agency that received or spent the funds."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Drinking Water Protection Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Safe Drinking Water Act to provide for the assessment and management of the risk of cyanotoxins in drinking water, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "amended by house", 
+      "is_for_portion": false, 
+      "title": "To amend the Safe Drinking Water Act to provide for the assessment and management of the risk of algal toxins in drinking water, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:24:59-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR212:@@@L&summ2=m&"
+}

@@ -1,0 +1,391 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-09-22", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Homeland Security, and in addition to the Committees on Transportation and Infrastructure, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-09-22", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "text": "Referred to House Homeland Security", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-09-22", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "text": "Referred to House Transportation and Infrastructure", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-09-22", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "text": "Referred to House Energy and Commerce", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-09-23", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-09-25", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Communications and Technology.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-09-30", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-30", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2016-03-16T15:39:00-04:00", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-455, Part I.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-03-16T15:40:00-04:00", 
+      "references": [], 
+      "text": "Committee on Transportation discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-03-16T15:41:00-04:00", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "text": "Committee on Energy and Commerce discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-03-16T15:41:00-04:00", 
+      "calendar": "Union", 
+      "number": "349", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 349.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2016-04-26T17:13:00-04:00", 
+      "references": [], 
+      "text": "Ms. McSally moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-26T17:13:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H1969-1978", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-26T17:13:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3583.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-26T17:29:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H1969-1974", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2016-04-26T17:29:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-27", 
+      "committees": [
+        "SSGA"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3583-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Economic Development, Public Buildings and Emergency Management", 
+      "subcommittee_id": "13"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Communications and Technology", 
+      "subcommittee_id": "16"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Homeland Security and Governmental Affairs", 
+      "committee_id": "SSGA"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "11", 
+      "name": "Donovan, Daniel M., Jr.", 
+      "sponsored_at": "2015-09-22", 
+      "state": "NY", 
+      "thomas_id": "02293", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "McCaul, Michael T.", 
+      "sponsored_at": "2015-09-22", 
+      "state": "TX", 
+      "thomas_id": "01804", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Payne, Donald M., Jr.", 
+      "sponsored_at": "2015-09-22", 
+      "state": "NJ", 
+      "thomas_id": "02097", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-09-30", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2016-04-26T17:29:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-09-22", 
+  "number": "3583", 
+  "official_title": "To reform and improve the Federal Emergency Management Agency, the Office of Emergency Communications, and the Office of Health Affairs of the Department of Homeland Security, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr623-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr1300-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr2206-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr3456-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr4509-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s1915-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "PREPARE Act", 
+  "sponsor": {
+    "district": "2", 
+    "name": "McSally, Martha", 
+    "state": "AZ", 
+    "thomas_id": "02225", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2016-04-26T17:29:00-04:00", 
+  "subjects": [
+    "Advisory bodies", 
+    "Border security and unlawful immigration", 
+    "Chemical and biological weapons", 
+    "Computer security and identity theft", 
+    "Congressional oversight", 
+    "Department of Homeland Security", 
+    "Emergency communications systems", 
+    "Emergency management", 
+    "Emergency medical services and trauma care", 
+    "Executive agency funding and structure", 
+    "Federal Emergency Management Agency (FEMA)", 
+    "Federal officials", 
+    "Firearms and explosives", 
+    "First responders and emergency personnel", 
+    "Government employee pay, benefits, personnel management", 
+    "Government studies and investigations", 
+    "Health information and medical records", 
+    "Health personnel", 
+    "Health promotion and preventive care", 
+    "Homeland security", 
+    "Immunology and vaccination", 
+    "Infectious and parasitic diseases", 
+    "Internet and video services", 
+    "Law enforcement administration and funding", 
+    "Law enforcement officers", 
+    "Navigation, waterways, harbors", 
+    "Nuclear weapons", 
+    "Performance measurement", 
+    "Public transit", 
+    "Rural conditions and development", 
+    "State and local government operations", 
+    "Terrorism", 
+    "Transportation programs funding", 
+    "Transportation safety and security", 
+    "Urban and suburban affairs and development", 
+    "Worker safety and health"
+  ], 
+  "subjects_top_term": "Emergency management", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2016-04-26", 
+    "text": "Promoting Resilience and Efficiency in Preparing for Attacks and Responding to Emergencies Act or the PREPARE Act\n\nTITLE I--GRANTS, TRAINING, EXERCISES, AND COORDINATION\n\n(Sec. 101) This bill amends the Homeland Security Act of 2002 to require the Federal Emergency Management Agency (FEMA) to enter into memoranda of understanding with U.S. Customs and Border Protection (CBP), the Transportation Security Administration, the Coast Guard, the Office of Intelligence and Analysis, the Office of Emergency Communications (OEC), the Office for State and Local Law Enforcement, the Countering Violent Extremism Coordinator, the Office for Civil Rights and Civil Liberties, and other Department of Homeland Security (DHS) offices and components to delineate their responsibilities for awarding grants to:\n\n public transportation agencies to improve security under the Implementing Recommendations of the 9/11 Commission Act of 2007; high-risk urban areas and state, local, and tribal governments to protect against terrorism under the Urban Area Security Initiative (UASI) and the State Homeland Security Grant Program (SHSGP); and port authorities, facility operators, and state and local governments to implement Area Maritime Transportation Security Plans and facility security plans, provide port security services, and train law enforcement personnel. (Sec. 102) The grant funds must be made available for use by the recipients for at least 36 months.\n\n(Sec. 103) Operation Stonegarden is established in DHS for FEMA to enhance border security by making grants to law enforcement agencies involved in CBP operations in states that border Canada or Mexico or that have a maritime border.\n\n(Sec. 104) FEMA must assess the extent to which UASI and SHSGP grants have closed capability gaps identified in: (1) state preparedness reports required under the Post-Katrina Emergency Management Reform Act of 2006, and (2) threat and hazard identification and risk assessments from each state and high-risk urban area.\n\n(Sec. 105) FEMA must summarize in the annual notice of funding opportunity for UASI and SHSGP grants the DHS Inspector General's findings in audits of such grants and methods to address areas identified for improvement and innovative practices instituted by grant recipients.\n\n(Sec. 106) State planning committees or urban working groups required to assist in the determination of funding priorities under the UASI and the SHSGP must include: (1) public health officials and medical practitioners, (2) educational institutions, and (3) appropriate state and regional interoperable communications coordinators and state and major urban area fusion centers.\n\n(Sec. 107) DHS is prohibited from implementing the National Preparedness Grant Program without congressional authorization.\n\n(Sec. 108) FEMA must coordinate with DHS's Office of Policy, and outreach to relevant stakeholder organizations, when it makes determinations regarding the use of UASI and SHSGP funds for law enforcement terrorism prevention activities.\n\n(Sec. 109) FEMA must permit grant recipients under the UASI and the SHSGP to use grant funds to prepare for terrorism by enhancing medical preparedness, medical surge capacity, and mass prophylaxis capabilities, including an initial pharmaceutical stockpile with medical kits and diagnostics to protect first responders, their families, immediate victims, and vulnerable populations from a chemical or biological event. Such work may be carried out in conjunction with Department of Energy-owned national laboratories.\n\n(Sec. 110) Applicants for UASI and SHSGP grants seeking funds to purchase equipment must develop equipment maintenance plans that identify which entity is responsible for maintaining such equipment.\n\n(Sec. 111) The bill reauthorizes members of the National Domestic Preparedness Consortium for FY2016-FY2017.\n\n(Sec. 112) DHS is authorized to establish a Rural Domestic Preparedness Consortium of universities and nonprofit organizations to provide training to emergency response providers from rural communities.\n\n(Sec. 113) At least every five years, FEMA must update, and the National Integration Center must review and revise as appropriate, the National Response Plan to consolidate and coordinate the federal government's existing emergency response plans.\n\nFEMA must provide performance metrics to federal agencies with responsibilities under the National Response Framework.\n\n(Sec. 114) The National Integration Center must also review the national incident management system at least every five years.\n\n(Sec. 115) FEMA must develop a uniform process for reviewing applications to use UASI or SHSGP grants to purchase equipment or systems not included on FEMA's authorized equipment list.\n\n(Sec. 116) FEMA must establish a remedial action management program to collect information on corrective actions and lessons learned by federal agencies during training exercises and responses to natural disasters, terrorism, and other man-made disasters. It must: (1) report to Congress on the status of corrective actions; and (2) disseminate after-action reports and best practices to Congress and federal, state, local, tribal, and private sector officials.\n\nTITLE II--COMMUNICATIONS\n\n(Sec. 201) DHS must receive prior authorization from congressional homeland security committees before changing the location or reporting structure of the OEC.\n\n(Sec. 202) The OEC must: (1) administer the Government Emergency Telecommunications Service and the Wireless Priority Service programs, (2) assess the impact of emerging technologies on interoperable emergency communications, and (3) update the National Emergency Communications Plan at least every five years.\n\n(Sec. 203) The OEC must report to Congress annually for five years about its activities.\n\n(Sec. 204) The OEC must update at least every five years the National Emergency Communications Plan, which must be expanded to consider the impact of emerging technologies on the attainment of interoperable emergency communications.\n\n(Sec. 206) The National Protection and Programs Directorate must submit to Congress information on DHS's responsibilities related to the development of the nationwide Public Safety Broadband Network, including information on efforts to work with the Department of Commerce's First Responder Network Authority to identify and address cyber risks that could impact the network's availability and operations.\n\n(Sec. 207) A state must include in its application for SHSGP funding a certification that: (1) confirms that its governor has designated a Statewide Interoperability Coordinator, or (2) identifies another individual who will be the primary point of contact for performance of such functions.\n\nThe Coordinator must:\n\n coordinate the daily operations of the state's interoperability efforts; coordinate state interoperability and communications projects and grant applications for such projects; establish and maintain working groups to develop and implement key interoperability initiatives; and coordinate and update a Statewide Communications Interoperability Plan that specifies the current status of state efforts to enhance communications interoperability within the state, including future goals for communications interoperability among emergency response agencies in the state. (Sec. 208) DHS's Management Directorate must develop a mechanism to verify that DHS radio users receive ongoing training, including on interagency radio use protocols.\n\nTITLE III--MEDICAL PREPAREDNESS\n\n(Sec. 301) DHS must coordinate with the Department of Health and Human Services (HHS), for the purpose of domestic preparedness for and collective response to terrorism, to: (1) establish a program to provide surplus anthrax vaccines nearing the end of their labeled dates of use from the strategic national stockpile for administration to emergency response providers who are at high risk of exposure to anthrax and who voluntarily consent to such administration, (2) distribute disclosures regarding associated benefits and risks to end users, and (3) conduct outreach to educate emergency response providers about the program.\n\nDHS must: (1) support homeland security-focused risk analysis and assessments of the threats posed by anthrax from an act of terror; (2) leverage homeland security intelligence capabilities and structures to enhance prevention, protection, response, and recovery efforts with respect to an anthrax terror attack; and (3) share information and provide tailored analytical support on threats posed by anthrax to state, local, and tribal authorities, as well as other national biosecurity and biodefense stakeholders.\n\nIn coordination with HHS, DHS must carry out a 24-month pilot program to provide anthrax vaccines to emergency response providers. DHS must: (1) establish a communication platform and education and training modules for such program, (2) conduct economic analysis of such program, (3) create a logistical platform for the anthrax vaccine request process, (4) select providers based in at least two states to participate, (5) provide to each participating provider disclosures and educational materials regarding the benefits and risks of any vaccine provided and of exposure to anthrax, and (6) submit annual reports on pilot program results and recommendations to improve pilot program participation. Each report must include a plan for continuation of the DHS program to provide vaccines to emergency response providers.\n\n(Sec. 302) The Chief Medical Officer's (CMO's) responsibilities are expanded to include:\n\n establishing medical and human, animal, and occupational health exposure policies and initiatives; advising DHS and FEMA on the medical effects of terrorist attacks or other high consequence events utilizing chemical, biological, radiological, or nuclear agents or explosives; coordinating DHS's preparedness for pandemics and emerging infectious diseases; serving as DHS's primary point of contact for emergency medical services and medical first responder stakeholders; ensuring that DHS's workforce has evidence-based standards for occupational health and operational medicine programs; and maintaining a coordinated system for medical support for DHS's operational activities. The CMO must also: (1) review and maintain verification of the accreditation of DHS's health provider workforce; (2) develop quality assurances, clinical policies, and metrics for medical and health activities; (3) oversee medical records systems; and (4) provide medical direction for emergency medical services.\n\nThe CMO may provide medical liaisons to DHS components to provide subject matter expertise on medical and public health issues and a direct link to the CMO.\n\n(Sec. 303) DHS must establish a medical countermeasures program to facilitate personnel readiness, and protection for working animals, employees, and individuals in DHS's care and custody, in the event of a chemical, biological, radiological, nuclear, or explosives attack, naturally occurring disease outbreak, or pandemic.\n\nThe CMO must: (1) oversee the program and maintain a medical countermeasures stockpile and dispensing system, (2) establish a medical countermeasures working group comprised of representatives from DHS offices to ensure that medical countermeasures standards are maintained and guidance is consistent, and (3) develop an integrated logistics support plan.\n\nTITLE IV--MANAGEMENT\n\n(Sec. 401) FEMA must designate a chief management official and principal advisor on FEMA management matters.\n\nThe chief management official must be responsible for: (1) procurement; (2) human resources and personnel; (3) information technology and communications systems; (4) real property investment and planning, facilities, accountable personal property, records and disclosure, privacy, safety and health, and sustainability and environmental management; and (5) security for personnel, information technology and communications systems, facilities, property, equipment, and other material resources.\n\nThe chief management official's responsibilities shall not be construed to affect the role of the Assistant Administrator for National Continuity as it relates to the Mount Weather Emergency Operations Center and associated facilities.\n\nFEMA must submit to Congress: (1) a review of financial, human capital, information technology, real property planning, and acquisition management of its headquarters and regional offices; and (2) a strategy for capturing financial, human capital, information technology, real property planning, and acquisition data.\n\n(Sec. 402) FEMA must also report on its efforts to modernize its grants and financial information technology systems.\n\n(Sec. 403) Not later than May 1, 2016, and for each of the next five years, FEMA must update its strategic human capital plan.\n\n(Sec. 404) FEMA must integrate the needs of children into its activities to protect against natural disasters, acts of terrorism, and other man-made disasters, including by appointing a technical expert to coordinate such activities.\n\nTITLE V--FLOOD INSURANCE CLAIMS PROCESS REFORMS\n\n(Sec. 501) This title amends the National Flood Insurance Act of 1968 to direct FEMA to set forth requirements concerning the final engineering report of an engineer or any report of a claims adjustor for any on-site inspection of a property to assess a claim for losses covered by a flood insurance policy under such Act. Such a report:\n\n may not be transmitted to any other person, employer, agency, or entity, before it is transmitted to the insured; may not include alterations by, or at the request of, anyone other than the person responsible for the final engineering report or the preparer of the claims adjustor report, and shall include a certification that it does not contain any such alterations; and shall provide reasonable assurance that it was transmitted directly to the insured by such person or preparer. For engineering reports, these requirements apply only to the final signed or sealed report that contains final conclusions. But for claims adjustor reports, the requirements apply to any document in connection with such claim that is based on the adjustor's on-site inspection, including any adjustment reports, field reports, drafts, preliminary versions, copies, amendments, or additions.\n\nIf FEMA or an insurance company disallows a flood insurance claim, or if the claimant refuses to accept the allowed amount, the claimant may institute a court action against FEMA or the insurance company: (1) within two years after the occurrence of the losses involved in such claim; or (2) in the case of a denial of a claim that is appealed to FEMA, within 90 days after the final determination upon appeal denying such claim in whole or in part, or within two years after the loss, whichever is later. (These time periods replace current law that allows a claimant to institute such an action against FEMA or the insurance company within one year after the mailing of notice of disallowance or partial disallowance.)"
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "PREPARE Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Promoting Resilience and Efficiency in Preparing for Attacks and Responding to Emergencies Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "PREPARE Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Promoting Resilience and Efficiency in Preparing for Attacks and Responding to Emergencies Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "PREPARE Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Promoting Resilience and Efficiency in Preparing for Attacks and Responding to Emergencies Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To reform and improve the Federal Emergency Management Agency, the Office of Emergency Communications, and the Office of Health Affairs of the Department of Homeland Security, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:53:38-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3583:@@@L&summ2=m&"
+}

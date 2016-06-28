@@ -1,0 +1,323 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-01-06", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Financial Services, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-01-06", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "text": "Referred to House Financial Services", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-01-06", 
+      "committees": [
+        "HSAG"
+      ], 
+      "references": [], 
+      "text": "Referred to House Agriculture", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-01-07T12:32:00-05:00", 
+      "references": [], 
+      "text": "Mr. Neugebauer moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-07T12:32:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H59-71", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-07T12:32:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 26.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-07T13:09:00-05:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-07T14:40:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H92-93", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-07T15:08:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H59-66", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "8", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 416 - 5, 1 Present (Roll no. 8).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2015-01-07T15:08:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-07", 
+      "references": [], 
+      "text": "Received in the Senate, read twice.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-08", 
+      "references": [
+        {
+          "reference": "CR S72-85", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Measure laid before Senate by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-08", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": "2", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Yea-Nay Vote. 93 - 4. Record Vote Number: 2.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2015-01-09", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-09", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2015-01-12", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2015-01-12", 
+      "congress": "114", 
+      "law": "public", 
+      "number": "1", 
+      "references": [], 
+      "text": "Became Public Law No: 114-1.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "samdt1-114", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "1"
+    }
+  ], 
+  "bill_id": "hr26-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Agriculture", 
+      "committee_id": "HSAG"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "4", 
+      "name": "Gosar, Paul A.", 
+      "sponsored_at": "2015-01-06", 
+      "state": "AZ", 
+      "thomas_id": "01992", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "114", 
+    "law_type": "public", 
+    "number": "1"
+  }, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-01-07T12:32:00-05:00", 
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2015-01-12", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2015-01-07T15:08:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2015-01-08", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-01-06", 
+  "number": "26", 
+  "official_title": "To extend the termination date of the Terrorism Insurance Program established under the Terrorism Risk Insurance Act of 2002, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Terrorism Risk Insurance Program Reauthorization Act of 2015", 
+  "sponsor": {
+    "district": "19", 
+    "name": "Neugebauer, Randy", 
+    "state": "TX", 
+    "thomas_id": "01758", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2015-01-12", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Advisory bodies", 
+    "Banking and financial institutions regulation", 
+    "Business records", 
+    "Civil actions and liability", 
+    "Commodities markets", 
+    "Congressional oversight", 
+    "Consumer affairs", 
+    "Criminal justice information and records", 
+    "Department of the Treasury", 
+    "Disaster relief and insurance", 
+    "Federal Reserve System", 
+    "Federal officials", 
+    "Federal preemption", 
+    "Finance and financial sector", 
+    "Financial services and investments", 
+    "Government corporations and government-sponsored enterprises", 
+    "Government studies and investigations", 
+    "Insurance industry and regulation", 
+    "Licensing and registrations", 
+    "Life, casualty, property insurance", 
+    "Performance measurement", 
+    "Securities", 
+    "Small business", 
+    "State and local government operations", 
+    "Terrorism"
+  ], 
+  "subjects_top_term": "Finance and financial sector", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2015-01-12", 
+    "text": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)\n\nTerrorism Risk Insurance Program Reauthorization Act of 2015\n\nTITLE I--EXTENSION OF TERRORISM INSURANCE PROGRAM\n\n(Sec. 101) Amends the Terrorism Risk Insurance Act of 2002 (TRIA) to extend the Terrorism Insurance Program through December 31, 2020, and to revise requirements for the Program.\n\n(Sec. 102) Requires the federal share of payments beginning on January 1, 2016, for acts of terrorism, in general, to be reduced annually to 80% of insured losses.\n\n(Sec. 103) Specifies the aggregate industry insured losses resulting from certified acts of terror which will, beginning calendar years 2015-2019, trigger the federal share of compensation under the Program as: (1) $100 million for 2015; (2) $120 million for 2016; (3) $140 million for 2017; (4) $160 million for 2018, (5) $180 million for 2019; and (6) $200 million for 2020 and thereafter.\n\n(Sec. 104) Revises requirements for mandatory recoupment (repayment) from insurers of federal financial assistance provided in connection with all acts of terrorism (or acts of war, in the case of workers compensation).\n\nRevises the formula for determining the insurance marketplace aggregate retention amount (recoupment threshold) indicating insured losses resulting from a certified act of terrorism which the insurance industry must cover before federal assistance becomes available. Maintains the current recoupment threshold, which is the lesser of $27.5 billion, or the aggregate amount for all insurers, of insured losses during the calendar year. Requires annual increases of $2 billion until $27.5 billion becomes $37.5 billion. Prescribes a formula for further revisions of the threshold for years after it becomes $37.5 billion.\n\nRepeals the declaration that there shall be no mandatory recoupment (thus requiring recoupment) if uncompensated losses exceed the insurance marketplace aggregate retention amount.\n\nIncreases from 133% to 140% of any mandatory recoupment amount the terrorism loss risk-spreading premium (surcharge) collected for repayment of federal financial assistance.\n\n(Sec. 105) Redefines \"an act of terrorism\" as one that is certified as such by the Secretary of the Treasury in consultation with the Secretary of Homeland Security (previously, in concurrence with the Secretary of State).\n\n (Sec. 107) Directs the Secretary of the Treasury to study the process for certifying an act of terrorism, particularly a reasonable timeline for determining accurately whether to certify an act as an act of terrorism, and the impact of the length of any timeline on the insurance industry, policyholders, consumers, and taxpayers as a whole.\n\nDirects the Secretary to issue final rules governing the certification process, including any such timeline, within nine months after reporting study results to the appropriate congressional committees.\n\n (Sec. 108) Directs the Comptroller General (GAO) to study the viability and effects of federal: (1) assessment and collection of upfront premiums from insurers that participate in the Program, including a comparison of practices in international markets to assess and collect premiums either before or after terrorism losses are incurred; and (2) creation of a capital reserve fund to which participating insurers shall dedicate capital specifically for terrorism losses before they are incurred.\n\n(Sec. 109) Amends the Federal Reserve Act to require the President, in selecting members of the Board of Governors of the Federal Reserve System, to appoint at least one member with demonstrated primary experience working in or supervising community banks having less than $10 billion in total assets.\n\n(Sec. 110) Directs the Secretary to establish and appoint an Advisory Committee on Risk-Sharing Mechanisms to give advice, make recommendations, and encourage the creation of nongovernmental risk-sharing mechanisms to support private market reinsurance capacity for protection against losses arising from acts of terrorism.\n\n(Sec. 111) Directs the Secretary to: (1) require participating insurers to submit specified information regarding insurance coverage for terrorism losses; and (2) report annually to certain congressional committees on specified aspects of the Program, including whether they discourage or impede insurers from providing commercial property casualty insurance coverage or coverage for acts of terrorism.\n\nPrescribes confidentiality guidelines.\n\n(Sec. 112) Directs the Secretary to study biennially the small insurers participating in the Program, identifying competitive challenges they face in the terrorism risk insurance marketplace.\n\nTITLE II: NATIONAL ASSOCIATION OF REGISTERED AGENTS AND BROKERS REFORM\n\n National Association of Registered Agents and Brokers Reform Act of 2015\n\n(Sec. 202) Amends the Gramm-Leach-Bliley Act to repeal the contingent conditions under which the National Association of Registered Agents and Brokers (NARAB) shall not be established. Establishes NARAB without contingent conditions as an independent nonprofit corporation to prescribe, on a multi-state basis, licensing and insurance producer qualification requirements and conditions.\n\nProhibits the NARAB from merging with or into any other private or public entity.\n\nRequires the NARAB, without affecting state regulatory authority, to provide a mechanism for the adoption and multi-state application of requirements and conditions pertaining to: (1) licensing, continuing education, and other qualifications of non-NARAB insurance producers; (2) resident or nonresident insurance producer appointments; (3) supervision and disciplining of such producers; and (4) the setting of licensing fees for insurance producers.\n\nMakes any state-licensed insurance producer eligible to join the NARAB, except during a period of license suspension or revocation. Requires an individual insurance producer to undergo a criminal history record check by the Federal Bureau of Investigation (FBI). Requires the NARAB to submit to the FBI identification information obtained from the insurance producer, upon producer request, as well as a request of its own for the criminal history record check.\n\nAuthorizes the NARAB to: (1) establish membership criteria; and (2) deny membership to an individual state-licensed insurance producer on the basis of the criminal history information obtained, or where the producer has been subject to certain disciplinary action.\n\nPrescribes procedures governing a criminal history record check, including the rights of applicants denied membership.\n\nAuthorizes the NARAB to establish membership criteria, including separate classes of membership and membership criteria for business entities; but prohibits it from establishing criteria that unfairly limit the ability of a small insurance producer to become a member of the NARAB, including discriminatory membership fees.\n\nAuthorizes the NARAB to establish separate categories of membership for insurance producers and for other persons or entities within each class, based on the types of licensing categories that exist under state laws.\n\nProhibits the NARAB from establishing special categories of membership, including distinct membership criteria for members that are depository institutions or for their employees, agents, or affiliates.\n\nProhibits the NARAB from adopting any qualification less protective to the public than that contained in the National Association of Insurance Commissioners (NAIC) Producer Licensing Model Act.\n\nPrescribes procedures for authorized information sharing pursuant to a request by a licensed insurance producer.\n\nAuthorizes the NARAB to deny membership to any state-licensed insurance producer for failure to meet membership criteria.\n\nStates that NARAB membership authorizes an insurance producer to engage in the business of insurance in any state for any lines of insurance specified in the producer's home state license, including claims adjustments and settlement, risk management, and specified insurance-related consulting activities.\n\nMakes NARAB membership equivalent to a nonresident insurance producer license for specified purposes.\n\nEmpowers the NARAB to act as agent for any member for the purpose of remitting licensing fees to a state.\n\nRequires the NARAB to disclose to states, including state insurance regulators and the NAIC, on an ongoing basis, a list of the states in which each member is authorized to operate.\n\nRetains state regulatory jurisdiction regarding: (1) consumer protection and market conduct, and (2) state disciplinary authority.\n\nRequires the NARAB to establish, as a condition of membership, continuing education requirements comparable to the continuing education requirements under the licensing laws of a majority of the states.\n\nProhibits the NARAB from offering continuing education courses for insurance producers.\n\nGrants the NARAB disciplinary enforcement powers.\n\nRequires the NARAB to: (1) receive and investigate consumer complaints, and to maintain a toll-free telephone number; and (2) refer any such complaint to the state insurance regulator. Prescribes information- sharing procedures and limitations with the NAIC or governmental entities.\n\nAuthorizes the NARAB to establish: (1) a central clearinghouse, or utilize NAIC as a central clearinghouse through which NARAB members may disclose their intent to operate in one or more states; and (2) a national database for the collection of regulatory information concerning the activities of insurance producers.\n\nEstablishes the NARAB board of directors, whose membership shall include state insurance commissioners. Sets forth terms and procedures for appointment of members by the President. Authorizes reappointment to successive terms. Prohibits compensation on account of Board membership.\n\nDeclares that the NARAB shall not be deemed to be an insurer or insurance producer within the meaning of any state law, rule, regulation, or order regulating or taxing insurers, insurance producers, or other entities engaged in the business of insurance.\n\nSets forth procedures for presidential oversight of the NARAB, including removal of the entire existing Board.\n\nSets forth a limited preemption of state laws purporting to regulate insurance producers.\n\nDirects the NARAB to coordinate with the Financial Industry Regulatory Authority (FINRA) in order to ease administrative burdens that fall on NARAB members subject to regulation by FINRA.\n\nAuthorizes any person aggrieved by a NARAB decision or action to commence a civil action in an appropriate federal district court.\n\nProhibits federal funding of the NARAB.\n\nTITLE III--BUSINESS RISK MITIGATION AND PRICE STABILIZATION\n\nBusiness Risk Mitigation and Price Stabilization Act of 2015\n\n(Sec. 302) Amends the Commodity Exchange Act to exempt, from the rules of prudential regulators for swap dealers and major swap participants with respect to initial and variation margin requirements for swaps not cleared by a registered derivatives clearing organization, those swaps in which one of the counterparties: (1) is eligible for an exception from clearing requirements because it is not a financial entity, uses swaps to hedge or mitigate commercial risk, and notifies the Commodity Futures Trading Commission how it meets financial obligations associated with entering into non-cleared swaps; (2) is eligible for a public interest exemption from swap clearing requirements for certain cooperative entities; or (3) satisfies specified criteria governing treatment of affiliates in connection with clearing requirements.\n\nAmends the Securities Exchange Act of 1934 regarding registration and regulation of security-based swap dealers and major security-based swap participants, to exempt from initial and variation margin requirements for swaps not cleared by a registered derivatives clearing organization a security-based swap in which one of the counterparties: (1) qualifies for a specified exception from clearing requirements, or (2) satisfies certain criteria governing the treatment of affiliates."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Terrorism Risk Insurance Program Reauthorization Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": true, 
+      "title": "Business Risk Mitigation and Price Stabilization Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": true, 
+      "title": "National Association of Registered Agents and Brokers Reform Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Terrorism Risk Insurance Program Reauthorization Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": true, 
+      "title": "Business Risk Mitigation and Price Stabilization Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": true, 
+      "title": "National Association of Registered Agents and Brokers Reform Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": false, 
+      "title": "Terrorism Risk Insurance Program Reauthorization Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "Business Risk Mitigation and Price Stabilization Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "National Association of Registered Agents and Brokers Reform Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To extend the termination date of the Terrorism Insurance Program established under the Terrorism Risk Insurance Act of 2002, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:23:24-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR26:@@@L&summ2=m&"
+}

@@ -1,0 +1,228 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-05-08", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Financial Services, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-05-08", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "text": "Referred to House Financial Services", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-05-08", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "text": "Referred to House Oversight and Government Reform", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-07-28", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-29", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-29", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 57 - 1.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2015-11-16T18:22:00-05:00", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Financial Services. H. Rept. 114-339, Part I.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-11-16T18:22:00-05:00", 
+      "references": [], 
+      "text": "Committee on Oversight and Government discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-11-16T18:22:00-05:00", 
+      "calendar": "Union", 
+      "number": "261", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 261.", 
+      "type": "calendar", 
+      "under": null
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2243-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Oversight and Government Reform", 
+      "committee_id": "HSGO"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Blum, Rod", 
+      "sponsored_at": "2015-05-19", 
+      "state": "IA", 
+      "thomas_id": "02241", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Latta, Robert E.", 
+      "sponsored_at": "2015-07-22", 
+      "state": "OH", 
+      "thomas_id": "01885", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Mulvaney, Mick", 
+      "sponsored_at": "2015-05-13", 
+      "state": "SC", 
+      "thomas_id": "02059", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Pearce, Stevan", 
+      "sponsored_at": "2015-05-13", 
+      "state": "NM", 
+      "thomas_id": "01738", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Poliquin, Bruce", 
+      "sponsored_at": "2015-05-08", 
+      "state": "ME", 
+      "thomas_id": "02247", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Posey, Bill", 
+      "sponsored_at": "2015-07-27", 
+      "state": "FL", 
+      "thomas_id": "01915", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-07-28", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-05-08", 
+  "number": "2243", 
+  "official_title": "To suspend the current compensation packages for the senior executives of Fannie Mae and Freddie Mac and establish compensation for such positions in accordance with rates of pay for senior employees in the Executive Branch of the Federal Government, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2036-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s2036-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Equity in Government Compensation Act of 2015", 
+  "sponsor": {
+    "district": "39", 
+    "name": "Royce, Edward R.", 
+    "state": "CA", 
+    "thomas_id": "00998", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2015-07-29", 
+  "subjects": [
+    "Corporate finance and management", 
+    "Government corporations and government-sponsored enterprises", 
+    "Housing and community development", 
+    "Housing finance and home ownership", 
+    "Wages and earnings"
+  ], 
+  "subjects_top_term": "Housing and community development", 
+  "summary": {
+    "as": "Reported to House amended, Part I", 
+    "date": "2015-11-16", 
+    "text": "Equity in Government Compensation Act of 2015 \n\n(Sec. 3) This bill requires the Director of the Federal Housing Finance Agency to: (1) suspend immediately the compensation packages approved for 2015 for the chief executive officers of the Federal National Mortgage Association (Fannie Mae) and the Federal Home Loan Mortgage Corporation (Freddie Mac) (government-sponsored enterprises or GSEs); and (2) establish, in lieu of such packages, the compensation and benefits for each such officer at the same level in effect as of January 1, 2015.\n\nSuch compensation and benefits may not thereafter be increased.\n\nThis requirement may not be construed to affect the applicability to the chief executive officer of each GSE of the prohibition against receiving bonuses during any period of conservatorship on or after April 4, 2012.\n\n(Sec. 4) Any executive officer affected by this Act shall not be considered a federal employee."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Equity in Government Compensation Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Equity in Government Compensation Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To suspend the current compensation packages for the senior executives of Fannie Mae and Freddie Mac and establish compensation for such positions in accordance with rates of pay for senior employees in the Executive Branch of the Federal Government, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:42:17-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2243:@@@L&summ2=m&"
+}

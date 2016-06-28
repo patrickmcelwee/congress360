@@ -1,0 +1,106 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-02-11", 
+      "committees": [
+        "HSAG"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Agriculture.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-02-27", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on General Farm Commodities and Risk Management.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr892-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Agriculture", 
+      "committee_id": "HSAG"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Agriculture", 
+      "committee_id": "HSAG", 
+      "subcommittee": "Subcommittee on General Farm Commodities and Risk Management", 
+      "subcommittee_id": "16"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-02-11", 
+  "number": "892", 
+  "official_title": "To amend the Federal Crop Insurance Act to prohibit the paying of premium subsidies on policies based on the actual market price of an agricultural commodity at the time of harvest.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s463-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s2244-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Harvest Price Subsidy Reduction Act", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Duncan, John J., Jr.", 
+    "state": "TN", 
+    "thomas_id": "00322", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-02-11", 
+  "subjects": [
+    "Agricultural insurance", 
+    "Agricultural prices, subsidies, credit", 
+    "Agriculture and food"
+  ], 
+  "subjects_top_term": "Agriculture and food", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-02-11", 
+    "text": "Harvest Price Subsidy Reduction Act \n\nThis bill amends the Federal Crop Insurance Act to prohibit the Federal Crop Insurance Corporation from paying a premium subsidy for a crop insurance policy that is based on the actual market price of an agricultural commodity at the time of harvest."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Harvest Price Subsidy Reduction Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Federal Crop Insurance Act to prohibit the paying of premium subsidies on policies based on the actual market price of an agricultural commodity at the time of harvest.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:30:43-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR892:@@@L&summ2=m&"
+}

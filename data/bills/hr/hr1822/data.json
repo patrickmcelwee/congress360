@@ -1,0 +1,150 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-04-15", 
+      "references": [
+        {
+          "reference": "CR H2217", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-04-15", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-04-29", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1822-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "02"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Bordallo, Madeleine Z.", 
+      "sponsored_at": "2015-04-15", 
+      "state": "GU", 
+      "thomas_id": "01723", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Plaskett, Stacey E.", 
+      "sponsored_at": "2015-04-15", 
+      "state": "VI", 
+      "thomas_id": "02274", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Radewagen, Aumua Amata Coleman", 
+      "sponsored_at": "2015-04-15", 
+      "state": "AS", 
+      "thomas_id": "02222", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Sablan, Gregorio Kilili Camacho", 
+      "sponsored_at": "2015-04-15", 
+      "state": "MP", 
+      "thomas_id": "01962", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-04-15", 
+  "number": "1822", 
+  "official_title": "To extend the supplemental security income program to Puerto Rico, the United States Virgin Islands, Guam, and American Samoa, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Supplemental Security Income Equality Act", 
+  "sponsor": {
+    "district": null, 
+    "name": "Pierluisi, Pedro R.", 
+    "state": "PR", 
+    "thomas_id": "01953", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-04-15", 
+  "subjects": [
+    "Administrative remedies", 
+    "American Samoa", 
+    "Caribbean area", 
+    "Guam", 
+    "Poverty and welfare assistance", 
+    "Puerto Rico", 
+    "Social Security Administration", 
+    "Social welfare", 
+    "U.S. territories and protectorates", 
+    "Virgin Islands"
+  ], 
+  "subjects_top_term": "Social welfare", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-04-15", 
+    "text": "Supplemental Security Income Equality Act\n\n Amends the Social Security Amendments of 1972 to extend the Supplemental Security Income program under title XVI of the Social Security Act to Puerto Rico, the United States Virgin Islands, Guam, and American Samoa."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Supplemental Security Income Equality Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To extend the supplemental security income program to Puerto Rico, the United States Virgin Islands, Guam, and American Samoa, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:38:43-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR1822:@@@L&summ2=m&"
+}

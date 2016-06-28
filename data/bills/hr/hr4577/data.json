@@ -1,0 +1,122 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-02-12", 
+      "references": [
+        {
+          "reference": "CR E178", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-12", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4577-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "3", 
+      "name": "Jones, Walter B., Jr.", 
+      "sponsored_at": "2016-03-23", 
+      "state": "NC", 
+      "thomas_id": "00612", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Peterson, Collin C.", 
+      "sponsored_at": "2016-02-12", 
+      "state": "MN", 
+      "thomas_id": "00910", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Polis, Jared", 
+      "sponsored_at": "2016-03-23", 
+      "state": "CO", 
+      "thomas_id": "01910", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-02-12", 
+  "number": "4577", 
+  "official_title": "To amend the Internal Revenue Code of 1986 to exclude from gross income compensation received by employees consisting of qualified distributions of employer stock.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Expanding Employee Ownership Act of 2016", 
+  "sponsor": {
+    "district": "48", 
+    "name": "Rohrabacher, Dana", 
+    "state": "CA", 
+    "thomas_id": "00979", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-02-12", 
+  "subjects": [
+    "Capital gains tax", 
+    "Employee benefits and pensions", 
+    "Income tax deductions", 
+    "Income tax exclusion", 
+    "Securities", 
+    "Taxation", 
+    "Wages and earnings"
+  ], 
+  "subjects_top_term": "Taxation", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2016-02-12", 
+    "text": "Expanding Employee Ownership Act of 2016\n\nThis bill amends the Internal Revenue Code to exclude from the gross income of an employee: (1) shares of employer securities received in a qualified employee stock distribution as compensation for services that do not exceed the lowest number of employer securities received by any employee in such distribution; (2) any gain on such securities if held by an employee for not less than 10 years; and (3) in the case of any qualified disposition of an employer security that meets such 10-year holding requirement, any gain on so much stock acquired during the 60-day period beginning on the date of such disposition as does not exceed the fair market value of the employer security so disposed.\n\nEmployers may claim a tax deduction for the fair market value of securities transferred in a stock distribution. Employees must recapture in gross income the amount of employer securities excluded from gross income if such securities are disposed of within five years after receipt."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Expanding Employee Ownership Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Internal Revenue Code of 1986 to exclude from gross income compensation received by employees consisting of qualified distributions of employer stock.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:01:56-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4577:@@@L&summ2=m&"
+}

@@ -1,0 +1,103 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-07-08", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-07-13", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Human Resources.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2967-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM", 
+      "subcommittee": "Subcommittee on Human Resources", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-07-08", 
+  "number": "2967", 
+  "official_title": "To develop a database of projects that are proven or promising in terms of moving welfare recipients into work.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr5169-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Using Evidence to Move Welfare Recipients into Work Act", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Young, Todd C.", 
+    "state": "IN", 
+    "thomas_id": "02019", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-07-08", 
+  "subjects": [
+    "Employment and training programs", 
+    "Government information and archives", 
+    "Performance measurement", 
+    "Poverty and welfare assistance", 
+    "Social welfare"
+  ], 
+  "subjects_top_term": "Social welfare", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-07-08", 
+    "text": "Using Evidence to Move Welfare Recipients into Work Act\n\nThis bill amends part A (Temporary Assistance for Needy Families) (TANF) of title IV of the Social Security Act to direct the Department of Health and Human Services to develop a database of the projects that used a proven approach or a promising approach in moving welfare recipients into work, which shall be called the What Works Clearinghouse of Proven and Promising Projects to Move Welfare Recipients into Work."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Using Evidence to Move Welfare Recipients into Work Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To develop a database of projects that are proven or promising in terms of moving welfare recipients into work.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:48:29-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2967:@@@L&summ2=m&"
+}

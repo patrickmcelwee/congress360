@@ -1,0 +1,106 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-06-15", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-06-22", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Social Security.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2774-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM", 
+      "subcommittee": "Subcommittee on Social Security", 
+      "subcommittee_id": "01"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "3", 
+      "name": "Blumenauer, Earl", 
+      "sponsored_at": "2015-06-15", 
+      "state": "OR", 
+      "thomas_id": "00099", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-06-15", 
+  "number": "2774", 
+  "official_title": "To amend title II of the Social Security Act to prohibit recovery of certain overpayments through tax refund offsets and to prohibit the application of the earnings test with respect to child's insurance benefits, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Stop Punishing Innocent Taxpayers Act", 
+  "sponsor": {
+    "district": "16", 
+    "name": "Buchanan, Vern", 
+    "state": "FL", 
+    "thomas_id": "01840", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-06-15", 
+  "subjects": [
+    "Debt collection", 
+    "Social security and elderly assistance", 
+    "Social welfare", 
+    "Tax administration and collection, taxpayers"
+  ], 
+  "subjects_top_term": "Social welfare", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-06-15", 
+    "text": "Stop Punishing Innocent Taxpayers Act\n\nThis bill amends title II (Old Age, Survivors and Disability Insurance) of the Social Security Act with respect to overpayments to prohibit the recovery of overpayments through tax refund offsets or by any other means with respect to any overpayment to a person who had not attained the age of 18 at the time the payment was made.\n\nReduction in Social Security benefits under the earnings test may not apply to the earnings of an individual in any month in which he or she is entitled to a child's insurance benefit."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Stop Punishing Innocent Taxpayers Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title II of the Social Security Act to prohibit recovery of certain overpayments through tax refund offsets and to prohibit the application of the earnings test with respect to child's insurance benefits, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:46:52-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2774:@@@L&summ2=m&"
+}

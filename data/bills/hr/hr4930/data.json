@@ -1,0 +1,112 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-04-13", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-05-17", 
+      "committees": [
+        "HSHM"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4930-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Crime, Terrorism, Homeland Security, and Investigations", 
+      "subcommittee_id": "08"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "22", 
+      "name": "Nunes, Devin", 
+      "sponsored_at": "2016-04-13", 
+      "state": "CA", 
+      "thomas_id": "01710", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-04-13", 
+  "number": "4930", 
+  "official_title": "To ensure appropriate protections and redress for travelers, consistent with the transportation security and national security of the United States, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Transportation Security and Redress Act", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Ratcliffe, John", 
+    "state": "TX", 
+    "thomas_id": "02268", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-04-13", 
+  "subjects": [
+    "Transportation and public works"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2016-04-13", 
+    "text": "Transportation Security and Redress Act or TSARA\n\nThis bill grants to the U.S. Court of Appeals for the District of Columbia Circuit and certain other U.S. courts of appeals exclusive jurisdiction to review any claims against the United States or a federal agency arising out of a decision to delay or prohibit a person from boarding a commercial aircraft because that person has been identified as a threat by the Transportation Security Administration (TSA) or the Terrorist Screening Center.\n\nA petition for review may be filed by any person who challenges a final administrative redress decision by the TSA to delay or prohibit a person from boarding a commercial aircraft because identified as a threat. No petition may be filed until the person filing has exhausted the administrative redress process.\n\nThe court of appeals shall decide any petition for review based only on the administrative record submitted by the United States which shall consist of the information the United States relied upon in support of the final decision under review, as well as any information the petitioner has submitted pursuant to the administrative redress process.\n\nThe court shall uphold a final decision issued pursuant to such process by the TSA unless such decision was:\n\n arbitrary and capricious, an abuse of discretion, or otherwise not in accordance with law; contrary to constitutional right, power, privilege, or immunity; in excess of statutory jurisdiction, authority, or limitation, or short of statutory right; lacking substantial support in the administrative record taken as a whole, including in the classified information submitted to the court; or not in accord with procedures required by law. A decision made by a court of appeals under this bill may be reviewed by the Supreme Court."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Transportation Security and Redress Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "TSARA", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To ensure appropriate protections and redress for travelers, consistent with the transportation security and national security of the United States, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:04:54-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4930:@@@L&summ2=m&"
+}

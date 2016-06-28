@@ -1,0 +1,204 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-02-27", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-03-25", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-03-25", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2015-04-13T19:52:00-04:00", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Ways and Means. H. Rept. 114-69.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-04-13T19:52:00-04:00", 
+      "calendar": "Union", 
+      "number": "49", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 49.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2015-04-15T13:57:00-04:00", 
+      "references": [], 
+      "text": "Mr. Ryan (WI) moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-04-15T13:57:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2232-2233", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-04-15T13:57:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1152.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-04-15T14:06:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H2232", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2015-04-15T14:06:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-04-16", 
+      "committees": [
+        "SSFI"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Finance.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1152-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Finance", 
+      "committee_id": "SSFI"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "6", 
+      "name": "Roskam, Peter J.", 
+      "sponsored_at": "2015-02-27", 
+      "state": "IL", 
+      "thomas_id": "01848", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-03-25", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2015-04-15T14:06:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-02-27", 
+  "number": "1152", 
+  "official_title": "To prohibit officers and employees of the Internal Revenue Service from using personal email accounts to conduct official business.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1578-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "IRS Email Transparency Act", 
+  "sponsor": {
+    "district": "24", 
+    "name": "Marchant, Kenny", 
+    "state": "TX", 
+    "thomas_id": "01806", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2015-04-15T14:06:00-04:00", 
+  "subjects": [
+    "Department of the Treasury", 
+    "Government employee pay, benefits, personnel management", 
+    "Government ethics and transparency, public corruption", 
+    "Government operations and politics", 
+    "Internal Revenue Service (IRS)", 
+    "Tax administration and collection, taxpayers"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2015-04-15", 
+    "text": "(This measure has not been amended since it was reported to the House on April 13, 2015. The summary of that version is repeated here.)\n\nIRS Email Transparency Act\n\nProhibits any officer or employee of the Internal Revenue Service from using a personal email account to conduct official business."
+  }, 
+  "titles": [
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "IRS Email Transparency Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "IRS Email Transparency Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To prohibit officers and employees of the Internal Revenue Service from using personal email accounts to conduct official business.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:32:56-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR1152:@@@L&summ2=m&"
+}

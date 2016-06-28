@@ -1,0 +1,110 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-10-16", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Transportation and Infrastructure.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-10-16", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Highways and Transit.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3759-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Highways and Transit", 
+      "subcommittee_id": "12"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-10-16", 
+  "number": "3759", 
+  "official_title": "To amend title 23, United States Code, to withhold highway funds from States that do not have in effect laws requiring the use of ignition interlock devices to prevent repeat intoxicated driving, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr3501-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr4373-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Drunk Driving Repeat Offender Prevention Act of 2015", 
+  "sponsor": {
+    "district": "16", 
+    "name": "Engel, Eliot L.", 
+    "state": "NY", 
+    "thomas_id": "00344", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-10-16", 
+  "subjects": [
+    "Drug, alcohol, tobacco use", 
+    "Motor vehicles", 
+    "Roads and highways", 
+    "State and local government operations", 
+    "Transportation and public works", 
+    "Transportation programs funding", 
+    "Transportation safety and security"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-10-16", 
+    "text": "Drunk Driving Repeat Offender Prevention Act of 2015\n\n Directs the Department of Transportation to withhold specified graduated percentages of a state's apportionment of certain federal-aid highway funds for FY2018-FY2020 if the state has not enacted and is not enforcing a law requiring the installation of an ignition interlock device for a minimum of 180 days on each motor vehicle operated by an individual convicted of driving while intoxicated or driving under the influence.\n\nDefines \"driving while intoxicated\" and \"driving under the influence\" as driving or being in actual physical control of a motor vehicle while having a blood alcohol concentration of 0.08% or greater.\n\nRequires an ignition interlock device to:\n\n require a driver to provide a breath sample before the motor vehicle starts, and prevent a motor vehicle from starting if the alcohol concentration of the driver is above the legal limit. Authorizes reduction of the 180-day period to 90 days if:\n\n the driver's license is suspended for a minimum of 180 days as a result of the conviction, and the period for installation of an ignition interlock device begins after the last day of the suspension."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Drunk Driving Repeat Offender Prevention Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 23, United States Code, to withhold highway funds from States that do not have in effect laws requiring the use of ignition interlock devices to prevent repeat intoxicated driving, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:55:06-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3759:@@@L&summ2=m&"
+}

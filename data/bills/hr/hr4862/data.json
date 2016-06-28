@@ -1,0 +1,103 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-03-23", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-03-28", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Water, Power and Oceans.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4862-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Water, Power and Oceans", 
+      "subcommittee_id": "13"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "9", 
+      "name": "McNerney, Jerry", 
+      "sponsored_at": "2016-03-23", 
+      "state": "CA", 
+      "thomas_id": "01832", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-03-23", 
+  "number": "4862", 
+  "official_title": "To determine the feasibility of additional agreements for long-term use of existing or expanded non-Federal storage and conveyance facilities to augment Federal water supply, ecosystem, and operational flexibility benefits in certain areas, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Sustainable Water Supplies Act", 
+  "sponsor": {
+    "district": "11", 
+    "name": "DeSaulnier, Mark", 
+    "state": "CA", 
+    "thomas_id": "02227", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-03-23", 
+  "subjects": [
+    "Water resources development"
+  ], 
+  "subjects_top_term": "Water resources development", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2016-03-23", 
+    "text": "Sustainable Water Supplies Act\n\nThis bill directs the Department of the Interior: (1) in order to determine the feasibility of agreements for long-term use of existing or expanded non-federal storage and conveyance facilities to augment federal water supply, ecosystem, and operational flexibility benefits, to enter into cooperative agreements with non-federal entities to provide replacement water supplies for drought relief for Central Valley Project contractors, units of the National Wildlife Refuge System, state wildlife areas, and private wetland areas; and (2) complete a report (to be made available to the Chief of the National Wildlife Refuge System and Central Valley Project contractors) on the feasibility of such agreements within two years of this Act's enactment.\n\nSuch agreements must: (1) include the purchase of storage capacity in non-federal facilities from willing sellers; and (2) provide reimbursement for the temporary use of available capacity in existing above-ground, off-stream storage, and associated conveyance facilities owned by local water agencies."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Sustainable Water Supplies Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To determine the feasibility of additional agreements for long-term use of existing or expanded non-Federal storage and conveyance facilities to augment Federal water supply, ecosystem, and operational flexibility benefits in certain areas, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:04:19-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4862:@@@L&summ2=m&"
+}

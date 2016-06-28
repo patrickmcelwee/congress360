@@ -1,0 +1,118 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-04-21", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-04-22", 
+      "references": [
+        {
+          "reference": "CR H2364", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-05-04", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1906-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "02"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Butterfield, G. K.", 
+      "sponsored_at": "2015-04-21", 
+      "state": "NC", 
+      "thomas_id": "01761", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-04-21", 
+  "number": "1906", 
+  "official_title": "To amend title XVIII of the Social Security Act to include recreational therapy among the therapy modalities that constitute an intensive rehabilitation therapy program in an inpatient rehabilitation hospital or unit.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Access to Inpatient Rehabilitation Therapy Act of 2015", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Thompson, Glenn", 
+    "state": "PA", 
+    "thomas_id": "01952", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-04-21", 
+  "subjects": [
+    "Allied health services", 
+    "Health", 
+    "Hospital care", 
+    "Long-term, rehabilitative, and terminal care", 
+    "Medicare"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-04-21", 
+    "text": "Access to Inpatient Rehabilitation Therapy Act of 2015\n\n Amends title XVIII (Medicare) of the Social Security Act to direct the Secretary of Health and Human Services to include recreational therapy services among the therapeutic modalities that constitute an intensive rehabilitation therapy program in determining whether inpatient services in an inpatient rehabilitation facility are reasonable and necessary."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Access to Inpatient Rehabilitation Therapy Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title XVIII of the Social Security Act to include recreational therapy among the therapy modalities that constitute an intensive rehabilitation therapy program in an inpatient rehabilitation hospital or unit.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:39:26-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR1906:@@@L&summ2=m&"
+}

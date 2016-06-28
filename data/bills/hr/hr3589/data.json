@@ -1,0 +1,118 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-09-22", 
+      "committees": [
+        "HSAS"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Armed Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-11-23", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Military Personnel.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3589-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS", 
+      "subcommittee": "Subcommittee on Military Personnel", 
+      "subcommittee_id": "02"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "22", 
+      "name": "Frankel, Lois", 
+      "sponsored_at": "2015-10-07", 
+      "state": "FL", 
+      "thomas_id": "02119", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "King, Peter T.", 
+      "sponsored_at": "2015-10-20", 
+      "state": "NY", 
+      "thomas_id": "00635", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-09-22", 
+  "number": "3589", 
+  "official_title": "To amend title 46, United States Code, to ensure continuing funding for the United States Merchant Marine Academy.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Midshipmen Education Certainty Act", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Israel, Steve", 
+    "state": "NY", 
+    "thomas_id": "01663", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-09-22", 
+  "subjects": [
+    "Appropriations", 
+    "Armed forces and national security", 
+    "Department of Transportation", 
+    "Education programs funding", 
+    "Executive agency funding and structure", 
+    "Marine and inland water transportation", 
+    "Military education and training"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-09-22", 
+    "text": "Midshipmen Education Certainty Act \n\n Makes appropriations available each fiscal year for operations of the U.S. Merchant Marine Academy for any period during which interim or full-year appropriations for the Academy are not in effect.\n\nRequires funds made available for a fiscal year under this Act to remain available until the enactment of: (1) an appropriation for such fiscal year (including a continuing appropriation) for such operations; or (2) an applicable regular appropriation for the Maritime Administration for such fiscal year, or continuing appropriations resolution for such fiscal year, without any appropriation for such operations."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Midshipmen Education Certainty Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 46, United States Code, to ensure continuing funding for the United States Merchant Marine Academy.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:53:41-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3589:@@@L&summ2=m&"
+}

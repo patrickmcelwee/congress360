@@ -1,0 +1,146 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-03-17", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-04-01", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on the Constitution and Civil Justice.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-04-01", 
+      "committees": [
+        "HSHM"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4809-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Constitution and Civil Justice", 
+      "subcommittee_id": "10"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Crime, Terrorism, Homeland Security, and Investigations", 
+      "subcommittee_id": "08"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "3", 
+      "name": "Blumenauer, Earl", 
+      "sponsored_at": "2016-04-12", 
+      "state": "OR", 
+      "thomas_id": "00099", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Duncan, John J., Jr.", 
+      "sponsored_at": "2016-03-17", 
+      "state": "TN", 
+      "thomas_id": "00322", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Walz, Timothy J.", 
+      "sponsored_at": "2016-03-17", 
+      "state": "MN", 
+      "thomas_id": "01856", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-03-17", 
+  "number": "4809", 
+  "official_title": "To amend the Lobbying Disclosure Act of 1995 to require the disclosure of political intelligence activities, to amend title 18, United States Code, to provide for restrictions on former officers, employees, and elected officials of the executive and legislative branches regarding political intelligence contacts, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2738-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Political Intelligence Transparency Act of 2016", 
+  "sponsor": {
+    "district": "25", 
+    "name": "Slaughter, Louise McIntosh", 
+    "state": "NY", 
+    "thomas_id": "01069", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-03-17", 
+  "subjects": [
+    "Government operations and politics"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2016-03-17", 
+    "text": "Political Intelligence Transparency Act of 2016\n\nThis bill amends the Lobbying Disclosure Act of 1995 (LDA) to require the disclosure of political intelligence activities, particularly relating to information useful for analyzing securities or commodities markets.\n\nPolitical intelligence consultants or their employing organizations must register with the Secretary of the Senate and the Clerk of the House of Representatives and make quarterly reports on political intelligence activities.\n\nPersons or entities that make an oral or written political intelligence contact with a covered legislative branch or executive branch official must, on the official's request: (1) state whether such person or entity is registered under the LDA, (2) identify the client on behalf of whom the contact is made, and (3) state whether such client is a foreign entity and make any related disclosures.\n\nThe federal criminal code is amended to subject to a fine and/or imprisonment certain former officers, employees, and elected officials of the executive and legislative branches who knowingly make any communication to, or appearance before, any officer or employee of a federal or District of Columbia agency or court in violation of certain permanent or temporary restrictions and with the intent to gain information for use in: (1) analyzing securities or commodities markets, or (2) informing investment decisions in those markets.\n\nThe bill excludes from such prohibition any communication made by a representative of a media organization to gather and disseminate news and information to the public."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Political Intelligence Transparency Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Lobbying Disclosure Act of 1995 to require the disclosure of political intelligence activities, to amend title 18, United States Code, to provide for restrictions on former officers, employees, and elected officials of the executive and legislative branches regarding political intelligence contacts, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:03:53-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4809:@@@L&summ2=m&"
+}

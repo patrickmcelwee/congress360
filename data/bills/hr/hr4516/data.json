@@ -1,0 +1,138 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-02-10", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-02-12", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Commerce, Manufacturing, and Trade.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4516-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Commerce, Manufacturing, and Trade", 
+      "subcommittee_id": "17"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Cicilline, David N.", 
+      "sponsored_at": "2016-02-10", 
+      "state": "RI", 
+      "thomas_id": "02055", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Cohen, Steve", 
+      "sponsored_at": "2016-02-10", 
+      "state": "TN", 
+      "thomas_id": "01878", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Jackson Lee, Sheila", 
+      "sponsored_at": "2016-02-10", 
+      "state": "TX", 
+      "thomas_id": "00588", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-02-10", 
+  "number": "4516", 
+  "official_title": "To require data brokers to establish procedures to ensure the accuracy of collected personal information, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s668-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Data Broker Accountability and Transparency Act of 2016", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Johnson, Henry C. \"Hank,\" Jr.", 
+    "state": "GA", 
+    "thomas_id": "01843", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-02-10", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Business records", 
+    "Civil actions and liability", 
+    "Commerce", 
+    "Consumer affairs", 
+    "Criminal investigation, prosecution, interrogation", 
+    "Federal Trade Commission (FTC)", 
+    "Federal preemption", 
+    "Fraud offenses and financial crimes", 
+    "Internet and video services", 
+    "Marketing and advertising", 
+    "Right of privacy"
+  ], 
+  "subjects_top_term": "Commerce", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2016-02-10", 
+    "text": "Data Broker Accountability and Transparency Act of 2016\n\n\n\nThis bill prohibits data brokers from obtaining or causing to be disclosed personal information or any other information relating to any person by making a false, fictitious, or fraudulent statement or representation, including by providing any document that the broker knows or should know to: (1) be forged, counterfeit, lost, stolen, or fraudulently obtained; or (2) contain a false, fictitious, or fraudulent statement or representation.\n\n\"Data broker\" is defined as a commercial entity that collects, assembles, or maintains personal information concerning an individual who is not a customer or an employee of that entity in order to sell or provide third party access to the information. The Federal Trade Commission (FTC) may exempt certain data brokers from this Act.\n\nData brokers must establish procedures to ensure the accuracy of: (1) the personal information they collect, assemble, or maintain; and (2) any other information that specifically identifies an individual, unless the information only identifies an individual's name or address.\n\nData brokers must also provide individuals a cost-free means to review their personal or identifying information.\n\nIndividuals may dispute the accuracy of their personal information with a written request that the data broker make a correction.\n\nWith regard to disputed public record information that is available for public inspection from federal, state, or local governments, a data broker must: (1) inform the individual of the source of the information and, if reasonably available, where to direct the individual's request for correction; or (2) correct the inaccuracy in the broker's records if the individual provides proof that the public record has been corrected or that the broker was reporting the information incorrectly.\n\nWith regard to disputed non-public information of a private nature, a data broker must: (1) note the information that is disputed, (2) independently verify the information, and (3) correct the inaccuracy if the broker was reporting the information incorrectly.\n\nData brokers must provide individuals with a reasonable means of expressing a preference to exclude their information from being used, shared, or sold for marketing purposes.\n\nThe bill sets forth authority for the FTC and states to enforce this Act."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Data Broker Accountability and Transparency Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require data brokers to establish procedures to ensure the accuracy of collected personal information, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:01:26-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4516:@@@L&summ2=m&"
+}

@@ -1,0 +1,108 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-06-15", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2783-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "3", 
+      "name": "Blumenauer, Earl", 
+      "sponsored_at": "2015-06-15", 
+      "state": "OR", 
+      "thomas_id": "00099", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Pascrell, Bill, Jr.", 
+      "sponsored_at": "2015-06-15", 
+      "state": "NJ", 
+      "thomas_id": "01510", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-06-15", 
+  "number": "2783", 
+  "official_title": "To amend the Internal Revenue Code of 1986 to extend the financing of the Superfund.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr2768-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Superfund Polluter Pays Act", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Pallone, Frank, Jr.", 
+    "state": "NJ", 
+    "thomas_id": "00887", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-06-15", 
+  "subjects": [
+    "Corporate finance and management", 
+    "Government trust funds", 
+    "Hazardous wastes and toxic substances", 
+    "Income tax rates", 
+    "Pollution liability", 
+    "Sales and excise taxes", 
+    "Taxation"
+  ], 
+  "subjects_top_term": "Taxation", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-06-15", 
+    "text": "Superfund Polluter Pays Act \n\nAmends the Internal Revenue Code to reinstate and extend through December 31, 2020, the Hazardous Substance Superfund financing rate and the corporate environmental income tax."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Superfund Polluter Pays Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Internal Revenue Code of 1986 to extend the financing of the Superfund.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:46:57-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2783:@@@L&summ2=m&"
+}

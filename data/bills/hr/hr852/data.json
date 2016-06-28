@@ -1,0 +1,124 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-02-10", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-02-13", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr852-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "2", 
+      "name": "Duncan, John J., Jr.", 
+      "sponsored_at": "2015-03-16", 
+      "state": "TN", 
+      "thomas_id": "00322", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Lance, Leonard", 
+      "sponsored_at": "2015-03-17", 
+      "state": "NJ", 
+      "thomas_id": "01936", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-02-10", 
+  "number": "852", 
+  "official_title": "To amend the Communications Act of 1934 to provide for additional technical and procedural standards for artificial or prerecorded voice telephone messages and the establishment of such standards for live telephone solicitations.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "TIPS Act of 2015", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Schweikert, David", 
+    "state": "AZ", 
+    "thomas_id": "01994", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-02-10", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Consumer affairs", 
+    "Federal Communications Commission (FCC)", 
+    "Internet and video services", 
+    "Marketing and advertising", 
+    "Science, technology, communications", 
+    "Telephone and wireless communication"
+  ], 
+  "subjects_top_term": "Science, technology, communications", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-02-10", 
+    "text": "Transparency in Phone Solicitation Act of 2015 or the TIPS Act of 2015\n\nAmends the Communications Act of 1934 to prohibit businesses, entities, or individuals from making live telephone solicitations unless the solicitor: (1) states the solicitor's identity, telephone number, and address; (2) states the address of a website that the called party may use to indicate that such party does not wish to receive calls from that solicitor; (3) transmits caller identification information, including a telephone number that the called party may use to return the call directly to such solicitor; and (4) releases the called party's line within five seconds after being notified that the called party has hung up to allow the called party to make or receive other calls.\n\nRevises standards applicable to telephone transmissions of artificial or prerecorded voice messages to add comparable procedures requiring any such messages to: (1) state the telephone number and address (currently, telephone number or address) of the calling entity, (2) state the address of a website that the called party may use to indicate that such party does not wish to receive calls from that entity, and (3) transmit caller identification information. Retains the current law requirement that artificial or prerecorded messages must release the line within five seconds after the called party has hung up."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "TIPS Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Transparency in Phone Solicitation Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Communications Act of 1934 to provide for additional technical and procedural standards for artificial or prerecorded voice telephone messages and the establishment of such standards for live telephone solicitations.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:30:23-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR852:@@@L&summ2=m&"
+}

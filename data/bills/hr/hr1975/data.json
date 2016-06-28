@@ -1,0 +1,166 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-04-22", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Financial Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-04-29", 
+      "references": [], 
+      "text": "Hearings Held by the Subcommittee on Capital Markets and Government Sponsored Enterprises Prior to Referral.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-05-20", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-05-20", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by the Yeas and Nays: 57 - 0.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2016-04-19T14:22:00-04:00", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on Financial Services. H. Rept. 114-505.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-19T14:22:00-04:00", 
+      "calendar": "Union", 
+      "number": "385", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 385.", 
+      "type": "calendar", 
+      "under": null
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1975-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }, 
+    {
+      "activity": [
+        "hearings"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA", 
+      "subcommittee": "Subcommittee on Capital Markets and Government Sponsored Enterprises", 
+      "subcommittee_id": "16"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "11", 
+      "name": "Foster, Bill", 
+      "sponsored_at": "2015-04-22", 
+      "state": "IL", 
+      "thomas_id": "01888", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Hultgren, Randy", 
+      "sponsored_at": "2015-04-22", 
+      "state": "IL", 
+      "thomas_id": "02015", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Maloney, Carolyn B.", 
+      "sponsored_at": "2015-04-22", 
+      "state": "NY", 
+      "thomas_id": "00729", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-04-29", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-04-22", 
+  "number": "1975", 
+  "official_title": "To amend the Securities Exchange Act of 1934 to require the Securities Exchange Commission to refund or credit excess payments made to the Commission.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Securities and Exchange Commission Overpayment Credit Act", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Meeks, Gregory W.", 
+    "state": "NY", 
+    "thomas_id": "01506", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2015-05-20", 
+  "subjects": [
+    "Executive agency funding and structure", 
+    "Finance and financial sector", 
+    "Securities", 
+    "Securities and Exchange Commission (SEC)", 
+    "User charges and fees"
+  ], 
+  "subjects_top_term": "Finance and financial sector", 
+  "summary": {
+    "as": "Reported to House without amendment", 
+    "date": "2016-04-19", 
+    "text": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)\n\nSecurities and Exchange Commission Overpayment Credit Act \n\n(Sec. 2) This bill amends the Securities Exchange Act of 1934 to require the Securities and Exchange Commission (SEC) to offset future fees and assessments otherwise due from a national securities exchange or national securities association if it is informed within 10 years that the entity has overpaid past fees and assessments.\n\nThis requirement applies to any fees and assessments paid before, on, or after the enactment of this Act."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Securities and Exchange Commission Overpayment Credit Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Securities and Exchange Commission Overpayment Credit Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Securities Exchange Act of 1934 to require the Securities Exchange Commission to refund or credit excess payments made to the Commission.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:40:02-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR1975:@@@L&summ2=m&"
+}

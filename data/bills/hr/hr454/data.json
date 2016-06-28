@@ -1,0 +1,95 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-01-21", 
+      "committees": [
+        "HSAS"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Armed Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-08-13", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Military Personnel.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr454-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS", 
+      "subcommittee": "Subcommittee on Military Personnel", 
+      "subcommittee_id": "02"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-01-21", 
+  "number": "454", 
+  "official_title": "To amend title 10, United States Code, to provide for forgiveness of certain overpayments of retired pay paid to deceased retired members of the Armed Forces following their death.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Military Retiree Survivor Comfort Act", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Jones, Walter B., Jr.", 
+    "state": "NC", 
+    "thomas_id": "00612", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-01-21", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Military personnel and dependents", 
+    "Veterans' pensions and compensation"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-01-21", 
+    "text": "Military Retiree Survivor Comfort Act \n\nRequires the United States to forgive any overpayment of military retired or retainer pay for any period after the death of the recipient through the last day of the month in which such death occurs, if such payment is electronically deposited to a joint account bearing the name of the decedent and the decedent's designated beneficiary.\n\nProvides a special effective date for the first annuity payment to a survivor under the Survivor Benefit Plan when an overpayment is so forgiven."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Military Retiree Survivor Comfort Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 10, United States Code, to provide for forgiveness of certain overpayments of retired pay paid to deceased retired members of the Armed Forces following their death.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:27:01-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR454:@@@L&summ2=m&"
+}

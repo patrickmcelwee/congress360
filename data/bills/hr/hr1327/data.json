@@ -1,0 +1,146 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-03-04", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-03-06", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Energy and Power.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1327-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Energy and Power", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Bishop, Rob", 
+      "sponsored_at": "2015-05-18", 
+      "state": "UT", 
+      "thomas_id": "01753", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Franks, Trent", 
+      "sponsored_at": "2015-03-04", 
+      "state": "AZ", 
+      "thomas_id": "01707", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Gosar, Paul A.", 
+      "sponsored_at": "2015-03-04", 
+      "state": "AZ", 
+      "thomas_id": "01992", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Schweikert, David", 
+      "sponsored_at": "2015-03-04", 
+      "state": "AZ", 
+      "thomas_id": "01994", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-03-04", 
+  "number": "1327", 
+  "official_title": "To amend the Clean Air Act to delay the review and revision of the national ambient air quality standards for ozone.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s640-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "ORDEAL Act of 2015", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Salmon, Matt", 
+    "state": "AZ", 
+    "thomas_id": "01009", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-03-04", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Air quality", 
+    "Environmental Protection Agency (EPA)", 
+    "Environmental protection", 
+    "Environmental regulatory procedures"
+  ], 
+  "subjects_top_term": "Environmental protection", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-03-04", 
+    "text": "Ozone Regulatory Delay and Extension of Assessment Length Act of 2015 or the ORDEAL Act of 2015\n\nThis bill amends the Clean Air Act to lengthen from 5 years to 10 years the intervals at which the Environmental Protection Agency (EPA) is required to review and revise air quality criteria and primary and secondary national ambient air quality standards (NAAQS). This bill eliminates the EPA's authority to review and revise criteria or promulgate new standards for ozone concentrations earlier or more frequently than required. The EPA may not review and revise NAAQS for ozone concentrations before February 1, 2019. The EPA must complete a thorough review of the NAAQS for ozone concentrations and make revisions no later December 31, 2019.\n\nThe intervals at which an independent scientific review committee is required to review air quality criteria and NAAQS and recommend any new standards or revisions to existing criteria and standards are lengthened from 5 years to 10 years. The bill delays the review by an independent scientific review committee of NAAQS for ozone concentrations until February 1, 2019."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "ORDEAL Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Ozone Regulatory Delay and Extension of Assessment Length Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Clean Air Act to delay the review and revision of the national ambient air quality standards for ozone.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:34:29-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR1327:@@@L&summ2=m&"
+}

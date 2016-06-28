@@ -1,0 +1,461 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-01-14", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-01-16", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Energy and Power.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-01-26T18:41:00-05:00", 
+      "bill_ids": [
+        "hres48-114"
+      ], 
+      "committees": [
+        "HSRU"
+      ], 
+      "references": [], 
+      "text": "Rules Committee Resolution H. Res. 48 Reported to House. Rule provides for consideration of H.R. 351 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Bill is closed to amendments.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-27T16:08:00-05:00", 
+      "bill_ids": [
+        "hres48-114"
+      ], 
+      "references": [], 
+      "text": "Rule H. Res. 48 passed House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-28T09:15:00-05:00", 
+      "bill_ids": [
+        "hres48-114"
+      ], 
+      "references": [
+        {
+          "reference": "CR H645-654", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under the provisions of rule H. Res. 48.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-28T09:15:00-05:00", 
+      "references": [], 
+      "text": "Rule provides for consideration of H.R. 351 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Bill is closed to amendments.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-28T09:15:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with one hour of debate on H.R. 351.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-28T10:12:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H651", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "The previous question was ordered pursuant to the rule.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-28T10:12:00-05:00", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [
+        {
+          "reference": "CR H651-652", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H651-652", 
+          "type": "text"
+        }
+      ], 
+      "text": "Mr. Garamendi moved to recommit with instructions to the Committee on Energy and Commerce.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-28T10:13:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with 10 minutes of debate on the Garamendi motion to recommit with instructions, pending a reservation of a point of order. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to add a new section at the end of the bill pertaining to Protecting National Security and Creating American Jobs. Subsequently, the reservation was removed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-28T10:21:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H652", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "The previous question on the motion to recommit with instructions was ordered without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-28T10:51:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H652-653", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "On motion to recommit with instructions Failed by the Yeas and Nays: 175 - 237 (Roll no. 49).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-28T10:58:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-28T10:58:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H645", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "50", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On passage Passed by the Yeas and Nays: 277 - 133 (Roll no. 50).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2015-01-29", 
+      "committees": [
+        "SSEG"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr351-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Energy and Power", 
+      "subcommittee_id": "03"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Energy and Natural Resources", 
+      "committee_id": "SSEG"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "11", 
+      "name": "Barletta, Lou", 
+      "sponsored_at": "2015-01-26", 
+      "state": "PA", 
+      "thomas_id": "02054", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Castro, Joaquin", 
+      "sponsored_at": "2015-01-26", 
+      "state": "TX", 
+      "thomas_id": "02163", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Cramer, Kevin", 
+      "sponsored_at": "2015-01-16", 
+      "state": "ND", 
+      "thomas_id": "02144", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "28", 
+      "name": "Cuellar, Henry", 
+      "sponsored_at": "2015-01-14", 
+      "state": "TX", 
+      "thomas_id": "01807", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Emmer, Tom", 
+      "sponsored_at": "2015-01-26", 
+      "state": "MN", 
+      "thomas_id": "02253", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Flores, Bill", 
+      "sponsored_at": "2015-01-14", 
+      "state": "TX", 
+      "thomas_id": "02065", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Gibbs, Bob", 
+      "sponsored_at": "2015-01-26", 
+      "state": "OH", 
+      "thomas_id": "02049", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "29", 
+      "name": "Green, Gene", 
+      "sponsored_at": "2015-01-14", 
+      "state": "TX", 
+      "thomas_id": "00462", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Guthrie, Brett", 
+      "sponsored_at": "2015-01-22", 
+      "state": "KY", 
+      "thomas_id": "01922", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Kelly, Mike", 
+      "sponsored_at": "2015-01-26", 
+      "state": "PA", 
+      "thomas_id": "02051", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Kline, John", 
+      "sponsored_at": "2015-01-26", 
+      "state": "MN", 
+      "thomas_id": "01733", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "McCaul, Michael T.", 
+      "sponsored_at": "2015-01-16", 
+      "state": "TX", 
+      "thomas_id": "01804", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Mullin, Markwayne", 
+      "sponsored_at": "2015-01-21", 
+      "state": "OK", 
+      "thomas_id": "02156", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "Olson, Pete", 
+      "sponsored_at": "2015-01-14", 
+      "state": "TX", 
+      "thomas_id": "01955", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Pearce, Stevan", 
+      "sponsored_at": "2015-01-26", 
+      "state": "NM", 
+      "thomas_id": "01738", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Poe, Ted", 
+      "sponsored_at": "2015-01-26", 
+      "state": "TX", 
+      "thomas_id": "01802", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Ryan, Tim", 
+      "sponsored_at": "2015-01-14", 
+      "state": "OH", 
+      "thomas_id": "01756", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Turner, Michael R.", 
+      "sponsored_at": "2015-01-14", 
+      "state": "OH", 
+      "thomas_id": "01741", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Westerman, Bruce", 
+      "sponsored_at": "2015-01-27", 
+      "state": "AR", 
+      "thomas_id": "02224", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Young, Todd C.", 
+      "sponsored_at": "2015-01-26", 
+      "state": "IN", 
+      "thomas_id": "02019", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-01-26T18:41:00-05:00", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2015-01-28T10:58:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-01-14", 
+  "number": "351", 
+  "official_title": "To provide for expedited approval of exportation of natural gas, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hres48-114", 
+      "reason": "rule", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr89-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr3682-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr4909-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s2012-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "LNG Permitting Certainty and Transparency Act", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Johnson, Bill", 
+    "state": "OH", 
+    "thomas_id": "02046", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2015-01-28T10:58:00-05:00", 
+  "subjects": [
+    "Business records", 
+    "Civil actions and liability", 
+    "Energy", 
+    "Environmental assessment, monitoring, research", 
+    "Government information and archives", 
+    "Judicial review and appeals", 
+    "Licensing and registrations", 
+    "Marine and inland water transportation", 
+    "Oil and gas"
+  ], 
+  "subjects_top_term": "Energy", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2015-01-28", 
+    "text": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)\n\nLNG Permitting Certainty and Transparency Act\n\n(Sec. 2) Directs the Department of Energy (DOE), for proposals that must also obtain authorization from the Federal Energy Regulatory Commission or the United States Maritime Administration to site, construct, expand, or operate liquified natural gas (LNG) export facilities, to issue a decision on an application for authorization to export natural gas within 30 days after the later of: (1) the conclusion of the review to site, construct, expand, or operate the LNG facilities required by the National Environmental Policy Act of 1969 (NEPA); or (2) the date of enactment of this Act.\n\nDeems any NEPA review to be concluded: (1) 30 days after publication of a required Environmental Impact Statement if the project needs one; (2) 30 days after publication by DOE of a Finding of No Significant Impact if the project needs an Environmental Assessment; and (3) upon a determination by the lead agency that an application is eligible for a categorical exclusion pursuant to regulations under NEPA.\n\n(A \"categorical exclusion\" under NEPA is a category of actions which do not individually or cumulatively have a significant effect on the human environment and which have been found to have no such effect in procedures adopted by a federal agency in implementing environmental regulations and for which, therefore, neither an Environmental Assessment nor an Environmental Impact Statement is required.) Confers original and exclusive jurisdiction upon the U.S. Court of Appeals for the circuit in which the export facility under an application will be located over any civil action for the review of: (1) a DOE order regarding the application, or (2) DOE failure to issue a final decision on the application.\n\nRequires the Court, if it finds in a civil action that DOE has failed to issue a final decision on an application, to order DOE to issue one within 30 days.\n\nRequires the Court to set any civil action brought under this Act on the docket for expedited consideration as soon as practical after the filing date of the initial pleading.\n\n(Sec. 3) Amends the Natural Gas Act to set as a condition for approval of any authorization to export LNG that the DOE Secretary require the applicant to disclose publicly the specific destination or destinations of any such authorized LNG exports."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "LNG Permitting Certainty and Transparency Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "LNG Permitting Certainty and Transparency Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide for expedited approval of exportation of natural gas, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:26:09-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR351:@@@L&summ2=m&"
+}

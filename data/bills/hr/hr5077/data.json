@@ -1,0 +1,224 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-04-27", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Intelligence (Permanent Select).", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-04-29", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-29", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2016-05-18T10:33:00-04:00", 
+      "references": [], 
+      "text": "Reported by the Committee on Intelligence. H. Rept. 114-573.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-18T10:34:00-04:00", 
+      "calendar": "Union", 
+      "number": "443", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 443.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2016-05-23T15:17:00-04:00", 
+      "references": [], 
+      "text": "Mr. Nunes moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-23T15:17:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2896-2905", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-23T15:17:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 5077.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-23T15:45:00-04:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-24T14:38:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2988-2989", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-24T14:44:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR 5/23/2016 H2896-2901", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "235", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 371 - 35, 1 Present (Roll no. 235).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2016-05-24T14:44:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-25", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Select Committee on Intelligence.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5077-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Intelligence (Permanent Select)", 
+      "committee_id": "HLIG"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Intelligence (Select)", 
+      "committee_id": "SLIN"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "28", 
+      "name": "Schiff, Adam B.", 
+      "sponsored_at": "2016-04-27", 
+      "state": "CA", 
+      "thomas_id": "01635", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2016-04-29", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2016-05-24T14:44:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-04-27", 
+  "number": "5077", 
+  "official_title": "To authorize appropriations for fiscal year 2017 for intelligence and intelligence-related activities of the United States Government, the Community Management Account, and the Central Intelligence Agency Retirement and Disability System, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr4239-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s3017-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s3017-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Intelligence Authorization Act for Fiscal Year 2017", 
+  "sponsor": {
+    "district": "22", 
+    "name": "Nunes, Devin", 
+    "state": "CA", 
+    "thomas_id": "01710", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2016-05-24T14:44:00-04:00", 
+  "subjects": [
+    "Armed forces and national security"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2016-05-24", 
+    "text": "Intelligence Authorization Act for Fiscal Year 2017\n\nTITLE I--INTELLIGENCE ACTIVITIES\n\n(Sec. 101) This bill authorizes FY2017 appropriations for the conduct of intelligence and intelligence-related activities of:\n\n the Office of the Director of National Intelligence (ODNI); the Central Intelligence Agency (CIA); the Department of Defense (DOD); the Defense Intelligence Agency (DIA); the National Security Agency (NSA); the Departments of the Army, Navy, and Air Force; the Coast Guard; the Departments of State, the Treasury, Energy (DOE), and Justice; the Federal Bureau of Investigation; the Drug Enforcement Administration; the National Reconnaissance Office (NRO); the National Geospatial-Intelligence Agency (NGA); and the Department of Homeland Security (DHS). (Sec. 102) The amounts authorized and the authorized personnel ceilings as of September 30, 2017, for such activities are those in the classified Schedule of Authorizations, which shall be made available to the congressional appropriations committees and the President.\n\n(Sec. 103) The ODNI, if it provides prior notice to Congress, may authorize employment of civilian personnel in excess of the number authorized for FY2017 when necessary for the performance of important intelligence functions.\n\nThe ODNI must establish guidelines to govern the treatment under such authorized personnel levels of employment or assignment in: (1) a student or trainee program; (2) a reserve corps or as a reemployed annuitant; or (3) details, joint duty, or long-term, full-time training.\n\n(Sec. 104) This section authorizes FY2017 appropriations for the Intelligence Community Management Account. Additional funds identified in the classified schedule for advanced research and development shall remain available until September 30, 2018.\n\nTITLE II--CENTRAL INTELLIGENCE AGENCY RETIREMENT AND DISABILITY SYSTEM\n\n(Sec. 201) This title authorizes FY2017 appropriations for the Central Intelligence Agency Retirement and Disability Fund.\n\nTITLE III--GENERAL PROVISIONS\n\n(Sec. 301) Appropriations authorized by this bill for salary, pay, retirement, and other benefits for federal employees may be increased by such additional or supplemental amounts as necessary for increases in such compensation or benefits authorized by law.\n\n(Sec. 302) Appropriations authorized by this bill shall not be deemed to constitute authority to conduct any intelligence activity not otherwise authorized by the Constitution or U.S. laws.\n\n(Sec. 303) This section authorizes FY2017 appropriations for the Privacy and Civil Liberties Oversight Board (PCLOB). Appropriated funds available to the PCLOB may be obligated or expended during a fiscal year only if specifically authorized by Congress for that fiscal year.\n\n(Sec. 304) Employees of the DIA, the NGA, the NRO, or the NSA assigned or detailed to a combatant command or other element of the federal government who intend to report to Congress a complaint or information regarding an urgent concern involving classified information or false statements may report the complaint or information to the DOD inspector general.\n\nInspectors general of the CIA, the ODNI, and other elements of the intelligence community must notify Congress directly when they determine that an employee's complaint or information about an urgent concern appears credible. This section removes processes under which such inspectors general must notify the CIA Director, the Director of National Intelligence, or the head of their establishment, who then forwards the notice to Congress.\n\n(Sec. 305) DOD officials designated with overall acquisition-decision responsibilities for major defense acquisition programs must report to Congress about the costs, plans, and risks of the programs after granting each milestone approval.\n\n(Sec. 306) This section removes a provision that requires any construction or improvement to a facility with an estimated federal cost exceeding $300,000 that is used primarily by intelligence community personnel to be specifically identified as a separate item in the President's budget or specifically authorized and appropriated. The ODNI must notify Congress of any project for the repair or modification of a facility for intelligence community personnel that has an estimated cost greater than $1 million.\n\n(Sec. 307) The Intelligence Reform and Terrorism Prevention Act of 2004 is amended to require the PCLOB to inform the ODNI, elements of the intelligence community, and the House and Senate intelligence committees about its activities and any of its significant anticipated activities.\n\n(Sec. 308) FY2016 appropriations for DOE's intelligence and intelligence-related activities shall be deemed to be authorized to be appropriated for such activities.\n\n(Sec. 309) This section makes a technical correction regarding the annual rate of basic pay for the Director of the National Counter Proliferation Center.\n\n(Sec. 310) The intelligence community is prohibited from charging reproduction fees for reviewing and processing a request for the mandatory declassification of information that are in excess of the reproduction fees that would be charged for Freedom of Information Act requests.\n\nTITLE IV--MATTERS RELATING TO ELEMENTS OF THE INTELLIGENCE COMMUNITY\n\nSubtitle A--Office of the Director of National Intelligence\n\n(Sec. 401) This subtitle amends the Defense Production Act of 1950 to require the ODNI, within five days after a review or an investigation by the Committee on Foreign Investment in the United States (CFIUS) of a merger, acquisition, or takeover that could result in foreign control of any person engaged in interstate commerce in the United States, to submit to Congress the ODNI's national security threat analysis that was previously provided to the CFIUS. Within 60 days after completion of the review or investigation that concludes the CFIUS's action, the ODNI must also determine whether the transaction will have an operational impact on the intelligence community, and, if so, report on such impact to Congress.\n\n(Sec. 402) The Office of the National Counterintelligence Executive is redesignated as the National Counterintelligence and Security Center with a director to be appointed by the President with the advice and consent of the Senate. (Currently, the Director of National Intelligence appoints a head executive.)\n\n(Sec. 403) The ODNI must publish on a public website a list of all logos, symbols, and markings associated with foreign terrorist organizations.\n\nSubtitle B--Central Intelligence Agency and Other Elements\n\n(Sec. 411) The CIA may: (1) pay death benefits substantially similar to those authorized for Foreign Service members, and (2) adjust eligibility requirements for such benefits. Regulations to carry out such authority must be submitted to Congress before they take effect.\n\n(Sec. 412) The CIA inspector general may designate officers or employees as law enforcement officers for purposes of pay and retirement benefits if they are appointed to a position that investigates suspected criminal offenses.\n\n(Sec. 413) This section removes the DOD Chief Information Officer's authority and control over the NSA's Information Assurance Directorate.\n\n(Sec. 414) No DIA civilian employee assigned to a directorate of a geographic combatant command headquartered outside of the United States may receive a living quarters allowance.\n\n(Sec. 415) The NRO shall develop a plan to carry out space-based environmental monitoring missions with acquisition programs to meet the national security requirements for cloud characterization and theater weather imagery. The plan must: (1) address the amount of funds that would be necessary to be transferred from the Air Force to the NRO during FY2018-FY2022 to carry out such plan, and (2) be submitted to Congress no later than when the President submits the FY2018 budget.\n\nThe ODNI's Director of the Cost Assessment Improvement Group must coordinate with DOD's Director of Cost Assessment and Program Evaluation to certify that the proposed transfer of Air Force funds is appropriate and includes funding for positions and personnel to support program office costs.\n\n(Sec. 416) The ODNI must support efforts of DOD and the Office of Personnel Management to modernize the technology systems for security clearance information. They must implement a system to:\n\n sustain the security clearance information architecture of the National Background Investigations Bureau and DOD, support decisionmaking processes for the evaluation and granting of personnel security clearances, improve cybersecurity capabilities, reduce complexity and cost, provide information to managers on financial and administrative costs, strengthen ties between counterintelligence and personnel security communities, and improve standardization. TITLE V--MATTERS RELATING TO UNITED STATES NAVAL STATION, GUANTANAMO BAY, CUBA\n\n(Sec. 501) The ODNI must complete a declassification review of intelligence reports prepared by the National Counterterrorism Center prior to Periodic Review Board sessions or detainee transfers on the past terrorist activities of individuals detained at U.S. Naval Station, Guantanamo Bay, Cuba, who were transferred or released after the signing of Executive Order 13492. The ODNI must make declassified information available to the public and provide a justification to Congress about why any information subject to review was not declassified.\n\nTITLE VI--REPORTS AND OTHER MATTERS (Sec. 601) The ODNI must submit a report listing, by year, the number of intelligence community employees who have been detailed to the National Security Council during the previous 10-year period.\n\n(Sec. 602) The ODNI must report to Congress every 180 days for two years regarding foreign fighter flows to and from terrorist safe havens abroad.\n\n(Sec. 603) The ODNI must report on information collection by individual elements of the intelligence community about the number of applicants for, participants in, and individuals hired by the intelligence community after participating in: (1) the Federal Cyber Scholarship-for-Service Program; (2) the National Security Education Program; (3) the Science, Mathematics, and Research for Transformation Defense Education Program; (4) the National Centers of Academic Excellence in Information Assurance and Cyber Defense; or (4) other intelligence community academic, scholarship, fellowship, or internship programs. If elements of the intelligence community do not independently collect such information, the report must address whether they can begin collecting such information during FY2017 and the resources required to independently collect such information.\n\n(Sec. 604) DHS must report on the cybersecurity threats to, and the cyber vulnerabilities within, the software, communications networks, or computer networks employed by U.S. maritime shipping concerns and entities conducting significant operations at U.S. seaports or transshipment points. The report must include a status update on the Coast Guard's efforts to include cybersecurity concerns in the National Response Framework or the Emergency Support Functions relating to U.S. shipping or ports.\n\n(Sec. 605) DHS must report on its counter-messaging activities with respect to the Islamic State and other extremist groups. It must describe any coordination of such activities with the State Department.\n\n(Sec. 606) The Inspector General of the Intelligence Community must report on reprisals made against employees of a contractor of the intelligence community for making a disclosure of information that would be protected by law if the contractor were an employee of the federal government."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Intelligence Authorization Act for Fiscal Year 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Intelligence Authorization Act for Fiscal Year 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Intelligence Authorization Act for Fiscal Year 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To authorize appropriations for fiscal year 2017 for intelligence and intelligence-related activities of the United States Government, the Community Management Account, and the Central Intelligence Agency Retirement and Disability System, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:06:08-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR5077:@@@L&summ2=m&"
+}

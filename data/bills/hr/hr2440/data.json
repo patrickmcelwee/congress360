@@ -1,0 +1,106 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-05-19", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-05-22", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2440-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-05-19", 
+  "number": "2440", 
+  "official_title": "To amend the Public Health Service Act to improve loan repayment programs of the National Institutes of Health.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr6-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "2", 
+    "name": "Ellmers, Renee L.", 
+    "state": "NC", 
+    "thomas_id": "02036", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-05-19", 
+  "subjects": [
+    "Child health", 
+    "Department of Health and Human Services", 
+    "Education of the disadvantaged", 
+    "Family planning and birth control", 
+    "HIV/AIDS", 
+    "Health", 
+    "Health personnel", 
+    "Medical education", 
+    "Medical research", 
+    "Minority health", 
+    "National Institutes of Health (NIH)", 
+    "Research administration and funding", 
+    "Sex and reproductive health", 
+    "Student aid and college costs"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-05-19", 
+    "text": "This bill amends the Public Health Service Act to require the Department of Health and Human Services (HHS) to establish a loan repayment program for health professionals engaging in research.\n\nThe maximum awards of the loan repayment programs for minority health disparities research, AIDS research, research with respect to contraception and infertility, research as an employee of the National Institutes of Health, clinical researchers from disadvantaged backgrounds, clinical researchers, and pediatric research are increased and may be adjusted for inflation by HHS."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Public Health Service Act to improve loan repayment programs of the National Institutes of Health.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:43:56-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2440:@@@L&summ2=m&"
+}

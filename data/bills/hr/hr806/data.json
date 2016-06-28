@@ -1,0 +1,91 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-02-05", 
+      "committees": [
+        "HSAS"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Armed Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-08-13", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Readiness.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr806-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS", 
+      "subcommittee": "Subcommittee on Readiness", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-02-05", 
+  "number": "806", 
+  "official_title": "To provide for a land exchange involving a parcel of real property under the jurisdiction of the Secretary of the Army on the site of the former Mare Island Naval Shipyard, Vallejo, California.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "5", 
+    "name": "Thompson, Mike", 
+    "state": "CA", 
+    "thomas_id": "01593", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-02-05", 
+  "subjects": [
+    "Armed forces and national security", 
+    "California", 
+    "Educational facilities and institutions", 
+    "Land transfers", 
+    "Military facilities and property"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-02-05", 
+    "text": "Authorizes the Secretary of the Army to convey a parcel of the former Mare Island Naval Shipyard on Azuar Drive in Vallejo, California, to permit the Touro University California to use the parcel for educational and administrative purposes in exchange for the Army acquiring a parking facility for the Mare Island Army Reserve Center.\n\nDirects the Secretary to require the University to cover costs (except environmental remediation costs) incurred by the Secretary to carry out the conveyance."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide for a land exchange involving a parcel of real property under the jurisdiction of the Secretary of the Army on the site of the former Mare Island Naval Shipyard, Vallejo, California.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:30:00-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR806:@@@L&summ2=m&"
+}

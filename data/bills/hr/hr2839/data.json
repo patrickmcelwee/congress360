@@ -1,0 +1,109 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-06-18", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-07-01", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Immigration and Border Security.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2839-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Immigration and Border Security", 
+      "subcommittee_id": "01"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-06-18", 
+  "number": "2839", 
+  "official_title": "To reform and modernize domestic refugee resettlement programs, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1615-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "9", 
+    "name": "Pascrell, Bill, Jr.", 
+    "state": "NJ", 
+    "thomas_id": "01510", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-06-18", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Congressional oversight", 
+    "Department of Health and Human Services", 
+    "Emergency medical services and trauma care", 
+    "Foreign labor", 
+    "Government information and archives", 
+    "Government studies and investigations", 
+    "Health information and medical records", 
+    "Homelessness and emergency shelter", 
+    "Human rights", 
+    "Immigrant health and welfare", 
+    "Immigration", 
+    "Medical tests and diagnostic methods", 
+    "Mental health", 
+    "Refugees, asylum, displaced persons", 
+    "Unemployment", 
+    "Visas and passports"
+  ], 
+  "subjects_top_term": "Immigration", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-06-18", 
+    "text": "Requires the Government Accountability Office to study the effectiveness of the Office of Refugee Resettlement's domestic refugee resettlement programs.\n\nRequires the Office to: (1) ensure that refugee assistance is provided to qualifying refugees who are secondary migrants; (2) report to Congress regarding states experiencing departures and arrivals due to secondary migration; and (3) expand the Office's data analysis, collection, and sharing activities to include data on mental and physical medical cases, housing needs, and refugee employment.\n\nRequires the Department of State and the Department of Health and Human Services to provide refugee resettlement guidance to appropriate national, state, and local entities."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To reform and modernize domestic refugee resettlement programs, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:47:25-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2839:@@@L&summ2=m&"
+}

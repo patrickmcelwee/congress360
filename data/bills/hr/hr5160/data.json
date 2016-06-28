@@ -1,0 +1,107 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-04-29", 
+      "committees": [
+        "HSHA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on House Administration.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-05-17", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-17", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2016-06-16T14:23:00-04:00", 
+      "committees": [
+        "HSHA"
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on House Administration. H. Rept. 114-626.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-16T14:23:00-04:00", 
+      "calendar": "Union", 
+      "number": "485", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 485.", 
+      "type": "calendar", 
+      "under": null
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5160-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Administration", 
+      "committee_id": "HSHA"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2016-05-17", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-04-29", 
+  "number": "5160", 
+  "official_title": "To amend title 40, United States Code, to include as part of the buildings and grounds of the National Gallery of Art any buildings and other areas within the boundaries of any real estate or other property interests acquired by the National Gallery of Art.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "10", 
+    "name": "Miller, Candice S.", 
+    "state": "MI", 
+    "thomas_id": "01731", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2016-05-17", 
+  "subjects": [
+    "Government operations and politics"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": {
+    "as": "Reported to House without amendment", 
+    "date": "2016-06-16", 
+    "text": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.)\n\nThis bill includes as part of the National Gallery of Art all buildings, service roads, walks, and other areas within the exterior boundaries of any real estate or interest in land that the Gallery acquires and that its director determines to be necessary for the adequate protection of individuals or property in the Gallery and suitable for administration as a part of it."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 40, United States Code, to include as part of the buildings and grounds of the National Gallery of Art any buildings and other areas within the boundaries of any real estate or other property interests acquired by the National Gallery of Art.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T07:06:49-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR5160:@@@L&summ2=m&"
+}

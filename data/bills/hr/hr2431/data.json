@@ -1,0 +1,145 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-05-19", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-05-21", 
+      "references": [
+        {
+          "reference": "CR H3544", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2431-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "29", 
+      "name": "Cardenas, Tony", 
+      "sponsored_at": "2015-06-03", 
+      "state": "CA", 
+      "thomas_id": "02107", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Lawrence, Brenda L.", 
+      "sponsored_at": "2015-06-03", 
+      "state": "MI", 
+      "thomas_id": "02252", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "LoBiondo, Frank A.", 
+      "sponsored_at": "2015-06-12", 
+      "state": "NJ", 
+      "thomas_id": "00699", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "46", 
+      "name": "Sanchez, Loretta", 
+      "sponsored_at": "2016-05-06", 
+      "state": "CA", 
+      "thomas_id": "01522", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Swalwell, Eric", 
+      "sponsored_at": "2015-06-17", 
+      "state": "CA", 
+      "thomas_id": "02104", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "35", 
+      "name": "Torres, Norma J.", 
+      "sponsored_at": "2015-06-03", 
+      "state": "CA", 
+      "thomas_id": "02231", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-05-19", 
+  "number": "2431", 
+  "official_title": "To amend the Internal Revenue Code of 1986 to provide a credit against tax for job training expenses of employers.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "On-the-Job Training Tax Credit Act of 2015", 
+  "sponsor": {
+    "district": "31", 
+    "name": "Aguilar, Pete", 
+    "state": "CA", 
+    "thomas_id": "02229", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-05-19", 
+  "subjects": [
+    "Employment and training programs", 
+    "Income tax credits", 
+    "Taxation"
+  ], 
+  "subjects_top_term": "Taxation", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-05-19", 
+    "text": "On-the-Job Training Tax Credit Act of 2015\n\n Amends the Internal Revenue Code to allow\u00a0employers who employ not more than 500 full-time employees during the taxable year an on-the-job training tax credit equal to the lesser of: 50% of the job training program\u00a0expenditures for a full-time\u00a0employee participating in a qualified training program, or $5,000.\n\nDefines \"qualified training program\" as a written plan of study and training that is either: (1) an apprenticeship program registered and certified with the Department of Labor under the National Apprenticeship Act; (2) a program licensed, registered, or certified by the workforce investment board or apprenticeship agency or council of a state or administered in compliance with state apprenticeship laws; (3) a program conducted by a vocational or technical education school, community college, industrial or trade training organization, or labor organization; (4) a program which conforms to apprentice training programs developed or administered by an employer trade group or committee; or (5) an industry-sponsored or -administered program which is clearly identified and commonly recognized.\n\nTerminates such credit after 2017."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "On-the-Job Training Tax Credit Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Internal Revenue Code of 1986 to provide a credit against tax for job training expenses of employers.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:43:52-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2431:@@@L&summ2=m&"
+}

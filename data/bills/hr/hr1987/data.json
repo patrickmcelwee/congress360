@@ -1,0 +1,311 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-04-23", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Transportation and Infrastructure.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-04-24", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Coast Guard and Maritime Transportation.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-04-30", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Subcommittee on Coast Guard and Maritime Transportation Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-04-30", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-04-30", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2015-05-15T09:36:00-04:00", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 114-115.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-05-15T09:36:00-04:00", 
+      "calendar": "Union", 
+      "number": "81", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 81.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2015-05-18T17:48:00-04:00", 
+      "references": [], 
+      "text": "Mr. Graves (LA) moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-05-18T17:48:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3284-3293", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-05-18T17:48:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1987.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-05-18T18:02:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H3284-3291", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2015-05-18T18:02:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-05-19", 
+      "committees": [
+        "SSCM"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1987-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Coast Guard and Maritime Transportation", 
+      "subcommittee_id": "07"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Commerce, Science, and Transportation", 
+      "committee_id": "SSCM"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "4", 
+      "name": "DeFazio, Peter A.", 
+      "sponsored_at": "2015-04-23", 
+      "state": "OR", 
+      "thomas_id": "00279", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Garamendi, John", 
+      "sponsored_at": "2015-04-23", 
+      "state": "CA", 
+      "thomas_id": "01973", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Shuster, Bill", 
+      "sponsored_at": "2015-04-23", 
+      "state": "PA", 
+      "thomas_id": "01681", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Webster, Daniel", 
+      "sponsored_at": "2015-05-15", 
+      "state": "FL", 
+      "thomas_id": "02002", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-04-30", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2015-05-18T18:02:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-04-23", 
+  "number": "1987", 
+  "official_title": "To authorize appropriations for the Coast Guard for fiscal years 2016 and 2017, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr2038-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr4188-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr4188-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s1611-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Coast Guard Authorization Act of 2015", 
+  "sponsor": {
+    "district": "50", 
+    "name": "Hunter, Duncan D.", 
+    "state": "CA", 
+    "thomas_id": "01909", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2015-05-18T18:02:00-04:00", 
+  "subjects": [
+    "Accidents", 
+    "Accounting and auditing", 
+    "Alaska", 
+    "Arctic and polar regions", 
+    "Atlantic Coast (U.S.)", 
+    "Aviation and airports", 
+    "California", 
+    "Civil actions and liability", 
+    "Coast guard", 
+    "Congressional oversight", 
+    "Debt collection", 
+    "Department of Homeland Security", 
+    "Executive agency funding and structure", 
+    "Federal Maritime Commission", 
+    "Foreign labor", 
+    "Government information and archives", 
+    "Government studies and investigations", 
+    "Great Lakes", 
+    "Higher education", 
+    "Historic sites and heritage areas", 
+    "Land transfers", 
+    "Licensing and registrations", 
+    "Marine and coastal resources, fisheries", 
+    "Marine and inland water transportation", 
+    "Medical tests and diagnostic methods", 
+    "Military education and training", 
+    "Military facilities and property", 
+    "Military personnel and dependents", 
+    "Navigation, waterways, harbors", 
+    "Outdoor recreation", 
+    "Performance measurement", 
+    "Personnel records", 
+    "Public contracts and procurement", 
+    "Small business", 
+    "Teaching, teachers, curricula", 
+    "Transportation and public works", 
+    "Transportation employees", 
+    "Transportation safety and security", 
+    "Veterans' education, employment, rehabilitation", 
+    "Wages and earnings", 
+    "Worker safety and health"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2015-05-18", 
+    "text": "Coast Guard Authorization Act of 2015\n\n TITLE I--AUTHORIZATIONS\n\n (Sec. 101) This bill authorizes FY2016-FY2017 appropriations for the Coast Guard for: (1) the operation and maintenance of the Coast Guard; (2) the acquisition, construction, renovation, and improvement of aids to navigation, shore facilities, vessels, and aircraft; (3) the Coast Guard Reserve program; (4) the Coast Guard's environmental compliance and restoration functions; and (5) research, development, test, and evaluation.\n\n The Coast Guard is authorized an end-of-year strength for active duty personnel of 43,000 and average military training student loads for FY2016-FY2017.\n\n The Coast Guard must submit to Congress a manpower requirements plan when the President submits a budget to Congress for FY2017 and for FY2019 and every four years thereafter.\n\nThe Coast Guard Reserve program must receive congressional approval prior to funds being appropriated to the program. Appropriations for offshore establishments are no longer subject to this requirement for prior authorization of appropriations.\n\n The Coast Guard may use funds authorized for FY2016-FY2017 for designing and constructing an icebreaker that is capable of buoy tending to enhance ice breaking capacity on the Great Lakes.\n\nTITLE II--COAST GUARD\n\n(Sec. 201) The rank of the Coast Guard's Vice Commandant is changed from vice admiral to admiral.\n\n(Sec. 202) The President may designate an additional position with the grade of vice admiral who will serve as the Coast Guard's Chief of Staff. The President may also designate additional vice admiral positions within the executive branch, other than within the Coast Guard.\n\n(Sec. 203) The Coast Guard may remit or cancel federal debts incurred by its members on active duty if it would be in the best interest of the United States. (Sec. 204) Test and evaluation master plans for the Coast Guard's acquisition projects must identify: (1) the performance data to be used to determine whether the key performance parameters have been resolved; and (2) the results during test and evaluation that will be required to demonstrate that a capability, asset, or subsystem meets performance requirements. The Coast Guard must implement a standard for tracking operational days at sea for Coast Guard cutters that does not include days during which the cutters are undergoing maintenance or repair and notify Congress of the standard implemented. The Coast Guard must submit to Congress a revised fleet mix analysis of Coast Guard fixed wing aircraft. (Sec. 205) The Coast Guard Auxiliary may conduct a patrol of a waterway, or a portion of it, only if: (1) the Coast Guard has determined that the waterway is navigable for purposes of the Coast Guard's jurisdiction, or (2) a state or other proper authority has requested the patrol. The Coast Guard must: (1) review the waterways patrolled by the Coast Guard Auxiliary in the most recently completed fiscal year to determine whether the waterways are eligible or ineligible for patrol, and (2) notify Congress of any waterways that are ineligible for patrol and the actions taken Coast Guard to ensure that the Auxiliary patrols do not occur on those waterways. (Sec. 206) Each report on the status of its major acquisition programs must include a plan that describes the upcoming fiscal year as well as a long-term major acquisitions plan for the next 20 fiscal years. (Sec. 207) The bill amends the Coast Guard Authorization Act of 1998 to eliminate a requirement to notify Congress prior to designating Coast Guard communities. (Sec. 208) The Coast Guard is given 270 days to complete and submit to Congress its materiel condition assessment of the Polar Sea icebreaker and its determination of whether it is cost effective to reactivate the Polar Sea compared with other options to provide ice breaking services. If a determination is not made by that deadline, the Coast Guard is authorized to decommission the Polar Sea. (Sec. 209) The bill amends the Howard Coble Coast Guard and Maritime Transportation Act of 2014 to make permanent a limitation on the Coast Guard's authority to close air facilities or reassign certain aviation assets. (Sec. 211) If the Coast Guard determines that there are at least two digital boat profile technologies that are commercially available, the Coast Guard must establish a pilot program under which digital boat profiles are utilized for at least two national security cutters, four fast response cutters, and four medium endurance cutters. A digital boat profile is a commercially available off-the-shelf technology that creates an electronic data source with respect to a vessel that: (1) provides lifecycle management support; (2) incorporates all manufacturer recommendations and operator best practices; (3) incorporates the use of real-time analytics of deferred tasks, future tasks, readiness assessments, and budgetary planners; (4) provides advance electronic notification of upcoming maintenance and inspections to multi-level permission-based recipients on a daily, weekly, or monthly basis; (5) facilitates oversight for pre-delivery discrepancy reporting and post-delivery warranty management of equipment items; and (6) is accessible by computing devices. (Sec. 212) The Coast Guard must establish a process for the discontinuance of an aid to navigation that it established, maintained, or operated. Adequate public notification of the discontinuance must be included in the process. (Sec. 213) The Government Accountability Office (GAO) must report an assessment of the efficacy of the Coast Guard's Standard Operational Planning Process with respect to annual mission performance measures. (Sec. 214) The Coast Guard must establish, carry out, and report on a response capabilities pilot program to access the response capabilities of certain radio communication gateways that are commercially available. (Sec. 215) The Coast Guard must establish a graduate education program for its members and employees. TITLE III--SHIPPING AND NAVIGATION\n\n(Sec. 301) Federal shipping laws governing maritime liability are revised to prohibit: (1) maritime liens (liens on vessels) from being imposed on state or federal fishing permits, or (2) civil actions to enforce maritime liens on the permits. A fishing permit is not considered to be part of a vessel, so it does not pass with a vessel upon the vessel's sale or transfer.\n\n(Sec. 302) Safety regulations that require passenger vessels that operate in cold waters to carry survival craft are established.\n\n(Sec. 303) The Department of Transportation (DOT) must respond within 30 days of receiving a request by a federal agency for DOT to determine if the agency's programs are subject to cargo preference requirements, which specify the percentage of cargo financed by taxpayers that must be transported on U.S. flagged vessels crewed with U.S. mariners. DOT must make a report available online that lists the programs that were subject to those determinations and describes the results of its most recent annual review of programs subject to cargo preference requirements.\n\n(Sec. 304) The date on which a model year for a recreational vessel must begin is revised to begin on June 1 instead of August 1. Upon the request of a recreational vessel manufacturer, the Coast Guard may alter a model year for a recreational vessel by a prescribed amount.\n\n(Sec. 305) The Coast Guard must harmonize the expiration dates of merchant mariner credentials, mariner medical certificates, and radar observer endorsements for individuals applying for new or renewed merchant mariner credentials.\n\n(Sec. 306) If a safety zone is established for a marine event, all costs incurred by the Coast Guard to enforce the zone must be recovered.\n\n(Sec. 307) Specified Acts are amended to transfer certain DOT authority to the Coast Guard with respect to: (1) constructing bridges, causeways, dams, or dikes; (2) alternating, removing, or repairing bridges or accessory obstructions to navigation; (3) opening drawbridges; and (4) relocating, maintaining, and operating bridges.\n\n(Sec. 308) The Coast Guard must notify Congress of the actions it will take to implement specified recommendations on improvements to the Coast Guard's marine casualty reporting requirements and procedures.\n\n(Sec. 309) The Coast Guard must update its references to recreational vessel's engine weights in regulations.\n\n(Sec. 310) Certified medical practitioners may issue medical certificates for merchant mariners.\n\n(Sec. 311) The Coast Guard must conclude the Atlantic Coast Port Access Route Study and submit the results of the study to Congress.\n\n(Sec. 312) The Coast Guard must make certificates of documentation for recreational vessels effective for five years. Owners of recreational vessels must notify the Coast Guard of each change in the information on which the issuance of the certificate of documentation is based and apply for a new certificate of documentation if there is a change in information.\n\n(Sec. 313) DOT must develop and report on guidelines to implement a program to promote the transportation of liquefied natural gas on U.S. flag vessels.\n\nTITLE IV--FEDERAL MARITIME COMMISSION\n\n(Sec. 401) The bill authorizes appropriations for the Federal Maritime Commission for FY2016-FY2017.\n\n(Sec. 402) The duties of the Chairman of the Commission are expanded to include preparing and submitting requests for appropriations for the Commission.\n\n(Sec. 403) The Commission may not expend any funds to issue an award, prize, commendation, or other honor to a nonfederal entity. TITLE V--MISCELLANEOUS (Sec. 501) The Coast Guard may convey approximately 32 acres of specified property in Station Point Reyes to Marin County, California. (Sec. 502) The bill amends the Coast Guard and Maritime Transportation Act of 2006 to eliminate certain reporting requirements for the Coast Guard and the National Marine Fisheries Service to provide information concerning the distant water tuna fleet. Certain reporting requirements concerning the DOT's approvals of plans for constructing and maintain bridges under the International Bridge Act of 1972 are also eliminated. Reporting requirements under the Coast Guard and Maritime Transportation Act of 2006 are revised by replacing an annual reporting deadline with a deadline that is triggered by an oil discharge that will result in removal costs and damages that exceed certain liability limits. (Sec. 503) The GAO must submit to Congress a description of actions that could be taken to: (1) improve the efficiency of performance of the functions carried out by the National Vessel Documentation Center, and (2) strengthen the review of compliance with U.S. ownership requirements for vessels documented under U.S. law. (Sec. 504) The Coast Guard may provide the Tanana Chiefs Council, a nonprofit intertribal consortium of federally recognized Alaska tribes, the right of first refusal in the conveyance of approximately 3.25 acres in Tok, Alaska. (Sec. 505) The Coast Guard and the Environmental Protection Agency may not prohibit the uptake or discharge of ballast water from a vessel operating in any national marine sanctuary that preserves shipwrecks or maritime heritage in the Great Lakes if the uptake and discharge meets all federal and state requirements and the designation documents for the sanctuary do not prohibit the uptake and discharge. Currently, this prohibition is limited to the Thunder Bay National Marine Sanctuary and Underwater Preserve. (Sec. 506) The GAO must conduct and report on an audit of funds credited in each fiscal year after FY2004 to the Vessel Operations Revolving Fund that are attributable to certain sales of obsolete vessels in the National Defense Reserve Fleet that were scrapped or sold. (Sec. 507) The Coast Guard must establish an alternative safety compliance program for fishing vessels, fish tender vessels, or both that are at least 50 feet overall in length, and no more than 79 feet overall in length, and built after July 1, 2013. (Sec. 508) The Coast Guard may enter into an arrangement with the National Academy of Sciences for the Academy to report on a comparison of the certain costs incurred by the federal government associated with acquiring, operating, constructing, or leasing a new polar class icebreaker as well as coast associated with reactivating the Coast Guard Cutter Polar Sea. (Sec. 509) Certain caps on penalties for not paying a seaman under an employment contract awarded under class action lawsuits are expanded by applying the caps to penalties awarded under all lawsuits. (Sec. 510) Claims by a seaman who is a citizen of a foreign nation for damages or expenses relating to personal injury, illness, or death that arise during engagement by a foreign passenger vessel may be brought in the United States if: (1) the seaman was a permanent resident alien of the United States at the time the claim arose; (2) the injury, illness, or death arose inside U.S. waters; or (3) the seaman does not have a right to seek compensation under the laws of the nation in which the vessel was registered at the time the claim arose or the nation in which the seaman maintained citizenship or residency at the time the claim arose."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Coast Guard Authorization Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Coast Guard Authorization Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Coast Guard Authorization Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To authorize appropriations for the Coast Guard for fiscal years 2016 and 2017, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:40:09-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR1987:@@@L&summ2=m&"
+}

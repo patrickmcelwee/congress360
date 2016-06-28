@@ -1,0 +1,241 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-09-18", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Homeland Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-09-30", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-30", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2015-12-08T13:19:00-05:00", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Homeland Security. H. Rept. 114-372.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-12-08T13:19:00-05:00", 
+      "calendar": "Union", 
+      "number": "284", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 284.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2015-12-10T15:45:00-05:00", 
+      "references": [], 
+      "text": "Mr. Ratcliffe moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-12-10T15:45:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H9248-9255", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-12-10T15:45:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3578.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-12-10T15:59:00-05:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-12-10T16:22:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H9262-9263", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-12-10T16:53:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H9248-9253", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "687", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 0 (Roll no. 687).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2015-12-10T16:53:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-12-14", 
+      "committees": [
+        "SSGA"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3578-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Homeland Security and Governmental Affairs", 
+      "committee_id": "SSGA"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "10", 
+      "name": "McCaul, Michael T.", 
+      "sponsored_at": "2015-09-25", 
+      "state": "TX", 
+      "thomas_id": "01804", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Richmond, Cedric L.", 
+      "sponsored_at": "2015-09-18", 
+      "state": "LA", 
+      "thomas_id": "02023", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-09-30", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2015-12-10T16:53:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-09-18", 
+  "number": "3578", 
+  "official_title": "To amend the Homeland Security Act of 2002 to strengthen and make improvements to the Directorate of Science and Technology of the Department of Homeland Security, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr5388-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "DHS Science and Technology Reform and Improvement Act of 2015", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Ratcliffe, John", 
+    "state": "TX", 
+    "thomas_id": "02268", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2015-12-10T16:53:00-05:00", 
+  "subjects": [
+    "Computer security and identity theft", 
+    "Department of Homeland Security", 
+    "Emergency management", 
+    "Executive agency funding and structure", 
+    "Government employee pay, benefits, personnel management", 
+    "Government ethics and transparency, public corruption", 
+    "Research administration and funding", 
+    "Research and development", 
+    "Student aid and college costs", 
+    "Technology assessment"
+  ], 
+  "subjects_top_term": "Emergency management", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2015-12-10", 
+    "text": "DHS Science and Technology Reform and Improvement Act of 2015\n\n(Sec. 2) This bill amends the Homeland Security Act of 2002 to declare that the Directorate of Science and Technology of the Department of Homeland Security (DHS) shall be the primary research, development, testing, and evaluation arm of DHS, responsible for coordinating such activities to strengthen the security and resiliency of the United States. The Directorate shall be headed by the DHS Undersecretary for Science and Technology, who shall: (1) serve as the DHS senior scientific advisor, and (2) identify and develop countermeasures to terrorist threats that may serve as the basis for a national strategy.\n\nThe Directorate shall: (1) develop and deliver knowledge, analyses, and innovative solutions that are responsive to homeland security capability gaps and threats; (2) seek innovative, system-based solutions to complex homeland security problems and threats; and (3) build partnerships and leverage technology solutions developed by other governmental entities, universities, and the private sector.\n\nThe bill expands to duties of the Directorate to include:\n\n coordinating and integrating all research, development, demonstration, testing, and evaluation activities of DHS, including through a centralized federal clearinghouse relating to technologies that would further the DHS mission; establishing a process that includes Directorate and DHS leadership and through which research and development projects are assessed on a regular basis; developing and overseeing the administration of guidelines for periodic review of research and development programs or activities; partnering with DHS components and offices to develop and deliver knowledge, analyses, and innovative solutions that are responsive to identified homeland security capability gaps and threats; and acting as a coordinating office for technology development and coordinating with organizations that provide venture capital to businesses, particularly small businesses, to assist in the commercialization of innovative homeland security technologies. DHS must review and revise departmental policies on personnel conflicts of interest to ensure that such policies specifcally address employees of federally-funded research and development centers who are in a position to make or materially influence research findings or agency decision-making.\n\nThe criteria for designating colleges or universities as a center for homeland security is modified to require expertise in nuclear explosives countermeasures or detection.\n\nThe bill establishes in the Directorate a Test, Evaluation, and Standards Division to serve as an adviser to the DHS Secretary and the DHS Under Secretary of Management on all test and evaluation or standards activities in DHS.\n\nThe Directorate shall:\n\n establish a process to define, identify, prioritize, fund, and task its basic and applied homeland security research and development activities; develop and submit to appropriate congressional committees a strategy to guide its activities; develop and update, at least once every five years, a five-year research and development plan for its activities; establish and utilize a system to track the progress of its research, development, testing, and evaluation activities; establish the Homeland Security Science and Technology Fellows Program; support research, development, testing, evaluation, and transition of cybersecurity technology; establish Integrated Product Teams to assist DHS in identifying, coordinating, and aligning research and development efforts with departmental missions; and establish a Homeland Security-STEM internship program to encourage students to pursue STEM (science, technology, engineering, and mathematics) careers in homeland security related fields. The bill extends through FY2020 DHS authority for certain research and development projects.\n\nThe bill revises the definition of \"incident\" used with respect to the National Cybersecurity and Communications Integration Center.\n\nThe Government Accountability Office shall initiate a study to assess the university-based centers for homeland security program and provide recommendations to the congressional homeland security committees for appropriate improvements.\n\nThe Directorate shall utilize, as appropriate, prize authority granted pursuant to current law.\n\nNo new funds are authorized to carry out this Act."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "DHS Science and Technology Reform and Improvement Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "DHS Science and Technology Reform and Improvement Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "DHS Science and Technology Reform and Improvement Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Homeland Security Act of 2002 to strengthen and make improvements to the Directorate of Science and Technology of the Department of Homeland Security, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:53:35-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR3578:@@@L&summ2=m&"
+}

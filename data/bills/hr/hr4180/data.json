@@ -1,0 +1,172 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-12-03", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Oversight and Government Reform.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-12-09", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-12-09", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Unanimous Consent.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2016-02-09T17:05:00-05:00", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on Oversight and Government Reform. H. Rept. 114-419.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-09T17:05:00-05:00", 
+      "calendar": "Union", 
+      "number": "320", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 320.", 
+      "type": "calendar", 
+      "under": null
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4180-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Oversight and Government Reform", 
+      "committee_id": "HSGO"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "11", 
+      "name": "Connolly, Gerald E.", 
+      "sponsored_at": "2015-12-03", 
+      "state": "VA", 
+      "thomas_id": "01959", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Duckworth, Tammy", 
+      "sponsored_at": "2015-12-15", 
+      "state": "IL", 
+      "thomas_id": "02123", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Mulvaney, Mick", 
+      "sponsored_at": "2015-12-08", 
+      "state": "SC", 
+      "thomas_id": "02059", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-12-09", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-12-03", 
+  "number": "4180", 
+  "official_title": "To improve Federal agency financial and administrative controls and procedures to assess and mitigate fraud risks, and to improve Federal agencies' development and use of data analytics for the purpose of identifying, preventing, and responding to fraud, including improper payments.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2133-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s2133-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s3011-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Fraud Reduction and Data Analytics Act of 2015", 
+  "sponsor": {
+    "district": "11", 
+    "name": "Meadows, Mark", 
+    "state": "NC", 
+    "thomas_id": "02142", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2015-12-09", 
+  "subjects": [
+    "Accounting and auditing", 
+    "Administrative law and regulatory procedures", 
+    "Congressional oversight", 
+    "Debt collection", 
+    "Executive agency funding and structure", 
+    "Fraud offenses and financial crimes", 
+    "Government information and archives", 
+    "Government operations and politics", 
+    "Government studies and investigations", 
+    "Office of Management and Budget (OMB)"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": {
+    "as": "Reported to House without amendment", 
+    "date": "2016-02-09", 
+    "text": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)\n\nFraud Reduction and Data Analytics Act of 2015\n\n(Sec. 3) This bill requires the Office of Management and Budget (OMB) to establish guidelines for federal agencies to establish financial and administrative controls to identify and assess fraud risks and design and implement control activities in order to prevent, detect, and respond to fraud, including improper payments.\n\nThe guidelines shall incorporate the leading practices identified in the report published by the Government Accountability Office on July 28, 2015, entitled \"Framework for Managing Fraud Risks in Federal Programs.\"\n\nThe financial and administrative controls shall include:\n\n conducting an evaluation of fraud risks and using a risk-based approach to design and implement financial and administrative control activities to mitigate identified fraud risks; collecting and analyzing data from reporting mechanisms on detected fraud to monitor fraud trends and using that data and information to continuously improve fraud prevention controls; and using the results of monitoring, evaluation, audits, and investigations to improve fraud prevention, detection, and response. Each agency shall submit as part of its annual financial report a report on its progress in:\n\n implementing such financial and administrative controls, the fraud risk principle in the Standards for Internal Control in the Federal Government, and OMB Circular A-123 leading practices for managing fraud risk; identifying risks and vulnerabilities to fraud; and establishing steps to curb fraud. (Sec. 4) The OMB must establish a working group to: (1) improve the sharing of financial and administrative controls and other best practices and techniques for detecting, preventing, and responding to fraud and the sharing and development of data analytics techniques; and (2) submit a plan for a federal interagency library of data analytics and data sets for use by agencies and Offices of Inspectors General to facilitate the detection, prevention, and recovery of fraud."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Fraud Reduction and Data Analytics Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Fraud Reduction and Data Analytics Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To improve Federal agency financial and administrative controls and procedures to assess and mitigate fraud risks, and to improve Federal agencies' development and use of data analytics for the purpose of identifying, preventing, and responding to fraud, including improper payments.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:58:37-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR4180:@@@L&summ2=m&"
+}

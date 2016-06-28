@@ -1,0 +1,260 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-01-22", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-03-02", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Federal Lands.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-03-02", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-06-16", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-03-15", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-03-15", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Subcommittee on Federal Lands Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-03-15", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Subcommittee on Indian, Insular and Alaska Native Affairs Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-03-16", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-03-16", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Unanimous Consent.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2016-05-19T13:21:00-04:00", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Natural Resources. H. Rept. 114-575.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-19T13:21:00-04:00", 
+      "calendar": "Union", 
+      "number": "445", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 445.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2016-05-23T15:01:00-04:00", 
+      "references": [], 
+      "text": "Mr. Cook moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-23T15:01:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2892-2894", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-23T15:01:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 496.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-23T15:06:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H2892-2893", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2016-05-23T15:06:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-24", 
+      "committees": [
+        "SSEG"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr496-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "discharged"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Federal Lands", 
+      "subcommittee_id": "10"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Indian, Insular and Alaska Native Affairs", 
+      "subcommittee_id": "24"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Energy and Natural Resources", 
+      "committee_id": "SSEG"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-06-16", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2016-05-23T15:06:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-01-22", 
+  "number": "496", 
+  "official_title": "To establish the Alabama Hills National Scenic Area in the State of California, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Alabama Hills National Scenic Area Establishment Act", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Cook, Paul", 
+    "state": "CA", 
+    "thomas_id": "02103", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2016-05-23T15:06:00-04:00", 
+  "subjects": [
+    "California", 
+    "Federal-Indian relations", 
+    "Gambling", 
+    "Indian lands and resources rights", 
+    "Land transfers", 
+    "Land use and conservation", 
+    "Public lands and natural resources", 
+    "Wilderness and natural areas, wildlife refuges, wild rivers, habitats"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2016-05-23", 
+    "text": "Alabama Hills National Scenic Area Establishment Act\n\n(Sec. 3) This bill establishes in Inyo County, California, the Alabama Hills National Scenic Area, comprising approximately 18,610 acres of land.\n\nThe Department of the Interior shall manage the Area as a component of the National Landscape Conservation System.\n\nInterior shall allow existing recreational uses of the Area to continue, including hiking, mountain biking, rock climbing, sightseeing, horseback riding, hunting, fishing, and appropriate authorized motorized vehicle use.\n\nThe use of motorized vehicles in the Area shall be permitted only on:\n\n roads and trails designated by the Bureau of Land Management (BLM) for use of such vehicles as part of a management plan sustaining a semi-primitive motorized experience, or on county-maintained roads. Nothing in this bill creates a protective perimeter or buffer zone around the National Scenic Area.\n\nInterior shall continue to provide private landowners with adequate access to inholdings in the Area.\n\nLivestock grazing already established in the Area, including grazing under the Alabama Hills and the George Creek allotments, shall continue.\n\n The federal land within the area is withdrawn from: (1) entry, appropriation, or disposal under the public land laws; (2) location, entry, and patent under the mining laws; and (3) disposition under all laws pertaining to mineral and geothermal leasing or mineral materials.\n\nInterior may make grants to, or enter into cooperative agreements with, state, tribal, and local governmental and private entities to conduct research, interpretation, or public education or to carry out any other initiative related to the restoration, conservation, or management of the Area.\n\nThe management plan shall establish plans for maintenance of public utility and other rights of way within the Area.\n\n(Sec. 4) Interior shall develop a comprehensive plan for the long-term management of the Area.\n\nIn developing this plan, Interior shall:\n\n consult with appropriate state, tribal, and local governmental entities, including Inyo County and the Lone Pine Paiute-Shoshone Tribe; and seek input from investor-owned utilities (including the Southern California Edison Company), the Alabama Hills Stewardship Group, members of the public, and the Los Angeles Department of Water and Power. In developing the management plan, Interior shall allow, in perpetuity, casual-use mining limited to the use of hand tools, metal detectors, hand-fed dry washers, vacuum cleaners, gold pans, small sluices, and similar items.\n\n(Sec. 5) Interior shall take approximately 132 acres of federal land into trust for the benefit of the Lone-Pine Paiute-Shoshone Tribe, which shall be considered part of the Tribe's reservation, excluding a specified right-of-way granted to the City of Los Angeles.\n\n Gaming shall not be allowed on such trust land.\n\n(Sec. 6) The bill transfers administrative jurisdiction of approximately 56 acres of specified federal land from the U.S. Forest Service to the BLM.\n\n(Sec. 7) Valid, existing, commercial permits for guided recreational opportunities for the public may continue.\n\n(Sec. 8) No additional funds are authorized to carry out the requirements of this bill, which shall be carried out using amounts otherwise authorized."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Alabama Hills National Scenic Area Establishment Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Alabama Hills National Scenic Area Establishment Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Alabama Hills National Scenic Area Establishment Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To establish the Alabama Hills National Scenic Area in the State of California, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:27:22-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR496:@@@L&summ2=m&"
+}

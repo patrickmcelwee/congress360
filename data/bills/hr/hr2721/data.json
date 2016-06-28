@@ -1,0 +1,856 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-06-10", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Ways and Means, and in addition to the Committees on House Administration, Education and the Workforce, Financial Services, Agriculture, Transportation and Infrastructure, Rules, the Budget, Oversight and Government Reform, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-06-10", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "text": "Referred to House Ways and Means", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-06-10", 
+      "committees": [
+        "HSHA"
+      ], 
+      "references": [], 
+      "text": "Referred to House House Administration", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-06-10", 
+      "committees": [
+        "HSED"
+      ], 
+      "references": [], 
+      "text": "Referred to House Education and the Workforce", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-06-10", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "text": "Referred to House Financial Services", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-06-10", 
+      "committees": [
+        "HSAG"
+      ], 
+      "references": [], 
+      "text": "Referred to House Agriculture", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-06-10", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "text": "Referred to House Transportation and Infrastructure", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-06-10", 
+      "committees": [
+        "HSRU"
+      ], 
+      "references": [], 
+      "text": "Referred to House Rules", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-06-10", 
+      "committees": [
+        "HSBU"
+      ], 
+      "references": [], 
+      "text": "Referred to House Budget", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-06-10", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "text": "Referred to House Oversight and Government Reform", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-06-10", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Referred to House Judiciary", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-06-11", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-06-11", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-06-18", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Human Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-07-13", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Nutrition.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-11-16", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Early Childhood, Elementary, and Secondary Education.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-11-16", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Higher Education and Workforce Training.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2721-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM", 
+      "subcommittee": "Subcommittee on Human Resources", 
+      "subcommittee_id": "03"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Administration", 
+      "committee_id": "HSHA"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED", 
+      "subcommittee": "Subcommittee on Early Childhood, Elementary, and Secondary Education", 
+      "subcommittee_id": "14"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED", 
+      "subcommittee": "Subcommittee on Higher Education and Workforce Training", 
+      "subcommittee_id": "13"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Agriculture", 
+      "committee_id": "HSAG"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Agriculture", 
+      "committee_id": "HSAG", 
+      "subcommittee": "Subcommittee on Nutrition", 
+      "subcommittee_id": "03"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Railroads, Pipelines, and Hazardous Materials", 
+      "subcommittee_id": "14"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Economic Development, Public Buildings and Emergency Management", 
+      "subcommittee_id": "13"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Rules", 
+      "committee_id": "HSRU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Budget", 
+      "committee_id": "HSBU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Oversight and Government Reform", 
+      "committee_id": "HSGO"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "district": "37", 
+      "name": "Bass, Karen", 
+      "sponsored_at": "2015-06-10", 
+      "state": "CA", 
+      "thomas_id": "01996", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Beatty, Joyce", 
+      "sponsored_at": "2015-06-10", 
+      "state": "OH", 
+      "thomas_id": "02153", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Carson, Andre", 
+      "sponsored_at": "2015-06-10", 
+      "state": "IN", 
+      "thomas_id": "01889", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "27", 
+      "name": "Chu, Judy", 
+      "sponsored_at": "2015-07-21", 
+      "state": "CA", 
+      "thomas_id": "01970", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Cicilline, David N.", 
+      "sponsored_at": "2015-06-10", 
+      "state": "RI", 
+      "thomas_id": "02055", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Conyers, John, Jr.", 
+      "sponsored_at": "2015-06-10", 
+      "state": "MI", 
+      "thomas_id": "00229", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Courtney, Joe", 
+      "sponsored_at": "2015-06-10", 
+      "state": "CT", 
+      "thomas_id": "01836", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Crowley, Joseph", 
+      "sponsored_at": "2015-06-10", 
+      "state": "NY", 
+      "thomas_id": "01604", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "53", 
+      "name": "Davis, Susan A.", 
+      "sponsored_at": "2015-06-10", 
+      "state": "CA", 
+      "thomas_id": "01641", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "DeSaulnier, Mark", 
+      "sponsored_at": "2015-06-10", 
+      "state": "CA", 
+      "thomas_id": "02227", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Dingell, Debbie", 
+      "sponsored_at": "2015-06-10", 
+      "state": "MI", 
+      "thomas_id": "02251", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Ellison, Keith", 
+      "sponsored_at": "2015-06-10", 
+      "state": "MN", 
+      "thomas_id": "01857", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "Frankel, Lois", 
+      "sponsored_at": "2015-06-10", 
+      "state": "FL", 
+      "thomas_id": "02119", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Gallego, Ruben", 
+      "sponsored_at": "2015-06-10", 
+      "state": "AZ", 
+      "thomas_id": "02226", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Grijalva, Raul M.", 
+      "sponsored_at": "2015-06-18", 
+      "state": "AZ", 
+      "thomas_id": "01708", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "44", 
+      "name": "Hahn, Janice", 
+      "sponsored_at": "2015-06-10", 
+      "state": "CA", 
+      "thomas_id": "02089", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Hastings, Alcee L.", 
+      "sponsored_at": "2016-02-25", 
+      "state": "FL", 
+      "thomas_id": "00511", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Honda, Michael M.", 
+      "sponsored_at": "2015-07-22", 
+      "state": "CA", 
+      "thomas_id": "01634", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Jackson Lee, Sheila", 
+      "sponsored_at": "2015-06-10", 
+      "state": "TX", 
+      "thomas_id": "00588", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Johnson, Henry C. \"Hank,\" Jr.", 
+      "sponsored_at": "2015-06-10", 
+      "state": "GA", 
+      "thomas_id": "01843", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Kuster, Ann M.", 
+      "sponsored_at": "2015-06-10", 
+      "state": "NH", 
+      "thomas_id": "02145", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Lawrence, Brenda L.", 
+      "sponsored_at": "2015-06-10", 
+      "state": "MI", 
+      "thomas_id": "02252", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Lowey, Nita M.", 
+      "sponsored_at": "2015-06-10", 
+      "state": "NY", 
+      "thomas_id": "00709", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "McCollum, Betty", 
+      "sponsored_at": "2015-06-10", 
+      "state": "MN", 
+      "thomas_id": "01653", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "McGovern, James P.", 
+      "sponsored_at": "2015-06-10", 
+      "state": "MA", 
+      "thomas_id": "01504", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "McNerney, Jerry", 
+      "sponsored_at": "2015-06-10", 
+      "state": "CA", 
+      "thomas_id": "01832", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Moore, Gwen", 
+      "sponsored_at": "2015-06-10", 
+      "state": "WI", 
+      "thomas_id": "01811", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Nadler, Jerrold", 
+      "sponsored_at": "2015-06-10", 
+      "state": "NY", 
+      "thomas_id": "00850", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Norcross, Donald", 
+      "sponsored_at": "2015-06-10", 
+      "state": "NJ", 
+      "thomas_id": "02202", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Norton, Eleanor Holmes", 
+      "sponsored_at": "2015-06-10", 
+      "state": "DC", 
+      "thomas_id": "00868", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Payne, Donald M., Jr.", 
+      "sponsored_at": "2015-06-10", 
+      "state": "NJ", 
+      "thomas_id": "02097", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Rangel, Charles B.", 
+      "sponsored_at": "2015-06-10", 
+      "state": "NY", 
+      "thomas_id": "00944", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Richmond, Cedric L.", 
+      "sponsored_at": "2015-07-28", 
+      "state": "LA", 
+      "thomas_id": "02023", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Rush, Bobby L.", 
+      "sponsored_at": "2015-06-10", 
+      "state": "IL", 
+      "thomas_id": "01003", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Schakowsky, Janice D.", 
+      "sponsored_at": "2015-06-10", 
+      "state": "IL", 
+      "thomas_id": "01588", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Scott, Robert C. \"Bobby\"", 
+      "sponsored_at": "2015-06-10", 
+      "state": "VA", 
+      "thomas_id": "01037", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Serrano, Jose E.", 
+      "sponsored_at": "2015-06-25", 
+      "state": "NY", 
+      "thomas_id": "01042", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Sewell, Terri A.", 
+      "sponsored_at": "2015-06-10", 
+      "state": "AL", 
+      "thomas_id": "01988", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "25", 
+      "name": "Slaughter, Louise McIntosh", 
+      "sponsored_at": "2015-06-10", 
+      "state": "NY", 
+      "thomas_id": "01069", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Speier, Jackie", 
+      "sponsored_at": "2015-06-10", 
+      "state": "CA", 
+      "thomas_id": "01890", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "41", 
+      "name": "Takano, Mark", 
+      "sponsored_at": "2015-06-10", 
+      "state": "CA", 
+      "thomas_id": "02110", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Titus, Dina", 
+      "sponsored_at": "2015-07-22", 
+      "state": "NV", 
+      "thomas_id": "01940", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "35", 
+      "name": "Torres, Norma J.", 
+      "sponsored_at": "2015-06-10", 
+      "state": "CA", 
+      "thomas_id": "02231", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "51", 
+      "name": "Vargas, Juan", 
+      "sponsored_at": "2015-06-10", 
+      "state": "CA", 
+      "thomas_id": "02112", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "33", 
+      "name": "Veasey, Marc A.", 
+      "sponsored_at": "2015-06-18", 
+      "state": "TX", 
+      "thomas_id": "02166", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Watson Coleman, Bonnie", 
+      "sponsored_at": "2015-06-10", 
+      "state": "NJ", 
+      "thomas_id": "02259", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "24", 
+      "name": "Wilson, Frederica S.", 
+      "sponsored_at": "2015-06-10", 
+      "state": "FL", 
+      "thomas_id": "02004", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-06-10", 
+  "number": "2721", 
+  "official_title": "To strengthen and expand proven anti-poverty programs and initiatives.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr122-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr258-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr1064-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr1662-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr1676-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr3486-114", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr4158-114", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Pathways Out of Poverty Act of 2015", 
+  "sponsor": {
+    "district": "13", 
+    "name": "Lee, Barbara", 
+    "state": "CA", 
+    "thomas_id": "01501", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-06-10", 
+  "subjects": [
+    "Academic performance and assessments", 
+    "Advisory bodies", 
+    "Child care and development", 
+    "Child safety and welfare", 
+    "Climate change and greenhouse gases", 
+    "Community life and organization", 
+    "Cooperative and condominium housing", 
+    "Crime victims", 
+    "Crimes against women", 
+    "Department of Health and Human Services", 
+    "Disability and paralysis", 
+    "Disaster relief and insurance", 
+    "Domestic violence and child abuse", 
+    "Drug trafficking and controlled substances", 
+    "Economic performance and conditions", 
+    "Education programs funding", 
+    "Elementary and secondary education", 
+    "Employment and training programs", 
+    "Executive agency funding and structure", 
+    "Federal officials", 
+    "Food assistance and relief", 
+    "Government information and archives", 
+    "Government studies and investigations", 
+    "Government trust funds", 
+    "Higher education", 
+    "House of Representatives", 
+    "Housing finance and home ownership", 
+    "Housing supply and affordability", 
+    "Income tax credits", 
+    "Income tax deductions", 
+    "Inflation and prices", 
+    "Interest, dividends, interest rates", 
+    "Intergovernmental relations", 
+    "Labor standards", 
+    "Legislative rules and procedure", 
+    "Low- and moderate-income housing", 
+    "Nutrition and diet", 
+    "Performance measurement", 
+    "Poverty and welfare assistance", 
+    "Preschool education", 
+    "Public housing", 
+    "Public-private cooperation", 
+    "Separation, divorce, custody, support", 
+    "Sex offenses", 
+    "Social welfare", 
+    "State and local finance", 
+    "State and local government operations", 
+    "State and local taxation", 
+    "Student aid and college costs", 
+    "Tax treatment of families", 
+    "Teenage pregnancy", 
+    "Unemployment", 
+    "Wages and earnings"
+  ], 
+  "subjects_top_term": "Social welfare", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-06-10", 
+    "text": "Pathways Out of Poverty Act of 2015\n\nDIVISION A--EDUCATION\n\nTITLE I--STRONG START FOR AMERICA'S CHILDREN\n\nSubtitle A--Access to Voluntary Prekindergarten for Low- and Moderate-Income Families\n\nDirects the Department of Education (ED) to allot matching grants to states and, through them, subgrants to local educational agencies (LEAs), childhood education program providers, or consortia of those entities to implement high-quality prekindergarten programs for children from low-income families.\n\nAllots grants to states based on each state's proportion of children who are age four and who are from families with incomes at or below 200% of the poverty level.\n\nDefines \"high-quality prekindergarten programs.\"\n\nConditions grant eligibility on a state demonstrating to ED that it: (1) has established or will establish early learning and development standards, (2) has established or will develop the ability to link prekindergarten data with elementary and secondary school data, (3) offers state-funded kindergarten for children, and (4) has established a State Advisory Council on Early Childhood Education and Care.\n\nDirects ED and the Department of Health and Human Services (HHS) to develop a process to provide Head Start program services to children who are younger than age four in states or regions that provide four-year-olds whose family income is at or below 200% of the poverty level with sustained access to high-quality prekindergarten programs.\n\nSubtitle B--Prekindergarten Development Grants\n\nDirects ED to award competitive, matching, capacity-building grants to states that assure that they will use their grant to become eligible, within three years of receiving the grant, for this Act's grants for high-quality prekindergarten programs.\n\nTITLE II--RESTORING SUMMER PELL GRANTS\n\nAmends title IV (Student Assistance) of the Higher Education Act of 1965 to allow ED to award a student two Pell Grants during a single award year if the student is enrolled in an associate or baccalaureate degree program or a certificate program at an institution of higher education (IHE) on at least a half-time basis for the equivalent of more than one academic year during the Pell Grant award year.\n\nTITLE III--RESTORING TITLE IV ABILITY-TO-BENEFIT ELIGIBILITY\n\nAllows students who are not high school graduates or have not met certain home schooling requirements to receive student assistance under title IV of the HEA if they demonstrate that they can benefit from the education or training being offered by an IHE through: (1) their performance on an independently administered examination, (2) a state prescribed process, or (3) their satisfactory completion of six credit hours or the equivalent coursework toward a degree or certificate offered by the IHE.\n\nTITLE IV--YOUTH PROMISE/FEDERAL COORDINATION OF LOCAL AND TRIBAL JUVENILE JUSTICE INFORMATION AND EFFORTS\n\nAmends the Juvenile Justice and Delinquency Prevention Act of 1974 to establish a PROMISE Advisory Panel to assist the Office of Juvenile Justice and Delinquency Prevention (OJJDP) in assessing and developing standards and evidence-based practices to prevent juvenile delinquency and criminal street gang activity. Requires the Administrator of the Office to award grants to organizations to collect and use data in designated geographic areas to assess the needs and existing resources for juvenile delinquency and criminal street gang activity prevention and intervention.\n\nTITLE V--PROMISE GRANTS\n\nSubtitle A--PROMISE Assessment and Planning Grants\n\nAuthorizes the OJJDP to award grants to local governments and Indian tribes to assist local PROMISE Coordinating Councils (PCCs) with planning and assessing evidence-based and promising practices for juvenile delinquency and criminal street gang activity prevention and intervention, especially for at-risk youth.\n\nSubtitle B--PROMISE Implementation Grants\n\nDirects the OJJDP to award additional grants to assist PCCs to implement PROMISE plans for coordinating and supporting the delivery of juvenile delinquency and gang prevention and intervention programs in local communities.\n\nSubtitle C--General PROMISE Grant Provisions\n\nDirects the OJJDP, in conjunction with the PROMISE Advisory Panel, to establish and utilize a system for evaluating applications for PROMISE Assessment and Planning grants and for PROMISE Implementation grants.\n\nDIVISION B--HOUSING\n\nTITLE VI--COMMON SENSE HOUSING INVESTMENT Amends the Internal Revenue Code, with respect to the tax deduction for mortgage interest, to:\n\n allow, in lieu of such deduction, a tax credit for 15% of mortgage interest paid in a taxable year for the taxpayer's principal residence and one other residence; provide for a phaseout of the tax deduction for mortgage interest between 2017 and 2021; allow a deduction for interest and taxes relating to land for dwelling purposes owned or leased by cooperative housing corporations; and increase the state housing credit ceiling for the low-income housing tax credit. Directs the Department of the Treasury to apply the savings from the enactment of this Act to the Housing Trust Fund, for assistance under the Section 8 low-income housing program, and for the Public Housing Capital Fund.\n\nTITLE VII--LOW-INCOME HOUSING TAX CREDIT FOR HOMELESS YOUTH\n\n Amends the Internal Revenue Code to qualify low-income building units that provide housing for full-time students who were homeless youth or homeless veterans prior to occupying a low-income housing unit for the low-income housing tax credit.\n\nTITLE VIII--RENTERS TAX CREDIT\n\nAmends the Internal Revenue Code to allow a business-related tax credit for a portion of the rent paid by a qualified renter. Defines \"qualified renter\" as a family unit with income not greater than the higher of 60% of local median income or 150% of the federal poverty line.\n\nEstablishes the amount of such credit as the rent reduction amount, which: (1) is the amount by which the fair market rent for a rental unit exceeds the rent charged to the qualified renter; and (2) shall not exceed the excess of the rent charged to the qualified renter (or, if lower, specified modest rent) over 30% of the qualified renter's income (prorated monthly).\n\nDIVISION C--NUTRITION\n\nTITLE IX--IMPROVING THE TEMPORARY ASSISTANCE TO NEEDY FAMILIES PROGRAM\n\nAmends part A (Temporary Assistance for Needy Families Act) (TANF) of title IV of the Social Security Act to require state TANF plans to address whether and how states will give priority to providing assistance in areas with the greatest need.\n\nExtends the TANF program.\n\nEstablishes matching grants to the states for subsidized employment. Sets a flat minimum participation rate of 50% with respect to all families residing in a state that include a work-eligible individual..\n\nGives TANF recipients the option to have trained personnel assess certain barriers to employment.\n\nRevises the contents of individual responsibility plans.\n\nAuthorizes a state to develop a modified employability plan for a TANF recipient with, or caring for a family member with, a disability.\n\nProhibits a state from imposing a lifetime sanction or full-family sanction on assistance to any individual or family on the basis of a family member's failure to comply with a program requirement.\n\nProhibits sanctioning individuals for failure to engage in work if the failure results from the inability to secure child care or after-school arrangements for a child under age 13.\n\nProhibits imposing a limit of less than 60 months on duration of TANF assistance. Makes the durational limit inapplicable during a recession.\n\nRequires that states establish personnel standards through a merit-based system in the administration of TANF programs.\n\nRequires TANF assistance to meet basic family economic needs.\n\nMakes reducing child poverty a purpose of the TANF program.\n\nRequires that states adopt standards and procedures to address domestic and sexual violence suffered by TANF recipients.\n\nRequires a state to guarantee child care services to TANF recipients employed or participating in a work activity.\n\nEliminates the ban on providing assistance to families not assigning certain support rights to the state.\n\nGives states the option to extend TANF eligibility to children through age 21.\n\nProhibits considering financial aid tied to education of a child in determining eligibility for or the amount of TANF.\n\nEliminates bars to TANF assistance for persons convicted of drug felonies, unwed teen parents not in school, and teens not in an adult-supervised living arrangement.\n\nTITLE X--EMPLOYMENT ADVANCEMENT, RETENTION, AND NAVIGATION ACT\n\nMakes it a purpose of TANF to promote employment among needy families.\n\nRequires a state to use any funds received under a grant from the TANF Contingency Fund for State Welfare Programs solely to support training programs leading to a credential directly linked to the employment opportunities in the local area or region.\n\n Eliminates the maintenance of effort requirement, and related administrative penalty, for state use of amounts from the Contingency Fund.\n\nRevises the definition of vocational educational training as a work activity to include up to 24 months of such training for any individual participating in a training program leading to a credential directly linked to employment opportunities in the individual's local area or region.\n\nRemoves from the limitation on the number of persons who may be treated as engaged in work by reason of participation in educational activities all single heads of household or married individuals under age 20 who maintain satisfactory school attendance.\n\nTITLE XI--RESTORING SUPPLEMENTAL NUTRITION ASSISTANCE PROGRAMS FUNDING CUTS INSTITUTED IN FARM BILL (HEAT-AND-EAT)\n\nAmends the Food and Nutrition Act of 2008 to remove restrictions on providing standard utility allowances under the Supplemental Nutrition Assistance Program (SNAP, formerly food stamps) to certain households based on the receipt of nominal benefits under the Low-Income Home Energy Assistance Act of 1981 or similar energy assistance programs.\n\nTITLE XII--HELPING HUNGRY STUDENTS LEARN\n\nAmends the Richard B. Russell National School Lunch Act to expand the school lunch program, provide free breakfast to students, and establish a pilot program to provide commodities to state agencies to assist in providing food to at-risk children on weekends and during school holidays.\n\nTITLE XIII--FOOD ASSISTANCE TO IMPROVE REINTEGRATION ACT\n\nAmends the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 to repeal provisions making individuals convicted of certain drug-related offenses ineligible for SNAP benefits.\n\nDIVISION D--LABOR/JOB TRAINING\n\nTITLE XIV--ASSISTANCE FOR THE UNEMPLOYED AND PATHWAYS BACK TO WORK\n\nSubtitle A--Supporting Unemployed Workers\n\nSupporting Unemployed Workers Act of 2015\n\nAmends the Supplemental Appropriations Act, 2008 to extend emergency unemployment compensation (EUC) payments for eligible individuals to weeks of employment ending on or before January 1, 2016.\n\nAmends the Assistance for Unemployed Workers and Struggling Families Act to extend until December 31, 2015, requirements that federal payments to states cover 100% of EUC.\n\nAmends the Unemployment Compensation Extension Act of 2008 to exempt weeks of unemployment between enactment of this Act and June 30, 2016, from the prohibition in the Federal-State Extended Unemployment Compensation Act of 1970 (FSEUCA of 1970) against federal matching payments to a state for the first week in an individual's eligibility period for which extended compensation or sharable regular compensation is paid if the state law provides for payment of regular compensation to an individual for his or her first week of otherwise compensable unemployment.\n\nAmends FSEUCA of 1970 to postpone similarly from December 31, 2013, to December 31, 2015, termination of the period during which a state may determine its \"on\" and \"off\" indicators according to specified temporary substitutions in its formula.\n\nAmends the Railroad Unemployment Insurance Act to extend through December 31, 2015, the temporary increase in extended unemployment benefits.\n\nEstablishes the Reemployment NOW program to facilitate the reemployment of individuals receiving emergency unemployment compensation (EUC claimants). Requires a state to submit for approval by the Secretary of Labor a plan meeting certain minimum requirements in order to be eligible for an allotment of federal funds under such program.\n\nAuthorizes a state to use its allotted funds to establish:\n\n a Bridge to Work program to provide EUC claimants with short-term work experience placements with eligible employers; a wage insurance program to pay, for up to two years, an EUC claimant who obtains reemployment up to 50% of the difference between the wages received at the time of work separation and the wages received for reemployment; and a program of enhanced reemployment services to EUC claimants, including unemployed individuals who have exhausted their EUC rights. Prescribes requirements for federal financing of state short-time compensation programs.\n\nSubtitle B--Long-Term Unemployed Hiring Preferences\n\nAmends the Internal Revenue Code to allow an increased work opportunity tax credit for long-term unemployed individuals (individuals who are unemployed and receiving unemployment compensation for six months or more).\n\nSubtitle C--Pathways Back to Work\n\nPathways Back to Work Act of 2015\n\nDirects the Department of Labor to make certain allocations of federal funds to states with approved plans, qualifying outlying areas (U.S. Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and the Republic of Palau), and Native American program grantees to provide: (1) subsidized employment to unemployed, low-income adults; and (2) summer and year-round employment opportunities to low-income youth.\n\nRequires Labor to award competitive grants to local entities for work-based training and other work-related and educational strategies and activities of demonstrated effectiveness to provide unemployed, low-income adults and low-income youths with skills that will lead to employment.\n\nSubjects activities funded under this Act to federal labor standards and nondiscrimination protections.\n\nSubtitle D--Prohibition of Discrimination in Employment on the Basis of an Individual's Status as Unemployed\n\nFair Employment Opportunity Act of 2015\n\nMakes it an unlawful practice for certain employers to:\n\n publish a job advertisement or announcement that includes provisions indicating that an individual's status as unemployed disqualifies the individual for employment or that the employer will not consider or hire an individual for employment based on such status, fail or refuse to consider or hire an individual because of such status, or direct or request that an employment agency take an individual's status into account to disqualify an applicant for consideration for employment or when screening or referring employees. Makes it an unlawful practice for an employment agency to commit similar acts, including to: (1) screen, or fail or refuse to consider or refer, an individual for employment because of the individual's unemployed status; or (2) limit, segregate, or classify any such individual in any manner that would limit access to job information or consideration, screening, or referral for jobs.\n\nMakes it unlawful for any employer or employment agency to: (1) interfere with, restrain, or deny the exercise of any right provided under this Act; or (2) fail or refuse to hire, discharge, or otherwise discriminate against an employee because such individual opposed any practice made unlawful by this Act or asserted any right under it.\n\nPrescribes enforcement authorities and legal remedies for violations of this Act.\n\nTITLE XV--LIVING AMERICAN WAGE\n\nAmends the Fair Labor Standards Act of 1938 to increase the federal minimum wage to at least the amount determined by Labor according to the formula prescribed by this Act beginning September 1, 2014.\n\nRequires Labor to determine such minimum wage rate by June 1, 2014, and once every four years thereafter. Prohibits any adjustment if the determination would result in a minimum wage lower than the current one.\n\nRequires the minimum wage so determined to be the minimum hourly wage sufficient for a person working for it 40 hours per week, 52 weeks per year, to earn an annual income 15% higher than the federal poverty threshold for a four-person household, with two children under age 18, and living in the 48 contiguous states, as published for each such year by the Census Bureau.\n\nDIVISION E--ANTI-POVERTY TAX PROVISION\n\nTITLE XVI--CHILD TAX CREDIT PERMANENCY\n\nAmends the Internal Revenue Code, with respect to the child tax credit, to: (1) make permanent the reduction (from $10,000 to $3,000) of the eligibility threshold for the refundable portion of such credit, and (2) require an annual inflation adjustment to the allowable amount of such credit (i.e., $1,000) after 2015.\n\nTITLE XVII--EARNED INCOME TAX CREDIT\n\nAmends the Internal Revenue Code, with respect to the earned income tax credit, to:\n\n increase the rate of such credit for individuals with no qualifying children; allow an annual inflation adjustment to the increased phaseout amount of such credit for taxable years beginning after 2016; and expand eligibility for such credit to individuals who have attained age 21 (currently, age 25) but have not attained the full retirement age under the Social Security Act. TITLE XVIII--CHILD CARE ACCESS AND REFUNDABILITY EXPANSION ACT\n\nAmends the Internal Revenue Code, with respect to the tax credit for dependent care expenses, to: (1) make such credit refundable, (2) deny such credit to nonresident aliens, and (3) allow an annual cost-of-living adjustment after 2015 to the amounts used to determine an income-based\u00a0reduction in the amount of such credit.\n\nDIVISION F--MISCELLANEOUS\n\nTITLE XIX--POVERTY IMPACT TRIGGER\n\nAmends Rule XXI (Restrictions on Certain Bills) of the Rules of the House of Representatives to make it out of order to consider a public bill or joint resolution authorizing an appropriation of $10 million or more, unless: (1) the accompanying committee report includes a Congressional Budget Office (CBO) Poverty Impact Division impact statement, or (2) the chair of the committee reporting the legislation submits such statement for publication in the Congressional Record before consideration of the measure.\n\nAmends the Congressional Budget Act of 1974 to establish the CBO Poverty Impact Division to prepare and submit poverty impact statements to the chairs of House committees.\n\nTITLE XX--HALF IN TEN ACT TO CREATE A NATIONAL STRATEGY TO REDUCE POVERTY\n\nEstablishes within HHS a Federal Interagency Working Group on Reducing Poverty, which shall develop a National Strategy to reduce the number of persons living in poverty in America by half within 10 years after release of the 2012 Census report on Income, Poverty and Health Insurance Coverage in the United States: 2011."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Pathways Out of Poverty Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": true, 
+      "title": "Fair Employment Opportunity Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": true, 
+      "title": "Pathways Back to Work Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": true, 
+      "title": "Supporting Unemployed Workers Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To strengthen and expand proven anti-poverty programs and initiatives.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2016-06-25T06:46:26-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR2721:@@@L&summ2=m&"
+}
